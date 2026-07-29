@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1856176031083966927",
+    "created_at": "2024-11-12T05:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T06:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856205794041311650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1520006097385693185",
+          "start": 0,
+          "username": "wowmanypeople"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856205794041311650",
+    "in_reply_to_user_id": "1520006097385693185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856176031083966927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wowmanypeople 世另我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1856176031083966927",
+        "created_at": "2024-11-12T05:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T06:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856205794041311650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520006097385693185",
+              "start": 0,
+              "username": "wowmanypeople"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856205794041311650",
+        "in_reply_to_user_id": "1520006097385693185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856176031083966927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wowmanypeople 世另我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520006097385693185",
+        "conversation_id": "1856176031083966927",
+        "created_at": "2024-11-12T03:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T04:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856176031083966927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856176031083966927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了一叠专辑也没舍得给自己买个CD机，碟子就放在哪儿生灰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 520,
+          "like_count": 1260,
+          "listed_count": 0,
+          "tweet_count": 914
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T11:44:48.000Z",
+        "description": "\"真實的做自己，不忘記看每天的月亮\"",
+        "id": "1520006097385693185",
+        "name": "new",
+        "pinned_tweet_id": "1621840926418288640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624967495366086657/vq9zPiO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 315,
+          "like_count": 36429,
+          "listed_count": 2,
+          "tweet_count": 6995
+        },
+        "username": "wowmanypeople",
+        "verified": false
+      }
+    ]
+  }
+}
