@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2049322738255569079",
+    "created_at": "2026-04-29T04:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T05:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049338221453320373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "909189799",
+          "start": 0,
+          "username": "BBBBBlabu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049338221453320373",
+    "in_reply_to_user_id": "909189799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049322738255569079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBBBBlabu 感兴趣了，这什么动画片？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2049322729665630208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCoKjPakAAZT_h.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049322729661444096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCoKjOasAARhUD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049322729665708032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCoKjPbwAAY0S_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2049322729657294848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCoKjNbYAAligZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2049322738255569079",
+        "created_at": "2026-04-29T04:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049338221453320373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "909189799",
+              "start": 0,
+              "username": "BBBBBlabu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049338221453320373",
+        "in_reply_to_user_id": "909189799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049322738255569079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBBBBlabu 感兴趣了，这什么动画片？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049322729665630208",
+            "3_2049322729661444096",
+            "3_2049322729665708032",
+            "3_2049322729657294848"
+          ]
+        },
+        "author_id": "909189799",
+        "conversation_id": "2049322738255569079",
+        "created_at": "2026-04-29T02:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049322738255569079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SR21FAxWzC",
+              "end": 45,
+              "expanded_url": "https://x.com/BBBBBlabu/status/2049322738255569079/photo/1",
+              "media_key": "3_2049322729665630208",
+              "start": 22,
+              "url": "https://t.co/SR21FAxWzC"
+            },
+            {
+              "display_url": "pic.x.com/SR21FAxWzC",
+              "end": 45,
+              "expanded_url": "https://x.com/BBBBBlabu/status/2049322738255569079/photo/1",
+              "media_key": "3_2049322729661444096",
+              "start": 22,
+              "url": "https://t.co/SR21FAxWzC"
+            },
+            {
+              "display_url": "pic.x.com/SR21FAxWzC",
+              "end": 45,
+              "expanded_url": "https://x.com/BBBBBlabu/status/2049322738255569079/photo/1",
+              "media_key": "3_2049322729665708032",
+              "start": 22,
+              "url": "https://t.co/SR21FAxWzC"
+            },
+            {
+              "display_url": "pic.x.com/SR21FAxWzC",
+              "end": 45,
+              "expanded_url": "https://x.com/BBBBBlabu/status/2049322738255569079/photo/1",
+              "media_key": "3_2049322729657294848",
+              "start": 22,
+              "url": "https://t.co/SR21FAxWzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049322738255569079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来多闻君还有重男属性…更喜欢了(✪ω✪) https://t.co/SR21FAxWzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 524,
+          "like_count": 18328,
+          "listed_count": 1,
+          "media_count": 950,
+          "tweet_count": 8002
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "和我在一起，你便不必羡慕旁人的幸福会不会降临在你身上。",
+        "id": "909189799",
+        "name": "BB喇布",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044407686717153280/5qWvOYBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 702,
+          "like_count": 26144,
+          "listed_count": 2,
+          "media_count": 736,
+          "tweet_count": 9829
+        },
+        "username": "BBBBBlabu",
+        "verified": true
+      }
+    ]
+  }
+}

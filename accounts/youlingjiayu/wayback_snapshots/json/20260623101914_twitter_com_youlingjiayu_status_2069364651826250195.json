@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069364648839872512"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069364651826250195",
+    "created_at": "2026-06-23T10:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069364651826250195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CPN5efcr5h",
+          "end": 30,
+          "expanded_url": "https://x.com/youlingjiayu/status/2069364651826250195/photo/1",
+          "media_key": "3_2069364648839872512",
+          "start": 7,
+          "url": "https://t.co/CPN5efcr5h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069364651826250195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽到了马鹿。 https://t.co/CPN5efcr5h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069364648839872512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfcLyTaAAAiCsU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069364648839872512"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069364651826250195",
+        "created_at": "2026-06-23T10:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069364651826250195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CPN5efcr5h",
+              "end": 30,
+              "expanded_url": "https://x.com/youlingjiayu/status/2069364651826250195/photo/1",
+              "media_key": "3_2069364648839872512",
+              "start": 7,
+              "url": "https://t.co/CPN5efcr5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069364651826250195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽到了马鹿。 https://t.co/CPN5efcr5h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 530,
+          "like_count": 19130,
+          "listed_count": 1,
+          "media_count": 1003,
+          "tweet_count": 8276
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

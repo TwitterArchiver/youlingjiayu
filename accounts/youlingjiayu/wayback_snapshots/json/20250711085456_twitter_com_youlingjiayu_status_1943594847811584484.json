@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1943593770873966694",
+    "created_at": "2025-07-11T08:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T09:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943594847811584484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1390992275627339778",
+          "start": 0,
+          "username": "dogehelpme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943594847811584484",
+    "in_reply_to_user_id": "1390992275627339778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943593919163638002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogehelpme 首页内容不太喜欢看。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1943593770873966694",
+        "created_at": "2025-07-11T08:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943594847811584484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390992275627339778",
+              "start": 0,
+              "username": "dogehelpme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943594847811584484",
+        "in_reply_to_user_id": "1390992275627339778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943593919163638002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogehelpme 首页内容不太喜欢看。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390992275627339778",
+        "conversation_id": "1943593770873966694",
+        "created_at": "2025-07-11T08:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943593919163638002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943593919163638002",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943593770873966694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 我关注过你了，你为什么没关注我？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 533,
+          "like_count": 11695,
+          "listed_count": 0,
+          "media_count": 527,
+          "tweet_count": 4957
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-08T11:30:01.000Z",
+        "description": "Dogecoin is money 精神美国人 买李币反共 初中学历 求包养 丑陋阳痿 彻底失败的废物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "li-dao.org",
+                "end": 23,
+                "expanded_url": "https://www.li-dao.org/",
+                "start": 0,
+                "url": "https://t.co/AH1YMjLIly"
+              }
+            ]
+          }
+        },
+        "id": "1390992275627339778",
+        "name": "Dogehelpme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1494212913782923264/mPsyUdUE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 1969,
+          "like_count": 17109,
+          "listed_count": 2,
+          "media_count": 1085,
+          "tweet_count": 7257
+        },
+        "url": "https://t.co/AH1YMjLIly",
+        "username": "dogehelpme",
+        "verified": true
+      }
+    ]
+  }
+}

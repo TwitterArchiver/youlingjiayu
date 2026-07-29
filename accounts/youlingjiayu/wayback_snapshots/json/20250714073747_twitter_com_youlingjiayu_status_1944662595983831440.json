@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1944645403044958359",
+    "created_at": "2025-07-14T07:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T08:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944662595983831440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "Cypress_7593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944662595983831440",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944647048265150924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cypress_7593 🥺谢谢泥柏树咪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1944645403044958359",
+        "created_at": "2025-07-14T07:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T08:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944662595983831440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944662595983831440",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944647048265150924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_7593 🥺谢谢泥柏树咪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692136120027320320",
+        "conversation_id": "1944645403044958359",
+        "created_at": "2025-07-14T06:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T07:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944647048265150924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944647048265150924",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944645403044958359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 祝好哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 535,
+          "like_count": 11841,
+          "listed_count": 0,
+          "media_count": 533,
+          "tweet_count": 5001
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "【⚠️本账号随时可能被某🦊夺舍】你好我是柏树七代目|精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性精神病&阿斯伯格|INFJ 5w6|无性恋&泛浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|第二人格\n@theDarkCypress|逃生舱@Cypress_1118",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Cypress_1118"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANITY】",
+        "pinned_tweet_id": "1940655533679432057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 994,
+          "like_count": 19501,
+          "listed_count": 5,
+          "media_count": 735,
+          "tweet_count": 5357
+        },
+        "username": "Cypress_7593",
+        "verified": true
+      }
+    ]
+  }
+}

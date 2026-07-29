@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1854457216088314173",
+    "created_at": "2024-11-27T05:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T06:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861641172202217476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1745195842921996288",
+          "start": 0,
+          "username": "kakakaknabi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861641172202217476",
+    "in_reply_to_user_id": "1745195842921996288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861640194736398674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakakaknabi 62.一般。我看过那本很著名的《何以笙箫默》，感觉比较理想化（？）。\n因为我本人不会等待任何人，何以琛那种近乎无望的等待只会蚕食我的精力和情感；虽然我知道他后面打算去找赵默笙，但是如果是我的话我会第一时间去找。\n一切被我敲定为“结束”的关系都会毫不犹豫地割舍，我只会不断向前向前向前。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1854457216088314173",
+        "created_at": "2024-11-27T05:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T06:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861641172202217476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745195842921996288",
+              "start": 0,
+              "username": "kakakaknabi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861641172202217476",
+        "in_reply_to_user_id": "1745195842921996288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861640194736398674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakakaknabi 62.一般。我看过那本很著名的《何以笙箫默》，感觉比较理想化（？）。\n因为我本人不会等待任何人，何以琛那种近乎无望的等待只会蚕食我的精力和情感；虽然我知道他后面打算去找赵默笙，但是如果是我的话我会第一时间去找。\n一切被我敲定为“结束”的关系都会毫不犹豫地割舍，我只会不断向前向前向前。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745195842921996288",
+        "conversation_id": "1854457216088314173",
+        "created_at": "2024-11-27T05:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T06:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861640194736398674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861640194736398674",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854457216088314173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 62"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 520,
+          "like_count": 1853,
+          "listed_count": 0,
+          "tweet_count": 1284
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T21:28:21.000Z",
+        "description": "不要丢下。",
+        "id": "1745195842921996288",
+        "name": "kakakakanabi",
+        "pinned_tweet_id": "1861402964390486373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860564700045672448/iASQ3rhQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 59,
+          "like_count": 14,
+          "listed_count": 0,
+          "tweet_count": 30
+        },
+        "username": "kakakaknabi",
+        "verified": false
+      }
+    ]
+  }
+}

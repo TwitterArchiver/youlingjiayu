@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926631514365624320",
+        "3_1926631514906775552",
+        "3_1926631514978000896",
+        "3_1926631515376566273"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1926631671899488279",
+    "created_at": "2025-05-25T13:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T14:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926631671899488279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7DhDqt3Vk4",
+          "end": 159,
+          "expanded_url": "https://x.com/youlingjiayu/status/1926631671899488279/photo/1",
+          "media_key": "3_1926631514365624320",
+          "start": 136,
+          "url": "https://t.co/7DhDqt3Vk4"
+        },
+        {
+          "display_url": "pic.x.com/7DhDqt3Vk4",
+          "end": 159,
+          "expanded_url": "https://x.com/youlingjiayu/status/1926631671899488279/photo/1",
+          "media_key": "3_1926631514906775552",
+          "start": 136,
+          "url": "https://t.co/7DhDqt3Vk4"
+        },
+        {
+          "display_url": "pic.x.com/7DhDqt3Vk4",
+          "end": 159,
+          "expanded_url": "https://x.com/youlingjiayu/status/1926631671899488279/photo/1",
+          "media_key": "3_1926631514978000896",
+          "start": 136,
+          "url": "https://t.co/7DhDqt3Vk4"
+        },
+        {
+          "display_url": "pic.x.com/7DhDqt3Vk4",
+          "end": 159,
+          "expanded_url": "https://x.com/youlingjiayu/status/1926631671899488279/photo/1",
+          "media_key": "3_1926631515376566273",
+          "start": 136,
+          "url": "https://t.co/7DhDqt3Vk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926631671899488279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日和牛蛙。\n看了达利展，顺便把六朝博物馆的其他馆也逛了。\n冰沙还可以，同店的甜甜圈真好吃（王伟恒语气）。\n旧书店很神秘地有杰洛特手办。\nKTV的饭居然还蛮好吃，爽唱四小时。\n每次和牛蛙一起出去玩都报复性说话来平衡我工作日的沉默，顺便一起把下周去宣城的旅行大概规划好了。 https://t.co/7DhDqt3Vk4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926631514365624320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrzFJ5LWAAAGojh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926631514906775552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrzFJ7MXUAAQ64b.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1926631514978000896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrzFJ7dWIAAGA7B.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926631515376566273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrzFJ88XwAEAIYq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926631514365624320",
+            "3_1926631514906775552",
+            "3_1926631514978000896",
+            "3_1926631515376566273"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1926631671899488279",
+        "created_at": "2025-05-25T13:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T14:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926631671899488279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DhDqt3Vk4",
+              "end": 159,
+              "expanded_url": "https://x.com/youlingjiayu/status/1926631671899488279/photo/1",
+              "media_key": "3_1926631514365624320",
+              "start": 136,
+              "url": "https://t.co/7DhDqt3Vk4"
+            },
+            {
+              "display_url": "pic.x.com/7DhDqt3Vk4",
+              "end": 159,
+              "expanded_url": "https://x.com/youlingjiayu/status/1926631671899488279/photo/1",
+              "media_key": "3_1926631514906775552",
+              "start": 136,
+              "url": "https://t.co/7DhDqt3Vk4"
+            },
+            {
+              "display_url": "pic.x.com/7DhDqt3Vk4",
+              "end": 159,
+              "expanded_url": "https://x.com/youlingjiayu/status/1926631671899488279/photo/1",
+              "media_key": "3_1926631514978000896",
+              "start": 136,
+              "url": "https://t.co/7DhDqt3Vk4"
+            },
+            {
+              "display_url": "pic.x.com/7DhDqt3Vk4",
+              "end": 159,
+              "expanded_url": "https://x.com/youlingjiayu/status/1926631671899488279/photo/1",
+              "media_key": "3_1926631515376566273",
+              "start": 136,
+              "url": "https://t.co/7DhDqt3Vk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926631671899488279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日和牛蛙。\n看了达利展，顺便把六朝博物馆的其他馆也逛了。\n冰沙还可以，同店的甜甜圈真好吃（王伟恒语气）。\n旧书店很神秘地有杰洛特手办。\nKTV的饭居然还蛮好吃，爽唱四小时。\n每次和牛蛙一起出去玩都报复性说话来平衡我工作日的沉默，顺便一起把下周去宣城的旅行大概规划好了。 https://t.co/7DhDqt3Vk4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 522,
+          "like_count": 10367,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 4500
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

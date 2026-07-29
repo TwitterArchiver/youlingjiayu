@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1999192797031596152",
+    "created_at": "2025-12-11T19:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T20:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999195610550071340"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999195610550071340",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999194074885025918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "某些事是幻觉，有些事从未发生过，我不应该相信；建之于上的所有事情通通没有必要了，我应该给自己找更多的理由跑路远离。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1999192797031596152",
+        "created_at": "2025-12-11T19:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T20:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999195610550071340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999195610550071340",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999194074885025918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某些事是幻觉，有些事从未发生过，我不应该相信；建之于上的所有事情通通没有必要了，我应该给自己找更多的理由跑路远离。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1999192797031596152",
+        "created_at": "2025-12-11T19:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T20:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999194074885025918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999194074885025918",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999193128356708664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我该反复告诉自己我得到的比失去的多然后重新睡觉了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 511,
+          "like_count": 15343,
+          "listed_count": 1,
+          "media_count": 724,
+          "tweet_count": 6676
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

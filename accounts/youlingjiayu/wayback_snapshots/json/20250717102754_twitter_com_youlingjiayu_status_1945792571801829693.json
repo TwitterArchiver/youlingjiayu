@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1945777234272465023",
+    "created_at": "2025-07-17T10:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T11:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945792571801829693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759076490061426688",
+          "start": 0,
+          "username": "ScarletC33832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945792571801829693",
+    "in_reply_to_user_id": "1759076490061426688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945779581832851508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletC33832 B站发声明了喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1945777234272465023",
+        "created_at": "2025-07-17T10:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T11:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945792571801829693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759076490061426688",
+              "start": 0,
+              "username": "ScarletC33832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945792571801829693",
+        "in_reply_to_user_id": "1759076490061426688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945779581832851508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletC33832 B站发声明了喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759076490061426688",
+        "conversation_id": "1945777234272465023",
+        "created_at": "2025-07-17T09:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945779581832851508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945779581832851508",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945777234272465023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 什么！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 534,
+          "like_count": 11950,
+          "listed_count": 0,
+          "media_count": 538,
+          "tweet_count": 5046
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T04:45:26.000Z",
+        "description": "放弃控制欲 痛饮随机性",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flowus.cn/share/9edbf4b9…",
+                "end": 23,
+                "expanded_url": "https://flowus.cn/share/9edbf4b9-2ccc-4538-95a0-7fa04d8784d4",
+                "start": 0,
+                "url": "https://t.co/0yjJgHyV4c"
+              }
+            ]
+          }
+        },
+        "id": "1759076490061426688",
+        "location": "you've raised my standard",
+        "name": "Arthur",
+        "pinned_tweet_id": "1942202630463451531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875882829386788864/g4V5PRdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 507,
+          "like_count": 8696,
+          "listed_count": 0,
+          "media_count": 430,
+          "tweet_count": 3396
+        },
+        "url": "https://t.co/0yjJgHyV4c",
+        "username": "ScarletC33832",
+        "verified": false
+      }
+    ]
+  }
+}

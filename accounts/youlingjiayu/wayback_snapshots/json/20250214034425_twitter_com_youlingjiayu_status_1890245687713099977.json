@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890245683980161024"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1890245687713099977",
+    "created_at": "2025-02-14T03:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T04:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890245687713099977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6UBSgg1CrL",
+          "end": 90,
+          "expanded_url": "https://x.com/youlingjiayu/status/1890245687713099977/photo/1",
+          "media_key": "3_1890245683980161024",
+          "start": 67,
+          "url": "https://t.co/6UBSgg1CrL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890245687713099977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近什么好日子，匹诺曹要出DLC，潜水员戴夫也要出DLC了。\n我会哭着求朋友把戴夫和匹诺曹的DLC加入我们的家庭库让我白嫖（目移）。 https://t.co/6UBSgg1CrL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_1890245683980161024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjuAb0PaUAAHdXY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890245683980161024"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1890245687713099977",
+        "created_at": "2025-02-14T03:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T04:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890245687713099977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UBSgg1CrL",
+              "end": 90,
+              "expanded_url": "https://x.com/youlingjiayu/status/1890245687713099977/photo/1",
+              "media_key": "3_1890245683980161024",
+              "start": 67,
+              "url": "https://t.co/6UBSgg1CrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890245687713099977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近什么好日子，匹诺曹要出DLC，潜水员戴夫也要出DLC了。\n我会哭着求朋友把戴夫和匹诺曹的DLC加入我们的家庭库让我白嫖（目移）。 https://t.co/6UBSgg1CrL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 497,
+          "like_count": 5488,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 2721
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

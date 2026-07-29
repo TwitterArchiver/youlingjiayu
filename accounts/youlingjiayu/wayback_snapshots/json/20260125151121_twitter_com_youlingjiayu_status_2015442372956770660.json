@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2015442372956770660",
+    "created_at": "2026-01-25T15:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015442372956770660"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 127,
+          "tag": "甲鱼不正经影评"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015442372956770660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "甲鱼不正经影评43\n《美国精神病人》\n讽刺意味很足，最好笑的是帕特里克特地找了两个金发的妓女搞3p，但做爱的时候一直盯着镜子里的自己。感觉杀人是他的幻觉，或者他真杀了人都可以解释。此作甚至可以和《地狱客栈》Vox联动，虽然动机不同，但是都杀了自己同事。\n#甲鱼不正经影评"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2015442372956770660",
+        "created_at": "2026-01-25T15:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015442372956770660"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 127,
+              "tag": "甲鱼不正经影评"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015442372956770660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经影评43\n《美国精神病人》\n讽刺意味很足，最好笑的是帕特里克特地找了两个金发的妓女搞3p，但做爱的时候一直盯着镜子里的自己。感觉杀人是他的幻觉，或者他真杀了人都可以解释。此作甚至可以和《地狱客栈》Vox联动，虽然动机不同，但是都杀了自己同事。\n#甲鱼不正经影评"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 521,
+          "like_count": 16891,
+          "listed_count": 1,
+          "media_count": 810,
+          "tweet_count": 7310
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1876656394679783749",
+    "created_at": "2025-01-09T09:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T10:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877290849299505348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766035551805992960",
+          "start": 0,
+          "username": "only1_theevan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877290849299505348",
+    "in_reply_to_user_id": "1766035551805992960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876656394679783749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@only1_theevan 《浮士德》，歌德写得太厉害了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1876656394679783749",
+        "created_at": "2025-01-09T09:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T10:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877290849299505348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766035551805992960",
+              "start": 0,
+              "username": "only1_theevan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877290849299505348",
+        "in_reply_to_user_id": "1766035551805992960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876656394679783749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@only1_theevan 《浮士德》，歌德写得太厉害了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766035551805992960",
+        "conversation_id": "1876656394679783749",
+        "created_at": "2025-01-07T15:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T16:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876656394679783749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876656394679783749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1236,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请各位给我推荐一本你们自己觉得这辈子一定要读的人生书籍！我今年的目标是半年读完50本并作读书笔记！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 518,
+          "like_count": 3562,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2146
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T09:37:51.000Z",
+        "description": "在美梦中永眠吧",
+        "id": "1766035551805992960",
+        "name": "江月年年",
+        "pinned_tweet_id": "1875891286622040201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865371770485874688/Pwg7hX6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 43,
+          "like_count": 2374,
+          "listed_count": 0,
+          "media_count": 492,
+          "tweet_count": 3268
+        },
+        "username": "only1_theevan",
+        "verified": false
+      }
+    ]
+  }
+}

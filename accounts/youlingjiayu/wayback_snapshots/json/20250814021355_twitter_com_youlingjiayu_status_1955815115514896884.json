@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1955185506637189563",
+    "created_at": "2025-08-14T02:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T03:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955815115514896884"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955815115514896884",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955802155698545005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但其实我现在既不独特也没什么用没有价值，没有任何人真的需要我；人与人的情感连接无比脆弱，所以我选择技巧性地维护。\n友情的联系无法治愈我。我对大部分事没什么情绪，厌倦又无聊。能产生剧烈的情绪波动是一种难得的实感，哪怕是负面的。\n我早该放弃被理解或者被拯救的奢望，袒露可能只能换来失望。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955185506637189563",
+        "created_at": "2025-08-14T02:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955815115514896884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955815115514896884",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955802155698545005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但其实我现在既不独特也没什么用没有价值，没有任何人真的需要我；人与人的情感连接无比脆弱，所以我选择技巧性地维护。\n友情的联系无法治愈我。我对大部分事没什么情绪，厌倦又无聊。能产生剧烈的情绪波动是一种难得的实感，哪怕是负面的。\n我早该放弃被理解或者被拯救的奢望，袒露可能只能换来失望。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955185506637189563",
+        "created_at": "2025-08-14T01:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T02:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955802155698545005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955802155698545005",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955800856953319554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到眼泪，上学时班上总会有女生哭；在她们那里眼泪大概是一种要挟别人妥协的武器，这时就会有一大堆人跑去安慰，最后大家其乐融融无事发生，像一种集体调情。\n我的情况大概是最近流行的那个“哭也没用”的梗图，但我不是“其实有用”而是“真的没用”。除了会被说哭起来丑死了还会被说情绪化，何必呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 538,
+          "like_count": 13453,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 5543
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

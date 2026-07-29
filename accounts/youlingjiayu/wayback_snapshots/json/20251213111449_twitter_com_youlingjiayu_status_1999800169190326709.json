@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1999782933239038416",
+    "created_at": "2025-12-13T11:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T12:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999800169190326709"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999800169190326709",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999784567604216053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得生命如此轻贱，所以生命变成工具或者某种伟业的一部分才有价值；而在夙愿达成之后的死亡才是解脱。\n于是华容吊着一口气最后又迅速衰败，啵酱会在蛇井里向上爬哪怕只是抓着一根蜘蛛丝；我的蜘蛛丝又在哪里……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1999782933239038416",
+        "created_at": "2025-12-13T11:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999800169190326709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999800169190326709",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999784567604216053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得生命如此轻贱，所以生命变成工具或者某种伟业的一部分才有价值；而在夙愿达成之后的死亡才是解脱。\n于是华容吊着一口气最后又迅速衰败，啵酱会在蛇井里向上爬哪怕只是抓着一根蜘蛛丝；我的蜘蛛丝又在哪里……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1999782933239038416",
+        "created_at": "2025-12-13T10:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999784567604216053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999784567604216053",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999782933239038416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是殿前欢的《一受封疆》，我很喜欢里面的受的塑造，是不惜用自己的全部乃至生命精心布局复仇的那种苦大仇深的角色……同理会喜欢《黑执事》的啵酱，但喜欢384大概是因为我想要一条那样的狗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 515,
+          "like_count": 15401,
+          "listed_count": 1,
+          "media_count": 728,
+          "tweet_count": 6716
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

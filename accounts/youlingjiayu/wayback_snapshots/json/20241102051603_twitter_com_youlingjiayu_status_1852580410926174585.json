@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1852580324557062270",
+    "created_at": "2024-11-02T05:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T06:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852580410926174585"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1852580410926174585",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852580324557062270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也可能是喝咖啡喝饱了，我现在一点食欲都没有……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1852580324557062270",
+        "created_at": "2024-11-02T05:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T06:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852580410926174585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852580410926174585",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852580324557062270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也可能是喝咖啡喝饱了，我现在一点食欲都没有……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1852580324557062270",
+        "created_at": "2024-11-02T05:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T06:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852580324557062270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852580324557062270",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完全想不到今天应该吃什么（烦躁地看美团）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼（意思是我是ftx）\n00后/intj/无业游民/臭搞同人的，把这边当日记本和垃圾桶\n不加lxfs，除非你是女的或者长得好看的男的，害怕性器官\n泛性恋（偏好非二元或者酷儿的1i/4i）/switch",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 500,
+          "like_count": 790,
+          "listed_count": 0,
+          "tweet_count": 626
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

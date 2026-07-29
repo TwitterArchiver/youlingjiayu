@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2046905568674369583",
+    "created_at": "2026-04-22T10:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046905568674369583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BBBBBlabu/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/BBBBBlabu/status/2046830033512362237",
+          "start": 18,
+          "url": "https://t.co/ASq6YTItkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046905568674369583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046830033512362237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而我经常进行延迟性满足来调教自己。 https://t.co/ASq6YTItkt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2046905568674369583",
+        "created_at": "2026-04-22T10:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046905568674369583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BBBBBlabu/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/BBBBBlabu/status/2046830033512362237",
+              "start": 18,
+              "url": "https://t.co/ASq6YTItkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046905568674369583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046830033512362237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而我经常进行延迟性满足来调教自己。 https://t.co/ASq6YTItkt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909189799",
+        "conversation_id": "2046830033512362237",
+        "created_at": "2026-04-22T05:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046830033512362237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046830033512362237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人理解不了完成自己设立的目标再奖励自己这件事，我只会时时刻刻满足自己）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 524,
+          "like_count": 18219,
+          "listed_count": 1,
+          "media_count": 949,
+          "tweet_count": 7951
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "和我在一起，你便不必羡慕旁人的幸福会不会降临在你身上。",
+        "id": "909189799",
+        "name": "BB喇布",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044407686717153280/5qWvOYBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 696,
+          "like_count": 25313,
+          "listed_count": 2,
+          "media_count": 715,
+          "tweet_count": 9383
+        },
+        "username": "BBBBBlabu",
+        "verified": true
+      }
+    ]
+  }
+}

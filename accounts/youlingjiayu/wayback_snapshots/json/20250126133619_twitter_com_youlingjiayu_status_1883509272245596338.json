@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1883483243904975024",
+    "created_at": "2025-01-26T13:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T14:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883509272245596338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "835869741419909120",
+          "start": 0,
+          "username": "YoiteTc_404"
+        },
+        {
+          "end": 25,
+          "id": "1651352228936941568",
+          "start": 13,
+          "username": "Arockandrew"
+        },
+        {
+          "end": 36,
+          "id": "1364131540381298690",
+          "start": 26,
+          "username": "MasonLuo6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883509272245596338",
+    "in_reply_to_user_id": "835869741419909120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883483243904975024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoiteTc_404 @Arockandrew @MasonLuo6 嫉妒a老师😐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1883483243904975024",
+        "created_at": "2025-01-26T13:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T14:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883509272245596338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "835869741419909120",
+              "start": 0,
+              "username": "YoiteTc_404"
+            },
+            {
+              "end": 25,
+              "id": "1651352228936941568",
+              "start": 13,
+              "username": "Arockandrew"
+            },
+            {
+              "end": 36,
+              "id": "1364131540381298690",
+              "start": 26,
+              "username": "MasonLuo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883509272245596338",
+        "in_reply_to_user_id": "835869741419909120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883483243904975024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoiteTc_404 @Arockandrew @MasonLuo6 嫉妒a老师😐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883482962265825280"
+          ]
+        },
+        "author_id": "835869741419909120",
+        "conversation_id": "1883483243904975024",
+        "created_at": "2025-01-26T11:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T12:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883483243904975024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1651352228936941568",
+              "start": 6,
+              "username": "Arockandrew"
+            },
+            {
+              "end": 29,
+              "id": "1364131540381298690",
+              "start": 19,
+              "username": "MasonLuo6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xrYO9R7iz",
+              "end": 53,
+              "expanded_url": "https://x.com/YoiteTc_404/status/1883483243904975024/video/1",
+              "media_key": "7_1883482962265825280",
+              "start": 30,
+              "url": "https://t.co/2xrYO9R7iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883483243904975024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开奖，中奖者@Arockandrew @MasonLuo6 https://t.co/2xrYO9R7iz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 528,
+          "like_count": 4447,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2436
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-26T15:10:50.000Z",
+        "description": "西西弗斯推石点，请注意安全 ⚠️🚧   ᐉ提问箱➜ https://t.co/yoYf6fBDzC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tc11142",
+                "end": 49,
+                "expanded_url": "https://ngl.link/tc11142",
+                "start": 26,
+                "url": "https://t.co/yoYf6fBDzC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "right-slouch-c6e.notion.site/Tc-s-Home-a8ff…",
+                "end": 23,
+                "expanded_url": "https://right-slouch-c6e.notion.site/Tc-s-Home-a8ff53ffb567472399789bb0a3f5c488?pvs=4",
+                "start": 0,
+                "url": "https://t.co/mVKWX8VsP3"
+              }
+            ]
+          }
+        },
+        "id": "835869741419909120",
+        "location": "ᵕ̈",
+        "name": "烤虚拟鱼",
+        "pinned_tweet_id": "1787702396183011387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832091806822969349/CFE2O-rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 1181,
+          "like_count": 9271,
+          "listed_count": 3,
+          "media_count": 2339,
+          "tweet_count": 7835
+        },
+        "url": "https://t.co/mVKWX8VsP3",
+        "username": "YoiteTc_404",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T22:27:15.000Z",
+        "description": "码农 | 虚无主义 | 世间牵扯无一不让人心痛，就像万有引力无处不在。我对你也痛，你对我也有引力。 | 提问箱可提问任何问题，和我无关也可以：https://t.co/m5p4oKQQtW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/arockandrew",
+                "end": 94,
+                "expanded_url": "https://ngl.link/arockandrew",
+                "start": 71,
+                "url": "https://t.co/m5p4oKQQtW"
+              }
+            ]
+          }
+        },
+        "id": "1651352228936941568",
+        "location": "England, United Kingdom",
+        "name": "andrsonrobot",
+        "pinned_tweet_id": "1877239299684311421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651352531103109120/e2SjJj8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 513,
+          "like_count": 25901,
+          "listed_count": 6,
+          "media_count": 714,
+          "tweet_count": 9846
+        },
+        "username": "Arockandrew",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-23T08:34:53.000Z",
+        "description": "♂ 非典型intp和非典型文艺青年  轻度宅，中间派\n电影口味：法国3p片，日本家庭片，俄国写意诗\n（尤爱小津安二郎和库布里克）",
+        "id": "1364131540381298690",
+        "name": "Mason Luo",
+        "pinned_tweet_id": "1882674580311203892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780955770496135168/m9cXqseS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 133,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 194
+        },
+        "username": "MasonLuo6",
+        "verified": false
+      }
+    ]
+  }
+}

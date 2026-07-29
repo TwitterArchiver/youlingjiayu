@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079377853364523009"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "2079377860440240493",
+    "created_at": "2026-07-21T01:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079377860440240493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uitxkqh9GE",
+          "end": 52,
+          "expanded_url": "https://x.com/youlingjiayu/status/2079377860440240493/photo/1",
+          "media_key": "3_2079377853364523009",
+          "start": 29,
+          "url": "https://t.co/uitxkqh9GE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079377860440240493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前几天扔垃圾的奇遇，怎么会有这种东西出现在垃圾桶旁边…… https://t.co/uitxkqh9GE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079377853364523009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtvI_-bUAEiPHf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079377853364523009"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "2079377860440240493",
+        "created_at": "2026-07-21T01:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079377860440240493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uitxkqh9GE",
+              "end": 52,
+              "expanded_url": "https://x.com/youlingjiayu/status/2079377860440240493/photo/1",
+              "media_key": "3_2079377853364523009",
+              "start": 29,
+              "url": "https://t.co/uitxkqh9GE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079377860440240493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天扔垃圾的奇遇，怎么会有这种东西出现在垃圾桶旁边…… https://t.co/uitxkqh9GE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 539,
+          "like_count": 19318,
+          "listed_count": 1,
+          "media_count": 1010,
+          "tweet_count": 8386
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

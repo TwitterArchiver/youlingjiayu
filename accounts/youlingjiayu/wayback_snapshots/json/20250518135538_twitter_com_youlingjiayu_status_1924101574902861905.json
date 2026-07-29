@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924101556401528833"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1924099624455057470",
+    "created_at": "2025-05-18T13:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T14:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924101574902861905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aaHmaF8WLy",
+          "end": 92,
+          "expanded_url": "https://x.com/youlingjiayu/status/1924101574902861905/photo/1",
+          "media_key": "3_1924101556401528833",
+          "start": 69,
+          "url": "https://t.co/aaHmaF8WLy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924101574902861905",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924100428821901763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "KTV免费升到了中包，然后我俩一人一张桌，一次点两首地唱歌，他唱歌还蛮好听（和我对比）。\n但是发现歌单里有这首歌的时候我爆发出惊天大叫。 https://t.co/aaHmaF8WLy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1924101556401528833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPIK9UW4AEDoGT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1924100386375299072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPHG2oXcAAxIUg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1924100386589216768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPHG3bXkAAmBVf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1924100386773684224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPHG4HWUAAxAup.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1924100386983493632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPHG45XwAA506n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924101556401528833"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1924099624455057470",
+        "created_at": "2025-05-18T13:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T14:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924101574902861905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aaHmaF8WLy",
+              "end": 92,
+              "expanded_url": "https://x.com/youlingjiayu/status/1924101574902861905/photo/1",
+              "media_key": "3_1924101556401528833",
+              "start": 69,
+              "url": "https://t.co/aaHmaF8WLy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924101574902861905",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924100428821901763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "KTV免费升到了中包，然后我俩一人一张桌，一次点两首地唱歌，他唱歌还蛮好听（和我对比）。\n但是发现歌单里有这首歌的时候我爆发出惊天大叫。 https://t.co/aaHmaF8WLy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924100386375299072",
+            "3_1924100386589216768",
+            "3_1924100386773684224",
+            "3_1924100386983493632"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "1924099624455057470",
+        "created_at": "2025-05-18T13:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T14:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924100428821901763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KhSWGDDIK",
+              "end": 49,
+              "expanded_url": "https://x.com/youlingjiayu/status/1924100428821901763/photo/1",
+              "media_key": "3_1924100386375299072",
+              "start": 26,
+              "url": "https://t.co/3KhSWGDDIK"
+            },
+            {
+              "display_url": "pic.x.com/3KhSWGDDIK",
+              "end": 49,
+              "expanded_url": "https://x.com/youlingjiayu/status/1924100428821901763/photo/1",
+              "media_key": "3_1924100386589216768",
+              "start": 26,
+              "url": "https://t.co/3KhSWGDDIK"
+            },
+            {
+              "display_url": "pic.x.com/3KhSWGDDIK",
+              "end": 49,
+              "expanded_url": "https://x.com/youlingjiayu/status/1924100428821901763/photo/1",
+              "media_key": "3_1924100386773684224",
+              "start": 26,
+              "url": "https://t.co/3KhSWGDDIK"
+            },
+            {
+              "display_url": "pic.x.com/3KhSWGDDIK",
+              "end": 49,
+              "expanded_url": "https://x.com/youlingjiayu/status/1924100428821901763/photo/1",
+              "media_key": "3_1924100386983493632",
+              "start": 26,
+              "url": "https://t.co/3KhSWGDDIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924100428821901763",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924099815451009075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其他还有一些动物，麻雀们在鹦鹉食店里开自助好好笑。 https://t.co/3KhSWGDDIK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 514,
+          "like_count": 10099,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 4404
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

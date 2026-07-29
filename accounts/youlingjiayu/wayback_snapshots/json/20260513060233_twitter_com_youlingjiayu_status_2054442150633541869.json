@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054442146808336384"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "2054442150633541869",
+    "created_at": "2026-05-13T06:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054442150633541869"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zBxmwdLEqa",
+          "end": 64,
+          "expanded_url": "https://x.com/youlingjiayu/status/2054442150633541869/photo/1",
+          "media_key": "3_2054442146808336384",
+          "start": 41,
+          "url": "https://t.co/zBxmwdLEqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054442150633541869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "总之是给自设约到了很完美的色图忍不住想发出来……\n大概保留一段时间之后就会删除。 https://t.co/zBxmwdLEqa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054442150633541869].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054442150633541869",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054442150633541869"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2054442146808336384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILYP2QaEAAqRXF.jpg",
+        "width": 672
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 524,
+          "like_count": 18477,
+          "listed_count": 1,
+          "media_count": 958,
+          "tweet_count": 8062
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

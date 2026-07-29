@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015431647404195840"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "2015431650256331036",
+    "created_at": "2026-01-25T14:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T15:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015431650256331036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0jgmsdRzFr",
+          "end": 32,
+          "expanded_url": "https://x.com/youlingjiayu/status/2015431650256331036/photo/1",
+          "media_key": "3_2015431647404195840",
+          "start": 9,
+          "url": "https://t.co/0jgmsdRzFr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015431650256331036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "们妮姬玩家日常。 https://t.co/0jgmsdRzFr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 493,
+        "media_key": "3_2015431647404195840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hAZ7SbgAAtQFM.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015431647404195840"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "2015431650256331036",
+        "created_at": "2026-01-25T14:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015431650256331036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jgmsdRzFr",
+              "end": 32,
+              "expanded_url": "https://x.com/youlingjiayu/status/2015431650256331036/photo/1",
+              "media_key": "3_2015431647404195840",
+              "start": 9,
+              "url": "https://t.co/0jgmsdRzFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015431650256331036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "们妮姬玩家日常。 https://t.co/0jgmsdRzFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 521,
+          "like_count": 16879,
+          "listed_count": 1,
+          "media_count": 810,
+          "tweet_count": 7298
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

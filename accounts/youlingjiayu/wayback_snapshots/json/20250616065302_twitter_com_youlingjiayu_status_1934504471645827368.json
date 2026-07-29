@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1934504471645827368",
+    "created_at": "2025-06-16T06:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T07:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934504471645827368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260660356591915011",
+          "start": 3,
+          "username": "alleysgogo2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934504471645827368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934185337057841575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alleysgogo2020: 转发本条抽奖送2箱4.5斤桂味，运费由中奖者承担\n\n本次台风对桂味荔枝影响不大，连续下雨丝毫不影响桂味口感，依然肉质坚挺甜度拉满。当天摘当天发，果园直发，顺丰冷链速配，新鲜速达，不过夜不泡水不添加任何保鲜剂。送礼佳品，量大有优惠。下单👇👇…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1934185313821458432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtebS5AbAAA7jfj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1934185313800523776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtebS47bkAAs7RQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934185313808838656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtebS49acAAnW5r.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1023,
+        "media_key": "3_1934185314081464320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtebS5-aYAAPtMY.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1934504471645827368",
+        "created_at": "2025-06-16T06:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T07:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934504471645827368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260660356591915011",
+              "start": 3,
+              "username": "alleysgogo2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934504471645827368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934185337057841575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alleysgogo2020: 转发本条抽奖送2箱4.5斤桂味，运费由中奖者承担\n\n本次台风对桂味荔枝影响不大，连续下雨丝毫不影响桂味口感，依然肉质坚挺甜度拉满。当天摘当天发，果园直发，顺丰冷链速配，新鲜速达，不过夜不泡水不添加任何保鲜剂。送礼佳品，量大有优惠。下单👇👇…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934185313821458432",
+            "3_1934185313800523776",
+            "3_1934185313808838656",
+            "3_1934185314081464320"
+          ]
+        },
+        "author_id": "1260660356591915011",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1934185337057841575",
+        "created_at": "2025-06-15T09:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T10:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934185337057841575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnqGTkksxt",
+              "end": 144,
+              "expanded_url": "https://x.com/alleysgogo2020/status/1934185337057841575/photo/1",
+              "media_key": "3_1934185313821458432",
+              "start": 121,
+              "url": "https://t.co/lnqGTkksxt"
+            },
+            {
+              "display_url": "pic.x.com/lnqGTkksxt",
+              "end": 144,
+              "expanded_url": "https://x.com/alleysgogo2020/status/1934185337057841575/photo/1",
+              "media_key": "3_1934185313800523776",
+              "start": 121,
+              "url": "https://t.co/lnqGTkksxt"
+            },
+            {
+              "display_url": "pic.x.com/lnqGTkksxt",
+              "end": 144,
+              "expanded_url": "https://x.com/alleysgogo2020/status/1934185337057841575/photo/1",
+              "media_key": "3_1934185313808838656",
+              "start": 121,
+              "url": "https://t.co/lnqGTkksxt"
+            },
+            {
+              "display_url": "pic.x.com/lnqGTkksxt",
+              "end": 144,
+              "expanded_url": "https://x.com/alleysgogo2020/status/1934185337057841575/photo/1",
+              "media_key": "3_1934185314081464320",
+              "start": 121,
+              "url": "https://t.co/lnqGTkksxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934185337057841575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "e.tb.cn/h.6vGxO5vaFmbm…",
+                "end": 148,
+                "expanded_url": "https://e.tb.cn/h.6vGxO5vaFmbm35u?tk=Q4hlVlueKrA",
+                "start": 125,
+                "url": "https://t.co/UvRElyjBmX"
+              },
+              {
+                "display_url": "k.youshop10.com/7GzE0Waz",
+                "end": 184,
+                "expanded_url": "https://k.youshop10.com/7GzE0Waz",
+                "start": 161,
+                "url": "https://t.co/tToj3p8pEP"
+              }
+            ]
+          },
+          "text": "转发本条抽奖送2箱4.5斤桂味，运费由中奖者承担\n\n本次台风对桂味荔枝影响不大，连续下雨丝毫不影响桂味口感，依然肉质坚挺甜度拉满。当天摘当天发，果园直发，顺丰冷链速配，新鲜速达，不过夜不泡水不添加任何保鲜剂。送礼佳品，量大有优惠。下单👇👇👇\n\n淘宝：https://t.co/UvRElyjBmX（风云百货商店）\n\n微店：https://t.co/tToj3p8pEP\n\n转发本条即可参与抽奖，引用和锁推无法参与，运费由中奖者承担，6月16日21时开奖。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1477,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "转发本条抽奖送2箱4.5斤桂味，运费由中奖者承担\n\n本次台风对桂味荔枝影响不大，连续下雨丝毫不影响桂味口感，依然肉质坚挺甜度拉满。当天摘当天发，果园直发，顺丰冷链速配，新鲜速达，不过夜不泡水不添加任何保鲜剂。送礼佳品，量大有优惠。下单👇👇👇 https://t.co/lnqGTkksxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 525,
+          "like_count": 10879,
+          "listed_count": 0,
+          "media_count": 506,
+          "tweet_count": 4758
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T19:57:19.000Z",
+        "description": "阔别多时，再度相逢。2018年开始在推特销售自家荔枝，今年是第8年。 微店下单链接： https://t.co/OQC78itlEm 淘宝下单链接：https://t.co/bBejPLzsx6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weidian.com/?userid=181747…",
+                "end": 66,
+                "expanded_url": "https://weidian.com/?userid=1817473028",
+                "start": 43,
+                "url": "https://t.co/OQC78itlEm"
+              },
+              {
+                "display_url": "shop136733976.taobao.com",
+                "end": 97,
+                "expanded_url": "https://shop136733976.taobao.com/",
+                "start": 74,
+                "url": "https://t.co/bBejPLzsx6"
+              }
+            ]
+          }
+        },
+        "id": "1260660356591915011",
+        "name": "风碎的云",
+        "pinned_tweet_id": "1934185337057841575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1317519960114032640/K-tgIbfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 298,
+          "like_count": 578,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 910
+        },
+        "username": "alleysgogo2020",
+        "verified": true
+      }
+    ]
+  }
+}

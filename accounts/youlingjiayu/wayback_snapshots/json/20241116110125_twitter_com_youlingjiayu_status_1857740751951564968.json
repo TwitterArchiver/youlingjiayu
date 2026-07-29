@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1857739877468746187",
+    "created_at": "2024-11-16T11:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T12:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857740751951564968"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1857740751951564968",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857740288351224061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有朋友出问推的cos委托，在海底捞给我送了枚戒指，戴了半天发现手指被勒黑了，乐死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1857739877468746187",
+        "created_at": "2024-11-16T11:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T12:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857740751951564968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857740751951564968",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857740288351224061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有朋友出问推的cos委托，在海底捞给我送了枚戒指，戴了半天发现手指被勒黑了，乐死。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1857739877468746187",
+        "created_at": "2024-11-16T10:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857740288351224061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857740288351224061",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857739877468746187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来一个关于戒指的事情，甲鱼买过那种那种淘宝上设计得很花哨的戒指，然后戴着的那几天不是划伤别人就是划伤自己，最后睡觉迷迷糊糊的时候划了自己的脸，就收起来了（现在大概率找不到了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 520,
+          "like_count": 1375,
+          "listed_count": 0,
+          "tweet_count": 994
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

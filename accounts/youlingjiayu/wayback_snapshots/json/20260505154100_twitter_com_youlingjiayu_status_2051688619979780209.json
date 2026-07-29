@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2051658463659597861",
+    "created_at": "2026-05-05T15:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051688619979780209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "909189799",
+          "start": 0,
+          "username": "BBBBBlabu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051688619979780209",
+    "in_reply_to_user_id": "909189799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051685620905546169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBBBBlabu 最新消息，他觉得我不够关心他……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2051658463659597861",
+        "created_at": "2026-05-05T15:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051688619979780209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "909189799",
+              "start": 0,
+              "username": "BBBBBlabu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051688619979780209",
+        "in_reply_to_user_id": "909189799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051685620905546169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBBBBlabu 最新消息，他觉得我不够关心他……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909189799",
+        "conversation_id": "2051658463659597861",
+        "created_at": "2026-05-05T15:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051685620905546169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051685620905546169",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051684763514311014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 太作了真分手了就老实了\n\n他想有个女的爱的他死去活来注意力全放他身上呗，为他妥协又哭又闹鸡飞狗跳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 524,
+          "like_count": 18411,
+          "listed_count": 1,
+          "media_count": 953,
+          "tweet_count": 8034
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "和我在一起，你便不必羡慕旁人的幸福会不会降临在你身上。",
+        "id": "909189799",
+        "name": "BB喇布",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044407686717153280/5qWvOYBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 719,
+          "like_count": 27320,
+          "listed_count": 2,
+          "media_count": 764,
+          "tweet_count": 10275
+        },
+        "username": "BBBBBlabu",
+        "verified": true
+      }
+    ]
+  }
+}

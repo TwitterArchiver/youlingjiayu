@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1854536860602978406",
+    "created_at": "2024-11-07T15:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T16:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854543032814858307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1459206178529890307",
+          "start": 0,
+          "username": "Duchess_Coconut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854543032814858307",
+    "in_reply_to_user_id": "1459206178529890307",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854536860602978406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Duchess_Coconut 呃啊两个病人真的大概率不会长久……太难了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1854536860602978406",
+        "created_at": "2024-11-07T15:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T16:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854543032814858307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1459206178529890307",
+              "start": 0,
+              "username": "Duchess_Coconut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854543032814858307",
+        "in_reply_to_user_id": "1459206178529890307",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854536860602978406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Duchess_Coconut 呃啊两个病人真的大概率不会长久……太难了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459206178529890307",
+        "conversation_id": "1854536860602978406",
+        "created_at": "2024-11-07T14:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T15:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854536860602978406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854536860602978406",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除了我已经去世的前任恋人，我在之后发展的亲密关系对象无一例外都是地雷男…说实话体验是非常糟糕的，虽然相似的经历使得对方较为轻松的与你共情、高包容性的概率也比非地雷男要高，但就我的经历而言最后都会因为这个属性而不得善终。所以说做好朋友可以、涩涩也可以，和地雷男恋爱的话还是慎重些罢😑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/臭搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 520,
+          "like_count": 1075,
+          "listed_count": 0,
+          "tweet_count": 800
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-12T17:07:26.000Z",
+        "description": "历史学与文学的愚昧拥趸者🧐|项圈、铁笼和枷锁都无法束缚的无翼猫头鹰🦉|轻小说创作者（真的吗）✒️|精神状态常年不乐观💀|计算机科学专业低才生🖥️|不擅长和不熟悉的人交流🚫|请注意账号存在工作场所不适宜内容🔞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Sol_miki",
+                "end": 23,
+                "expanded_url": "http://t.me/Sol_miki",
+                "start": 0,
+                "url": "https://t.co/IhbZxHTxLa"
+              }
+            ]
+          }
+        },
+        "id": "1459206178529890307",
+        "location": "巴达维亚",
+        "name": "椰子公爵🥥",
+        "pinned_tweet_id": "1760273070697451949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850980848730062850/Ler2zipI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7354,
+          "following_count": 120,
+          "like_count": 10875,
+          "listed_count": 19,
+          "tweet_count": 11545
+        },
+        "url": "https://t.co/IhbZxHTxLa",
+        "username": "Duchess_Coconut",
+        "verified": false
+      }
+    ]
+  }
+}

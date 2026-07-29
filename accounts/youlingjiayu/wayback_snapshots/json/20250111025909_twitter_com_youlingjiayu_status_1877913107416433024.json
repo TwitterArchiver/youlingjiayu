@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1877909801017209132",
+    "created_at": "2025-01-11T02:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T03:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877913107416433024"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1877913107416433024",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877911416675442736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "育碧搞悲剧真有一手。所有人都有各自的立场和动机，“反派”也不是脸谱化的，虚构与现实的历史结合，仿佛海尔森真的在北美的冰天雪地里留下了追逐齐欧的脚印——这种真人感让后面种种的悲剧显得格外壮烈。\n一开始对这种老白男不感兴趣，后面也逐渐喜欢了；可能是因为我有点恋惨，也可能是朋友安利太多了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1877909801017209132",
+        "created_at": "2025-01-11T02:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T03:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877913107416433024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877913107416433024",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877911416675442736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "育碧搞悲剧真有一手。所有人都有各自的立场和动机，“反派”也不是脸谱化的，虚构与现实的历史结合，仿佛海尔森真的在北美的冰天雪地里留下了追逐齐欧的脚印——这种真人感让后面种种的悲剧显得格外壮烈。\n一开始对这种老白男不感兴趣，后面也逐渐喜欢了；可能是因为我有点恋惨，也可能是朋友安利太多了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1877909801017209132",
+        "created_at": "2025-01-11T02:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T03:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877911416675442736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877911416675442736",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877909801017209132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最惨的就是海尔森吧，小时候家里被灭门，被仇人培养走上与父亲相反的道路，一见钟情的女子愤然离开他，本该是亲密的亲人的姐姐也是不咸不淡的态度，发现自己有个儿子但最后被儿子杀死。\n如果没有发生一开始的灭门惨案，如果他能和齐欧一起抚养康纳，如果他一开始就宰了华盛顿（？），或许会不一样吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 521,
+          "like_count": 3726,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2192
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

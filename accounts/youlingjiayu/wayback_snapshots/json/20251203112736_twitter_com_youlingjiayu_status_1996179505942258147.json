@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996179498572951552"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1996179505942258147",
+    "created_at": "2025-12-03T11:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T12:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996179505942258147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n5jhYy22cQ",
+          "end": 26,
+          "expanded_url": "https://x.com/youlingjiayu/status/1996179505942258147/photo/1",
+          "media_key": "3_1996179498572951552",
+          "start": 3,
+          "url": "https://t.co/n5jhYy22cQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996179505942258147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉。 https://t.co/n5jhYy22cQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_1996179498572951552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ParYBbsAAvPoS.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996179498572951552"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1996179505942258147",
+        "created_at": "2025-12-03T11:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996179505942258147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5jhYy22cQ",
+              "end": 26,
+              "expanded_url": "https://x.com/youlingjiayu/status/1996179505942258147/photo/1",
+              "media_key": "3_1996179498572951552",
+              "start": 3,
+              "url": "https://t.co/n5jhYy22cQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996179505942258147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉。 https://t.co/n5jhYy22cQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 516,
+          "like_count": 15114,
+          "listed_count": 1,
+          "media_count": 705,
+          "tweet_count": 6514
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

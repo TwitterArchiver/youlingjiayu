@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Auto racing action from the Formula One circuit.",
+          "id": "10002765236",
+          "name": "Formula One Racing"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+          "id": "1682471344305324038",
+          "name": "Hungarian Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+          "id": "1710063341262036992",
+          "name": "Qatar Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+          "id": "1718559425315696640",
+          "name": "Mexico City Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+          "id": "1719780187770945537",
+          "name": "São Paulo Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+          "id": "1725575501769572352",
+          "name": "Las Vegas Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Racing",
+          "id": "1058103880376971264",
+          "name": "Racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "Formula 1",
+          "id": "854701577994616832",
+          "name": "Formula 1"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+          "id": "1682471344305324038",
+          "name": "Hungarian Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+          "id": "1710063341262036992",
+          "name": "Qatar Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+          "id": "1718559425315696640",
+          "name": "Mexico City Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+          "id": "1719780187770945537",
+          "name": "São Paulo Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+          "id": "1725575501769572352",
+          "name": "Las Vegas Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Auto racing",
+          "id": "847900599387430912",
+          "name": "Auto racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Formula 1",
+          "id": "854701577994616832",
+          "name": "Formula 1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1497266565669998594",
+          "name": "Open-wheel racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509530211146088466",
+          "name": "Motorsport"
+        }
+      }
+    ],
+    "conversation_id": "2007029433379819938",
+    "created_at": "2026-01-02T10:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T11:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007029433379819938"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007029433379819938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "阿凡达的4d比F1的还要晕……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Auto racing action from the Formula One circuit.",
+              "id": "10002765236",
+              "name": "Formula One Racing"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          }
+        ],
+        "conversation_id": "2007029433379819938",
+        "created_at": "2026-01-02T10:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007029433379819938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007029433379819938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿凡达的4d比F1的还要晕……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004368357987082240/AxDwqPw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 515,
+          "like_count": 16225,
+          "listed_count": 1,
+          "media_count": 772,
+          "tweet_count": 7016
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

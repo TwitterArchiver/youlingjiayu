@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1955261105288384760",
+    "created_at": "2025-08-12T13:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T14:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955263827735388229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1711897788",
+          "start": 0,
+          "username": "zrkeane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955263827735388229",
+    "in_reply_to_user_id": "1711897788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955261105288384760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zrkeane 是杜拉斯的«情人»吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1955261098929934336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyJ7nCzb0AAAFlF.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955261105288384760",
+        "created_at": "2025-08-12T13:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955263827735388229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1711897788",
+              "start": 0,
+              "username": "zrkeane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955263827735388229",
+        "in_reply_to_user_id": "1711897788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955261105288384760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zrkeane 是杜拉斯的«情人»吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955261098929934336"
+          ]
+        },
+        "author_id": "1711897788",
+        "conversation_id": "1955261105288384760",
+        "created_at": "2025-08-12T13:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955261105288384760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6XV2u7Xq4",
+              "end": 59,
+              "expanded_url": "https://x.com/zrkeane/status/1955261105288384760/photo/1",
+              "media_key": "3_1955261098929934336",
+              "start": 36,
+              "url": "https://t.co/f6XV2u7Xq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955261105288384760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看着20岁的自己划下的线陷入了沉思，总算明白了，原来是因为没看懂才画的 https://t.co/f6XV2u7Xq4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 540,
+          "like_count": 13347,
+          "listed_count": 1,
+          "media_count": 597,
+          "tweet_count": 5512
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-30T06:07:06.000Z",
+        "description": "ISFJ | 性感的大脑会把身体雕刻得羽翼丰满 但歪瓜裂枣不行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zrkeane",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zrkeane",
+                "start": 0,
+                "url": "https://t.co/9YhC6Pqz3u"
+              }
+            ]
+          }
+        },
+        "id": "1711897788",
+        "location": "New Jersey, USA",
+        "name": "Zzz(叫一个☝️Z就行了)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754507373379735552/eMOw_rdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 20,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/9YhC6Pqz3u",
+        "username": "zrkeane",
+        "verified": true
+      }
+    ]
+  }
+}

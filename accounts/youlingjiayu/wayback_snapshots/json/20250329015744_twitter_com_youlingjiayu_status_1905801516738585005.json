@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1905801516738585005",
+    "created_at": "2025-03-29T01:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T02:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905801516738585005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/1905788838825673023",
+          "start": 140,
+          "url": "https://t.co/ALfkYs74de"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905801516738585005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905788838825673023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快乐是没有用的不被允许的，一旦感到快乐之后就会有可怕的事情发生；休息是一种让人失望的停滞，我要左手挂水右手把作业写完；我生病了没有照顾好自己是不对的，我不能拿生病当借口；哭是没有用的，只是让人觉得你是情绪化的疯子；做自己是不对，没有人喜欢真实的你，在你失去价值后就等着被抛弃吧。 https://t.co/ALfkYs74de"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1905801516738585005",
+        "created_at": "2025-03-29T01:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T02:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905801516738585005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1905788838825673023",
+              "start": 140,
+              "url": "https://t.co/ALfkYs74de"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905801516738585005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905788838825673023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快乐是没有用的不被允许的，一旦感到快乐之后就会有可怕的事情发生；休息是一种让人失望的停滞，我要左手挂水右手把作业写完；我生病了没有照顾好自己是不对的，我不能拿生病当借口；哭是没有用的，只是让人觉得你是情绪化的疯子；做自己是不对，没有人喜欢真实的你，在你失去价值后就等着被抛弃吧。 https://t.co/ALfkYs74de"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1905788838825673023",
+        "created_at": "2025-03-29T01:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T02:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905788838825673023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905788838825673023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然想起童年时明明拿起画笔涂鸦就会很开心，然后被外婆说你画得还不如隔壁的更小的小孩；后来我尝试自己写一点东西，被父母发现后他们说你写这些东西有什么用，你根本不可能成为像别人一样靠写作吃饭的作家，没有出版社会要你。\n到现在没有人会指责我发展我的爱好，但我不会再像以前一样开心了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的重力系赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，把网友当垃圾回收员，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 493,
+          "like_count": 7459,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 3367
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

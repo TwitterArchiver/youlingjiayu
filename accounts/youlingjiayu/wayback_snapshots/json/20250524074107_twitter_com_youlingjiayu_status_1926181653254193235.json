@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1926117929512239312",
+    "created_at": "2025-05-24T07:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T08:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926181653254193235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1722682507479441408",
+          "start": 0,
+          "username": "N_atiius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926181653254193235",
+    "in_reply_to_user_id": "1722682507479441408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926175897255637363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_atiius 彳亍……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1926117929512239312",
+        "created_at": "2025-05-24T07:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T08:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926181653254193235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1722682507479441408",
+              "start": 0,
+              "username": "N_atiius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926181653254193235",
+        "in_reply_to_user_id": "1722682507479441408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926175897255637363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_atiius 彳亍……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722682507479441408",
+        "conversation_id": "1926117929512239312",
+        "created_at": "2025-05-24T07:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T08:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926175897255637363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926175897255637363",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926117929512239312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 没关系有一千个哈姆雷特很正常 我都胡说八道的就算是我擅长的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 521,
+          "like_count": 10349,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 4480
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T18:28:28.000Z",
+        "description": "烏雲追着我們下着瓢潑大雨",
+        "id": "1722682507479441408",
+        "location": "斯萊特林的掛墜盒",
+        "name": "歲譠",
+        "pinned_tweet_id": "1924952175299748245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887529447538282496/DQnYq0Ss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 78,
+          "like_count": 1726,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1017
+        },
+        "username": "N_atiius",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1943297585449701559",
+    "created_at": "2025-07-10T13:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T14:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943297585449701559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "771971954584657920",
+          "start": 0,
+          "username": "vanilla_sodaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/_hinatahirune/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/_hinatahirune/status/1942919876647280935",
+          "start": 15,
+          "url": "https://t.co/sHC6Uzmg7D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943297585449701559",
+    "in_reply_to_user_id": "771971954584657920",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942919876647280935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vanilla_sodaa https://t.co/sHC6Uzmg7D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1942919868979761152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvajU6mWUAA26tU.jpg",
+        "width": 900
+      },
+      {
+        "height": 1199,
+        "media_key": "3_1942919869009207296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvajU6tXoAAFfpZ.jpg",
+        "width": 847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1943297585449701559",
+        "created_at": "2025-07-10T13:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T14:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943297585449701559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "771971954584657920",
+              "start": 0,
+              "username": "vanilla_sodaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/_hinatahirune/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/_hinatahirune/status/1942919876647280935",
+              "start": 15,
+              "url": "https://t.co/sHC6Uzmg7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943297585449701559",
+        "in_reply_to_user_id": "771971954584657920",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942919876647280935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanilla_sodaa https://t.co/sHC6Uzmg7D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942919868979761152",
+            "3_1942919869009207296"
+          ]
+        },
+        "author_id": "1652158267286761472",
+        "conversation_id": "1942919876647280935",
+        "created_at": "2025-07-09T12:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T13:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942919876647280935"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 0,
+              "tag": "独学でここまで成長したから一緒に頑張ろう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpC55ji6tF",
+              "end": 70,
+              "expanded_url": "https://x.com/_hinatahirune/status/1942919876647280935/photo/1",
+              "media_key": "3_1942919868979761152",
+              "start": 47,
+              "url": "https://t.co/FpC55ji6tF"
+            },
+            {
+              "display_url": "pic.x.com/FpC55ji6tF",
+              "end": 70,
+              "expanded_url": "https://x.com/_hinatahirune/status/1942919876647280935/photo/1",
+              "media_key": "3_1942919869009207296",
+              "start": 47,
+              "url": "https://t.co/FpC55ji6tF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942919876647280935",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2271,
+          "impression_count": 789871,
+          "like_count": 25542,
+          "quote_count": 39,
+          "reply_count": 81,
+          "retweet_count": 2143
+        },
+        "reply_settings": "everyone",
+        "text": "#独学でここまで成長したから一緒に頑張ろう \n画風変わりすぎだろ\n←2018　　　2025→ https://t.co/FpC55ji6tF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 533,
+          "like_count": 11672,
+          "listed_count": 0,
+          "media_count": 527,
+          "tweet_count": 4952
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T07:23:51.000Z",
+        "description": "coffee fanatic || ENFP || Langs:🇨🇳🇺🇸🇯🇵🇰🇷 || Cloud Native & Exchange || 大众车主 EA111 & EA888认证",
+        "id": "771971954584657920",
+        "location": "大邱廣域市",
+        "name": "𝖁𝖆𝖓𝖎𝖑𝖑𝖆𝕾𝖔𝖉𝖆",
+        "pinned_tweet_id": "1902972133774626898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932121912026787840/h1hK1uW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 834,
+          "like_count": 116351,
+          "listed_count": 24,
+          "media_count": 6151,
+          "tweet_count": 66937
+        },
+        "username": "vanilla_sodaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T03:51:38.000Z",
+        "description": "Illustrator Vtuber🎨 Skeb:https://t.co/CrlLKfAGql FANBOX:https://t.co/EjY7rDUqLa pixiv:https://t.co/k7BlCX8SnH ご依頼のご相談は✉️までご連絡ください",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@_hinatahirune",
+                "end": 48,
+                "expanded_url": "http://skeb.jp/@_hinatahirune",
+                "start": 25,
+                "url": "https://t.co/CrlLKfAGql"
+              },
+              {
+                "display_url": "hinatahirune.fanbox.cc",
+                "end": 79,
+                "expanded_url": "http://hinatahirune.fanbox.cc",
+                "start": 56,
+                "url": "https://t.co/EjY7rDUqLa"
+              },
+              {
+                "display_url": "pixiv.net/users/107335398",
+                "end": 109,
+                "expanded_url": "https://www.pixiv.net/users/107335398",
+                "start": 86,
+                "url": "https://t.co/k7BlCX8SnH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hinata_hirune",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@hinata_hirune",
+                "start": 0,
+                "url": "https://t.co/toYjhDFOrp"
+              }
+            ]
+          }
+        },
+        "id": "1652158267286761472",
+        "location": "✉️→hinatahirune1010@gmail.com",
+        "name": "ひなたひるね@C106日曜日西ふ17b",
+        "pinned_tweet_id": "1942059747295015416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887318575544999939/ThuDBnv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21379,
+          "following_count": 468,
+          "like_count": 22363,
+          "listed_count": 129,
+          "media_count": 428,
+          "tweet_count": 6755
+        },
+        "url": "https://t.co/toYjhDFOrp",
+        "username": "_hinatahirune",
+        "verified": false
+      }
+    ]
+  }
+}

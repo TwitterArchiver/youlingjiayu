@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999045589468909568",
+        "3_1999045615607853056",
+        "3_1999045711992967168",
+        "3_1999045714236915712"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1999045722319307256",
+    "created_at": "2025-12-11T09:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T10:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999045722319307256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 39,
+          "id": "1972517289930129408",
+          "start": 30,
+          "username": "Arilob33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h5YSZXKxza",
+          "end": 71,
+          "expanded_url": "https://x.com/youlingjiayu/status/1999045722319307256/photo/1",
+          "media_key": "3_1999045589468909568",
+          "start": 48,
+          "url": "https://t.co/h5YSZXKxza"
+        },
+        {
+          "display_url": "pic.x.com/h5YSZXKxza",
+          "end": 71,
+          "expanded_url": "https://x.com/youlingjiayu/status/1999045722319307256/photo/1",
+          "media_key": "3_1999045615607853056",
+          "start": 48,
+          "url": "https://t.co/h5YSZXKxza"
+        },
+        {
+          "display_url": "pic.x.com/h5YSZXKxza",
+          "end": 71,
+          "expanded_url": "https://x.com/youlingjiayu/status/1999045722319307256/photo/1",
+          "media_key": "3_1999045711992967168",
+          "start": 48,
+          "url": "https://t.co/h5YSZXKxza"
+        },
+        {
+          "display_url": "pic.x.com/h5YSZXKxza",
+          "end": 71,
+          "expanded_url": "https://x.com/youlingjiayu/status/1999045722319307256/photo/1",
+          "media_key": "3_1999045714236915712",
+          "start": 48,
+          "url": "https://t.co/h5YSZXKxza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999045722319307256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香草和小秦的号都炸了，我只能先这样宣布一下我闪现去和他俩还有@Arilob33 恰饭的事情了。 https://t.co/h5YSZXKxza"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1999045589468909568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74JX0obEAA-6iN.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1999045615607853056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74JZWAbsAAAhzM.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1999045711992967168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74Je9Eb0AAsY3m.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1999045714236915712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74JfFbbwAAkahl.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999045589468909568",
+            "3_1999045615607853056",
+            "3_1999045711992967168",
+            "3_1999045714236915712"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999045722319307256",
+        "created_at": "2025-12-11T09:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999045722319307256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1972517289930129408",
+              "start": 30,
+              "username": "Arilob33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5YSZXKxza",
+              "end": 71,
+              "expanded_url": "https://x.com/youlingjiayu/status/1999045722319307256/photo/1",
+              "media_key": "3_1999045589468909568",
+              "start": 48,
+              "url": "https://t.co/h5YSZXKxza"
+            },
+            {
+              "display_url": "pic.x.com/h5YSZXKxza",
+              "end": 71,
+              "expanded_url": "https://x.com/youlingjiayu/status/1999045722319307256/photo/1",
+              "media_key": "3_1999045615607853056",
+              "start": 48,
+              "url": "https://t.co/h5YSZXKxza"
+            },
+            {
+              "display_url": "pic.x.com/h5YSZXKxza",
+              "end": 71,
+              "expanded_url": "https://x.com/youlingjiayu/status/1999045722319307256/photo/1",
+              "media_key": "3_1999045711992967168",
+              "start": 48,
+              "url": "https://t.co/h5YSZXKxza"
+            },
+            {
+              "display_url": "pic.x.com/h5YSZXKxza",
+              "end": 71,
+              "expanded_url": "https://x.com/youlingjiayu/status/1999045722319307256/photo/1",
+              "media_key": "3_1999045714236915712",
+              "start": 48,
+              "url": "https://t.co/h5YSZXKxza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999045722319307256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香草和小秦的号都炸了，我只能先这样宣布一下我闪现去和他俩还有@Arilob33 恰饭的事情了。 https://t.co/h5YSZXKxza"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 510,
+          "like_count": 15314,
+          "listed_count": 1,
+          "media_count": 723,
+          "tweet_count": 6664
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T04:22:32.000Z",
+        "description": "小小小小小不",
+        "id": "1972517289930129408",
+        "location": "Singapore",
+        "name": "修瓷熟法",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972518300358991872/g9-F_PoD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 100,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 143
+        },
+        "username": "Arilob33",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1862498167377601025",
+    "created_at": "2024-11-29T14:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T15:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862498712943305023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814900037425766400",
+          "start": 0,
+          "username": "undeuxneufruya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862498712943305023",
+    "in_reply_to_user_id": "1814900037425766400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862498167377601025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@undeuxneufruya 啊我也经常被人以为是e人……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1862498167377601025",
+        "created_at": "2024-11-29T14:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T15:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862498712943305023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814900037425766400",
+              "start": 0,
+              "username": "undeuxneufruya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862498712943305023",
+        "in_reply_to_user_id": "1814900037425766400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862498167377601025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@undeuxneufruya 啊我也经常被人以为是e人……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862498156220432384",
+            "3_1862498156220440577",
+            "3_1862498156262330368"
+          ]
+        },
+        "author_id": "1814900037425766400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Virgo",
+              "id": "1138874019820662784",
+              "name": "Virgo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Virgo",
+              "id": "1138874019820662784",
+              "name": "Virgo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1862498167377601025",
+        "created_at": "2024-11-29T14:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T15:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862498167377601025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1ZSEJunvT",
+              "end": 127,
+              "expanded_url": "https://x.com/undeuxneufruya/status/1862498167377601025/photo/1",
+              "media_key": "3_1862498156220432384",
+              "start": 104,
+              "url": "https://t.co/e1ZSEJunvT"
+            },
+            {
+              "display_url": "pic.x.com/e1ZSEJunvT",
+              "end": 127,
+              "expanded_url": "https://x.com/undeuxneufruya/status/1862498167377601025/photo/1",
+              "media_key": "3_1862498156220440577",
+              "start": 104,
+              "url": "https://t.co/e1ZSEJunvT"
+            },
+            {
+              "display_url": "pic.x.com/e1ZSEJunvT",
+              "end": 127,
+              "expanded_url": "https://x.com/undeuxneufruya/status/1862498167377601025/photo/1",
+              "media_key": "3_1862498156262330368",
+              "start": 104,
+              "url": "https://t.co/e1ZSEJunvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862498167377601025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mibt我测过好几次，都是intp-t,但是刚认识的朋友都会以为我的E人，并震惊我竟然属性为i！我的星座也是，日摩羯月白羊升处女，纯纯的土象，但是身边的朋友觉得我更像风象或火象。我有时候会想难道是我太割裂了 https://t.co/e1ZSEJunvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 520,
+          "like_count": 2087,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1450
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T05:47:51.000Z",
+        "description": "杂食只会让我营养均衡……",
+        "id": "1814900037425766400",
+        "name": "Mizu",
+        "pinned_tweet_id": "1827205743046750654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861585262180212736/schvfGIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 27,
+          "like_count": 3010,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 218
+        },
+        "username": "undeuxneufruya",
+        "verified": false
+      }
+    ]
+  }
+}

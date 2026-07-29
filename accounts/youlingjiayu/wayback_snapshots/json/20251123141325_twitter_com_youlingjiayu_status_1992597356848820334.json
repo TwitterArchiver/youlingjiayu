@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1992179351799079365",
+    "created_at": "2025-11-23T14:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992597356848820334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1241047750260568064",
+          "start": 0,
+          "username": "lovemeplzkillme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992597356848820334",
+    "in_reply_to_user_id": "1241047750260568064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992179351799079365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovemeplzkillme 我好想上学……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1992179351799079365].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1992179351799079365",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1992179351799079365"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1992179351799079365",
+        "created_at": "2025-11-23T14:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992597356848820334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1241047750260568064",
+              "start": 0,
+              "username": "lovemeplzkillme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992597356848820334",
+        "in_reply_to_user_id": "1241047750260568064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992179351799079365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovemeplzkillme 我好想上学……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 521,
+          "like_count": 14597,
+          "listed_count": 1,
+          "media_count": 680,
+          "tweet_count": 6244
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T17:03:44.000Z",
+        "description": "巴塔哥尼亚人、波利尼西亚人、臭犹大、吸血鬼、食人族、卑鄙的蚯蚓、笨水母、长臂猿、臭狗、臭海参、臭海驴、压路机、陀螺仪、低能的杂碎、废物！",
+        "id": "1241047750260568064",
+        "location": "85 Albert Embankment, Vauxhall",
+        "name": "阿奇博尔德·阿道克",
+        "pinned_tweet_id": "1909983719253033162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972387291474849793/9r-eziFM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 128,
+          "like_count": 9062,
+          "listed_count": 0,
+          "media_count": 650,
+          "tweet_count": 5986
+        },
+        "username": "lovemeplzkillme",
+        "verified": false
+      }
+    ]
+  }
+}

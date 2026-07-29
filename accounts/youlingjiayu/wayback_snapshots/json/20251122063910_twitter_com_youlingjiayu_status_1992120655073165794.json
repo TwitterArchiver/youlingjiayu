@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1992117381808984276",
+    "created_at": "2025-11-22T06:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T07:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992120655073165794"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992120655073165794",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992119669097169373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美国人真你妈太坏了，喂这种大粪给我吃我操你妈。把商业动画当oc整，疯狂ooc吃设定，世界观也崩得一塌糊涂。看得出想写点高明的智斗但实则是精神病小丑大混战还暴露了编剧的智商上限。在隔壁极恶老大恶心我还不够这一作继续恶心我。成长型主角结果反方向成长，比第一季更巨婴了看得我厌蠢症犯了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1992117381808984276",
+        "created_at": "2025-11-22T06:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T07:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992120655073165794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992120655073165794",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992119669097169373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国人真你妈太坏了，喂这种大粪给我吃我操你妈。把商业动画当oc整，疯狂ooc吃设定，世界观也崩得一塌糊涂。看得出想写点高明的智斗但实则是精神病小丑大混战还暴露了编剧的智商上限。在隔壁极恶老大恶心我还不够这一作继续恶心我。成长型主角结果反方向成长，比第一季更巨婴了看得我厌蠢症犯了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1992117381808984276",
+        "created_at": "2025-11-22T06:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T07:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992119669097169373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992119669097169373",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992117381808984276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帅还是很帅的，二形态太帅了。就是一遇到ala就发狠了忘情了连老婆孩子都不要了……到底为什么杀人如麻的邪教头子一下地狱变成了想要得到偶像认可的纯情男大啊……谁是邓布利多最喜欢的学生了属于……我CP也是一坨，第一季的视奸狂男鬼1变成了不要老婆的傻逼，0反而成脆弱纯爱敏感男了什么鬼我靠……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 519,
+          "like_count": 14553,
+          "listed_count": 1,
+          "media_count": 673,
+          "tweet_count": 6225
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

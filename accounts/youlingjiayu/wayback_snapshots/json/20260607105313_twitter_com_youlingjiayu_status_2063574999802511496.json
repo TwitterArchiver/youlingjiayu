@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2063574999802511496",
+    "created_at": "2026-06-07T10:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063574999802511496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sevensand7/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/sevensand7/status/2063573629934383293",
+          "start": 5,
+          "url": "https://t.co/xl1zYNDsB2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063574999802511496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063573629934383293",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同问…… https://t.co/xl1zYNDsB2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2063574999802511496",
+        "created_at": "2026-06-07T10:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063574999802511496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sevensand7/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/sevensand7/status/2063573629934383293",
+              "start": 5,
+              "url": "https://t.co/xl1zYNDsB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063574999802511496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063573629934383293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同问…… https://t.co/xl1zYNDsB2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816105634179534848",
+        "conversation_id": "2063573629934383293",
+        "created_at": "2026-06-07T10:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063573629934383293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063573629934383293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁又被shadowban了 急死我了 看不到别人给我的评论我会生气！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 532,
+          "like_count": 18893,
+          "listed_count": 1,
+          "media_count": 990,
+          "tweet_count": 8227
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T13:38:30.000Z",
+        "description": "无论你以怎样的姿态沉入水中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sevensand",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sevensand",
+                "start": 0,
+                "url": "https://t.co/njTONSv2Zn"
+              }
+            ]
+          }
+        },
+        "id": "1816105634179534848",
+        "location": "提问箱 ——",
+        "name": "七尺沙地和她孕育的孩子",
+        "pinned_tweet_id": "2027006440582599150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060959157961015296/MdZHmVJi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 318,
+          "like_count": 27487,
+          "listed_count": 8,
+          "media_count": 950,
+          "tweet_count": 8780
+        },
+        "url": "https://t.co/njTONSv2Zn",
+        "username": "sevensand7",
+        "verified": false
+      }
+    ]
+  }
+}

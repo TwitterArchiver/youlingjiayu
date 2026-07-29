@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1866445563522371707",
+    "created_at": "2024-12-10T11:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T12:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866445563522371707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/1861716797399113971",
+          "start": 80,
+          "url": "https://t.co/GrxsdnbCeO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866445563522371707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861716797399113971",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "居然还能callback这条，最近首页老是刷到帖子有这种上世纪小说味道的博主，不是说写得好，就是味儿太冲了，一下子把我拉回到几年前看旧书看得龇牙咧嘴的回忆里。 https://t.co/GrxsdnbCeO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1866445563522371707",
+        "created_at": "2024-12-10T11:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T12:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866445563522371707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1861716797399113971",
+              "start": 80,
+              "url": "https://t.co/GrxsdnbCeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866445563522371707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861716797399113971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然还能callback这条，最近首页老是刷到帖子有这种上世纪小说味道的博主，不是说写得好，就是味儿太冲了，一下子把我拉回到几年前看旧书看得龇牙咧嘴的回忆里。 https://t.co/GrxsdnbCeO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1854457216088314173",
+        "created_at": "2024-11-27T10:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T11:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861716797399113971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861716797399113971",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861715728900231332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "36.不是很冷门，马尔克斯的《苦妓回忆录》，值得您花上半个下午品读，里面对晚年及生命的思考非常有趣。\n读过的非常冷门的书不推荐，都是些八九十年代的富有年代气息的被历史淘汰的老东西，我看它们是为了窥探当时的人的生活和想法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 520,
+          "like_count": 2780,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1776
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

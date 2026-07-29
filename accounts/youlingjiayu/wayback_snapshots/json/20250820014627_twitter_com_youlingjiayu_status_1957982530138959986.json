@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957982527492354049"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1957982530138959986",
+    "created_at": "2025-08-20T01:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T02:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957982530138959986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4FSQrj3Np3",
+          "end": 65,
+          "expanded_url": "https://x.com/youlingjiayu/status/1957982530138959986/photo/1",
+          "media_key": "3_1957982527492354049",
+          "start": 42,
+          "url": "https://t.co/4FSQrj3Np3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957982530138959986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想来想去还是决定停更，此账号将从现在起停用，预计会消失很长时间，归期不定。\n再见。 https://t.co/4FSQrj3Np3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1957982527492354049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GywmvCOacAEgT0t.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957982527492354049"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1957982530138959986",
+        "created_at": "2025-08-20T01:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T02:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957982530138959986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FSQrj3Np3",
+              "end": 65,
+              "expanded_url": "https://x.com/youlingjiayu/status/1957982530138959986/photo/1",
+              "media_key": "3_1957982527492354049",
+              "start": 42,
+              "url": "https://t.co/4FSQrj3Np3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957982530138959986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想来想去还是决定停更，此账号将从现在起停用，预计会消失很长时间，归期不定。\n再见。 https://t.co/4FSQrj3Np3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "停用｜赛博萨卡班甲鱼｜我会回来，但不知道什么时候。",
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957981270362972160/6P3XJzTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 517,
+          "like_count": 13762,
+          "listed_count": 1,
+          "media_count": 610,
+          "tweet_count": 5654
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

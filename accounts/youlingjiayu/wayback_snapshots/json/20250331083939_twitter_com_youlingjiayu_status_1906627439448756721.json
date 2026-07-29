@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1906623519192211646",
+    "created_at": "2025-03-31T08:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T09:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906627439448756721"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906627439448756721",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906623519192211646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你不能在家里表现得高兴，因为这是骄傲和得意忘形，你应该谦虚文静又大方得体；你不能在家里表现悲伤或者哭泣，因为他们觉得你哭丧着脸很难看，而哭不能解决任何问题；你不能在学校里开心，学校里都是不开心的事，而你没有地方去寻求帮助；你不能在学校里哭，因为没有人会同情你，只是让他们变本加厉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1906623519192211646",
+        "created_at": "2025-03-31T08:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T09:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906627439448756721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906627439448756721",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906623519192211646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你不能在家里表现得高兴，因为这是骄傲和得意忘形，你应该谦虚文静又大方得体；你不能在家里表现悲伤或者哭泣，因为他们觉得你哭丧着脸很难看，而哭不能解决任何问题；你不能在学校里开心，学校里都是不开心的事，而你没有地方去寻求帮助；你不能在学校里哭，因为没有人会同情你，只是让他们变本加厉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1906623519192211646",
+        "created_at": "2025-03-31T08:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T09:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906623519192211646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1906604203960946804",
+              "start": 28,
+              "url": "https://t.co/BusgaJhoP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906623519192211646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906604203960946804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想起我之前用《心做し》当过很长一段时间的手机铃声。 https://t.co/BusgaJhoP5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的重力系赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，把网友当垃圾回收员，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 493,
+          "like_count": 7597,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 3431
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

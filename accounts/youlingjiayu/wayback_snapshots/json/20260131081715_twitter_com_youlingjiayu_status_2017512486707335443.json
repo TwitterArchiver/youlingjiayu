@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2017510834436751414",
+    "created_at": "2026-01-31T08:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017512486707335443"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017512486707335443",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017510834436751414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过虽然是梭哈还是有区别，戒社那边起码超前消费和赌博赌爽了欠了一屁股债，勇哥这边简直是忙前忙后还欠大钱找罪受……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2017510834436751414",
+        "created_at": "2026-01-31T08:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017512486707335443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017512486707335443",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017510834436751414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过虽然是梭哈还是有区别，戒社那边起码超前消费和赌博赌爽了欠了一屁股债，勇哥这边简直是忙前忙后还欠大钱找罪受……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2017510834436751414",
+        "created_at": "2026-01-31T08:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017510834436751414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/2017411261374627889",
+              "start": 51,
+              "url": "https://t.co/QtenQH4ukY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017510834436751414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017411261374627889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我突然意识到戒社不连麦除了影响不好以外，还有就是和这种人说话是真折寿；听戒社光是读投稿血压就很高了。 https://t.co/QtenQH4ukY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 522,
+          "like_count": 17070,
+          "listed_count": 1,
+          "media_count": 820,
+          "tweet_count": 7386
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

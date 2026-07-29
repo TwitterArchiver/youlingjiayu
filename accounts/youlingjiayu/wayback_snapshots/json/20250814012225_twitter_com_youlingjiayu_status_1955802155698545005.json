@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1955185506637189563",
+    "created_at": "2025-08-14T01:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T02:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955802155698545005"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955802155698545005",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955800856953319554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想到眼泪，上学时班上总会有女生哭；在她们那里眼泪大概是一种要挟别人妥协的武器，这时就会有一大堆人跑去安慰，最后大家其乐融融无事发生，像一种集体调情。\n我的情况大概是最近流行的那个“哭也没用”的梗图，但我不是“其实有用”而是“真的没用”。除了会被说哭起来丑死了还会被说情绪化，何必呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955185506637189563",
+        "created_at": "2025-08-14T01:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T02:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955802155698545005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955802155698545005",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955800856953319554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到眼泪，上学时班上总会有女生哭；在她们那里眼泪大概是一种要挟别人妥协的武器，这时就会有一大堆人跑去安慰，最后大家其乐融融无事发生，像一种集体调情。\n我的情况大概是最近流行的那个“哭也没用”的梗图，但我不是“其实有用”而是“真的没用”。除了会被说哭起来丑死了还会被说情绪化，何必呢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955185506637189563",
+        "created_at": "2025-08-14T01:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T02:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955800856953319554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955800856953319554",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955797808780599635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以在给最重要的目标排序时，除开第一位的不依赖任何人的独立，紧接着就是不可替代性。我不觉得抛却我的身份和家庭会有人爱我的灵魂，人总是各取所需，把我生下来的人也没有无条件爱过我。其实很多事情我都不喜欢做，但出于责任感会帮忙；大部分时候都是了解到别人会怎么做所以我就模仿着怎么做。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 538,
+          "like_count": 13453,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 5542
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

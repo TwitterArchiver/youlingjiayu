@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1910172428304814448",
+    "created_at": "2025-04-10T05:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T06:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910196218573234482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "771971954584657920",
+          "start": 0,
+          "username": "vanilla_sodaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910196218573234482",
+    "in_reply_to_user_id": "771971954584657920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910172428304814448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vanilla_sodaa 😯太细节了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1910172428304814448",
+        "created_at": "2025-04-10T05:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T06:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910196218573234482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "771971954584657920",
+              "start": 0,
+              "username": "vanilla_sodaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910196218573234482",
+        "in_reply_to_user_id": "771971954584657920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910172428304814448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanilla_sodaa 😯太细节了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "771971954584657920",
+        "conversation_id": "1910172428304814448",
+        "created_at": "2025-04-10T03:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T04:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910172428304814448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7thasylum/stat…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/7thasylum/status/1910167992455037181",
+              "start": 75,
+              "url": "https://t.co/8dXD0LUZRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910172428304814448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910167992455037181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家冰箱上是全球旅行地图冰箱贴，去过一个国家就买一个冰箱贴贴上去。还有我和所有朋友的小圆片磁贴，每次出去玩就会把我和哪个哪个朋友贴在一起，一目了然（ https://t.co/8dXD0LUZRW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 503,
+          "like_count": 8683,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 3866
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T07:23:51.000Z",
+        "description": "coffee fanatic || ENFP || 汉语🇨🇳English🇺🇸日本語🇯🇵 한국어 🇰🇷|| Infra Specialist @DXCTechnology || 知れ高粱の波溢るる如く、満ちたるを",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "DXCTechnology"
+              }
+            ]
+          }
+        },
+        "id": "771971954584657920",
+        "location": "安東都護府・東沓県・青泥浦郷",
+        "name": "Lord Spencer of Tannenberg \"VanillaSoda\"",
+        "pinned_tweet_id": "1902972133774626898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910162569215791104/dM3sftIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 760,
+          "like_count": 105647,
+          "listed_count": 24,
+          "media_count": 5681,
+          "tweet_count": 61505
+        },
+        "username": "vanilla_sodaa",
+        "verified": false
+      }
+    ]
+  }
+}

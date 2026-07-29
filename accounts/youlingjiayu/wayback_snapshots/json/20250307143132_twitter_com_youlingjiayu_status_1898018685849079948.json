@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1898016817018552765",
+    "created_at": "2025-03-07T14:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T15:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898018685849079948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759076490061426688",
+          "start": 0,
+          "username": "ScarletC33832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898018685849079948",
+    "in_reply_to_user_id": "1759076490061426688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898016817018552765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletC33832 想获得一些类似的自我。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 85,
+        "media_key": "3_1898016495105699840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glcb8jibcAA0z9l.png",
+        "width": 299
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1898016817018552765",
+        "created_at": "2025-03-07T14:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T15:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898018685849079948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759076490061426688",
+              "start": 0,
+              "username": "ScarletC33832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898018685849079948",
+        "in_reply_to_user_id": "1759076490061426688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898016817018552765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletC33832 想获得一些类似的自我。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898016495105699840"
+          ]
+        },
+        "author_id": "1759076490061426688",
+        "conversation_id": "1898016817018552765",
+        "created_at": "2025-03-07T14:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T15:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898016817018552765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EM94VEVzzb",
+              "end": 51,
+              "expanded_url": "https://x.com/ScarletC33832/status/1898016817018552765/photo/1",
+              "media_key": "3_1898016495105699840",
+              "start": 28,
+              "url": "https://t.co/EM94VEVzzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898016817018552765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时和男孩子混的目的之一，想被沾染那种不可一世的狂妄。 https://t.co/EM94VEVzzb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 500,
+          "like_count": 6452,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 2965
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T04:45:26.000Z",
+        "description": "(●`ε´●)饥饿蓝色/打架归来的小学生/只有核心热乎的拟态人机",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/scaletc33832",
+                "end": 23,
+                "expanded_url": "https://ngl.link/scaletc33832",
+                "start": 0,
+                "url": "https://t.co/CtEUOCxrcd"
+              }
+            ]
+          }
+        },
+        "id": "1759076490061426688",
+        "location": "you've raise my standard",
+        "name": "Arthur",
+        "pinned_tweet_id": "1895706896587505964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875882829386788864/g4V5PRdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 646,
+          "like_count": 5376,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 1975
+        },
+        "url": "https://t.co/CtEUOCxrcd",
+        "username": "ScarletC33832",
+        "verified": false
+      }
+    ]
+  }
+}

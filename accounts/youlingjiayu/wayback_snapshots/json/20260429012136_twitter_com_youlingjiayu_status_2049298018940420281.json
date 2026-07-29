@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2049289956615754023",
+    "created_at": "2026-04-29T01:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T02:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049298018940420281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816105634179534848",
+          "start": 0,
+          "username": "sevensand7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049298018940420281",
+    "in_reply_to_user_id": "1816105634179534848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049289956615754023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevensand7 广告吧，在你没来得及查看的时候就被封号的那种。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2049289956615754023",
+        "created_at": "2026-04-29T01:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049298018940420281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816105634179534848",
+              "start": 0,
+              "username": "sevensand7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049298018940420281",
+        "in_reply_to_user_id": "1816105634179534848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049289956615754023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevensand7 广告吧，在你没来得及查看的时候就被封号的那种。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816105634179534848",
+        "conversation_id": "2049289956615754023",
+        "created_at": "2026-04-29T00:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T01:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049289956615754023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049289956615754023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有人评论我但是我点开评论区啥也看不见 被谁记恨了这是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 524,
+          "like_count": 18321,
+          "listed_count": 1,
+          "media_count": 950,
+          "tweet_count": 8000
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T13:38:30.000Z",
+        "description": "无论你以怎样的姿态沉入水中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sevensand",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sevensand",
+                "start": 0,
+                "url": "https://t.co/njTONSv2Zn"
+              }
+            ]
+          }
+        },
+        "id": "1816105634179534848",
+        "location": "提问箱 ——",
+        "name": "七尺沙地和她孕育的孩子",
+        "pinned_tweet_id": "2027006440582599150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047611538836721664/0hqLe1Pb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 317,
+          "like_count": 27254,
+          "listed_count": 8,
+          "media_count": 920,
+          "tweet_count": 8634
+        },
+        "url": "https://t.co/njTONSv2Zn",
+        "username": "sevensand7",
+        "verified": false
+      }
+    ]
+  }
+}

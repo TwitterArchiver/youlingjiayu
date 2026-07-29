@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1916090003316260977",
+    "created_at": "2025-04-26T11:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T12:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916092151055732870"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916092151055732870",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916090003316260977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新认识的摄影还说要给我拍无偿……\n在挑了，顺便把束胸和胸垫都挑了；但凡我是平胸或者大奶都不用受这种折磨。\n至于为什么是三套……春秋一套，夏天一套，冬天一套。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1916090003316260977",
+        "created_at": "2025-04-26T11:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T12:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916092151055732870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916092151055732870",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916090003316260977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新认识的摄影还说要给我拍无偿……\n在挑了，顺便把束胸和胸垫都挑了；但凡我是平胸或者大奶都不用受这种折磨。\n至于为什么是三套……春秋一套，夏天一套，冬天一套。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1916090003316260977",
+        "created_at": "2025-04-26T11:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T12:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916090003316260977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916090003316260977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对我没有常备三套cos来应对朋友突然找我去漫展和cos出街而感到万分后悔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 505,
+          "like_count": 9523,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 4174
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

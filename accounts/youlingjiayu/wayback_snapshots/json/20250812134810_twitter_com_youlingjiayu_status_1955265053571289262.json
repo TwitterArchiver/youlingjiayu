@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1955261105288384760",
+    "created_at": "2025-08-12T13:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T14:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955265053571289262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1711897788",
+          "start": 0,
+          "username": "zrkeane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955265053571289262",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955263827735388229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zrkeane 确认了，是的。这本好看喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955261105288384760",
+        "created_at": "2025-08-12T13:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955265053571289262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1711897788",
+              "start": 0,
+              "username": "zrkeane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955265053571289262",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955263827735388229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zrkeane 确认了，是的。这本好看喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955261105288384760",
+        "created_at": "2025-08-12T13:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955263827735388229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1711897788",
+              "start": 0,
+              "username": "zrkeane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955263827735388229",
+        "in_reply_to_user_id": "1711897788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955261105288384760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zrkeane 是杜拉斯的«情人»吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 540,
+          "like_count": 13349,
+          "listed_count": 1,
+          "media_count": 597,
+          "tweet_count": 5513
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-30T06:07:06.000Z",
+        "description": "ISFJ | 性感的大脑会把身体雕刻得羽翼丰满 但歪瓜裂枣不行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zrkeane",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zrkeane",
+                "start": 0,
+                "url": "https://t.co/9YhC6Pqz3u"
+              }
+            ]
+          }
+        },
+        "id": "1711897788",
+        "location": "New Jersey, USA",
+        "name": "Zzz(叫一个☝️Z就行了)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754507373379735552/eMOw_rdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 20,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/9YhC6Pqz3u",
+        "username": "zrkeane",
+        "verified": true
+      }
+    ]
+  }
+}

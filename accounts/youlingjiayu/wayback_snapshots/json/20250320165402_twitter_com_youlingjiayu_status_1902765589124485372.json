@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1902741361646039424",
+    "created_at": "2025-03-20T16:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T17:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902765589124485372"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902765589124485372",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902764110552633866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以为他会回去继续他的研究生生活，就在今天我和他简单地联系了一下，他告诉我他已经退学了，现在在家里躺着，什么都不做。\n我很能理解他，毕竟我们曾经是高度相似的两片湖泊；或者说他其实是我的某种if线的展开，在某个平行时空我可能会做出和他一样的选择。\n只是觉得有些戏剧般的玩笑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1902741361646039424",
+        "created_at": "2025-03-20T16:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T17:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902765589124485372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902765589124485372",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902764110552633866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以为他会回去继续他的研究生生活，就在今天我和他简单地联系了一下，他告诉我他已经退学了，现在在家里躺着，什么都不做。\n我很能理解他，毕竟我们曾经是高度相似的两片湖泊；或者说他其实是我的某种if线的展开，在某个平行时空我可能会做出和他一样的选择。\n只是觉得有些戏剧般的玩笑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1902741361646039424",
+        "created_at": "2025-03-20T16:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T17:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902764110552633866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902764110552633866",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902762818203684923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他告诉我就在发给我遗书的前一天，他去自杀了。他给自己挑选了西湖的一处地方，然后跳了下去。我应该庆幸他没有事先研究过哪里的水最深，最后他湿漉漉地被捞了上来，身上的东西泡了水全坏了。他自嘲自己是个连有行动力的倒霉蛋，我知道他一向运气不怎么样，不过关键时候他的霉运救了他一命。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 492,
+          "like_count": 6936,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 3142
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

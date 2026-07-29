@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1996060431815979221",
+    "created_at": "2025-12-03T06:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T07:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996099629713424846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977858284964159488",
+          "start": 0,
+          "username": "Quinnnankoku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996099629713424846",
+    "in_reply_to_user_id": "1977858284964159488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996097461035962613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quinnnankoku 唉……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996097450055270401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OQDhebgAE7Qh1.jpg",
+        "width": 1209
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1996060431815979221",
+        "created_at": "2025-12-03T06:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T07:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996099629713424846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977858284964159488",
+              "start": 0,
+              "username": "Quinnnankoku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996099629713424846",
+        "in_reply_to_user_id": "1977858284964159488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996097461035962613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quinnnankoku 唉……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996097450055270401"
+          ]
+        },
+        "author_id": "1977858284964159488",
+        "conversation_id": "1996060431815979221",
+        "created_at": "2025-12-03T06:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T07:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996097461035962613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQun1WSYA9",
+              "end": 119,
+              "expanded_url": "https://x.com/Quinnnankoku/status/1996097461035962613/photo/1",
+              "media_key": "3_1996097450055270401",
+              "start": 96,
+              "url": "https://t.co/rQun1WSYA9"
+            },
+            {
+              "display_url": "x.com/quinnnankoku/s…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/quinnnankoku/status/1996026344753484264",
+              "start": 120,
+              "url": "https://t.co/2k8bysD2gi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996097461035962613",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996026344753484264",
+            "type": "quoted"
+          },
+          {
+            "id": "1996096071035142419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 顺便说一般通过可可也是个傻逼，\n半夜喝酒喝大了进我朋友sps就开始爹味发言，\n把女推友惹急了吵起来了，我拉架给他们顺毛顺好了，两边水端平了他在那记我仇，纯傻逼一个 https://t.co/rQun1WSYA9 https://t.co/2k8bysD2gi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 516,
+          "like_count": 15105,
+          "listed_count": 1,
+          "media_count": 703,
+          "tweet_count": 6510
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T22:07:36.000Z",
+        "description": "炸号了@v5Family_ 推友找回中🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "v5Family_"
+              }
+            ]
+          }
+        },
+        "id": "1977858284964159488",
+        "name": "芥末苔藓🩵（永动家仆版）",
+        "pinned_tweet_id": "1995079577627156783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988574423180525568/1ocXqfjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 403,
+          "like_count": 13153,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 6194
+        },
+        "username": "Quinnnankoku",
+        "verified": true
+      }
+    ]
+  }
+}

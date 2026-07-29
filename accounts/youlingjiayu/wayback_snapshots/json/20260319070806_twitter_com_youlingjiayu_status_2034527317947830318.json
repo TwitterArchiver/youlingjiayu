@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034527315401818112"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2034527317947830318",
+    "created_at": "2026-03-19T07:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034527317947830318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8RxtmEk53m",
+          "end": 48,
+          "expanded_url": "https://x.com/youlingjiayu/status/2034527317947830318/photo/1",
+          "media_key": "3_2034527315401818112",
+          "start": 25,
+          "url": "https://t.co/8RxtmEk53m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034527317947830318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我再也不来这家了，一进去就开始流鼻涕和打喷嚏…… https://t.co/8RxtmEk53m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1237,
+        "media_key": "3_2034527315401818112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwX0GBawAAfQ-x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034527315401818112"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034527317947830318",
+        "created_at": "2026-03-19T07:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034527317947830318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RxtmEk53m",
+              "end": 48,
+              "expanded_url": "https://x.com/youlingjiayu/status/2034527317947830318/photo/1",
+              "media_key": "3_2034527315401818112",
+              "start": 25,
+              "url": "https://t.co/8RxtmEk53m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034527317947830318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不来这家了，一进去就开始流鼻涕和打喷嚏…… https://t.co/8RxtmEk53m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 523,
+          "like_count": 17962,
+          "listed_count": 1,
+          "media_count": 908,
+          "tweet_count": 7750
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

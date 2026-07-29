@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1952378850274574830",
+    "created_at": "2025-08-04T14:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T15:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952380283522867616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766084656141877248",
+          "start": 0,
+          "username": "Micocy1007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952380283522867616",
+    "in_reply_to_user_id": "1766084656141877248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952378850274574830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Micocy1007 😇是达英的副作用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1952378850274574830",
+        "created_at": "2025-08-04T14:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952380283522867616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766084656141877248",
+              "start": 0,
+              "username": "Micocy1007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952380283522867616",
+        "in_reply_to_user_id": "1766084656141877248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952378850274574830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Micocy1007 😇是达英的副作用。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766084656141877248",
+        "conversation_id": "1952378850274574830",
+        "created_at": "2025-08-04T14:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952378850274574830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952378850274574830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sps里的大家都在讲自己性压抑 \n有的时候是爱 有的时候是欲望 有的时候是简简单单对于拥抱的渴求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 536,
+          "like_count": 12831,
+          "listed_count": 0,
+          "media_count": 579,
+          "tweet_count": 5350
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T12:53:01.000Z",
+        "description": "如果能做到的话 请你深呼吸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/micocy10072",
+                "end": 23,
+                "expanded_url": "https://ngl.link/micocy10072",
+                "start": 0,
+                "url": "https://t.co/fvyjivJQ96"
+              }
+            ]
+          }
+        },
+        "id": "1766084656141877248",
+        "location": "杭州",
+        "name": "Micocy",
+        "pinned_tweet_id": "1942256628402897173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901110791295954948/588hOmtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 239,
+          "like_count": 4024,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1120
+        },
+        "url": "https://t.co/fvyjivJQ96",
+        "username": "Micocy1007",
+        "verified": false
+      }
+    ]
+  }
+}

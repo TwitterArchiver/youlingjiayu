@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1877218184614309959",
+    "created_at": "2025-01-09T05:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T06:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877219060477218897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1785266061048471552",
+          "start": 0,
+          "username": "figunfng822085"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877219060477218897",
+    "in_reply_to_user_id": "1785266061048471552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877218184614309959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@figunfng822085 可以去复制点抽象文案（什么）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1877218184614309959",
+        "created_at": "2025-01-09T05:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T06:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877219060477218897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1785266061048471552",
+              "start": 0,
+              "username": "figunfng822085"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877219060477218897",
+        "in_reply_to_user_id": "1785266061048471552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877218184614309959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@figunfng822085 可以去复制点抽象文案（什么）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785266061048471552",
+        "conversation_id": "1877218184614309959",
+        "created_at": "2025-01-09T04:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T05:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877218184614309959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877218184614309959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有办法编辑出有趣的文字呢，真是令人悲伤的事实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 517,
+          "like_count": 3490,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2127
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T11:13:01.000Z",
+        "description": "摆烂占卜师，目前免费占卜，当然其他东西也会，希望涨fo，希望和友善的人成为朋友，如果有需要的话可以私信我，乐于倾听大家的烦恼",
+        "id": "1785266061048471552",
+        "location": "很远的地方",
+        "name": "苍鸫（免费占卜ing） ˶ᵒ ᵕ ˂",
+        "pinned_tweet_id": "1876855158203687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876854431867957248/VXV5V2qg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 125,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 101
+        },
+        "username": "figunfng822085",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1910168972387045622",
+    "created_at": "2025-04-10T10:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T11:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910276416014573598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "362228606",
+          "start": 0,
+          "username": "7thasylum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910276416014573598",
+    "in_reply_to_user_id": "362228606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910168972387045622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7thasylum 😥上次去广州没有尝试，原来这么好吃吗……下次去我一定要试试。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1910168972387045622",
+        "created_at": "2025-04-10T10:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T11:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910276416014573598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "362228606",
+              "start": 0,
+              "username": "7thasylum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910276416014573598",
+        "in_reply_to_user_id": "362228606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910168972387045622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7thasylum 😥上次去广州没有尝试，原来这么好吃吗……下次去我一定要试试。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "362228606",
+        "conversation_id": "1910168972387045622",
+        "created_at": "2025-04-10T03:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T04:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910168972387045622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jyrrr5/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/jyrrr5/status/1909922652275539981",
+              "start": 15,
+              "url": "https://t.co/V7Qy8l7znw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910168972387045622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909922652275539981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大鸽饭我将永远追随你（尖叫） https://t.co/V7Qy8l7znw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 503,
+          "like_count": 8713,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 3882
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-26T01:55:12.000Z",
+        "description": "“顽劣的、温和的。”\n名字是栖栖/ENFP♎️/ADHD/世界上所有人都是我的爱人（精神上）/switch/泛/braaaat♀️/无孩爱猫待业做题家。\n是个生活推，欢迎和我交朋友嘟🥺☝",
+        "id": "362228606",
+        "location": "Guangdong",
+        "name": "第七避难所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888529439195291648/3z0aU-W9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 199,
+          "like_count": 6061,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 935
+        },
+        "username": "7thasylum",
+        "verified": false
+      }
+    ]
+  }
+}

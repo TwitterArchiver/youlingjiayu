@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1869386505468395781",
+    "created_at": "2024-12-18T15:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T16:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869402947827953723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594749463192485888",
+          "start": 0,
+          "username": "UuSNNY_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869402947827953723",
+    "in_reply_to_user_id": "1594749463192485888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869386505468395781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UuSNNY_8 宝宝注意身体🥺朋友好好笑（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1869386505468395781",
+        "created_at": "2024-12-18T15:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T16:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869402947827953723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594749463192485888",
+              "start": 0,
+              "username": "UuSNNY_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869402947827953723",
+        "in_reply_to_user_id": "1594749463192485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869386505468395781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UuSNNY_8 宝宝注意身体🥺朋友好好笑（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594749463192485888",
+        "conversation_id": "1869386505468395781",
+        "created_at": "2024-12-18T14:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T15:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869386505468395781"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 73,
+              "tag": "谐音梗说多的报应如上"
+            },
+            {
+              "end": 95,
+              "start": 85,
+              "tag": "总说骚话的报应如上"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869386505468395781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "*和朋友说我发烧了\n\n友：鸭头 怎么跟我还这么委婉（QQ黄豆坏笑）\n我：wtf因为劳资真的尼玛发烧了 体温超出正常范围了我没在跟你说谐音梗💧🗿\n\n#谐音梗说多的报应如上\n#总说骚话的报应如上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 520,
+          "like_count": 3056,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1931
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T17:48:05.000Z",
+        "description": "📝小序的碎碎念日记本‖ I'm gonna sleep,cuz u live in my daydreams ‖我喜欢装熟 如有冒犯对不起😔",
+        "id": "1594749463192485888",
+        "location": "那就下一场雨 让一切都潮湿",
+        "name": "风落序",
+        "pinned_tweet_id": "1827733759439069579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597990263112228864/5gQbtCIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 177,
+          "like_count": 7853,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 2929
+        },
+        "username": "UuSNNY_8",
+        "verified": false
+      }
+    ]
+  }
+}

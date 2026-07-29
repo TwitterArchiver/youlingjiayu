@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1851313061799305666",
+    "created_at": "2024-10-30T05:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T06:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851489697115357309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705582301642653696",
+          "start": 0,
+          "username": "miuchisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851489697115357309",
+    "in_reply_to_user_id": "1705582301642653696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851313061799305666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miuchisama 有朋友自学➕打日乙达到n2，或许可以试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1851313061799305666",
+        "created_at": "2024-10-30T05:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T06:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851489697115357309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705582301642653696",
+              "start": 0,
+              "username": "miuchisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851489697115357309",
+        "in_reply_to_user_id": "1705582301642653696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851313061799305666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miuchisama 有朋友自学➕打日乙达到n2，或许可以试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705582301642653696",
+        "conversation_id": "1851313061799305666",
+        "created_at": "2024-10-29T17:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T18:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851313061799305666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851313061799305666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级想学日文。\n自学能成功吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼（意思是我是ftx）\n00后/intj/无业游民/臭搞同人的，把这边当日记本和垃圾桶\n不加lxfs，除非你是女的或者长得好看的男的，害怕性器官\n泛性恋（偏好非二元或者酷儿的1i/4i）/switch",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 493,
+          "like_count": 706,
+          "listed_count": 0,
+          "tweet_count": 573
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T13:58:13.000Z",
+        "description": "𓆩 ♡ 𓆪 ᴍɪᴜᴄʜɪ 𓆩 ♡ 𓆪 / ♀️ / ૮₍ • ˕ - ₎ა🩷₊˚/ 愛を満たしておくれよ/ ほんとうは幸せを知っているのに不幸なフリやめられないね //互关小女孩看到会回的（沒回私信我）",
+        "id": "1705582301642653696",
+        "location": "埋葬在寒冷的冬天",
+        "name": "𝗠𝗶𝘂𝗰𝗵𝗶",
+        "pinned_tweet_id": "1850948080344199359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847529546788327426/Bojsg08S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 404,
+          "like_count": 4726,
+          "listed_count": 1,
+          "tweet_count": 512
+        },
+        "username": "miuchisama",
+        "verified": false
+      }
+    ]
+  }
+}

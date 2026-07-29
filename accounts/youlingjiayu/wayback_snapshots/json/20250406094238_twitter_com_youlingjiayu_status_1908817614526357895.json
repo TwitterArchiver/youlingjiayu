@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1908787670756585710",
+    "created_at": "2025-04-06T09:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T10:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908817614526357895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "362228606",
+          "start": 0,
+          "username": "7thasylum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908817614526357895",
+    "in_reply_to_user_id": "362228606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908787670756585710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7thasylum 不刷牙就亲嘴真的可以吗（迷思）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1908787670756585710",
+        "created_at": "2025-04-06T09:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T10:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908817614526357895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "362228606",
+              "start": 0,
+              "username": "7thasylum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908817614526357895",
+        "in_reply_to_user_id": "362228606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908787670756585710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7thasylum 不刷牙就亲嘴真的可以吗（迷思）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "362228606",
+        "conversation_id": "1908787670756585710",
+        "created_at": "2025-04-06T07:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T08:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908787670756585710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908787670756585710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我不能每天起床一睁眼就有帅嘴亲。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 498,
+          "like_count": 8254,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 3670
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-26T01:55:12.000Z",
+        "description": "“顽劣的、温和的。”\n名字是栖栖/ENFP♎️/ADHD/世界上所有人都是我的爱人（精神上）/switch/泛/braaaat♀️/无孩爱猫待业做题家。\n是个生活推，欢迎和我交朋友嘟🥺☝",
+        "id": "362228606",
+        "location": "Guangdong",
+        "name": "第七避难所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888529439195291648/3z0aU-W9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 198,
+          "like_count": 5636,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 859
+        },
+        "username": "7thasylum",
+        "verified": false
+      }
+    ]
+  }
+}

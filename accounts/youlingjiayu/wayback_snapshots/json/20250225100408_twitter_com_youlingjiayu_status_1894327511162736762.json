@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894327508625170432"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1894327511162736762",
+    "created_at": "2025-02-25T10:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T11:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894327511162736762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YeZPh1J7ZZ",
+          "end": 111,
+          "expanded_url": "https://x.com/youlingjiayu/status/1894327511162736762/photo/1",
+          "media_key": "3_1894327508625170432",
+          "start": 88,
+          "url": "https://t.co/YeZPh1J7ZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894327511162736762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以把我说的放弃和丧气话视为一种撒娇……我要是和我说的一样脆弱的话，那早就死在校园暴力和重度抑郁症里了。\n不过还是希望有回应和安慰帮我加速度过负面的状态，算是一点小小的任性。 https://t.co/YeZPh1J7ZZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 355,
+        "media_key": "3_1894327508625170432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkoA1R_aoAARAm0.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894327508625170432"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1894327511162736762",
+        "created_at": "2025-02-25T10:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T11:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894327511162736762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeZPh1J7ZZ",
+              "end": 111,
+              "expanded_url": "https://x.com/youlingjiayu/status/1894327511162736762/photo/1",
+              "media_key": "3_1894327508625170432",
+              "start": 88,
+              "url": "https://t.co/YeZPh1J7ZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894327511162736762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以把我说的放弃和丧气话视为一种撒娇……我要是和我说的一样脆弱的话，那早就死在校园暴力和重度抑郁症里了。\n不过还是希望有回应和安慰帮我加速度过负面的状态，算是一点小小的任性。 https://t.co/YeZPh1J7ZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 492,
+          "like_count": 6025,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 2820
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

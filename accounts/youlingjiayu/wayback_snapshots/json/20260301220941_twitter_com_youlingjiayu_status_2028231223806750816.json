@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2028141028293935312",
+    "created_at": "2026-03-01T22:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T23:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028231223806750816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626079825218924549",
+          "start": 0,
+          "username": "RubyPrettyRuby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028231223806750816",
+    "in_reply_to_user_id": "1626079825218924549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028154440835051775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RubyPrettyRuby 这个甲鱼从来没有面试过。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2028154440835051775].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2028154440835051775",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2028154440835051775"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2028141028293935312",
+        "created_at": "2026-03-01T22:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T23:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028231223806750816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626079825218924549",
+              "start": 0,
+              "username": "RubyPrettyRuby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028231223806750816",
+        "in_reply_to_user_id": "1626079825218924549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028154440835051775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RubyPrettyRuby 这个甲鱼从来没有面试过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 522,
+          "like_count": 17518,
+          "listed_count": 1,
+          "media_count": 872,
+          "tweet_count": 7570
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T04:44:34.000Z",
+        "description": "神奇粘鼠胶/阶段性读书博主",
+        "id": "1626079825218924549",
+        "name": "那谁的匿名冲浪账号🎄",
+        "pinned_tweet_id": "1891493544675746236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012433504039256064/b5PHCAei_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 269,
+          "like_count": 7274,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 6756
+        },
+        "username": "RubyPrettyRuby",
+        "verified": false
+      }
+    ]
+  }
+}

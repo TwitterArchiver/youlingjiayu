@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1985766418949030007",
+    "created_at": "2025-11-04T17:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T18:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985766418949030007"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985766418949030007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对我的思考又爱又恨；我想把冰锥从眼眶插进去，把我的大脑搅碎，让我的脑浆混着血流出。\n我想要片刻的安宁和平静，让我头脑中的低语暂停……无非是酒精、睡眠、性和生病。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1985766418949030007",
+        "created_at": "2025-11-04T17:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T18:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985766418949030007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985766418949030007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对我的思考又爱又恨；我想把冰锥从眼眶插进去，把我的大脑搅碎，让我的脑浆混着血流出。\n我想要片刻的安宁和平静，让我头脑中的低语暂停……无非是酒精、睡眠、性和生病。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 524,
+          "like_count": 14199,
+          "listed_count": 2,
+          "media_count": 638,
+          "tweet_count": 5958
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

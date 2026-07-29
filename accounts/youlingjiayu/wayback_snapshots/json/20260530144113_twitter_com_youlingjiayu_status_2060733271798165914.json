@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2060420037274742857",
+    "created_at": "2026-05-30T14:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060733271798165914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1866846638515318784",
+          "start": 0,
+          "username": "bloria33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060733271798165914",
+    "in_reply_to_user_id": "1866846638515318784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060420037274742857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bloria33 🫂🫂🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060420037274742857].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060420037274742857",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060420037274742857"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2060420037274742857",
+        "created_at": "2026-05-30T14:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060733271798165914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1866846638515318784",
+              "start": 0,
+              "username": "bloria33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060733271798165914",
+        "in_reply_to_user_id": "1866846638515318784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060420037274742857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bloria33 🫂🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 527,
+          "like_count": 18747,
+          "listed_count": 1,
+          "media_count": 979,
+          "tweet_count": 8186
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T14:05:06.000Z",
+        "description": "下班日记",
+        "id": "1866846638515318784",
+        "name": "Bloria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033953983770071042/UzBSSdWV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 208,
+          "like_count": 11996,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1569
+        },
+        "username": "bloria33",
+        "verified": false
+      }
+    ]
+  }
+}

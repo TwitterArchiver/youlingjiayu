@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1902738851015344634",
+    "created_at": "2025-03-20T15:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T16:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902738851015344634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/1902710745185587411",
+          "start": 39,
+          "url": "https://t.co/erk2MKKbKM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902738851015344634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902710745185587411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吧我确实不在意他俩了，我今天才知道其中一位已经研究生退学很久在家里躺平了。 https://t.co/erk2MKKbKM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1902738851015344634",
+        "created_at": "2025-03-20T15:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T16:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902738851015344634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1902710745185587411",
+              "start": 39,
+              "url": "https://t.co/erk2MKKbKM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902738851015344634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902710745185587411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧我确实不在意他俩了，我今天才知道其中一位已经研究生退学很久在家里躺平了。 https://t.co/erk2MKKbKM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1902710745185587411",
+        "created_at": "2025-03-20T13:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T14:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902710745185587411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902710745185587411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想起某个冬夜，某人离开了我，我们一个在宿舍吐血，一个哭到站不起来被拉去急救；后来在另一个秋天，我离开了某人，他哭着问我能不能不分手，而我逃开了……最后我练就了迅速抽身的本领，那我又会离开谁，谁又会把我抛下呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 492,
+          "like_count": 6923,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 3132
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

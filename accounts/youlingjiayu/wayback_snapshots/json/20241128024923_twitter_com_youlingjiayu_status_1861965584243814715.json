@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1861960792314409349",
+    "created_at": "2024-11-28T02:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T03:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861965584243814715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609641240827686913",
+          "start": 0,
+          "username": "RintheMemewitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861965584243814715",
+    "in_reply_to_user_id": "1609641240827686913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861964382999355558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RintheMemewitch 收到！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1861960792314409349",
+        "created_at": "2024-11-28T02:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T03:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861965584243814715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609641240827686913",
+              "start": 0,
+              "username": "RintheMemewitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861965584243814715",
+        "in_reply_to_user_id": "1609641240827686913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861964382999355558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RintheMemewitch 收到！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609641240827686913",
+        "conversation_id": "1861960792314409349",
+        "created_at": "2024-11-28T02:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T03:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861964382999355558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861964382999355558",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861963438672732294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 我给你链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 520,
+          "like_count": 1964,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1370
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T20:02:46.000Z",
+        "description": "防失聯：Discord /Pixiv/Ins/Fb/AO3/Ytb account：Rinshiwasu ｜only Angel devil 4ever 配偶担保天使恶魔移民我是认真的",
+        "id": "1609641240827686913",
+        "location": "Tokyo",
+        "name": "Meme witch 师走凌",
+        "pinned_tweet_id": "1852842763060171044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833333612776955904/vKRbzn4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 83,
+          "like_count": 2137,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1692
+        },
+        "username": "RintheMemewitch",
+        "verified": false
+      }
+    ]
+  }
+}

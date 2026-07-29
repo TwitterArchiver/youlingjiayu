@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2000419728087777641",
+    "created_at": "2025-12-15T04:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T05:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000422059479040500"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000422059479040500",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000419728087777641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没关系的，会过去的，不需要麻烦别人也能好起来的……不要躲进幻想里，没有人会真正拯救你。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 325,
+        "media_key": "3_2000419725755699200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LrJFNaUAArqQm.jpg",
+        "width": 332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2000419728087777641",
+        "created_at": "2025-12-15T04:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000422059479040500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000422059479040500",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000419728087777641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没关系的，会过去的，不需要麻烦别人也能好起来的……不要躲进幻想里，没有人会真正拯救你。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000419725755699200"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "2000419728087777641",
+        "created_at": "2025-12-15T04:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000419728087777641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UAABkn3MvW",
+              "end": 56,
+              "expanded_url": "https://x.com/youlingjiayu/status/2000419728087777641/photo/1",
+              "media_key": "3_2000419725755699200",
+              "start": 33,
+              "url": "https://t.co/UAABkn3MvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000419728087777641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都在间歇犯鱼鱼蒸，就这样倒在床上哭，哭完了再慢慢爬起来做事。 https://t.co/UAABkn3MvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 514,
+          "like_count": 15489,
+          "listed_count": 1,
+          "media_count": 733,
+          "tweet_count": 6760
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

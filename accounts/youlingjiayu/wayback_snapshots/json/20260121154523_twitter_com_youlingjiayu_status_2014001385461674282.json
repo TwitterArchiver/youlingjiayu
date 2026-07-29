@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2013989583873278202",
+    "created_at": "2026-01-21T15:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014001385461674282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "909189799",
+          "start": 0,
+          "username": "JMTXsix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014001385461674282",
+    "in_reply_to_user_id": "909189799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014000728986226889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JMTXsix ……我有一抽屉不需要分哪双是哪双的同款黑白灰袜子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2013989583873278202",
+        "created_at": "2026-01-21T15:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014001385461674282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909189799",
+              "start": 0,
+              "username": "JMTXsix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014001385461674282",
+        "in_reply_to_user_id": "909189799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014000728986226889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JMTXsix ……我有一抽屉不需要分哪双是哪双的同款黑白灰袜子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909189799",
+        "conversation_id": "2013989583873278202",
+        "created_at": "2026-01-21T15:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014000728986226889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014000728986226889",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014000313263702423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 和男人一抽屉同款的黑色袜子分不清楚谁和谁是同一双又无所谓是不是同一双反正都长一样也不用分左右脚的难受感让我抓狂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 520,
+          "like_count": 16763,
+          "listed_count": 1,
+          "media_count": 798,
+          "tweet_count": 7246
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "和我在一起，你便不必羡慕旁人的幸福会不会降临在你身上。",
+        "id": "909189799",
+        "name": "❄️雪顶苔藓🧁",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012794186509217792/h5a_W7uW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 585,
+          "like_count": 12406,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 4677
+        },
+        "username": "JMTXsix",
+        "verified": true
+      }
+    ]
+  }
+}

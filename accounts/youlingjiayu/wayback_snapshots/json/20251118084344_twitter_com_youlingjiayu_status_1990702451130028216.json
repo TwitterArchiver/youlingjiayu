@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1989559359962288349",
+    "created_at": "2025-11-18T08:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T09:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990702451130028216"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990702451130028216",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990587095480778978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甲鱼走在路上因为社恐不会主动和人打招呼；如果有人和我打招呼我没回，大概率是我过于沉浸于思考没注意到有人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1989559359962288349",
+        "created_at": "2025-11-18T08:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990702451130028216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990702451130028216",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990587095480778978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甲鱼走在路上因为社恐不会主动和人打招呼；如果有人和我打招呼我没回，大概率是我过于沉浸于思考没注意到有人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1989559359962288349",
+        "created_at": "2025-11-18T01:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990587095480778978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990587095480778978",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990267638535307679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甲鱼因为总是很容易拉肚子所以没有遇到过便秘问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 524,
+          "like_count": 14403,
+          "listed_count": 1,
+          "media_count": 662,
+          "tweet_count": 6131
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

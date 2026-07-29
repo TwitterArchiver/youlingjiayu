@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1919421313552187477",
+    "created_at": "2025-05-08T13:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T14:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920469315083452662"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1920469315083452662",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919421313552187477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然想起“贪图”的问题。\n基于从小对法医学和刑侦学的个人爱好，对因果的好奇和探索几乎在我的思维里根深蒂固；这个时候就得说一下我的低情商了，一般有人找我哭诉，我都先想搞懂“为什么”才会想办法安慰。\n水牛比尔“贪图”着什么，所以犯下常人无法理解的罪行，而“你的眼睛，是否又在寻找你想要的东西”？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_1919421305948151810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqMnghtbIAIJoLJ.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1919421313552187477",
+        "created_at": "2025-05-08T13:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T14:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920469315083452662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920469315083452662",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919421313552187477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想起“贪图”的问题。\n基于从小对法医学和刑侦学的个人爱好，对因果的好奇和探索几乎在我的思维里根深蒂固；这个时候就得说一下我的低情商了，一般有人找我哭诉，我都先想搞懂“为什么”才会想办法安慰。\n水牛比尔“贪图”着什么，所以犯下常人无法理解的罪行，而“你的眼睛，是否又在寻找你想要的东西”？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919421305948151810"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1919421313552187477",
+        "created_at": "2025-05-05T15:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T16:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919421313552187477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKcR8o6NAr",
+              "end": 164,
+              "expanded_url": "https://x.com/youlingjiayu/status/1919421313552187477/photo/1",
+              "media_key": "3_1919421305948151810",
+              "start": 141,
+              "url": "https://t.co/lKcR8o6NAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919421313552187477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经影评19\n《沉默的羔羊》\n高中的时候看了小说和电影，这次和entp一起看是二刷。\n看到了更多没有注意到的细节，电影名场面太多反而不知道该抉择截什么图，最后选择了这张。\n“那些羔羊停止尖叫了吗？”\n一旦羔羊停止尖叫，也意味着某种变成蝴蝶的转变吗？圣母的使命会完满地结束吗？ https://t.co/lKcR8o6NAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜我想答案可能是生命本身。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 510,
+          "like_count": 9827,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 4320
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

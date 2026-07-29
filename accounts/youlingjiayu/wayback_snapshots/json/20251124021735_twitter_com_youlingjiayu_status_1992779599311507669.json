@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1992779599311507669",
+    "created_at": "2025-11-24T02:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T03:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992779599311507669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/1992561352381190347",
+          "start": 27,
+          "url": "https://t.co/L87FProfDK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992779599311507669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992561352381190347",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我对此男的公司有很多疑问，午休的时候再码字讲吧。 https://t.co/L87FProfDK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_1992561349487181824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6b__YVbQAAIWaC.jpg",
+        "width": 1688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1992779599311507669",
+        "created_at": "2025-11-24T02:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T03:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992779599311507669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1992561352381190347",
+              "start": 27,
+              "url": "https://t.co/L87FProfDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992779599311507669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992561352381190347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我对此男的公司有很多疑问，午休的时候再码字讲吧。 https://t.co/L87FProfDK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992561349487181824"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1992561352381190347",
+        "created_at": "2025-11-23T11:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992561352381190347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5q4bQoIcYh",
+              "end": 48,
+              "expanded_url": "https://x.com/youlingjiayu/status/1992561352381190347/photo/1",
+              "media_key": "3_1992561349487181824",
+              "start": 25,
+              "url": "https://t.co/5q4bQoIcYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992561352381190347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Make Hell great again说是。 https://t.co/5q4bQoIcYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 520,
+          "like_count": 14612,
+          "listed_count": 1,
+          "media_count": 680,
+          "tweet_count": 6254
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

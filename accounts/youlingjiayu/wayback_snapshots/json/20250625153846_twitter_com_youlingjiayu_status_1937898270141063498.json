@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1937898270141063498",
+    "created_at": "2025-06-25T15:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T16:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937898270141063498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ScarletC33832/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/ScarletC33832/status/1937821455590490272",
+          "start": 23,
+          "url": "https://t.co/UEDXMIED29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937898270141063498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937821455590490272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实怎么样才算强者也是问题……暂且按下不表。 https://t.co/UEDXMIED29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937821447038373888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuSGVszbEAAhezM.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1937898270141063498",
+        "created_at": "2025-06-25T15:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T16:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937898270141063498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ScarletC33832/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/ScarletC33832/status/1937821455590490272",
+              "start": 23,
+              "url": "https://t.co/UEDXMIED29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937898270141063498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937821455590490272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实怎么样才算强者也是问题……暂且按下不表。 https://t.co/UEDXMIED29"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937821447038373888"
+          ]
+        },
+        "author_id": "1759076490061426688",
+        "conversation_id": "1937821455590490272",
+        "created_at": "2025-06-25T10:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937821455590490272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i01I7xYUSq",
+              "end": 23,
+              "expanded_url": "https://x.com/ScarletC33832/status/1937821455590490272/photo/1",
+              "media_key": "3_1937821447038373888",
+              "start": 0,
+              "url": "https://t.co/i01I7xYUSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937821455590490272",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/i01I7xYUSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 530,
+          "like_count": 11206,
+          "listed_count": 0,
+          "media_count": 510,
+          "tweet_count": 4839
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T04:45:26.000Z",
+        "description": "Next time you see good stuff \njust grab it",
+        "id": "1759076490061426688",
+        "location": "you've raised my standard",
+        "name": "Arthur",
+        "pinned_tweet_id": "1936718096431271939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875882829386788864/g4V5PRdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 490,
+          "like_count": 8038,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 3120
+        },
+        "username": "ScarletC33832",
+        "verified": false
+      }
+    ]
+  }
+}

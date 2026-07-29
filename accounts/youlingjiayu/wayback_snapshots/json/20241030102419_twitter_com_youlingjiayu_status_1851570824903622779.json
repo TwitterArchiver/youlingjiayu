@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1851260671331352965",
+    "created_at": "2024-10-30T10:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T11:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851570824903622779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547158970019840001",
+          "start": 0,
+          "username": "Pierrotlefouu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851570824903622779",
+    "in_reply_to_user_id": "1547158970019840001",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851260671331352965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pierrotlefouu_ 几乎没有人能接住呕吐物（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1851260671331352965",
+        "created_at": "2024-10-30T10:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T11:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851570824903622779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547158970019840001",
+              "start": 0,
+              "username": "Pierrotlefouu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851570824903622779",
+        "in_reply_to_user_id": "1547158970019840001",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851260671331352965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pierrotlefouu_ 几乎没有人能接住呕吐物（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547158970019840001",
+        "conversation_id": "1851260671331352965",
+        "created_at": "2024-10-29T13:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T14:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851260671331352965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851260671331352965",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5460,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "尽量不要把自己的伤口展示给陌生人。他们的回应很可能不会带来治愈，反而让你更加麻木。热心的网友们，往往是那些最像你却又最远离你生活的人。对于互联网和上网人群的信任，常常是错位的：真实的痛苦在这片虚拟的土壤上，很容易被扭曲和误解。长久以来，这已成为我在网上沉浮的普遍体验。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼（意思是我是ftx）\n00后/intj/无业游民/臭搞同人的，把这边当日记本和垃圾桶\n不加lxfs，除非你是女的或者长得好看的男的，害怕性器官\n泛性恋（偏好非二元或者酷儿的1i/4i）/switch",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 497,
+          "like_count": 722,
+          "listed_count": 0,
+          "tweet_count": 582
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T10:00:29.000Z",
+        "description": "submissive/老派刺客",
+        "id": "1547158970019840001",
+        "name": "我們時代的愛無能",
+        "pinned_tweet_id": "1797631830663053389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839284707206520832/TuWDJxbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 299,
+          "like_count": 8088,
+          "listed_count": 3,
+          "tweet_count": 449
+        },
+        "username": "Pierrotlefouu_",
+        "verified": false
+      }
+    ]
+  }
+}

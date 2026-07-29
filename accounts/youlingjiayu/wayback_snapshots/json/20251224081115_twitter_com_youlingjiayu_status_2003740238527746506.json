@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2003740238527746506",
+    "created_at": "2025-12-24T08:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T09:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003740238527746506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/2003720015359721773",
+          "start": 113,
+          "url": "https://t.co/PGzHY5CtZh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003740238527746506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003720015359721773",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我仔细思考了一下“未竟的事业”，去咨询了很多人，暂时算是拟定了一个大概的短期目标；我想真正为自己做一次决定和规划，我觉得既然劫后余生想到的是这件事，那么说明它一定是我最在意的；尽管很多事情还没有想明白，但至少没有那么迷茫了。 https://t.co/PGzHY5CtZh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2003740238527746506",
+        "created_at": "2025-12-24T08:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003740238527746506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/2003720015359721773",
+              "start": 113,
+              "url": "https://t.co/PGzHY5CtZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003740238527746506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003720015359721773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我仔细思考了一下“未竟的事业”，去咨询了很多人，暂时算是拟定了一个大概的短期目标；我想真正为自己做一次决定和规划，我觉得既然劫后余生想到的是这件事，那么说明它一定是我最在意的；尽管很多事情还没有想明白，但至少没有那么迷茫了。 https://t.co/PGzHY5CtZh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2003719856194224175",
+        "created_at": "2025-12-24T06:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T07:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003720015359721773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003720015359721773",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003719856194224175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这次濒死体验让我意识到了一些事情，一是我钝感力很强，窒息一次之后还是决定再睡一次然后又窒息了一次；二是我终于知道我最在意的事情是什么了，因为我醒来的第一反应就是我不能死在这里，我还有没有把这件事做成；三是我很关心朋友，完全清醒之后的第一个念头是还好没把朋友家变成命案现场。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 514,
+          "like_count": 15826,
+          "listed_count": 1,
+          "media_count": 751,
+          "tweet_count": 6882
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

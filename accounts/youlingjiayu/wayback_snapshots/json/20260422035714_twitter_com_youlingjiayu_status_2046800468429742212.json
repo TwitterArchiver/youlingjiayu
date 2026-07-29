@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2046640865700159941",
+    "created_at": "2026-04-22T03:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T04:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046800468429742212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1847666593788248064",
+          "start": 0,
+          "username": "swbdkxy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046800468429742212",
+    "in_reply_to_user_id": "1847666593788248064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046641176393232526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swbdkxy7 我也胆小鬼来的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2046640865700159941",
+        "created_at": "2026-04-22T03:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046800468429742212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1847666593788248064",
+              "start": 0,
+              "username": "swbdkxy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046800468429742212",
+        "in_reply_to_user_id": "1847666593788248064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046641176393232526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swbdkxy7 我也胆小鬼来的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847666593788248064",
+        "conversation_id": "2046640865700159941",
+        "created_at": "2026-04-21T17:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046641176393232526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046641176393232526",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046640865700159941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 大丈夫不与懦夫为伍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 524,
+          "like_count": 18213,
+          "listed_count": 1,
+          "media_count": 949,
+          "tweet_count": 7946
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T15:50:30.000Z",
+        "description": "尽量诚实地面对自己",
+        "id": "1847666593788248064",
+        "name": "左右",
+        "pinned_tweet_id": "2043373860460904633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043517547157331968/G__ep5O-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 163,
+          "like_count": 439,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 538
+        },
+        "username": "swbdkxy7",
+        "verified": false
+      }
+    ]
+  }
+}

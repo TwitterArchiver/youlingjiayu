@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1871924553229967365",
+    "created_at": "2024-12-25T14:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T15:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871928908016386304"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1871928908016386304",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871924553229967365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明天还是跑博物馆的一天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1871924553229967365",
+        "created_at": "2024-12-25T14:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T15:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871928908016386304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871928908016386304",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871924553229967365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天还是跑博物馆的一天。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871924548859518976",
+            "3_1871924549476024321",
+            "3_1871924549723549697",
+            "3_1871924550457503744"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1871924553229967365",
+        "created_at": "2024-12-25T14:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T15:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871924553229967365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNna7nwe0U",
+              "end": 35,
+              "expanded_url": "https://x.com/youlingjiayu/status/1871924553229967365/photo/1",
+              "media_key": "3_1871924548859518976",
+              "start": 12,
+              "url": "https://t.co/qNna7nwe0U"
+            },
+            {
+              "display_url": "pic.x.com/qNna7nwe0U",
+              "end": 35,
+              "expanded_url": "https://x.com/youlingjiayu/status/1871924553229967365/photo/1",
+              "media_key": "3_1871924549476024321",
+              "start": 12,
+              "url": "https://t.co/qNna7nwe0U"
+            },
+            {
+              "display_url": "pic.x.com/qNna7nwe0U",
+              "end": 35,
+              "expanded_url": "https://x.com/youlingjiayu/status/1871924553229967365/photo/1",
+              "media_key": "3_1871924549723549697",
+              "start": 12,
+              "url": "https://t.co/qNna7nwe0U"
+            },
+            {
+              "display_url": "pic.x.com/qNna7nwe0U",
+              "end": 35,
+              "expanded_url": "https://x.com/youlingjiayu/status/1871924553229967365/photo/1",
+              "media_key": "3_1871924550457503744",
+              "start": 12,
+              "url": "https://t.co/qNna7nwe0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871924553229967365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论我今天都在干些什么。 https://t.co/qNna7nwe0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870033441397596160/ItBZg8zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 520,
+          "like_count": 3126,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1978
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

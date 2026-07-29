@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1986784865413627927",
+    "created_at": "2025-11-07T15:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T16:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986816453203677209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620470512995696641",
+          "start": 0,
+          "username": "danny131ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986816453203677209",
+    "in_reply_to_user_id": "1620470512995696641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986784865413627927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@danny131ng 跪いて愛を問う丨跪下问爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1986784865413627927",
+        "created_at": "2025-11-07T15:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986816453203677209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620470512995696641",
+              "start": 0,
+              "username": "danny131ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986816453203677209",
+        "in_reply_to_user_id": "1620470512995696641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986784865413627927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@danny131ng 跪いて愛を問う丨跪下问爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620470512995696641",
+        "conversation_id": "1986784865413627927",
+        "created_at": "2025-11-07T13:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986784865413627927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "饼’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1gqxv…",
+              "end": 26,
+              "expanded_url": "https://x.com/i/spaces/1gqxvrZjXaWxB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1986784907813941248/FMzvOa43?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1986784907813941248/FMzvOa43?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "Happening now: p1",
+              "unwound_url": "https://twitter.com/i/spaces/1gqxvrZjXaWxB/peek",
+              "url": "https://t.co/yeYecka548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986784865413627927",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 https://t.co/yeYecka548"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 523,
+          "like_count": 14220,
+          "listed_count": 2,
+          "media_count": 643,
+          "tweet_count": 5995
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T17:14:35.000Z",
+        "description": "卷饼丨正在努力化身器灵的三脚架",
+        "id": "1620470512995696641",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961518337806282752/l9tyaezC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 337,
+          "like_count": 7188,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 2012
+        },
+        "username": "danny131ng",
+        "verified": false
+      }
+    ]
+  }
+}

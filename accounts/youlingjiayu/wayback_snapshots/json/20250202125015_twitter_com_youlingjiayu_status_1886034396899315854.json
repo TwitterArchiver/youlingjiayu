@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1885725205273936126",
+    "created_at": "2025-02-02T12:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T13:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886034396899315854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "771971954584657920",
+          "start": 0,
+          "username": "vanilla_sodaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886034396899315854",
+    "in_reply_to_user_id": "771971954584657920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885725205273936126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vanilla_sodaa 想起了那首牛仔之歌……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1885725205273936126",
+        "created_at": "2025-02-02T12:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T13:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886034396899315854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "771971954584657920",
+              "start": 0,
+              "username": "vanilla_sodaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886034396899315854",
+        "in_reply_to_user_id": "771971954584657920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885725205273936126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanilla_sodaa 想起了那首牛仔之歌……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885725194381377536"
+          ]
+        },
+        "author_id": "771971954584657920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885725205273936126",
+        "created_at": "2025-02-01T16:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T17:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885725205273936126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RcUeQseox",
+              "end": 39,
+              "expanded_url": "https://x.com/vanilla_sodaa/status/1885725205273936126/photo/1",
+              "media_key": "3_1885725194381377536",
+              "start": 16,
+              "url": "https://t.co/8RcUeQseox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885725205273936126",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I am a cowboy!! https://t.co/8RcUeQseox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 530,
+          "like_count": 4824,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2555
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T07:23:51.000Z",
+        "description": "ENFP-T || coffee fanatic & carnivore || 髡贼 || Exchange & Cloud Engineer in @DXCTechnology Lang:🇨🇳🇺🇸🇯🇵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "DXCTechnology"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/vanillasoda",
+                "end": 23,
+                "expanded_url": "https://bento.me/vanillasoda",
+                "start": 0,
+                "url": "https://t.co/tdohnlY95O"
+              }
+            ]
+          }
+        },
+        "id": "771971954584657920",
+        "location": "대구광역시",
+        "name": "VanillaSoda",
+        "pinned_tweet_id": "1870756254161002873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879450119441174528/_o1lBe66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 839,
+          "like_count": 98326,
+          "listed_count": 21,
+          "media_count": 5351,
+          "tweet_count": 57528
+        },
+        "url": "https://t.co/tdohnlY95O",
+        "username": "vanilla_sodaa",
+        "verified": false
+      }
+    ]
+  }
+}

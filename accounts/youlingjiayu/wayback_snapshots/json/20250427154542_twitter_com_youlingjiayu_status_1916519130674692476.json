@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916516323955474432",
+        "3_1916516324291059712",
+        "3_1916516324286844929",
+        "7_1916518651630669824"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1916519130674692476",
+    "created_at": "2025-04-27T15:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T16:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916519130674692476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mc2jGV9psi",
+          "end": 100,
+          "expanded_url": "https://x.com/youlingjiayu/status/1916519130674692476/video/1",
+          "media_key": "3_1916516323955474432",
+          "start": 77,
+          "url": "https://t.co/mc2jGV9psi"
+        },
+        {
+          "display_url": "pic.x.com/mc2jGV9psi",
+          "end": 100,
+          "expanded_url": "https://x.com/youlingjiayu/status/1916519130674692476/video/1",
+          "media_key": "3_1916516324291059712",
+          "start": 77,
+          "url": "https://t.co/mc2jGV9psi"
+        },
+        {
+          "display_url": "pic.x.com/mc2jGV9psi",
+          "end": 100,
+          "expanded_url": "https://x.com/youlingjiayu/status/1916519130674692476/video/1",
+          "media_key": "3_1916516324286844929",
+          "start": 77,
+          "url": "https://t.co/mc2jGV9psi"
+        },
+        {
+          "display_url": "pic.x.com/mc2jGV9psi",
+          "end": 100,
+          "expanded_url": "https://x.com/youlingjiayu/status/1916519130674692476/video/1",
+          "media_key": "7_1916518651630669824",
+          "start": 77,
+          "url": "https://t.co/mc2jGV9psi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916519130674692476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "充电。\n老是带人去执事厅感觉像老板的酒托……\nentp：你有自己的温彻斯特。\n唧唧冒火兔子给我笑吐了。\n手机可以拍到酒里的气泡，所以录了一段无意义视频。 https://t.co/mc2jGV9psi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1916516323955474432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpjVcUeagAAYm2Y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916516324291059712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpjVcVubIAAULcm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916516324286844929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpjVcVta0AE264Q.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 15229,
+        "height": 960,
+        "media_key": "7_1916518651630669824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1916518651630669824/pu/img/-UUt30-mWxPaEBmb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916518651630669824/pu/vid/avc1/320x426/w1fZivNleCBm0lan.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916518651630669824/pu/vid/avc1/480x640/GMZq5VLLqV9_kgoK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916518651630669824/pu/vid/avc1/720x960/tpU0SAAyUMcS0l4i.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1916518651630669824/pu/pl/U04Qg8OJoS-dNS5B.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916516323955474432",
+            "3_1916516324291059712",
+            "3_1916516324286844929",
+            "7_1916518651630669824"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1916519130674692476",
+        "created_at": "2025-04-27T15:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T16:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916519130674692476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mc2jGV9psi",
+              "end": 100,
+              "expanded_url": "https://x.com/youlingjiayu/status/1916519130674692476/video/1",
+              "media_key": "3_1916516323955474432",
+              "start": 77,
+              "url": "https://t.co/mc2jGV9psi"
+            },
+            {
+              "display_url": "pic.x.com/mc2jGV9psi",
+              "end": 100,
+              "expanded_url": "https://x.com/youlingjiayu/status/1916519130674692476/video/1",
+              "media_key": "3_1916516324291059712",
+              "start": 77,
+              "url": "https://t.co/mc2jGV9psi"
+            },
+            {
+              "display_url": "pic.x.com/mc2jGV9psi",
+              "end": 100,
+              "expanded_url": "https://x.com/youlingjiayu/status/1916519130674692476/video/1",
+              "media_key": "3_1916516324286844929",
+              "start": 77,
+              "url": "https://t.co/mc2jGV9psi"
+            },
+            {
+              "display_url": "pic.x.com/mc2jGV9psi",
+              "end": 100,
+              "expanded_url": "https://x.com/youlingjiayu/status/1916519130674692476/video/1",
+              "media_key": "7_1916518651630669824",
+              "start": 77,
+              "url": "https://t.co/mc2jGV9psi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916519130674692476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "充电。\n老是带人去执事厅感觉像老板的酒托……\nentp：你有自己的温彻斯特。\n唧唧冒火兔子给我笑吐了。\n手机可以拍到酒里的气泡，所以录了一段无意义视频。 https://t.co/mc2jGV9psi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 506,
+          "like_count": 9545,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 4179
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

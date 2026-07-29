@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1901487206277275944",
+    "created_at": "2025-03-17T05:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T06:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901505688121356790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1855233215285346304",
+          "start": 0,
+          "username": "qiuyeyeyy"
+        },
+        {
+          "end": 23,
+          "id": "1651352228936941568",
+          "start": 11,
+          "username": "Arockandrew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901505688121356790",
+    "in_reply_to_user_id": "1855233215285346304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901499967564312818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuyeyeyy @Arockandrew 是entj。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1901487206277275944",
+        "created_at": "2025-03-17T05:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T06:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901505688121356790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1855233215285346304",
+              "start": 0,
+              "username": "qiuyeyeyy"
+            },
+            {
+              "end": 23,
+              "id": "1651352228936941568",
+              "start": 11,
+              "username": "Arockandrew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901505688121356790",
+        "in_reply_to_user_id": "1855233215285346304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901499967564312818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuyeyeyy @Arockandrew 是entj。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855233215285346304",
+        "conversation_id": "1901487206277275944",
+        "created_at": "2025-03-17T05:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T06:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901499967564312818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1651352228936941568",
+              "start": 0,
+              "username": "Arockandrew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901499967564312818",
+        "in_reply_to_user_id": "1651352228936941568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901487206277275944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arockandrew 你的mbti是intj 吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 492,
+          "like_count": 6766,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 3049
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T12:58:09.000Z",
+        "description": "梦想是捡垃圾https://t.co/MmdUHIuiji",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qiuyeyeyy",
+                "end": 29,
+                "expanded_url": "https://ngl.link/qiuyeyeyy",
+                "start": 6,
+                "url": "https://t.co/MmdUHIuiji"
+              }
+            ]
+          }
+        },
+        "id": "1855233215285346304",
+        "name": "秋叶耶",
+        "pinned_tweet_id": "1891350557928890712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855233917495693313/ooZflSpw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8557,
+          "following_count": 11,
+          "like_count": 770,
+          "listed_count": 17,
+          "media_count": 106,
+          "tweet_count": 824
+        },
+        "username": "qiuyeyeyy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T22:27:15.000Z",
+        "description": "码农 | 存在主义 | 世间牵扯无一不让人心痛，就像万有引力无处不在。我对你也痛，你对我也有引力。 | 提问箱可提问任何问题，和我无关也可以：https://t.co/m5p4oKQQtW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/arockandrew",
+                "end": 94,
+                "expanded_url": "https://ngl.link/arockandrew",
+                "start": 71,
+                "url": "https://t.co/m5p4oKQQtW"
+              }
+            ]
+          }
+        },
+        "id": "1651352228936941568",
+        "location": "England, United Kingdom",
+        "name": "andrsonrobot",
+        "pinned_tweet_id": "1877239299684311421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651352531103109120/e2SjJj8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 508,
+          "like_count": 31645,
+          "listed_count": 5,
+          "media_count": 901,
+          "tweet_count": 11433
+        },
+        "username": "Arockandrew",
+        "verified": false
+      }
+    ]
+  }
+}

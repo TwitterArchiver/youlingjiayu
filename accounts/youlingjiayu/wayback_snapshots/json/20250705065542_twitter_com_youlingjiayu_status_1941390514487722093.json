@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1941373700080795984",
+    "created_at": "2025-07-05T06:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T07:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941390514487722093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "771971954584657920",
+          "start": 0,
+          "username": "vanilla_sodaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941390514487722093",
+    "in_reply_to_user_id": "771971954584657920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941373700080795984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vanilla_sodaa 相当有冲击力了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1941373700080795984",
+        "created_at": "2025-07-05T06:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T07:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941390514487722093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "771971954584657920",
+              "start": 0,
+              "username": "vanilla_sodaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941390514487722093",
+        "in_reply_to_user_id": "771971954584657920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941373700080795984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanilla_sodaa 相当有冲击力了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "771971954584657920",
+        "conversation_id": "1941373700080795984",
+        "created_at": "2025-07-05T05:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T06:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941373700080795984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941373700080795984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8157,
+          "like_count": 77,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被民警批评教育了，起因是高铁隔壁坐有人抖音外放声太大，我提醒了一句。那个哥们是个北鼻，一瓶水泼我衣服上了，我给了他两个嘴巴子😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 531,
+          "like_count": 11538,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 4908
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T07:23:51.000Z",
+        "description": "coffee fanatic || ENFP || Langs:🇨🇳🇺🇸🇯🇵🇰🇷 || Cloud Native & Exchange || 大众车主 EA111 & EA888认证",
+        "id": "771971954584657920",
+        "location": "大邱廣域市",
+        "name": "𝖁𝖆𝖓𝖎𝖑𝖑𝖆𝕾𝖔𝖉𝖆",
+        "pinned_tweet_id": "1902972133774626898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932121912026787840/h1hK1uW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 832,
+          "like_count": 115586,
+          "listed_count": 24,
+          "media_count": 6130,
+          "tweet_count": 66575
+        },
+        "username": "vanilla_sodaa",
+        "verified": false
+      }
+    ]
+  }
+}

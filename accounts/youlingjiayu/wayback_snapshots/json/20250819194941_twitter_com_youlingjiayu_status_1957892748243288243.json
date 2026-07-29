@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1957892748243288243",
+    "created_at": "2025-08-19T19:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T20:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957892748243288243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/1957648102984466624",
+          "start": 19,
+          "url": "https://t.co/WrweInFWKb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957892748243288243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957648102984466624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一切都变了，我朝摇摇欲坠的塔伸出手。 https://t.co/WrweInFWKb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1957892748243288243",
+        "created_at": "2025-08-19T19:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T20:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957892748243288243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1957648102984466624",
+              "start": 19,
+              "url": "https://t.co/WrweInFWKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957892748243288243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957648102984466624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一切都变了，我朝摇摇欲坠的塔伸出手。 https://t.co/WrweInFWKb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1957648102984466624",
+        "created_at": "2025-08-19T03:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T04:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957648102984466624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957648102984466624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在此之前我贬损一切意义。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 517,
+          "like_count": 13758,
+          "listed_count": 1,
+          "media_count": 609,
+          "tweet_count": 5651
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

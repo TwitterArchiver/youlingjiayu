@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1937716778718933081",
+    "created_at": "2025-06-25T09:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T10:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937799889448284296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753470997422878720",
+          "start": 0,
+          "username": "404nocoriander"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937799889448284296",
+    "in_reply_to_user_id": "1753470997422878720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937716778718933081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404nocoriander 时间线惊现弗洛伊德。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1937716778718933081",
+        "created_at": "2025-06-25T09:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T10:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937799889448284296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753470997422878720",
+              "start": 0,
+              "username": "404nocoriander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937799889448284296",
+        "in_reply_to_user_id": "1753470997422878720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937716778718933081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404nocoriander 时间线惊现弗洛伊德。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753470997422878720",
+        "conversation_id": "1937716778718933081",
+        "created_at": "2025-06-25T03:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T04:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937716778718933081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937716778718933081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说自己不恋母的是真的不喜欢母亲吗？还是恐惧心理的自我暗示？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 530,
+          "like_count": 11179,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 4832
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T17:30:39.000Z",
+        "description": "老公孩子热炕头",
+        "id": "1753470997422878720",
+        "location": "宛平南路600号",
+        "name": "Aaa.精神卫生中心菜医生",
+        "pinned_tweet_id": "1833349563069173894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801577511824068613/Doi4tSWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 253,
+          "like_count": 7967,
+          "listed_count": 7,
+          "media_count": 234,
+          "tweet_count": 5706
+        },
+        "username": "404nocoriander",
+        "verified": false
+      }
+    ]
+  }
+}

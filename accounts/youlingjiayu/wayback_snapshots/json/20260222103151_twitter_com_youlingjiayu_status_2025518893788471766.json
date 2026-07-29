@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2025517555348287645",
+    "created_at": "2026-02-22T10:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025518893788471766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "921377628342255616",
+          "start": 0,
+          "username": "sweetdreambu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025518893788471766",
+    "in_reply_to_user_id": "921377628342255616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025517555348287645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweetdreambu 樋口老师买的哪一只！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025517518652370944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwVc5ma8AAIZUo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2025517555348287645",
+        "created_at": "2026-02-22T10:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025518893788471766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "921377628342255616",
+              "start": 0,
+              "username": "sweetdreambu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025518893788471766",
+        "in_reply_to_user_id": "921377628342255616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025517555348287645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweetdreambu 樋口老师买的哪一只！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025517518652370944"
+          ]
+        },
+        "author_id": "921377628342255616",
+        "conversation_id": "2025517555348287645",
+        "created_at": "2026-02-22T10:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025517555348287645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLEyc6q4MI",
+              "end": 30,
+              "expanded_url": "https://x.com/sweetdreambu/status/2025517555348287645/photo/1",
+              "media_key": "3_2025517518652370944",
+              "start": 7,
+              "url": "https://t.co/TLEyc6q4MI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025517555348287645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃购入！ https://t.co/TLEyc6q4MI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 520,
+          "like_count": 17370,
+          "listed_count": 1,
+          "media_count": 859,
+          "tweet_count": 7516
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-20T14:08:39.000Z",
+        "description": "故郷なき者|自愿流落远方找一块地可亲吻",
+        "id": "921377628342255616",
+        "location": "この地球の片隅",
+        "name": "樋口",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011277177887830016/Kfc06LBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 269,
+          "like_count": 18614,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 4368
+        },
+        "username": "sweetdreambu",
+        "verified": false
+      }
+    ]
+  }
+}

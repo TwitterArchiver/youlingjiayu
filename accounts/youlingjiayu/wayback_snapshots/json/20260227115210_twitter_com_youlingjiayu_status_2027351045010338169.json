@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2027351045010338169",
+    "created_at": "2026-02-27T11:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027351045010338169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/2026627712270676164",
+          "start": 100,
+          "url": "https://t.co/IgtmAHE4fm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027351045010338169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026627712270676164",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "把我的观念分享给了另一个朋友。\n朋友：那我也可以撅你吗？\n我：理论上来说是的，但是你老公会杀了我吧。\n朋友：没关系，你别害怕，因为我们撞号了；那只能同时被撅了（？）。\n我：我觉得你老公还是会杀了我。 https://t.co/IgtmAHE4fm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_2026627709565284356",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAHKhCaMAQGMzC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2027351045010338169",
+        "created_at": "2026-02-27T11:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027351045010338169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/2026627712270676164",
+              "start": 100,
+              "url": "https://t.co/IgtmAHE4fm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027351045010338169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026627712270676164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把我的观念分享给了另一个朋友。\n朋友：那我也可以撅你吗？\n我：理论上来说是的，但是你老公会杀了我吧。\n朋友：没关系，你别害怕，因为我们撞号了；那只能同时被撅了（？）。\n我：我觉得你老公还是会杀了我。 https://t.co/IgtmAHE4fm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026627709565284356"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "2026627712270676164",
+        "created_at": "2026-02-25T11:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026627712270676164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gh5sZFaFLt",
+              "end": 134,
+              "expanded_url": "https://x.com/youlingjiayu/status/2026627712270676164/photo/1",
+              "media_key": "3_2026627709565284356",
+              "start": 111,
+              "url": "https://t.co/Gh5sZFaFLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026627712270676164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 749,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我：你想撅我吗？\n朋友：应该不会撅你，我天天来你房间，我们也没那种互动啊。\n我：懂了，其实你一点都不喜欢我，你和我都是假玩，我要和你绝交。\n朋友：那我撅你。\n我：你居然一直都想撅我，你玷污了我们纯洁的友谊，我要和你绝交。 https://t.co/Gh5sZFaFLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 521,
+          "like_count": 17470,
+          "listed_count": 1,
+          "media_count": 867,
+          "tweet_count": 7549
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1923399206531744197",
+    "created_at": "2025-05-16T15:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T16:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923399206531744197"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1923399206531744197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "灌沐浴露的时候突然想到，朋友拍towa的cos需要几只用过的避孕套，问我们用什么东西模拟精液。\n我答：白色沐浴露。\n她：沐浴露有气泡啊，不像啊。\n我：你不搓它不就完了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1923399206531744197",
+        "created_at": "2025-05-16T15:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T16:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923399206531744197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923399206531744197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "灌沐浴露的时候突然想到，朋友拍towa的cos需要几只用过的避孕套，问我们用什么东西模拟精液。\n我答：白色沐浴露。\n她：沐浴露有气泡啊，不像啊。\n我：你不搓它不就完了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 515,
+          "like_count": 10048,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 4395
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

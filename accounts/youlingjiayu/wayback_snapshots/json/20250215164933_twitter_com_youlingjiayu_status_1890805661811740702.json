@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1890739793639698899",
+    "created_at": "2025-02-15T16:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T17:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890805661811740702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825459880268050432",
+          "start": 0,
+          "username": "shinysilver404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890805661811740702",
+    "in_reply_to_user_id": "1825459880268050432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890739793639698899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinysilver404 我要蛋挞哇！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1890739793639698899",
+        "created_at": "2025-02-15T16:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890805661811740702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825459880268050432",
+              "start": 0,
+              "username": "shinysilver404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890805661811740702",
+        "in_reply_to_user_id": "1825459880268050432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890739793639698899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinysilver404 我要蛋挞哇！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825459880268050432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1890739793639698899",
+        "created_at": "2025-02-15T12:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T13:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890739793639698899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890739793639698899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 736,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜我200fo 关注我并且评论这条推文—— 我将抽取一位评论区幸运儿请吃KFC。\n*2.20号下周四开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 496,
+          "like_count": 5558,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 2734
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T09:08:57.000Z",
+        "description": "江火/伟大女性/不仅仅是文字推/\n人皮扣的提问箱：https://t.co/gVD662VE8f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/40497800",
+                "end": 48,
+                "expanded_url": "https://ngl.link/40497800",
+                "start": 25,
+                "url": "https://t.co/gVD662VE8f"
+              }
+            ]
+          }
+        },
+        "id": "1825459880268050432",
+        "location": "南湖",
+        "name": "人皮扣",
+        "pinned_tweet_id": "1890739793639698899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889831854083375104/8L7uR6Mx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 264,
+          "like_count": 3596,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1750
+        },
+        "username": "shinysilver404",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1913240454901993523",
+    "created_at": "2025-08-11T03:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T04:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954747819157524497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1866846638515318784",
+          "start": 0,
+          "username": "bloria33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954747819157524497",
+    "in_reply_to_user_id": "1866846638515318784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913240454901993523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bloria33 鲜香刮辣……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1913240454901993523",
+        "created_at": "2025-08-11T03:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T04:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954747819157524497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1866846638515318784",
+              "start": 0,
+              "username": "bloria33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954747819157524497",
+        "in_reply_to_user_id": "1866846638515318784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913240454901993523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bloria33 鲜香刮辣……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866846638515318784",
+        "conversation_id": "1913240454901993523",
+        "created_at": "2025-04-18T14:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T15:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913240454901993523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913240454901993523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 871,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看个小黄文看到个描写 烂熟的逼 把我拖鞋都笑飞了 比滚烫的鸡更上一层楼 可以当热辣滚烫麻豆版的封面宣传词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 538,
+          "like_count": 13227,
+          "listed_count": 1,
+          "media_count": 593,
+          "tweet_count": 5483
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T14:05:06.000Z",
+        "description": "小井盖的小离去是小老乡的小追求还是小老鼠的不挽留",
+        "id": "1866846638515318784",
+        "location": "United Kingdom",
+        "name": "Bloria",
+        "pinned_tweet_id": "1942057643339563359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948015669091700736/EeMUPNyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 198,
+          "like_count": 10012,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1596
+        },
+        "username": "bloria33",
+        "verified": false
+      }
+    ]
+  }
+}

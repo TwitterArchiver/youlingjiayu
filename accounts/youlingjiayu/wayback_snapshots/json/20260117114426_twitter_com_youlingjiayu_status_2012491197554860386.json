@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2012491197554860386",
+    "created_at": "2026-01-17T11:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T12:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012491197554860386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/2012471457927106705",
+          "start": 134,
+          "url": "https://t.co/QBaexAJbDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012491197554860386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012471457927106705",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甲鱼长得不好看而且社交不是很积极……不能说这种事情无妄之灾吧，但我总觉得我可能会给人一种错觉；以及我很清楚我打不过一米八的壮汉；我觉得和我没交流过几次的人对我有那种想法很恶心，在朋友的名义下做那种事情更恶心，迫害谁不好非要迫害我呢……甚至一直在喜欢别的朋友不是吗…… https://t.co/QBaexAJbDL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2012491197554860386",
+        "created_at": "2026-01-17T11:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012491197554860386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/2012471457927106705",
+              "start": 134,
+              "url": "https://t.co/QBaexAJbDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012491197554860386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012471457927106705",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甲鱼长得不好看而且社交不是很积极……不能说这种事情无妄之灾吧，但我总觉得我可能会给人一种错觉；以及我很清楚我打不过一米八的壮汉；我觉得和我没交流过几次的人对我有那种想法很恶心，在朋友的名义下做那种事情更恶心，迫害谁不好非要迫害我呢……甚至一直在喜欢别的朋友不是吗…… https://t.co/QBaexAJbDL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2012470726801215633",
+        "created_at": "2026-01-17T10:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012471457927106705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012471457927106705",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012470726801215633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "于是小甲鱼的社交被彻底毁掉了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 517,
+          "like_count": 16616,
+          "listed_count": 1,
+          "media_count": 791,
+          "tweet_count": 7190
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

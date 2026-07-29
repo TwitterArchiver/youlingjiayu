@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1910563890825748734",
+    "created_at": "2025-04-11T07:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T08:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910599290395005019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885186792573591553",
+          "start": 0,
+          "username": "pnggupnggu47837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910599290395005019",
+    "in_reply_to_user_id": "1885186792573591553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910563890825748734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pnggupnggu47837 🎂生日快乐哇🍎！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1910563890825748734",
+        "created_at": "2025-04-11T07:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T08:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910599290395005019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885186792573591553",
+              "start": 0,
+              "username": "pnggupnggu47837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910599290395005019",
+        "in_reply_to_user_id": "1885186792573591553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910563890825748734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pnggupnggu47837 🎂生日快乐哇🍎！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885186792573591553",
+        "conversation_id": "1910563890825748734",
+        "created_at": "2025-04-11T05:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T06:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910563890825748734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910563890825748734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日当天居然在刷宿舍厕所，苹果你太有普世之心了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 503,
+          "like_count": 8764,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 3902
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T04:42:22.000Z",
+        "description": "迟来的你才敲门",
+        "id": "1885186792573591553",
+        "name": "不吃苹果",
+        "pinned_tweet_id": "1902678229540037009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907021375493349376/N9HnnIht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 65,
+          "like_count": 2822,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 881
+        },
+        "username": "pnggupnggu47837",
+        "verified": false
+      }
+    ]
+  }
+}

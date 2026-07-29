@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1859596037645795606",
+    "created_at": "2024-11-21T15:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T16:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859622648504103298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1543508840125042688",
+          "start": 0,
+          "username": "orangeburncgw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859622648504103298",
+    "in_reply_to_user_id": "1543508840125042688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859621875510600154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangeburncgw 虽然但是真的很恶心……我宁可他们亲近一点。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1859596037645795606",
+        "created_at": "2024-11-21T15:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T16:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859622648504103298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1543508840125042688",
+              "start": 0,
+              "username": "orangeburncgw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859622648504103298",
+        "in_reply_to_user_id": "1543508840125042688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859621875510600154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangeburncgw 虽然但是真的很恶心……我宁可他们亲近一点。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543508840125042688",
+        "conversation_id": "1859596037645795606",
+        "created_at": "2024-11-21T15:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T16:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859621875510600154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859621875510600154",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859607160180834537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 太棒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 520,
+          "like_count": 1614,
+          "listed_count": 0,
+          "tweet_count": 1141
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-03T08:16:12.000Z",
+        "description": "我的私人纸箱。\n关注我，你的推荐里可能会出现科技新闻、动物、搞笑视频和大奶，还有无穷无尽的牢骚。",
+        "id": "1543508840125042688",
+        "name": "一箱抽纸",
+        "pinned_tweet_id": "1836081741733454262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801136518024896513/txE1H-7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 286,
+          "like_count": 12847,
+          "listed_count": 1,
+          "tweet_count": 2109
+        },
+        "username": "orangeburncgw",
+        "verified": false
+      }
+    ]
+  }
+}

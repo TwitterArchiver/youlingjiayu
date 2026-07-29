@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2010011589920059510",
+    "created_at": "2026-01-11T00:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T01:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010150792876134418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "480288080",
+          "start": 0,
+          "username": "Amano_0310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010150792876134418",
+    "in_reply_to_user_id": "480288080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010037063627018364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amano_0310 效果不太理想……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2010011589920059510",
+        "created_at": "2026-01-11T00:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T01:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010150792876134418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "480288080",
+              "start": 0,
+              "username": "Amano_0310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010150792876134418",
+        "in_reply_to_user_id": "480288080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010037063627018364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amano_0310 效果不太理想……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "480288080",
+        "conversation_id": "2010011589920059510",
+        "created_at": "2026-01-10T17:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T18:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010037063627018364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtube.com/playlist?list=…",
+              "end": 48,
+              "expanded_url": "https://youtube.com/playlist?list=PLVhoLpJdzj5OghyfPLiQ8AjIvenAk94Oh&si=OU1AVsmhRGmghhEc",
+              "images": [
+                {
+                  "height": 270,
+                  "url": "https://pbs.twimg.com/news_img/2010037106329169921/RM5NvT5Q?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010037106329169921/RM5NvT5Q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "太陽系的衛星",
+              "unwound_url": "https://www.youtube.com/playlist?list=PLVhoLpJdzj5OghyfPLiQ8AjIvenAk94Oh&si=OU1AVsmhRGmghhEc",
+              "url": "https://t.co/tv5RMSZuV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010037063627018364",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010036294601322932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 要不放點影片聽著睡?\nhttps://t.co/tv5RMSZuV8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004368357987082240/AxDwqPw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 517,
+          "like_count": 16435,
+          "listed_count": 1,
+          "media_count": 783,
+          "tweet_count": 7118
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-01T10:06:34.000Z",
+        "description": "寂しさは人の数だけある",
+        "id": "480288080",
+        "location": "South Africa",
+        "name": "Tou",
+        "pinned_tweet_id": "1826491924628602970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858890416608997376/hNGULdya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 643,
+          "like_count": 62296,
+          "listed_count": 9,
+          "media_count": 593,
+          "tweet_count": 9383
+        },
+        "username": "Amano_0310",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992139356753313794"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1992139364823122218",
+    "created_at": "2025-11-22T07:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T08:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992139364823122218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/06TkNBXC8e",
+          "end": 54,
+          "expanded_url": "https://x.com/youlingjiayu/status/1992139364823122218/photo/1",
+          "media_key": "3_1992139356753313794",
+          "start": 31,
+          "url": "https://t.co/06TkNBXC8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992139364823122218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "按照惯例找朋友们索要自己不想买但觉得有意思的东西当生日礼物。 https://t.co/06TkNBXC8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1845,
+        "media_key": "3_1992139356753313794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WAMK5bQAIX4m7.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992139356753313794"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1992139364823122218",
+        "created_at": "2025-11-22T07:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992139364823122218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06TkNBXC8e",
+              "end": 54,
+              "expanded_url": "https://x.com/youlingjiayu/status/1992139364823122218/photo/1",
+              "media_key": "3_1992139356753313794",
+              "start": 31,
+              "url": "https://t.co/06TkNBXC8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992139364823122218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "按照惯例找朋友们索要自己不想买但觉得有意思的东西当生日礼物。 https://t.co/06TkNBXC8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 519,
+          "like_count": 14554,
+          "listed_count": 1,
+          "media_count": 674,
+          "tweet_count": 6226
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

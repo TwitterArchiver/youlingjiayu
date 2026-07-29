@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1978689275181846538",
+    "created_at": "2025-10-16T05:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T06:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978689275181846538"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1978689275181846538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然之前计划自杀然后摆烂了，但还是尝试铺了点后路，未来肯定能用上。从世俗的角度来看，走过的人生道路也算好的了……不要浪费积攒下的优势啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1978689275181846538",
+        "created_at": "2025-10-16T05:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978689275181846538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978689275181846538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然之前计划自杀然后摆烂了，但还是尝试铺了点后路，未来肯定能用上。从世俗的角度来看，走过的人生道路也算好的了……不要浪费积攒下的优势啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。",
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 516,
+          "like_count": 13697,
+          "listed_count": 2,
+          "media_count": 613,
+          "tweet_count": 5690
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

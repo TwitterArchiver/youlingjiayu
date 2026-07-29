@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1953717723332325764",
+    "created_at": "2025-08-08T09:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T10:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953748662485647405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1669760888285573120",
+          "start": 0,
+          "username": "noworknodie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953748662485647405",
+    "in_reply_to_user_id": "1669760888285573120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953721046064042231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noworknodie 他自虐倾向也挺严重的；我是我自己的棋子和祭品，完完全全的舍身入局，甚至甘愿为了威尔放弃自己最看中的自由。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_1953721039932076036",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0C7z9bsAQy8mr.jpg",
+        "width": 318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1953717723332325764",
+        "created_at": "2025-08-08T09:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T10:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953748662485647405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1669760888285573120",
+              "start": 0,
+              "username": "noworknodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953748662485647405",
+        "in_reply_to_user_id": "1669760888285573120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953721046064042231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noworknodie 他自虐倾向也挺严重的；我是我自己的棋子和祭品，完完全全的舍身入局，甚至甘愿为了威尔放弃自己最看中的自由。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953721039932076036"
+          ]
+        },
+        "author_id": "1669760888285573120",
+        "conversation_id": "1953717723332325764",
+        "created_at": "2025-08-08T07:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T08:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953721046064042231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7FcJTpYWA4",
+              "end": 101,
+              "expanded_url": "https://x.com/noworknodie/status/1953721046064042231/photo/1",
+              "media_key": "3_1953721039932076036",
+              "start": 78,
+              "url": "https://t.co/7FcJTpYWA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953721046064042231",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953717723332325764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 我要笑死了、我觉得拔这种过于狂热/极端的人对于找到皈依之处的需求，就很难做到保持一辈子上位姿态，但小杯杯在我这是dom毫无争议 https://t.co/7FcJTpYWA4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 537,
+          "like_count": 13089,
+          "listed_count": 0,
+          "media_count": 585,
+          "tweet_count": 5436
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T17:37:36.000Z",
+        "description": "结束了 扮演白天的俘虏",
+        "id": "1669760888285573120",
+        "location": "💼",
+        "name": "schoolbag14inch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949842656504451072/C4chLD05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 489,
+          "like_count": 17717,
+          "listed_count": 2,
+          "media_count": 1026,
+          "tweet_count": 4136
+        },
+        "username": "noworknodie",
+        "verified": false
+      }
+    ]
+  }
+}

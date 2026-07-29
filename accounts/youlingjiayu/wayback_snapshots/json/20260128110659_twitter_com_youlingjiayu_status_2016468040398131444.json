@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2016454683301474774",
+    "created_at": "2026-01-28T11:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T12:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016468040398131444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898727980161175552",
+          "start": 0,
+          "username": "fortuneiplani"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016468040398131444",
+    "in_reply_to_user_id": "1898727980161175552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016454683301474774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fortuneiplani 营销方式导致的专很容易买重复，因为不同平台同样的专的小卡是不一样的；有的时候公司不干人事纯盲抽，如果是单推人就需要买很多很多专来抽到自担的卡；还有就是为了爱豆冲销量也有富婆买一大堆专的。只要不塌房的话，小卡基本保值/升值，专反而是不值钱的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2016454683301474774",
+        "created_at": "2026-01-28T11:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016468040398131444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898727980161175552",
+              "start": 0,
+              "username": "fortuneiplani"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016468040398131444",
+        "in_reply_to_user_id": "1898727980161175552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016454683301474774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fortuneiplani 营销方式导致的专很容易买重复，因为不同平台同样的专的小卡是不一样的；有的时候公司不干人事纯盲抽，如果是单推人就需要买很多很多专来抽到自担的卡；还有就是为了爱豆冲销量也有富婆买一大堆专的。只要不塌房的话，小卡基本保值/升值，专反而是不值钱的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898727980161175552",
+        "conversation_id": "2016454683301474774",
+        "created_at": "2026-01-28T10:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016454683301474774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MrOtter2046139…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/MrOtter20461397/status/2016440525235294373",
+              "start": 17,
+              "url": "https://t.co/den17pvwZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016454683301474774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016440525235294373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现代版买椟还珠了........ https://t.co/den17pvwZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 522,
+          "like_count": 17012,
+          "listed_count": 1,
+          "media_count": 816,
+          "tweet_count": 7368
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T13:30:12.000Z",
+        "description": "被老农夺了封地的香草爵士 @vanilla_sodaa #推友寻回中 | coffee fanatic | ENFP | 汉语🇨🇳English🇺🇸日本語🇯🇵| Cloud Native & Infra | 不想在推特 “合群” |  利物浦是冠军 | 無窮花 三千里 華麗江山",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 28,
+                "tag": "推友寻回中"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "vanilla_sodaa"
+              }
+            ]
+          }
+        },
+        "id": "1898727980161175552",
+        "location": "大東亞共榮圈",
+        "name": "VanillaSoda🎄",
+        "pinned_tweet_id": "2002816547799376029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999693931341316097/BUWPox8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 313,
+          "like_count": 4609,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 1723
+        },
+        "username": "fortuneiplani",
+        "verified": false
+      }
+    ]
+  }
+}

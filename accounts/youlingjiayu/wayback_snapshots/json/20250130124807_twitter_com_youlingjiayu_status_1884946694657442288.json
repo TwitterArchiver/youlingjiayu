@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1884914448609218591",
+    "created_at": "2025-01-30T12:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T13:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884946694657442288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "771971954584657920",
+          "start": 0,
+          "username": "vanilla_sodaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884946694657442288",
+    "in_reply_to_user_id": "771971954584657920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884914448609218591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vanilla_sodaa 想吃滨寿司了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1884914448609218591",
+        "created_at": "2025-01-30T12:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T13:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884946694657442288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "771971954584657920",
+              "start": 0,
+              "username": "vanilla_sodaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884946694657442288",
+        "in_reply_to_user_id": "771971954584657920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884914448609218591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanilla_sodaa 想吃滨寿司了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884914437590749184"
+          ]
+        },
+        "author_id": "771971954584657920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1884914448609218591",
+        "created_at": "2025-01-30T10:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884914448609218591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G20e3Sjq91",
+              "end": 34,
+              "expanded_url": "https://x.com/vanilla_sodaa/status/1884914448609218591/photo/1",
+              "media_key": "3_1884914437590749184",
+              "start": 11,
+              "url": "https://t.co/G20e3Sjq91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884914448609218591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和好朋友吃回转寿司😋 https://t.co/G20e3Sjq91"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 529,
+          "like_count": 4675,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2517
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T07:23:51.000Z",
+        "description": "ENFP-T || coffee fanatic & carnivore || 髡贼 || Exchange & Cloud Engineer in @DXCTechnology Lang:🇨🇳🇺🇸🇯🇵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "DXCTechnology"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/vanillasoda",
+                "end": 23,
+                "expanded_url": "https://bento.me/vanillasoda",
+                "start": 0,
+                "url": "https://t.co/tdohnlY95O"
+              }
+            ]
+          }
+        },
+        "id": "771971954584657920",
+        "location": "대구광역시",
+        "name": "VanillaSoda",
+        "pinned_tweet_id": "1870756254161002873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879450119441174528/_o1lBe66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 835,
+          "like_count": 97999,
+          "listed_count": 21,
+          "media_count": 5327,
+          "tweet_count": 57322
+        },
+        "url": "https://t.co/tdohnlY95O",
+        "username": "vanilla_sodaa",
+        "verified": false
+      }
+    ]
+  }
+}

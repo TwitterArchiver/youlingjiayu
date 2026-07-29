@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1877909801017209132",
+    "created_at": "2025-01-11T02:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T03:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877911416675442736"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1877911416675442736",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877909801017209132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最惨的就是海尔森吧，小时候家里被灭门，被仇人培养走上与父亲相反的道路，一见钟情的女子愤然离开他，本该是亲密的亲人的姐姐也是不咸不淡的态度，发现自己有个儿子但最后被儿子杀死。\n如果没有发生一开始的灭门惨案，如果他能和齐欧一起抚养康纳，如果他一开始就宰了华盛顿（？），或许会不一样吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1877909801017209132",
+        "created_at": "2025-01-11T02:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T03:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877911416675442736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877911416675442736",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877909801017209132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最惨的就是海尔森吧，小时候家里被灭门，被仇人培养走上与父亲相反的道路，一见钟情的女子愤然离开他，本该是亲密的亲人的姐姐也是不咸不淡的态度，发现自己有个儿子但最后被儿子杀死。\n如果没有发生一开始的灭门惨案，如果他能和齐欧一起抚养康纳，如果他一开始就宰了华盛顿（？），或许会不一样吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877909798462906369"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1877909801017209132",
+        "created_at": "2025-01-11T02:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T03:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877909801017209132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x11zsMuOIC",
+              "end": 168,
+              "expanded_url": "https://x.com/youlingjiayu/status/1877909801017209132/photo/1",
+              "media_key": "3_1877909798462906369",
+              "start": 145,
+              "url": "https://t.co/x11zsMuOIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877909801017209132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经书评4\n《刺客信条：遗弃》\n二刷。朋友说我在某些方面和里面的一个角色很像，甚至拿我代餐，所以我好奇心大爆发看了一遍……感觉有一点点照镜子。现在二刷是为了给朋友写同人文。\n结合AC3的剧情来看可能更好理解一点，虽然我还没打完（下次一定）。\n这是一场肯威家族的悲剧，当然也是时代的。 https://t.co/x11zsMuOIC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 521,
+          "like_count": 3725,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2191
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

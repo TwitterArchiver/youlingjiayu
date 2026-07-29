@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1911058093682876845",
+    "created_at": "2025-04-12T14:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T15:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911059075791831306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1825540389169975296",
+          "start": 0,
+          "username": "zuo2you3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911059075791831306",
+    "in_reply_to_user_id": "1825540389169975296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911058093682876845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuo2you3 名创优品的吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1911058074908995584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVxMaQXsAAXG6X.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1911058075911352321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVxMd_WcAEIO-1.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1911058090968875009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVxNWFWAAEdc2f.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1911058093682876845",
+        "created_at": "2025-04-12T14:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T15:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911059075791831306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1825540389169975296",
+              "start": 0,
+              "username": "zuo2you3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911059075791831306",
+        "in_reply_to_user_id": "1825540389169975296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911058093682876845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuo2you3 名创优品的吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911058074908995584",
+            "3_1911058075911352321",
+            "3_1911058090968875009"
+          ]
+        },
+        "author_id": "1825540389169975296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1911058093682876845",
+        "created_at": "2025-04-12T14:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T15:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911058093682876845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/enbCk8aPEn",
+              "end": 33,
+              "expanded_url": "https://x.com/zuo2you3/status/1911058093682876845/photo/1",
+              "media_key": "3_1911058074908995584",
+              "start": 10,
+              "url": "https://t.co/enbCk8aPEn"
+            },
+            {
+              "display_url": "pic.x.com/enbCk8aPEn",
+              "end": 33,
+              "expanded_url": "https://x.com/zuo2you3/status/1911058093682876845/photo/1",
+              "media_key": "3_1911058075911352321",
+              "start": 10,
+              "url": "https://t.co/enbCk8aPEn"
+            },
+            {
+              "display_url": "pic.x.com/enbCk8aPEn",
+              "end": 33,
+              "expanded_url": "https://x.com/zuo2you3/status/1911058093682876845/photo/1",
+              "media_key": "3_1911058090968875009",
+              "start": 10,
+              "url": "https://t.co/enbCk8aPEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911058093682876845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熊，人终于拥有你了 https://t.co/enbCk8aPEn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 504,
+          "like_count": 8919,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 3947
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T14:28:59.000Z",
+        "description": "欢迎来到摩登森林",
+        "id": "1825540389169975296",
+        "name": "贝森",
+        "pinned_tweet_id": "1846582170934202825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900712438007558145/Nu0dZJlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 301,
+          "like_count": 5936,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 2040
+        },
+        "username": "zuo2you3",
+        "verified": false
+      }
+    ]
+  }
+}

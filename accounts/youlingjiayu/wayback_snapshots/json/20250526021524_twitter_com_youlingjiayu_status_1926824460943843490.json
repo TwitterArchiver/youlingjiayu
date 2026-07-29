@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926824457588330496"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1926824460943843490",
+    "created_at": "2025-05-26T02:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T03:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926824460943843490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MgghzoM2PG",
+          "end": 39,
+          "expanded_url": "https://x.com/youlingjiayu/status/1926824460943843490/photo/1",
+          "media_key": "3_1926824457588330496",
+          "start": 16,
+          "url": "https://t.co/MgghzoM2PG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926824460943843490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天就这样催人背单词，人如机。 https://t.co/MgghzoM2PG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926824457588330496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr10oqsWUAAE6QP.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926824457588330496"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1926824460943843490",
+        "created_at": "2025-05-26T02:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T03:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926824460943843490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgghzoM2PG",
+              "end": 39,
+              "expanded_url": "https://x.com/youlingjiayu/status/1926824460943843490/photo/1",
+              "media_key": "3_1926824457588330496",
+              "start": 16,
+              "url": "https://t.co/MgghzoM2PG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926824460943843490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天就这样催人背单词，人如机。 https://t.co/MgghzoM2PG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 522,
+          "like_count": 10384,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 4507
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1918968711320350987",
+    "created_at": "2025-05-04T09:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T10:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918968711320350987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/1917138219021537571",
+          "start": 136,
+          "url": "https://t.co/VpEw2PHb93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918968711320350987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917138219021537571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "即将一起尝试去远一点的地方旅行；唉要是我俩上路经验丰富一点就好了，这样的话就能去看丹顶鹤和麋鹿而不是看鳄鱼（没有说鳄鱼不好的意思）。\n我算是知道我朋友们为什么喜欢找我来做活动规划了，谁会不喜欢一堆方案放在你面前然后批折子呢？\n要是未来的合作伙伴都是古生物哥这种人就好了。 https://t.co/VpEw2PHb93"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_1917138214604931072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpsLDHragAARkct.jpg",
+        "width": 431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1918968711320350987",
+        "created_at": "2025-05-04T09:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T10:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918968711320350987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1917138219021537571",
+              "start": 136,
+              "url": "https://t.co/VpEw2PHb93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918968711320350987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917138219021537571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "即将一起尝试去远一点的地方旅行；唉要是我俩上路经验丰富一点就好了，这样的话就能去看丹顶鹤和麋鹿而不是看鳄鱼（没有说鳄鱼不好的意思）。\n我算是知道我朋友们为什么喜欢找我来做活动规划了，谁会不喜欢一堆方案放在你面前然后批折子呢？\n要是未来的合作伙伴都是古生物哥这种人就好了。 https://t.co/VpEw2PHb93"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917138214604931072"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1917138219021537571",
+        "created_at": "2025-04-29T08:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T09:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917138219021537571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKmfOYwAli",
+              "end": 162,
+              "expanded_url": "https://x.com/youlingjiayu/status/1917138219021537571/photo/1",
+              "media_key": "3_1917138214604931072",
+              "start": 139,
+              "url": "https://t.co/OKmfOYwAli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917138219021537571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉和古生物哥一起计划出行很舒服。\n不用我一个人焦头烂额地找攻略然后得到“随便”“都行”之类的答复，也不是我被强硬安排行程然后妥协；而是真的在一起认真讨论出行活动。\n唉可能我被连搜索引擎都不点开一下的p人朋友迫害惨了；也有点想不明白古生物哥这么好的人为什么没人和他出去玩呢…… https://t.co/OKmfOYwAli"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 508,
+          "like_count": 9733,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 4273
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

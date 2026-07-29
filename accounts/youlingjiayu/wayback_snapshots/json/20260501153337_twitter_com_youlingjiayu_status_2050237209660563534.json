@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2050223377730974164",
+    "created_at": "2026-05-01T15:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050237209660563534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "909189799",
+          "start": 0,
+          "username": "BBBBBlabu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050237209660563534",
+    "in_reply_to_user_id": "909189799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050234649356730829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBBBBlabu 其实应该只是心理预期太高了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2050223377730974164",
+        "created_at": "2026-05-01T15:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050237209660563534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "909189799",
+              "start": 0,
+              "username": "BBBBBlabu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050237209660563534",
+        "in_reply_to_user_id": "909189799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050234649356730829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBBBBlabu 其实应该只是心理预期太高了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909189799",
+        "conversation_id": "2050223377730974164",
+        "created_at": "2026-05-01T15:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050234649356730829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050234649356730829",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050232992753389618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 这两个口味差异也太大了吧ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 524,
+          "like_count": 18366,
+          "listed_count": 1,
+          "media_count": 950,
+          "tweet_count": 8017
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "和我在一起，你便不必羡慕旁人的幸福会不会降临在你身上。",
+        "id": "909189799",
+        "name": "BB喇布",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044407686717153280/5qWvOYBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 703,
+          "like_count": 26503,
+          "listed_count": 2,
+          "media_count": 747,
+          "tweet_count": 9966
+        },
+        "username": "BBBBBlabu",
+        "verified": true
+      }
+    ]
+  }
+}

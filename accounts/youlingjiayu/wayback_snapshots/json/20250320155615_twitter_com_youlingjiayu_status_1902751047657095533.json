@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1902746668342116497",
+    "created_at": "2025-03-20T15:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T16:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902751047657095533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1735792880470347776",
+          "start": 0,
+          "username": "babychun000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902751047657095533",
+    "in_reply_to_user_id": "1735792880470347776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902746668342116497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babychun000 和MBTI关系不太大，我的好朋友里也有和我完全相反的esfp。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1902746668342116497",
+        "created_at": "2025-03-20T15:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T16:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902751047657095533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1735792880470347776",
+              "start": 0,
+              "username": "babychun000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902751047657095533",
+        "in_reply_to_user_id": "1735792880470347776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902746668342116497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babychun000 和MBTI关系不太大，我的好朋友里也有和我完全相反的esfp。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735792880470347776",
+        "conversation_id": "1902746668342116497",
+        "created_at": "2025-03-20T15:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T16:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902746668342116497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902746668342116497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "莫名其妙跟学妹聊上了，莫名其妙能往下聊，奇怪啊，她是enfj我是istp，我们怎么会聊到一起的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 492,
+          "like_count": 6930,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 3137
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T22:44:18.000Z",
+        "description": "ISTP | 非常暴躁的一个人，不建议招惹。一个处于需要新朋友和厌人症重度患者之间的矛盾体。三次很忙不闲聊，但会回复正常私信。不友好和目的性很强的人会骂。\n「忠于自己是第一要务」",
+        "id": "1735792880470347776",
+        "location": "porra",
+        "name": "阿纯",
+        "pinned_tweet_id": "1891539368898105562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892467162796756992/K7-lhmFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 41,
+          "like_count": 3538,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 1308
+        },
+        "username": "babychun000",
+        "verified": false
+      }
+    ]
+  }
+}

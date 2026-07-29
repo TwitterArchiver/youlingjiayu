@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2045513460021379251",
+    "created_at": "2026-04-18T16:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045537108807626999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "909189799",
+          "start": 0,
+          "username": "BBBBBlabu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045537108807626999",
+    "in_reply_to_user_id": "909189799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045513460021379251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBBBBlabu 什么，难道不是混搭才是正常的吗……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2045513460021379251].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2045513460021379251",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2045513460021379251"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2045513460021379251",
+        "created_at": "2026-04-18T16:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045537108807626999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "909189799",
+              "start": 0,
+              "username": "BBBBBlabu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045537108807626999",
+        "in_reply_to_user_id": "909189799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045513460021379251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBBBBlabu 什么，难道不是混搭才是正常的吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 524,
+          "like_count": 18151,
+          "listed_count": 1,
+          "media_count": 947,
+          "tweet_count": 7922
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "和我在一起，你便不必羡慕旁人的幸福会不会降临在你身上。",
+        "id": "909189799",
+        "name": "BB喇布",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044407686717153280/5qWvOYBn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 692,
+          "like_count": 24739,
+          "listed_count": 2,
+          "media_count": 701,
+          "tweet_count": 9101
+        },
+        "username": "BBBBBlabu",
+        "verified": true
+      }
+    ]
+  }
+}

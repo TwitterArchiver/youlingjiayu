@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1868217073039782198",
+    "created_at": "2024-12-15T11:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T12:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868260945501503696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816105634179534848",
+          "start": 0,
+          "username": "sevensand7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868260945501503696",
+    "in_reply_to_user_id": "1816105634179534848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868217557905449424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevensand7 （不把浴室开得亮堂堂不敢洗澡的人）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1868217073039782198",
+        "created_at": "2024-12-15T11:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868260945501503696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816105634179534848",
+              "start": 0,
+              "username": "sevensand7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868260945501503696",
+        "in_reply_to_user_id": "1816105634179534848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868217557905449424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevensand7 （不把浴室开得亮堂堂不敢洗澡的人）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816105634179534848",
+        "conversation_id": "1868217073039782198",
+        "created_at": "2024-12-15T08:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T09:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868217557905449424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868217557905449424",
+        "in_reply_to_user_id": "1816105634179534848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868217073039782198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来浴室里暗暗的，只有玻璃门和窗户有点亮光，热水和音乐同时冲刷着我的脑子，我的身体上开始出现白色的长条形的水光，看着它们，很治愈，就像在执行修复程序那样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 520,
+          "like_count": 2945,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1861
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T13:38:30.000Z",
+        "description": "queer｜黑色猫咪正淌过绿色的河",
+        "id": "1816105634179534848",
+        "location": "遥远的西伯利亚",
+        "name": "七尺沙地和她孕育的孩子",
+        "pinned_tweet_id": "1859820772740694163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854338904897515520/UW2Hoqy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 228,
+          "like_count": 10840,
+          "listed_count": 4,
+          "media_count": 251,
+          "tweet_count": 2663
+        },
+        "username": "sevensand7",
+        "verified": false
+      }
+    ]
+  }
+}

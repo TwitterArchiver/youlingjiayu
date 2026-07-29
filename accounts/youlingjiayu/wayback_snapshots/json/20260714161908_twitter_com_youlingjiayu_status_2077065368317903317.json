@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2077054219518128363",
+    "created_at": "2026-07-14T16:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077065368317903317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1094453901783293952",
+          "start": 0,
+          "username": "_cookie_bing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077065368317903317",
+    "in_reply_to_user_id": "1094453901783293952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077064214699799015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_cookie_bing 那你还是比我严重一点……实在不行吃点肠胃药吧饼饼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2077054219518128363",
+        "created_at": "2026-07-14T16:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077065368317903317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1094453901783293952",
+              "start": 0,
+              "username": "_cookie_bing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077065368317903317",
+        "in_reply_to_user_id": "1094453901783293952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077064214699799015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_cookie_bing 那你还是比我严重一点……实在不行吃点肠胃药吧饼饼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094453901783293952",
+        "conversation_id": "2077054219518128363",
+        "created_at": "2026-07-14T16:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077064214699799015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077064214699799015",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077063955886014593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 我已经连着拉一周了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 538,
+          "like_count": 19239,
+          "listed_count": 1,
+          "media_count": 1008,
+          "tweet_count": 8350
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-10T04:31:58.000Z",
+        "description": "或许我早就死在了看向月亮的那个夜",
+        "id": "1094453901783293952",
+        "name": "cookie",
+        "pinned_tweet_id": "1964510651747094775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721603552047661056/ZB2TEFoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 349,
+          "like_count": 5176,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 4238
+        },
+        "url": "",
+        "username": "_cookie_bing",
+        "verified": false
+      }
+    ]
+  }
+}

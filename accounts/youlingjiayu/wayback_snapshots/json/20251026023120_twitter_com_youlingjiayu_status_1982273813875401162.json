@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1982065115395723553",
+    "created_at": "2025-10-26T02:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T03:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982273813875401162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "408702956",
+          "start": 0,
+          "username": "niceball_wuwaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982273813875401162",
+    "in_reply_to_user_id": "408702956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982065115395723553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niceball_wuwaa 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1779,
+        "media_key": "3_1982065094499463168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4G1s7dXcAA0kYZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 209,
+        "media_key": "3_1982065094537179136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4G1s7mW8AAEFvj.jpg",
+        "width": 581
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1982065115395723553",
+        "created_at": "2025-10-26T02:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T03:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982273813875401162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "408702956",
+              "start": 0,
+              "username": "niceball_wuwaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982273813875401162",
+        "in_reply_to_user_id": "408702956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982065115395723553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niceball_wuwaa 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982065094499463168",
+            "3_1982065094537179136"
+          ]
+        },
+        "author_id": "408702956",
+        "conversation_id": "1982065115395723553",
+        "created_at": "2025-10-25T12:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T13:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982065115395723553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5swNnQP3L",
+              "end": 27,
+              "expanded_url": "https://x.com/niceball_wuwaa/status/1982065115395723553/photo/1",
+              "media_key": "3_1982065094499463168",
+              "start": 4,
+              "url": "https://t.co/y5swNnQP3L"
+            },
+            {
+              "display_url": "pic.x.com/y5swNnQP3L",
+              "end": 27,
+              "expanded_url": "https://x.com/niceball_wuwaa/status/1982065115395723553/photo/1",
+              "media_key": "3_1982065094537179136",
+              "start": 4,
+              "url": "https://t.co/y5swNnQP3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982065115395723553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4021,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽一下 https://t.co/y5swNnQP3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。",
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 522,
+          "like_count": 13965,
+          "listed_count": 2,
+          "media_count": 627,
+          "tweet_count": 5821
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-09T19:40:59.000Z",
+        "description": "间歇存在 持续虚无 雄性萌豚 术力口厨 车万小鬼 舞萌废人 主动离职 收入为零 微博难民 点赞狂魔 菜逼码农 本科废物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://www.example.com/",
+                "start": 0,
+                "url": "https://t.co/DqYbDnpkVy"
+              }
+            ]
+          }
+        },
+        "id": "408702956",
+        "location": "Toronto, Ontario",
+        "name": "王萌豚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888338555484684288/8oc2KYdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7804,
+          "following_count": 1803,
+          "like_count": 384575,
+          "listed_count": 38,
+          "media_count": 5143,
+          "tweet_count": 65325
+        },
+        "url": "https://t.co/DqYbDnpkVy",
+        "username": "niceball_wuwaa",
+        "verified": true
+      }
+    ]
+  }
+}

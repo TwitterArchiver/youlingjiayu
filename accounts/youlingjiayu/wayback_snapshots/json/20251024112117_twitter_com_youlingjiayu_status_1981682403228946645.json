@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1981666588769325188",
+    "created_at": "2025-10-24T11:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T12:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981682403228946645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "362228606",
+          "start": 0,
+          "username": "7thAsylum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981682403228946645",
+    "in_reply_to_user_id": "362228606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981666588769325188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7thAsylum 咱俩中和一下好了，我脑子一闲下就开始忧虑未来或者复盘过去……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1981666588769325188",
+        "created_at": "2025-10-24T11:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981682403228946645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "362228606",
+              "start": 0,
+              "username": "7thAsylum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981682403228946645",
+        "in_reply_to_user_id": "362228606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981666588769325188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7thAsylum 咱俩中和一下好了，我脑子一闲下就开始忧虑未来或者复盘过去……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "362228606",
+        "conversation_id": "1981666588769325188",
+        "created_at": "2025-10-24T10:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981666588769325188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981666588769325188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是不是和注意力缺陷有关系，我真的就只关注当下在我身边的人和当下的事，就算是很好的朋友也时常忘记联系。唉，让人痛苦的脑子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。",
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 519,
+          "like_count": 13941,
+          "listed_count": 2,
+          "media_count": 625,
+          "tweet_count": 5804
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-26T01:55:12.000Z",
+        "description": "“顽劣的，温和的。” ENFP♎️ / 可以叫我栖栖 /世界上所有人都是我的爱人（精神上）/ Switch / 是个生活推，生活匮乏到只有下体的人远离我好吗好的",
+        "id": "362228606",
+        "location": "破败教堂的废墟里，做过梦的无花果树下",
+        "name": "第七避难所",
+        "pinned_tweet_id": "1974793992446575041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975419063540285440/jtP6rD-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 306,
+          "like_count": 13895,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 2172
+        },
+        "username": "7thAsylum",
+        "verified": false
+      }
+    ]
+  }
+}

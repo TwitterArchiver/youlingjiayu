@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2078423660482973930",
+    "created_at": "2026-07-18T10:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078423660482973930"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078423660482973930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要一直假装正常，我不能自残不能酗酒不能OD不能对他们流露一点负面情绪，不然他们会把我抓回去，我在哪里都要把我抓回去，我不想回家不想进精神病院不想进戒网瘾机构。但实际上大部分东西都已经默默坏掉了，我只能偶尔和另一只病猫互相舔一舔伤口，然后再把我的人生寄托于更虚无缥缈的幻想。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2078423660482973930",
+        "created_at": "2026-07-18T10:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078423660482973930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078423660482973930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要一直假装正常，我不能自残不能酗酒不能OD不能对他们流露一点负面情绪，不然他们会把我抓回去，我在哪里都要把我抓回去，我不想回家不想进精神病院不想进戒网瘾机构。但实际上大部分东西都已经默默坏掉了，我只能偶尔和另一只病猫互相舔一舔伤口，然后再把我的人生寄托于更虚无缥缈的幻想。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 539,
+          "like_count": 19294,
+          "listed_count": 1,
+          "media_count": 1009,
+          "tweet_count": 8376
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

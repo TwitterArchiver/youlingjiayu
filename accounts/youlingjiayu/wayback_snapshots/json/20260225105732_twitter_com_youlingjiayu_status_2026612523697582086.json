@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2026590981911650779",
+    "created_at": "2026-02-25T10:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T11:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026612523697582086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "909189799",
+          "start": 0,
+          "username": "JMTXsix"
+        },
+        {
+          "end": 18,
+          "id": "1972517289930129408",
+          "start": 9,
+          "username": "Arilob33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026612523697582086",
+    "in_reply_to_user_id": "909189799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026611376870011219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JMTXsix @Arilob33 他的意思是他要当社畜牛马了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2026590981911650779",
+        "created_at": "2026-02-25T10:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026612523697582086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909189799",
+              "start": 0,
+              "username": "JMTXsix"
+            },
+            {
+              "end": 18,
+              "id": "1972517289930129408",
+              "start": 9,
+              "username": "Arilob33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026612523697582086",
+        "in_reply_to_user_id": "909189799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026611376870011219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JMTXsix @Arilob33 他的意思是他要当社畜牛马了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909189799",
+        "conversation_id": "2026590981911650779",
+        "created_at": "2026-02-25T10:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026611376870011219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1972517289930129408",
+              "start": 0,
+              "username": "Arilob33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026611376870011219",
+        "in_reply_to_user_id": "1972517289930129408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026590981911650779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arilob33 这么牛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 520,
+          "like_count": 17439,
+          "listed_count": 1,
+          "media_count": 866,
+          "tweet_count": 7539
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "和我在一起，你便不必羡慕旁人的幸福会不会降临在你身上。",
+        "id": "909189799",
+        "name": "❄️雪顶苔藓🧁",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025311976868773888/27hJlm09_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 654,
+          "like_count": 18842,
+          "listed_count": 0,
+          "media_count": 560,
+          "tweet_count": 7058
+        },
+        "username": "JMTXsix",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-29T04:22:32.000Z",
+        "description": "小小小小小不 发一诺卑鄙吐死",
+        "id": "1972517289930129408",
+        "location": "Singapore",
+        "name": "修瓷熟法",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014232358107639808/evG0eQYy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 174,
+          "like_count": 2235,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 441
+        },
+        "username": "Arilob33",
+        "verified": false
+      }
+    ]
+  }
+}

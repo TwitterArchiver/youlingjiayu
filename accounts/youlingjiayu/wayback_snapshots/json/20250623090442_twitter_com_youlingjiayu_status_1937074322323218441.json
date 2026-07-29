@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1937065939163553983",
+    "created_at": "2025-06-23T09:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T10:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937074322323218441"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1937074322323218441",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937069200780235263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "倒也不厌恶这种相似性，有参照对来说是一件能获得确定性的事情。\n只是会想，现实真是可怕的庞然大物；曾经意气风发的天才，竟然也会被打败到这种地步吗？\n然后你与你也不再相像了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1937065939163553983",
+        "created_at": "2025-06-23T09:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T10:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937074322323218441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937074322323218441",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937069200780235263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "倒也不厌恶这种相似性，有参照对来说是一件能获得确定性的事情。\n只是会想，现实真是可怕的庞然大物；曾经意气风发的天才，竟然也会被打败到这种地步吗？\n然后你与你也不再相像了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1937065939163553983",
+        "created_at": "2025-06-23T08:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T09:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937069200780235263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937069200780235263",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937066909817819362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "复盘行事风格和现在在做的事情也是，甚至我潜意识里可能有一些隐秘的偏好。\n有的时候我在想我是不是早就死在十八或者二十岁，你的出现让我放弃了自杀的计划，代价是我要重新学习怎么活下去……然后你变成我的老师；然后很多人变成我的老师。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 530,
+          "like_count": 11091,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 4810
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

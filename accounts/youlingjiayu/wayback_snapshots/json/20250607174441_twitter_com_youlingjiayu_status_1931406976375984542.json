@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1931406609558974609",
+    "created_at": "2025-06-07T17:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T18:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931406976375984542"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931406976375984542",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931406829399212460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "片刻的欢愉\n和与美丽一同燃尽，\n要好过活得很久\n却一直处在无聊之中，\n所以我们将自己的生命\n揉成一个小卷\n扔出去，\n这就是生命的意义。\n作为美丽的一部分，\n哪怕一瞬灰飞烟灭，\n也好过永远存在\n却不能美丽绽放。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1931406609558974609",
+        "created_at": "2025-06-07T17:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T18:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931406976375984542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931406976375984542",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931406829399212460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "片刻的欢愉\n和与美丽一同燃尽，\n要好过活得很久\n却一直处在无聊之中，\n所以我们将自己的生命\n揉成一个小卷\n扔出去，\n这就是生命的意义。\n作为美丽的一部分，\n哪怕一瞬灰飞烟灭，\n也好过永远存在\n却不能美丽绽放。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1931406609558974609",
+        "created_at": "2025-06-07T17:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T18:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931406829399212460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931406829399212460",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931406723212087319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果那是没有遮挡的烛火\n而不是电灯泡，\n你现在早已成为一小撮灰烬，\n难道你丧失理智了吗？\n我很理智，他这样回答，\n但是有时我们厌倦了理智，\n厌倦了常规，\n而是渴望美丽，\n渴望兴奋。\n火是美丽的，\n我们知道如果靠得太近\n它会杀死我们，\n但是那又怎样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 525,
+          "like_count": 10675,
+          "listed_count": 0,
+          "media_count": 491,
+          "tweet_count": 4640
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

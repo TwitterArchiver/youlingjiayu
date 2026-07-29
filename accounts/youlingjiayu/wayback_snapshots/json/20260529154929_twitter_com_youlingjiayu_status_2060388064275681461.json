@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060388061339598848"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "2060388064275681461",
+    "created_at": "2026-05-29T15:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060388064275681461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fo7GEMm2iw",
+          "end": 150,
+          "expanded_url": "https://x.com/youlingjiayu/status/2060388064275681461/photo/1",
+          "media_key": "3_2060388061339598848",
+          "start": 127,
+          "url": "https://t.co/fo7GEMm2iw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060388064275681461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在朋友送我回小区的时候，我又想起了他和我说的话，可是最近我和蛮多人道过别了，我没有回过头......因为我相信我们还会再见的。可能我对离别缺乏应有的忧虑，也可能我对失去没有很大的感受。与情感的浓度大概无关，只是我是真的相信着重逢，在我一直向前走的时候。 https://t.co/fo7GEMm2iw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 385,
+        "media_key": "3_2060388061339598848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJf4Bn-aQAAB8xQ.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060388061339598848"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "2060388064275681461",
+        "created_at": "2026-05-29T15:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060388064275681461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fo7GEMm2iw",
+              "end": 150,
+              "expanded_url": "https://x.com/youlingjiayu/status/2060388064275681461/photo/1",
+              "media_key": "3_2060388061339598848",
+              "start": 127,
+              "url": "https://t.co/fo7GEMm2iw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060388064275681461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在朋友送我回小区的时候，我又想起了他和我说的话，可是最近我和蛮多人道过别了，我没有回过头......因为我相信我们还会再见的。可能我对离别缺乏应有的忧虑，也可能我对失去没有很大的感受。与情感的浓度大概无关，只是我是真的相信着重逢，在我一直向前走的时候。 https://t.co/fo7GEMm2iw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 526,
+          "like_count": 18718,
+          "listed_count": 1,
+          "media_count": 977,
+          "tweet_count": 8172
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

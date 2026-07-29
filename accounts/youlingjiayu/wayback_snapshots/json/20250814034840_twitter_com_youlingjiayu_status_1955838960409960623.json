@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1955185506637189563",
+    "created_at": "2025-08-14T03:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T04:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955838960409960623"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955838960409960623",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955834176592338957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能想出来的，唯一的方法只有自我实现；虽然为此将舍弃更多东西。\n我不理解平淡稳定的幸福，在庸碌里我只觉得绝望。我逃离了一个一眼望到头的行业；在我怀疑我的选择时，朋友说我知道如果你妥协也会不幸福。\n人可以普通地活着，可我无法自洽，也不会觉得快乐和满足。\n于是我成为他们口中自私的孩子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955185506637189563",
+        "created_at": "2025-08-14T03:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T04:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955838960409960623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955838960409960623",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955834176592338957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能想出来的，唯一的方法只有自我实现；虽然为此将舍弃更多东西。\n我不理解平淡稳定的幸福，在庸碌里我只觉得绝望。我逃离了一个一眼望到头的行业；在我怀疑我的选择时，朋友说我知道如果你妥协也会不幸福。\n人可以普通地活着，可我无法自洽，也不会觉得快乐和满足。\n于是我成为他们口中自私的孩子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955185506637189563",
+        "created_at": "2025-08-14T03:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T04:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955834176592338957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955834176592338957",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955815115514896884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有办法为其他人而活，我觉得目前没有人值得；我没有办法为某个权威而活，得到权威的认可让我欣喜若狂，但最后都会被我质疑。\n我不太希望用类型学限制自己，但我觉得偶像破坏者这个词是很恰当的描述。\n我会怀念曾经盲目的幸福，为了一个夸奖或者虚假的愿景去努力……可现在你们已然没有资格评价我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 538,
+          "like_count": 13455,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 5545
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

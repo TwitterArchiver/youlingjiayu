@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2012470726801215633",
+    "created_at": "2026-01-17T10:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012470726801215633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JMTXsix/status…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/JMTXsix/status/2012463619078754309",
+          "start": 80,
+          "url": "https://t.co/4op6tdrbqM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012470726801215633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012463619078754309",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有的人一边有喜欢的人，一边把异性“朋友”邀请到家里去，然后对异性“朋友”做了那种事情，然后给已经不能当朋友的“朋友”造成了严重的，尤其是和异性社交的心理阴影。 https://t.co/4op6tdrbqM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2012470726801215633",
+        "created_at": "2026-01-17T10:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012470726801215633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JMTXsix/status…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/JMTXsix/status/2012463619078754309",
+              "start": 80,
+              "url": "https://t.co/4op6tdrbqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012470726801215633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012463619078754309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有的人一边有喜欢的人，一边把异性“朋友”邀请到家里去，然后对异性“朋友”做了那种事情，然后给已经不能当朋友的“朋友”造成了严重的，尤其是和异性社交的心理阴影。 https://t.co/4op6tdrbqM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909189799",
+        "conversation_id": "2012463619078754309",
+        "created_at": "2026-01-17T09:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012463619078754309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lalune_zzz/sta…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/lalune_zzz/status/2012420689412710831",
+              "start": 45,
+              "url": "https://t.co/6DSppilau5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012463619078754309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012420689412710831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎我处了两年的朋友…\n\n关键是你也知道我操逼有价你还这样搞，你早说你想操我你给钱就是了😅 https://t.co/6DSppilau5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 517,
+          "like_count": 16604,
+          "listed_count": 1,
+          "media_count": 791,
+          "tweet_count": 7184
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "",
+        "id": "909189799",
+        "name": "❄️雪顶苔藓🧁",
+        "pinned_tweet_id": "1999067046437593367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012243282848264192/65VeuvsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 555,
+          "like_count": 10849,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 4128
+        },
+        "username": "JMTXsix",
+        "verified": true
+      }
+    ]
+  }
+}

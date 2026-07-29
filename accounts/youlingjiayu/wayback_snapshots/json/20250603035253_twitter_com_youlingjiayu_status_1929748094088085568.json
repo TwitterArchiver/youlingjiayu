@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1929733936357560549",
+    "created_at": "2025-06-03T03:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T04:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929748094088085568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1788144645442347008",
+          "start": 0,
+          "username": "JidamnTomato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929748094088085568",
+    "in_reply_to_user_id": "1788144645442347008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929747910377591271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JidamnTomato 不敢看。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1929733936357560549",
+        "created_at": "2025-06-03T03:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T04:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929748094088085568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1788144645442347008",
+              "start": 0,
+              "username": "JidamnTomato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929748094088085568",
+        "in_reply_to_user_id": "1788144645442347008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929747910377591271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JidamnTomato 不敢看。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788144645442347008",
+        "conversation_id": "1929733936357560549",
+        "created_at": "2025-06-03T03:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T04:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929747910377591271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929747910377591271",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929733936357560549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 东北雨姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 525,
+          "like_count": 10558,
+          "listed_count": 0,
+          "media_count": 481,
+          "tweet_count": 4590
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T09:51:27.000Z",
+        "description": "雑多垢 ｜ 18才｜ 前apex职业选手 ｜ 🇯🇵日本关东地区在住 ｜ 电脑外设资深迷 ｜ 日本語 中文 English 👌 ｜欢迎互fo！｜中国語垢@EggT0mato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "EggT0mato"
+              }
+            ]
+          }
+        },
+        "id": "1788144645442347008",
+        "location": "Taito-ku, Tokyo",
+        "name": "La1y993",
+        "pinned_tweet_id": "1928836411723018285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928836522750652422/DbEMn9Pm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 141,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 801
+        },
+        "username": "JidamnTomato",
+        "verified": false
+      }
+    ]
+  }
+}

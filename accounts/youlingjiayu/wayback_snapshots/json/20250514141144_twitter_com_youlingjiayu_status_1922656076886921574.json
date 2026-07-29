@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1922655477944524861",
+    "created_at": "2025-05-14T14:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T15:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922656076886921574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "771971954584657920",
+          "start": 2,
+          "username": "vanilla_sodaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922656076886921574",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922655477944524861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过@vanilla_sodaa推荐的音乐确实好听，看书和做题的时候听得很爽；喜欢香草严选歌单喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1922655477944524861",
+        "created_at": "2025-05-14T14:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T15:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922656076886921574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "771971954584657920",
+              "start": 2,
+              "username": "vanilla_sodaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922656076886921574",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922655477944524861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过@vanilla_sodaa推荐的音乐确实好听，看书和做题的时候听得很爽；喜欢香草严选歌单喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1922655477944524861",
+        "created_at": "2025-05-14T14:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T15:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922655477944524861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922655477944524861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开始忆往昔了，我高中是怎么做到开那么久心流一点都不累的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜我想要答案。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 508,
+          "like_count": 9947,
+          "listed_count": 1,
+          "media_count": 436,
+          "tweet_count": 4367
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T07:23:51.000Z",
+        "description": "coffee fanatic || ENFP || 汉语🇨🇳English🇺🇸日本語🇯🇵 한국어 🇰🇷|| Cloud Native & Exchange @DXCTechnology || 知れ高粱の波溢るる如く、満ちたるを",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "DXCTechnology"
+              }
+            ]
+          }
+        },
+        "id": "771971954584657920",
+        "location": "安東都護府・東沓県・青泥浦郷",
+        "name": "𝖁𝖆𝖓𝖎𝖑𝖑𝖆𝕾𝖔𝖉𝖆",
+        "pinned_tweet_id": "1917112453907026337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920900891496116226/uR2uzYwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2650,
+          "following_count": 793,
+          "like_count": 109724,
+          "listed_count": 24,
+          "media_count": 5847,
+          "tweet_count": 63525
+        },
+        "username": "vanilla_sodaa",
+        "verified": false
+      }
+    ]
+  }
+}

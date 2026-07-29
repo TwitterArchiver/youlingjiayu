@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1877625282464796801",
+    "created_at": "2025-01-10T07:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T08:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877625364047917175"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1877625364047917175",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877625282464796801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "由于是图谱，所以不需要花太多时间精力阅读，基本上都是图片。\n我翻完一遍只用了一个小时左右，值得花上一点时间浏览熟悉，之后有需要就按照目录查找即可。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1877625282464796801",
+        "created_at": "2025-01-10T07:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T08:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877625364047917175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877625364047917175",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877625282464796801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由于是图谱，所以不需要花太多时间精力阅读，基本上都是图片。\n我翻完一遍只用了一个小时左右，值得花上一点时间浏览熟悉，之后有需要就按照目录查找即可。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877625279788756994"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1877625282464796801",
+        "created_at": "2025-01-10T07:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T08:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877625282464796801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuYUAyhnKA",
+              "end": 168,
+              "expanded_url": "https://x.com/youlingjiayu/status/1877625282464796801/photo/1",
+              "media_key": "3_1877625279788756994",
+              "start": 145,
+              "url": "https://t.co/JuYUAyhnKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877625282464796801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经书评3\n《当代法医学图谱》\n这种书还需要评吗……\n非常好用工具书，图片资料丰富，查阅方便，很有参考价值，对写刑侦类作品很有帮助。\n没有医学基础看起来会有点吃力，比如我看不太出来某几张颅骨骨折在哪里……\nSan值低的不建议看，这本没有循序渐进让读者接受的过程，一打开就是血腥图片。 https://t.co/JuYUAyhnKA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 520,
+          "like_count": 3640,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2166
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

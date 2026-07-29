@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982592523437568000"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1982592531012710416",
+    "created_at": "2025-10-26T23:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T00:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982592531012710416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G9zvuanBAE",
+          "end": 37,
+          "expanded_url": "https://x.com/youlingjiayu/status/1982592531012710416/photo/1",
+          "media_key": "3_1982592523437568000",
+          "start": 14,
+          "url": "https://t.co/G9zvuanBAE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982592531012710416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "匿名箱没有复制文字功能…… https://t.co/G9zvuanBAE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 975,
+        "media_key": "3_1982592523437568000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OVZVXXcAAxgag.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982592523437568000"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1982592531012710416",
+        "created_at": "2025-10-26T23:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982592531012710416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9zvuanBAE",
+              "end": 37,
+              "expanded_url": "https://x.com/youlingjiayu/status/1982592531012710416/photo/1",
+              "media_key": "3_1982592523437568000",
+              "start": 14,
+              "url": "https://t.co/G9zvuanBAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982592531012710416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "匿名箱没有复制文字功能…… https://t.co/G9zvuanBAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 521,
+          "like_count": 13984,
+          "listed_count": 2,
+          "media_count": 630,
+          "tweet_count": 5831
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

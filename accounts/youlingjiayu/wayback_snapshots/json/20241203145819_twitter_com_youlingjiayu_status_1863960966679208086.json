@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1863958913403814150",
+    "created_at": "2024-12-03T14:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T15:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863960966679208086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634941550106140674",
+          "start": 0,
+          "username": "ziswnjinbin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863960966679208086",
+    "in_reply_to_user_id": "1634941550106140674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863960517087486458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziswnjinbin1 有的时候会突然有这种微妙的负罪感……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1863958913403814150",
+        "created_at": "2024-12-03T14:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T15:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863960966679208086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634941550106140674",
+              "start": 0,
+              "username": "ziswnjinbin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863960966679208086",
+        "in_reply_to_user_id": "1634941550106140674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863960517087486458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziswnjinbin1 有的时候会突然有这种微妙的负罪感……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634941550106140674",
+        "conversation_id": "1863958913403814150",
+        "created_at": "2024-12-03T14:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T15:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863960517087486458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863960517087486458",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863958913403814150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 有没有可能，不管多谁少谁大家生活大概率都挺糟的，别想太多咯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 519,
+          "like_count": 2437,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1588
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:37:07.000Z",
+        "description": "尿尿平安",
+        "id": "1634941550106140674",
+        "name": "Da kuchazi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850626193462349824/IW-Qab6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 160,
+          "like_count": 5055,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 2721
+        },
+        "username": "ziswnjinbin1",
+        "verified": false
+      }
+    ]
+  }
+}

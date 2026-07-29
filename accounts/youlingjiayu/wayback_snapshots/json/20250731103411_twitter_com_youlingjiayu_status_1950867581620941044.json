@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1950786281828765722",
+    "created_at": "2025-07-31T10:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T11:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950867581620941044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1325135382963384328",
+          "start": 0,
+          "username": "CSZZL592"
+        },
+        {
+          "end": 20,
+          "id": "1469332196825522176",
+          "start": 10,
+          "username": "Hach1gogo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950867581620941044",
+    "in_reply_to_user_id": "1325135382963384328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950864498333770020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CSZZL592 @Hach1gogo 而且到现在还没公告或者处理通知，太神秘了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1950786281828765722",
+        "created_at": "2025-07-31T10:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T11:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950867581620941044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1325135382963384328",
+              "start": 0,
+              "username": "CSZZL592"
+            },
+            {
+              "end": 20,
+              "id": "1469332196825522176",
+              "start": 10,
+              "username": "Hach1gogo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950867581620941044",
+        "in_reply_to_user_id": "1325135382963384328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950864498333770020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CSZZL592 @Hach1gogo 而且到现在还没公告或者处理通知，太神秘了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1325135382963384328",
+        "conversation_id": "1950786281828765722",
+        "created_at": "2025-07-31T10:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T11:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950864498333770020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            },
+            {
+              "end": 24,
+              "id": "1469332196825522176",
+              "start": 14,
+              "username": "Hach1gogo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950864498333770020",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950856211550605696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu @Hach1gogo 俺不中了，听说这还是她校的优秀硕士论文。一个公开质疑该论文问题的网友被她校连夜上门警告了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 540,
+          "like_count": 12618,
+          "listed_count": 0,
+          "media_count": 564,
+          "tweet_count": 5280
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T17:58:00.000Z",
+        "description": "Intj-T | 科研牛马 | 观察人类同时写日记 | 通常拒绝网络争执和键政除非实在忍不住 | 别骂我我受不了网络暴力🔗 https://t.co/3ZCjglTMnx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiki65921",
+                "end": 85,
+                "expanded_url": "http://ngl.link/kiki65921",
+                "start": 62,
+                "url": "https://t.co/3ZCjglTMnx"
+              }
+            ]
+          }
+        },
+        "id": "1325135382963384328",
+        "name": "雨夜偷牛的人",
+        "pinned_tweet_id": "1935980294353698856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858571613735694336/1D0kPQsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 251,
+          "like_count": 2722,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 624
+        },
+        "username": "CSZZL592",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-10T15:44:50.000Z",
+        "description": "难道要等一千零一世 才互相安慰",
+        "id": "1469332196825522176",
+        "name": "Hachigogo",
+        "pinned_tweet_id": "1906156017420804140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727877014995206144/HOkQoa8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 193,
+          "like_count": 6144,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 854
+        },
+        "username": "Hach1gogo",
+        "verified": false
+      }
+    ]
+  }
+}

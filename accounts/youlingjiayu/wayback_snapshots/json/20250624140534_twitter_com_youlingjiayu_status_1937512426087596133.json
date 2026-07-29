@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1937490133324063115",
+    "created_at": "2025-06-24T14:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T15:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937512426087596133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902978487662809090",
+          "start": 0,
+          "username": "justin405332629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937512426087596133",
+    "in_reply_to_user_id": "1902978487662809090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937490133324063115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justin405332629 刚想说你怎么不是双马尾了，一看双马尾居然还在。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1937490127233908745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNZAWWagAkUawm.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1937490133324063115",
+        "created_at": "2025-06-24T14:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T15:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937512426087596133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902978487662809090",
+              "start": 0,
+              "username": "justin405332629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937512426087596133",
+        "in_reply_to_user_id": "1902978487662809090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937490133324063115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justin405332629 刚想说你怎么不是双马尾了，一看双马尾居然还在。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937490127233908745"
+          ]
+        },
+        "author_id": "1902978487662809090",
+        "conversation_id": "1937490133324063115",
+        "created_at": "2025-06-24T12:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T13:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937490133324063115"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ID2sPmxuAY",
+              "end": 28,
+              "expanded_url": "https://x.com/justin405332629/status/1937490133324063115/photo/1",
+              "media_key": "3_1937490127233908745",
+              "start": 5,
+              "url": "https://t.co/ID2sPmxuAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937490133324063115",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/ID2sPmxuAY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 530,
+          "like_count": 11139,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 4818
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T07:00:11.000Z",
+        "description": "ENTP | 长发男｜短发男｜双子座♊\n  不是人机的话会回关，没有回小窗口叫我一下，有时候没有注意到\n看照片下面翻翻很快有了（长发和短发）\n随机分享生活和猫猫",
+        "id": "1902978487662809090",
+        "location": "森寒冬港",
+        "name": "广式双马尾",
+        "pinned_tweet_id": "1930249449768661413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937490111333310464/yj-PIzK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 95,
+          "like_count": 4649,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 528
+        },
+        "username": "justin405332629",
+        "verified": false
+      }
+    ]
+  }
+}

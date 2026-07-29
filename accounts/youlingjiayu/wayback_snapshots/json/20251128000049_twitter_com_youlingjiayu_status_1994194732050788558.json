@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1994001691637858561",
+    "created_at": "2025-11-28T00:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T01:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994194732050788558"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994194732050788558",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994193340829434237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想要我理解中的“正常人”的生活，于是我表演并希望其他人和我一起表演——这样我们能快速触及到“幸福”的冰山一角吗？可是我不正常，你也不正常，没有人真正“正常”，我曾经无比渴望通过实现他人的幸福来让我幸福，但没有人会真正为我分享人生。这一切都没有意义，我现在只希望在真正认识我之前，别靠近。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1994001691637858561",
+        "created_at": "2025-11-28T00:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T01:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994194732050788558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994194732050788558",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994193340829434237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要我理解中的“正常人”的生活，于是我表演并希望其他人和我一起表演——这样我们能快速触及到“幸福”的冰山一角吗？可是我不正常，你也不正常，没有人真正“正常”，我曾经无比渴望通过实现他人的幸福来让我幸福，但没有人会真正为我分享人生。这一切都没有意义，我现在只希望在真正认识我之前，别靠近。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1994001691637858561",
+        "created_at": "2025-11-27T23:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T00:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994193340829434237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994193340829434237",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994190535356035447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我总是忘记这件事，或者我总是强迫自己忘掉不好的事情，然后假装其实什么都没有发生；最后我被我压抑的东西反噬，被刻意遗忘的所有东西一起爆发。\n然后我割裂开来，我欺骗自己做着知行严重不一致的事情；而这种状态从来无法逃脱，要么陷入痛苦，要么回到虚无。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 516,
+          "like_count": 14847,
+          "listed_count": 1,
+          "media_count": 686,
+          "tweet_count": 6378
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

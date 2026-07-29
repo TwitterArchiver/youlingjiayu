@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1918151947812536546",
+    "created_at": "2025-05-02T05:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T06:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918173897536798854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759076490061426688",
+          "start": 0,
+          "username": "ScarletC33832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918173897536798854",
+    "in_reply_to_user_id": "1759076490061426688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918151947812536546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletC33832 靠为爱发电吧……我也干了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1918151947812536546",
+        "created_at": "2025-05-02T05:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T06:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918173897536798854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759076490061426688",
+              "start": 0,
+              "username": "ScarletC33832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918173897536798854",
+        "in_reply_to_user_id": "1759076490061426688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918151947812536546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletC33832 靠为爱发电吧……我也干了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759076490061426688",
+        "conversation_id": "1918151947812536546",
+        "created_at": "2025-05-02T03:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T04:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918151947812536546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918151947812536546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "coser的夏日常服：一层加一层叠穿+厚厚的假发像个披风盖在身上+面粉般丝滑的无瑕底妆+复杂设计超绝晕染大浓妆\n到底怎么做到的 是不是人类啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 508,
+          "like_count": 9644,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 4235
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T04:45:26.000Z",
+        "description": "精神病一触即发",
+        "id": "1759076490061426688",
+        "location": "you've raise my standard",
+        "name": "Arthur",
+        "pinned_tweet_id": "1916623044484956400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875882829386788864/g4V5PRdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 696,
+          "like_count": 7057,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 2684
+        },
+        "username": "ScarletC33832",
+        "verified": false
+      }
+    ]
+  }
+}

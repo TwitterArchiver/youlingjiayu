@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1994027612335657257",
+    "created_at": "2025-11-27T14:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994051038039719966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783930046329266176",
+          "start": 0,
+          "username": "padusaviummiler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994051038039719966",
+    "in_reply_to_user_id": "1783930046329266176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994027612335657257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@padusaviummiler 太可爱了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18100,
+        "height": 1280,
+        "media_key": "7_1994027570543874048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994027570543874048/pu/img/Lp4EEWtVSz8AGa23.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994027570543874048/pu/vid/avc1/320x568/riLF_lmbIfgAAuL6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994027570543874048/pu/vid/avc1/480x852/qEWe4KpsGy9K3tef.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994027570543874048/pu/vid/avc1/720x1280/dOkVBym8LGcICAJe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994027570543874048/pu/pl/oS3qczzoUf9IauYk.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1994027612335657257",
+        "created_at": "2025-11-27T14:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994051038039719966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783930046329266176",
+              "start": 0,
+              "username": "padusaviummiler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994051038039719966",
+        "in_reply_to_user_id": "1783930046329266176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994027612335657257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@padusaviummiler 太可爱了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994027570543874048"
+          ]
+        },
+        "author_id": "1783930046329266176",
+        "conversation_id": "1994027612335657257",
+        "created_at": "2025-11-27T12:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994027612335657257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTRh46R7A4",
+              "end": 40,
+              "expanded_url": "https://x.com/padusaviummiler/status/1994027612335657257/video/1",
+              "media_key": "7_1994027570543874048",
+              "start": 17,
+              "url": "https://t.co/VTRh46R7A4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994027612335657257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大家喜欢小吉喵，我发它的视频 https://t.co/VTRh46R7A4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 515,
+          "like_count": 14839,
+          "listed_count": 1,
+          "media_count": 686,
+          "tweet_count": 6375
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T18:44:15.000Z",
+        "description": "世界の中心でアイを叫んだ",
+        "id": "1783930046329266176",
+        "name": "咕咕",
+        "pinned_tweet_id": "1853657790839165353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986164635653795841/GwYqi_qR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 422,
+          "like_count": 2692,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 646
+        },
+        "username": "padusaviummiler",
+        "verified": false
+      }
+    ]
+  }
+}

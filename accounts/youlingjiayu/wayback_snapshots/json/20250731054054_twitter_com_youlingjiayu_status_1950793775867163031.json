@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1950786281828765722",
+    "created_at": "2025-07-31T05:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T06:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950793775867163031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1325135382963384328",
+          "start": 0,
+          "username": "CSZZL592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950793775867163031",
+    "in_reply_to_user_id": "1325135382963384328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950793021194490038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CSZZL592 是的喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1950786281828765722",
+        "created_at": "2025-07-31T05:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T06:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950793775867163031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1325135382963384328",
+              "start": 0,
+              "username": "CSZZL592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950793775867163031",
+        "in_reply_to_user_id": "1325135382963384328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950793021194490038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CSZZL592 是的喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1325135382963384328",
+        "conversation_id": "1950786281828765722",
+        "created_at": "2025-07-31T05:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T06:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950793021194490038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950793021194490038",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950786281828765722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 这是杨某那篇论文吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 540,
+          "like_count": 12599,
+          "listed_count": 0,
+          "media_count": 563,
+          "tweet_count": 5274
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T17:58:00.000Z",
+        "description": "Intj-T | 科研牛马 | 观察人类同时写日记 | 通常拒绝网络争执和键政除非实在忍不住 | 别骂我我受不了网络暴力🔗 https://t.co/3ZCjglTMnx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiki65921",
+                "end": 85,
+                "expanded_url": "http://ngl.link/kiki65921",
+                "start": 62,
+                "url": "https://t.co/3ZCjglTMnx"
+              }
+            ]
+          }
+        },
+        "id": "1325135382963384328",
+        "name": "雨夜偷牛的人",
+        "pinned_tweet_id": "1935980294353698856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858571613735694336/1D0kPQsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 251,
+          "like_count": 2707,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 615
+        },
+        "username": "CSZZL592",
+        "verified": false
+      }
+    ]
+  }
+}

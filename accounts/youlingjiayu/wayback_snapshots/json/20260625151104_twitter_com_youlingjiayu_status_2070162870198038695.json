@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2070105176611184730",
+    "created_at": "2026-06-25T15:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070162870198038695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070162870198038695",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070159131382554708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 那我很可爱了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2070105176611184730",
+        "created_at": "2026-06-25T15:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070162870198038695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070162870198038695",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070159131382554708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 那我很可爱了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2070105176611184730",
+        "created_at": "2026-06-25T14:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070159131382554708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070159131382554708",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070105176611184730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 就是夸你可爱的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 530,
+          "like_count": 19170,
+          "listed_count": 1,
+          "media_count": 1003,
+          "tweet_count": 8286
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi1111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi1111",
+                "start": 0,
+                "url": "https://t.co/MsaRlYIHJ7"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9141,
+          "following_count": 96,
+          "like_count": 10304,
+          "listed_count": 26,
+          "media_count": 250,
+          "tweet_count": 2280
+        },
+        "url": "https://t.co/MsaRlYIHJ7",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

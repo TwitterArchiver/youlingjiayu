@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1853110113428812089",
+    "created_at": "2024-11-04T14:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T15:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853444577967096065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1499411488645074945",
+          "start": 0,
+          "username": "wyzz060814"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853444577967096065",
+    "in_reply_to_user_id": "1499411488645074945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853110113428812089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyzz060814 你长得像我一个同学，声音像我另一个同学（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1853110113428812089",
+        "created_at": "2024-11-04T14:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T15:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853444577967096065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1499411488645074945",
+              "start": 0,
+              "username": "wyzz060814"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853444577967096065",
+        "in_reply_to_user_id": "1499411488645074945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853110113428812089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyzz060814 你长得像我一个同学，声音像我另一个同学（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1853110074358878208"
+          ]
+        },
+        "author_id": "1499411488645074945",
+        "conversation_id": "1853110113428812089",
+        "created_at": "2024-11-03T16:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T17:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853110113428812089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0NubwiQU0",
+              "end": 51,
+              "expanded_url": "https://x.com/wyzz060814/status/1853110113428812089/video/1",
+              "media_key": "7_1853110074358878208",
+              "start": 28,
+              "url": "https://t.co/k0NubwiQU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853110113428812089",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凯奥斯曼将军针对竹蜻蜓事件发表无意义讲话（高仿zqt） https://t.co/k0NubwiQU0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/臭搞同人的，把这边当日记本和垃圾桶\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 519,
+          "like_count": 964,
+          "listed_count": 0,
+          "tweet_count": 730
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T15:48:58.000Z",
+        "description": "满速风扇的电脑，被打到变形的4＋装甲钢防弹板，被炸烂的枪械，床头的止痛药，染血的刀，整洁的床铺大家，幸福的躺在一起，我；那个想法奇怪而厨艺强大的厨师\n超级大狗预告\n新生日：2023/8/23 Y/M/D\nssex：male \nage：18＋（error）",
+        "id": "1499411488645074945",
+        "location": "北京，通州的小角落",
+        "name": "润德曼，the CHAOSman（努力学做菜版）",
+        "pinned_tweet_id": "1845438609459118384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607432047064137728/Vuup6R70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 905,
+          "like_count": 1070,
+          "listed_count": 3,
+          "tweet_count": 3142
+        },
+        "username": "wyzz060814",
+        "verified": false
+      }
+    ]
+  }
+}

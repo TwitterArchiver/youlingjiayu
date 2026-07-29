@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2053298026593312832",
+    "created_at": "2026-05-10T09:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053404306901229600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031983501038534664",
+          "start": 0,
+          "username": "planifoliaspark"
+        },
+        {
+          "end": 28,
+          "id": "2041886818443091968",
+          "start": 17,
+          "username": "ruqisuoshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053404306901229600",
+    "in_reply_to_user_id": "2031983501038534664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053329706171433233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@planifoliaspark @ruqisuoshi 我怕家长连我一起抽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2053298026593312832",
+        "created_at": "2026-05-10T09:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053404306901229600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031983501038534664",
+              "start": 0,
+              "username": "planifoliaspark"
+            },
+            {
+              "end": 28,
+              "id": "2041886818443091968",
+              "start": 17,
+              "username": "ruqisuoshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053404306901229600",
+        "in_reply_to_user_id": "2031983501038534664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053329706171433233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@planifoliaspark @ruqisuoshi 我怕家长连我一起抽。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031983501038534664",
+        "conversation_id": "2053298026593312832",
+        "created_at": "2026-05-10T04:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053329706171433233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041886818443091968",
+              "start": 0,
+              "username": "ruqisuoshi"
+            },
+            {
+              "end": 25,
+              "id": "1751158019516465152",
+              "start": 12,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053329706171433233",
+        "in_reply_to_user_id": "2041886818443091968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053321127611765012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruqisuoshi @youlingjiayu 上次说进去发现家长拿了个棍子站在后面🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 524,
+          "like_count": 18451,
+          "listed_count": 1,
+          "media_count": 953,
+          "tweet_count": 8050
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T06:40:16.000Z",
+        "description": "推油寻回中 香草三代目  | coffee fanatic | ENFP | 汉语🇨🇳English🇺🇸日本語🇯🇵| Cloud Native & Infra | 不想在X “合群” | 利物浦是冠军",
+        "id": "2031983501038534664",
+        "name": "香草美式",
+        "pinned_tweet_id": "2038150797742235751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031994772337147906/tfm6O435_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 269,
+          "like_count": 3447,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1522
+        },
+        "username": "planifoliaspark",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T14:49:28.000Z",
+        "description": "电子日记｜be more like me",
+        "id": "2041886818443091968",
+        "name": "ruqisuoshi",
+        "pinned_tweet_id": "2052370088117039425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053113916138618880/edq0QVYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 94,
+          "like_count": 1090,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 124
+        },
+        "username": "ruqisuoshi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915381168104787968"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1915381171501883878",
+    "created_at": "2025-04-24T12:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T13:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915381171501883878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CcQkbSCjkK",
+          "end": 164,
+          "expanded_url": "https://x.com/youlingjiayu/status/1915381171501883878/photo/1",
+          "media_key": "3_1915381168104787968",
+          "start": 141,
+          "url": "https://t.co/CcQkbSCjkK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915381171501883878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "甲鱼不正经书评26\n《荒诞医学史》\n行文非常好笑。\n早上很困，看了灌肠屁股幻痛彻底清醒了。\n医学的探索真是吃一堑，吃一堑，吃一堑，长一智；从现在看起来荒唐的疗法，当时却颇受追捧，比起科学更像一种宗教，也可能正是人们一贯的对健康的重视（尤其是权贵们）才让这些荒诞的治疗方法层出不穷。 https://t.co/CcQkbSCjkK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 469,
+        "media_key": "3_1915381168104787968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpTNBjZb0AAWsxL.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915381168104787968"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1915381171501883878",
+        "created_at": "2025-04-24T12:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T13:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915381171501883878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcQkbSCjkK",
+              "end": 164,
+              "expanded_url": "https://x.com/youlingjiayu/status/1915381171501883878/photo/1",
+              "media_key": "3_1915381168104787968",
+              "start": 141,
+              "url": "https://t.co/CcQkbSCjkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915381171501883878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经书评26\n《荒诞医学史》\n行文非常好笑。\n早上很困，看了灌肠屁股幻痛彻底清醒了。\n医学的探索真是吃一堑，吃一堑，吃一堑，长一智；从现在看起来荒唐的疗法，当时却颇受追捧，比起科学更像一种宗教，也可能正是人们一贯的对健康的重视（尤其是权贵们）才让这些荒诞的治疗方法层出不穷。 https://t.co/CcQkbSCjkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 505,
+          "like_count": 9485,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 4157
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

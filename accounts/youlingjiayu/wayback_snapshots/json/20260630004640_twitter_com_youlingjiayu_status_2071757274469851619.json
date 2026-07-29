@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2071631291846402310",
+    "created_at": "2026-06-30T00:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T01:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071757274469851619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1325135382963384328",
+          "start": 0,
+          "username": "CSZZL592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071757274469851619",
+    "in_reply_to_user_id": "1325135382963384328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071631291846402310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CSZZL592 牛生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071631276847562752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_pq5oWgAAV__A.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2071631291846402310",
+        "created_at": "2026-06-30T00:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071757274469851619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1325135382963384328",
+              "start": 0,
+              "username": "CSZZL592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071757274469851619",
+        "in_reply_to_user_id": "1325135382963384328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071631291846402310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CSZZL592 牛生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071631276847562752"
+          ]
+        },
+        "author_id": "1325135382963384328",
+        "conversation_id": "2071631291846402310",
+        "created_at": "2026-06-29T16:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071631291846402310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6muiv0G7n",
+              "end": 31,
+              "expanded_url": "https://x.com/CSZZL592/status/2071631291846402310/photo/1",
+              "media_key": "3_2071631276847562752",
+              "start": 8,
+              "url": "https://t.co/L6muiv0G7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071631291846402310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 802,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请大家看气球🤓 https://t.co/L6muiv0G7n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 534,
+          "like_count": 19258,
+          "listed_count": 1,
+          "media_count": 1003,
+          "tweet_count": 8308
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T17:58:00.000Z",
+        "description": "假扮E人 | 科研牛马 | 道德洼地 | 观察人类同时写日记 | 通常拒绝网络争执和键政除非实在忍不住 | 别骂我我受不了网络暴力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nglissbapp",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nglissbapp",
+                "start": 0,
+                "url": "https://t.co/mi9XFUtj9Q"
+              }
+            ]
+          }
+        },
+        "id": "1325135382963384328",
+        "name": "雨夜偷牛的人",
+        "pinned_tweet_id": "1960177313850835240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858571613735694336/1D0kPQsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 249,
+          "like_count": 6503,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1237
+        },
+        "url": "https://t.co/mi9XFUtj9Q",
+        "username": "CSZZL592",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1911678430241841334",
+    "created_at": "2025-04-14T07:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T08:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911680932668723647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "827434202748456960",
+          "start": 0,
+          "username": "mqtztsxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911680932668723647",
+    "in_reply_to_user_id": "827434202748456960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911680435568152647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mqtztsxy 你最好真是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1911678430241841334",
+        "created_at": "2025-04-14T07:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T08:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911680932668723647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "827434202748456960",
+              "start": 0,
+              "username": "mqtztsxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911680932668723647",
+        "in_reply_to_user_id": "827434202748456960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911680435568152647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mqtztsxy 你最好真是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "827434202748456960",
+        "conversation_id": "1911678430241841334",
+        "created_at": "2025-04-14T07:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T08:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911680435568152647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911680435568152647",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911679783060328892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 我是高中生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 503,
+          "like_count": 8995,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 3971
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-03T08:31:01.000Z",
+        "description": "Горделивая поза больного шизофренией с бредовыми идеями величия.\n\n（一个有着妄想般的雄心壮志的精神分裂症患者，摆出骄傲的姿势。）\n提问箱https://t.co/kxDfisHacU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mqtztsxy",
+                "end": 124,
+                "expanded_url": "https://ngl.link/mqtztsxy",
+                "start": 101,
+                "url": "https://t.co/kxDfisHacU"
+              }
+            ]
+          }
+        },
+        "id": "827434202748456960",
+        "location": "切除前额叶手术台上",
+        "name": "(`・ω・´)",
+        "pinned_tweet_id": "1904735341002842276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910862223372595201/iXX2Tbuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 1606,
+          "like_count": 87964,
+          "listed_count": 0,
+          "media_count": 1438,
+          "tweet_count": 27673
+        },
+        "username": "mqtztsxy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1906149027038777543",
+    "created_at": "2025-03-30T03:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T04:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906192489763295457"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906192489763295457",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906149027038777543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和患者搏斗的最好武器是棉被，患者注意力不集中所以一般采用声东击西的策略；有抑郁症状和自杀倾向的患者一般建议住封闭病房，开放病房中家属看不住；不要信任患者，患者起夜看到尸体大概率无动于衷地默默略过；不要相信有自杀意图和尝试过自杀的患者，患者说自己感觉良好只是为了麻痹别人然后自杀。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906149020420255744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnQAb1MbsAA6U8q.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1906149027038777543",
+        "created_at": "2025-03-30T03:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T04:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906192489763295457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906192489763295457",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906149027038777543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和患者搏斗的最好武器是棉被，患者注意力不集中所以一般采用声东击西的策略；有抑郁症状和自杀倾向的患者一般建议住封闭病房，开放病房中家属看不住；不要信任患者，患者起夜看到尸体大概率无动于衷地默默略过；不要相信有自杀意图和尝试过自杀的患者，患者说自己感觉良好只是为了麻痹别人然后自杀。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906149020420255744"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1906149027038777543",
+        "created_at": "2025-03-30T00:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T01:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906149027038777543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPbxyeCsry",
+              "end": 30,
+              "expanded_url": "https://x.com/youlingjiayu/status/1906149027038777543/photo/1",
+              "media_key": "3_1906149020420255744",
+              "start": 7,
+              "url": "https://t.co/HPbxyeCsry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906149027038777543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在地铁上听。 https://t.co/HPbxyeCsry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的重力系赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，把网友当垃圾回收员，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 493,
+          "like_count": 7548,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 3410
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

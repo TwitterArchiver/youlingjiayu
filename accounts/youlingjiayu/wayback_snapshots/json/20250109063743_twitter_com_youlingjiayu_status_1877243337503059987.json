@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1877238955482988585",
+    "created_at": "2025-01-09T06:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T07:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877243337503059987"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1877243337503059987",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877241098097107136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他的生活呈现一种疲态或厌倦，所以我倾向于相信他在车站的冒险举动是一种冲动的自毁，可能他有那么一瞬间真的想死，毕竟唯一的精神支柱也没有了。\n我其实还挺嗑另外两对的（可能算不上“对”，毕竟没在一起），频繁上演相遇别离，最后会再见吗……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1877238955482988585",
+        "created_at": "2025-01-09T06:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T07:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877243337503059987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877243337503059987",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877241098097107136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他的生活呈现一种疲态或厌倦，所以我倾向于相信他在车站的冒险举动是一种冲动的自毁，可能他有那么一瞬间真的想死，毕竟唯一的精神支柱也没有了。\n我其实还挺嗑另外两对的（可能算不上“对”，毕竟没在一起），频繁上演相遇别离，最后会再见吗……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1877238955482988585",
+        "created_at": "2025-01-09T06:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T07:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877241098097107136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877241098097107136",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877238955482988585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但很难说是不是爱吧，他似乎爱每一个人，也确实记住了，但会在最爱的时候结束这段关系——看上去有点像回避型。\n他是浮萍，离开养母之后彻底漂泊于人世；他一心寻找自己的亲生母亲，类似一种寻根（？），最后好不容易找到了却被拒之门外……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 517,
+          "like_count": 3521,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2137
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

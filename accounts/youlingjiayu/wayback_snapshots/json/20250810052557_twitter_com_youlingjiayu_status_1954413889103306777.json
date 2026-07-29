@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1954412531671536015",
+    "created_at": "2025-08-10T05:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T06:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954413889103306777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1223794078782914560",
+          "start": 0,
+          "username": "LiJiaChaobot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954413889103306777",
+    "in_reply_to_user_id": "1223794078782914560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954413235261612035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiJiaChaobot 给我一棍子就停止思考了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1954412531671536015",
+        "created_at": "2025-08-10T05:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T06:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954413889103306777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1223794078782914560",
+              "start": 0,
+              "username": "LiJiaChaobot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954413889103306777",
+        "in_reply_to_user_id": "1223794078782914560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954413235261612035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiJiaChaobot 给我一棍子就停止思考了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223794078782914560",
+        "conversation_id": "1954412531671536015",
+        "created_at": "2025-08-10T05:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T06:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954413235261612035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954413235261612035",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954412531671536015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 甲鱼老师别想了😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 538,
+          "like_count": 13186,
+          "listed_count": 1,
+          "media_count": 593,
+          "tweet_count": 5471
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T02:23:48.000Z",
+        "description": "一只萌豚/会屏蔽来路不明或锁推的账户/包学家/打心怪/迫真中立壬🤓/やるんだな 今ここで",
+        "id": "1223794078782914560",
+        "location": "萌豚國",
+        "name": "DUCK萌豚",
+        "pinned_tweet_id": "1225756288912461824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788784174402600960/joPMOZGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 2031,
+          "like_count": 648786,
+          "listed_count": 20,
+          "media_count": 7929,
+          "tweet_count": 76570
+        },
+        "username": "LiJiaChaobot",
+        "verified": false
+      }
+    ]
+  }
+}

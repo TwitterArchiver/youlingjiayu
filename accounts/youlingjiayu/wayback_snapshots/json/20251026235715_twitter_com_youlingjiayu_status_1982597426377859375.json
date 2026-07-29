@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1982499480193974586",
+    "created_at": "2025-10-26T23:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T00:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982597426377859375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1566703644023685120",
+          "start": 0,
+          "username": "spectatengageR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982597426377859375",
+    "in_reply_to_user_id": "1566703644023685120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982499480193974586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spectatengageR 最后一段写得太好了E老师……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1982499480193974586",
+        "created_at": "2025-10-26T23:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982597426377859375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1566703644023685120",
+              "start": 0,
+              "username": "spectatengageR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982597426377859375",
+        "in_reply_to_user_id": "1566703644023685120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982499480193974586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spectatengageR 最后一段写得太好了E老师……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566703644023685120",
+        "conversation_id": "1982499480193974586",
+        "created_at": "2025-10-26T17:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T18:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982499480193974586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982499480193974586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吵架之后说个不停，然后紧紧抱了一会。\n有时候会很担心，喜欢和爱会不会掉进麻木的习惯里，有时候又感觉到想念和激动都是真的。\n不完全是处理不好感情，也是我摸不到我自己的存在。\n一切都无所谓地过去了，眨眨眼睛又是一天，多眨几次居然已经十月底。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 521,
+          "like_count": 13990,
+          "listed_count": 2,
+          "media_count": 630,
+          "tweet_count": 5832
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T08:24:26.000Z",
+        "description": "说不出什么话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/engager",
+                "end": 23,
+                "expanded_url": "https://ngl.link/engager",
+                "start": 0,
+                "url": "https://t.co/YPR05wF6PS"
+              }
+            ]
+          }
+        },
+        "id": "1566703644023685120",
+        "location": "波雅斯",
+        "name": "engage:D",
+        "pinned_tweet_id": "1918186816257310918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982498254915764224/zPJWaPfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 657,
+          "like_count": 64691,
+          "listed_count": 3,
+          "media_count": 1182,
+          "tweet_count": 15913
+        },
+        "url": "https://t.co/YPR05wF6PS",
+        "username": "spectatengageR",
+        "verified": false
+      }
+    ]
+  }
+}

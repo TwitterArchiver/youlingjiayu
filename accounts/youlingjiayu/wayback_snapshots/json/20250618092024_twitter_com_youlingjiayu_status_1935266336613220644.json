@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1935168675713269891",
+    "created_at": "2025-06-18T09:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T10:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935266336613220644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790795487068700674",
+          "start": 0,
+          "username": "BateauDeLavoir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935266336613220644",
+    "in_reply_to_user_id": "1790795487068700674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935168675713269891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BateauDeLavoir 🥺来南京找我玩。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 137,
+        "media_key": "3_1935168672987017216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtsZp7Xa8AAD7h2.jpg",
+        "width": 515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1935168675713269891",
+        "created_at": "2025-06-18T09:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T10:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935266336613220644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790795487068700674",
+              "start": 0,
+              "username": "BateauDeLavoir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935266336613220644",
+        "in_reply_to_user_id": "1790795487068700674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935168675713269891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BateauDeLavoir 🥺来南京找我玩。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935168672987017216"
+          ]
+        },
+        "author_id": "1790795487068700674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1935168675713269891",
+        "created_at": "2025-06-18T02:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T03:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935168675713269891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZo1M7ydS0",
+              "end": 38,
+              "expanded_url": "https://x.com/BateauDeLavoir/status/1935168675713269891/photo/1",
+              "media_key": "3_1935168672987017216",
+              "start": 15,
+              "url": "https://t.co/TZo1M7ydS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935168675713269891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1107,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了，这下秋天就要去南京咯🏃 https://t.co/TZo1M7ydS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 524,
+          "like_count": 10955,
+          "listed_count": 0,
+          "media_count": 508,
+          "tweet_count": 4780
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T17:25:02.000Z",
+        "description": "喜欢东方project和人类学。\n\n行行失故路，任道或能通。\n觉悟当念还，鸟尽废良弓。\n\n我坐小舟，水和风指路，手里只有桨。",
+        "id": "1790795487068700674",
+        "location": "你家隔壁麦当劳",
+        "name": "饱醋生",
+        "pinned_tweet_id": "1900199533449191752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921193527469633538/9Lv6BnDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 342,
+          "like_count": 14554,
+          "listed_count": 2,
+          "media_count": 991,
+          "tweet_count": 5448
+        },
+        "username": "BateauDeLavoir",
+        "verified": false
+      }
+    ]
+  }
+}

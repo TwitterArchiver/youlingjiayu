@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1955185506637189563",
+    "created_at": "2025-08-15T01:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T02:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956167248202358969"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956167248202358969",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956165058448515270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "白白失去了，或者被消耗了……你有更重要的事情要做。\n没有在逃避自由，但爱好实在没有信仰的作用；有的时候对一切都淡漠，像观看玻璃箱里的人群。\n没有能从中长期汲取快乐的事情，多巴胺回路扭成了一个复杂的死结；所有的事情都很普通，治好了病之后生活也没有变好，我放弃了期待并接受一切发生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955185506637189563",
+        "created_at": "2025-08-15T01:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T02:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956167248202358969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956167248202358969",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956165058448515270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "白白失去了，或者被消耗了……你有更重要的事情要做。\n没有在逃避自由，但爱好实在没有信仰的作用；有的时候对一切都淡漠，像观看玻璃箱里的人群。\n没有能从中长期汲取快乐的事情，多巴胺回路扭成了一个复杂的死结；所有的事情都很普通，治好了病之后生活也没有变好，我放弃了期待并接受一切发生。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955185506637189563",
+        "created_at": "2025-08-15T01:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T02:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956165058448515270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956165058448515270",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955861472120332774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "交换过很多东西，我尝试把维持微妙的等价的平衡……我想如果不能收回报酬，那我应该及时止损。\n回到舒适区既无法被理解也无法自洽；而你既不高尚也不勇敢，你只是看到什么就想要什么；即使最后爬上山顶，朝上望去时也会想要更多星星。\n如果最后真的能得到什么，我愿意用我的一切进行一次不对等的交换。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 520,
+          "like_count": 13503,
+          "listed_count": 1,
+          "media_count": 602,
+          "tweet_count": 5558
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

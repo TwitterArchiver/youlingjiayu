@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1979339877499179276",
+    "created_at": "2025-10-18T00:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T01:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979339877499179276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/1978629621659627728",
+          "start": 9,
+          "url": "https://t.co/3Khun0du2H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979339877499179276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978629621659627728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又普通地梦到了。 https://t.co/3Khun0du2H"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1979339877499179276",
+        "created_at": "2025-10-18T00:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T01:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979339877499179276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1978629621659627728",
+              "start": 9,
+              "url": "https://t.co/3Khun0du2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979339877499179276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978629621659627728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又普通地梦到了。 https://t.co/3Khun0du2H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1978618125806690559",
+        "created_at": "2025-10-16T01:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978629621659627728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978629621659627728",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978618125806690559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到一些无关的……噩梦和春梦都是你的脸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。",
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 516,
+          "like_count": 13755,
+          "listed_count": 2,
+          "media_count": 616,
+          "tweet_count": 5715
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

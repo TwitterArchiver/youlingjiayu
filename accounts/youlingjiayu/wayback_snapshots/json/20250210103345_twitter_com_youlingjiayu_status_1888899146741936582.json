@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1887530139468374310",
+    "created_at": "2025-02-10T10:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T11:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888899146741936582"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1888899146741936582",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887532608059547743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1.愿意，如果牺牲是必要的，那就牺牲吧。\n2.会，虽然我的同情心很少但还是有悲天悯人的情节的。\n3.会（？），我其实觉得我有一段斯德哥尔摩的日子，如果这个人真的这么厉害，那我估计会喜欢他。\n4.性剥削和其他没什么不同，如果真的能找到人生意义/实现理想，当狗都行。\n5.接受并觉得是喜欢我的表现。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1887530139468374310",
+        "created_at": "2025-02-10T10:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T11:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888899146741936582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888899146741936582",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887532608059547743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.愿意，如果牺牲是必要的，那就牺牲吧。\n2.会，虽然我的同情心很少但还是有悲天悯人的情节的。\n3.会（？），我其实觉得我有一段斯德哥尔摩的日子，如果这个人真的这么厉害，那我估计会喜欢他。\n4.性剥削和其他没什么不同，如果真的能找到人生意义/实现理想，当狗都行。\n5.接受并觉得是喜欢我的表现。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1887530139468374310",
+        "created_at": "2025-02-06T16:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T17:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887532608059547743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887532608059547743",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887530139468374310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4.是否接受在3的过程中的性剥削，逼迫你满足对方的欲望？\n5.你对别人拿你代餐角色的态度是？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 496,
+          "like_count": 5320,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2689
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1894342691636613642",
+    "created_at": "2025-02-25T11:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T12:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894343639217963330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1825540389169975296",
+          "start": 0,
+          "username": "zuo2you3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894343639217963330",
+    "in_reply_to_user_id": "1825540389169975296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894342691636613642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuo2you3 啊……《檀香刑》……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1894342691636613642",
+        "created_at": "2025-02-25T11:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T12:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894343639217963330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1825540389169975296",
+              "start": 0,
+              "username": "zuo2you3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894343639217963330",
+        "in_reply_to_user_id": "1825540389169975296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894342691636613642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuo2you3 啊……《檀香刑》……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825540389169975296",
+        "conversation_id": "1894342691636613642",
+        "created_at": "2025-02-25T11:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T12:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894342691636613642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894342691636613642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大部分动物吃东西都不会细嚼慢咽，而是一口吞下，人类却能想出来凌迟这种千刀万剐的刑罚，不是用于北京烤鸭，而是用于人类身上，**人类最坏了😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 492,
+          "like_count": 6032,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 2822
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T14:28:59.000Z",
+        "description": "始终坚信我们会在另一个维度更好",
+        "id": "1825540389169975296",
+        "location": "钟楼",
+        "name": "贝森",
+        "pinned_tweet_id": "1846582170934202825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890402584856522752/C4b2E7zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 275,
+          "like_count": 5049,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1717
+        },
+        "username": "zuo2you3",
+        "verified": false
+      }
+    ]
+  }
+}

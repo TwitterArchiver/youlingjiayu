@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2000235175834513425",
+    "created_at": "2025-12-15T04:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T05:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000418063267828147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1566703644023685120",
+          "start": 0,
+          "username": "spectatengageR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000418063267828147",
+    "in_reply_to_user_id": "1566703644023685120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000235175834513425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spectatengageR 都在接那我也接。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2000235175834513425",
+        "created_at": "2025-12-15T04:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000418063267828147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1566703644023685120",
+              "start": 0,
+              "username": "spectatengageR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000418063267828147",
+        "in_reply_to_user_id": "1566703644023685120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000235175834513425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spectatengageR 都在接那我也接。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566703644023685120",
+        "conversation_id": "2000235175834513425",
+        "created_at": "2025-12-14T16:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000235175834513425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000235175834513425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有很好的爱侣真是幸福又幸运"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 514,
+          "like_count": 15486,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 6758
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T08:24:26.000Z",
+        "description": "说不出什么话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/engager",
+                "end": 23,
+                "expanded_url": "https://ngl.link/engager",
+                "start": 0,
+                "url": "https://t.co/YPR05wF6PS"
+              }
+            ]
+          }
+        },
+        "id": "1566703644023685120",
+        "location": "波雅斯",
+        "name": "engage:D",
+        "pinned_tweet_id": "1918186816257310918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982498254915764224/zPJWaPfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 605,
+          "like_count": 65533,
+          "listed_count": 3,
+          "media_count": 1185,
+          "tweet_count": 16116
+        },
+        "url": "https://t.co/YPR05wF6PS",
+        "username": "spectatengageR",
+        "verified": false
+      }
+    ]
+  }
+}

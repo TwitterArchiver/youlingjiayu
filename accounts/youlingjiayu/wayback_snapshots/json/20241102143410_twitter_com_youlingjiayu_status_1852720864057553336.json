@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1852705072289079401",
+    "created_at": "2024-11-02T14:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T15:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852720864057553336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1651352228936941568",
+          "start": 0,
+          "username": "Arockandrew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852720864057553336",
+    "in_reply_to_user_id": "1651352228936941568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852705072289079401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arockandrew 过年！是社畜朋友的年假，我们一起去，我负责当赶尸人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1852705072289079401",
+        "created_at": "2024-11-02T14:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T15:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852720864057553336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1651352228936941568",
+              "start": 0,
+              "username": "Arockandrew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852720864057553336",
+        "in_reply_to_user_id": "1651352228936941568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852705072289079401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arockandrew 过年！是社畜朋友的年假，我们一起去，我负责当赶尸人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651352228936941568",
+        "conversation_id": "1852705072289079401",
+        "created_at": "2024-11-02T13:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T14:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852705072289079401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/spaces/1BRJj…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1BRJjwyojRRxw",
+              "start": 0,
+              "unwound_url": "https://twitter.com/i/spaces/1BRJjwyojRRxw",
+              "url": "https://t.co/tMlMujZpCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852705072289079401",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tMlMujZpCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼（意思是我是ftx）\n00后/intj/无业游民/臭搞同人的，把这边当日记本和垃圾桶\n不加lxfs，除非你是女的或者长得好看的男的，害怕性器官\n泛性恋（偏好非二元或者酷儿的1i/4i）/switch",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 503,
+          "like_count": 828,
+          "listed_count": 0,
+          "tweet_count": 655
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T22:27:15.000Z",
+        "description": "码农 | 虚无主义 | 世间牵扯无一不让人心痛，就像万有引力无处不在。我对你也痛，你对我也有引力。 | 提问箱可提问任何问题，和我无关也可以：https://t.co/m5p4oKQQtW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/arockandrew",
+                "end": 94,
+                "expanded_url": "https://ngl.link/arockandrew",
+                "start": 71,
+                "url": "https://t.co/m5p4oKQQtW"
+              }
+            ]
+          }
+        },
+        "id": "1651352228936941568",
+        "location": "England, United Kingdom",
+        "name": "andrsonrobot",
+        "pinned_tweet_id": "1655879257246113794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651352531103109120/e2SjJj8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 393,
+          "like_count": 19840,
+          "listed_count": 6,
+          "tweet_count": 8299
+        },
+        "username": "Arockandrew",
+        "verified": false
+      }
+    ]
+  }
+}

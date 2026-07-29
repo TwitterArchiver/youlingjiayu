@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1947888183259369561",
+    "created_at": "2025-07-23T05:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T06:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947888976259584179"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947888976259584179",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947888183259369561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此学科针对一个问题会有很多不同的理论，而且每个理论各有优缺点……一个缺乏“定理”的学科？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1947888183259369561",
+        "created_at": "2025-07-23T05:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T06:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947888976259584179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947888976259584179",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947888183259369561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此学科针对一个问题会有很多不同的理论，而且每个理论各有优缺点……一个缺乏“定理”的学科？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1947888183259369561",
+        "created_at": "2025-07-23T05:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T06:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947888183259369561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947888183259369561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉极大影响我学习一些知识的东西是翻译，一个英文学术用词有好几个中文翻译名词。\n而且仅仅望文生义的意思也不准确，还需要再消耗时间和经历辨析不同情境下的同一个词的具体含义（然后发现在英文里的表述是两个完全不同的词）。\n我很想用英文直接学但这样就没法应试了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 535,
+          "like_count": 12180,
+          "listed_count": 0,
+          "media_count": 546,
+          "tweet_count": 5109
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979875778662735872"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1979773216559370331",
+    "created_at": "2025-10-19T11:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T12:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979875781124980859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977858284964159488",
+          "start": 0,
+          "username": "Quinnnankoku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pOzQbbN9Pc",
+          "end": 51,
+          "expanded_url": "https://x.com/youlingjiayu/status/1979875781124980859/photo/1",
+          "media_key": "3_1979875778662735872",
+          "start": 28,
+          "url": "https://t.co/pOzQbbN9Pc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979875781124980859",
+    "in_reply_to_user_id": "1977858284964159488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979867021912490060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quinnnankoku 谢谢泥小秦老师，我好感动。 https://t.co/pOzQbbN9Pc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 505,
+        "media_key": "3_1979875778662735872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nuh-aXoAAhrxf.jpg",
+        "width": 559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979875778662735872"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1979773216559370331",
+        "created_at": "2025-10-19T11:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979875781124980859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977858284964159488",
+              "start": 0,
+              "username": "Quinnnankoku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOzQbbN9Pc",
+              "end": 51,
+              "expanded_url": "https://x.com/youlingjiayu/status/1979875781124980859/photo/1",
+              "media_key": "3_1979875778662735872",
+              "start": 28,
+              "url": "https://t.co/pOzQbbN9Pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979875781124980859",
+        "in_reply_to_user_id": "1977858284964159488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979867021912490060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quinnnankoku 谢谢泥小秦老师，我好感动。 https://t.co/pOzQbbN9Pc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977858284964159488",
+        "conversation_id": "1979773216559370331",
+        "created_at": "2025-10-19T11:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979867021912490060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979867021912490060",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979866376857927808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 呜呜，甲鱼好柔弱，抱抱甲鱼，\n下午就要关窗户，每天都要穿袜子，\n洗完澡要吹头发，\n不能熬夜，\n多喝水，\n\n备考的时候身体会很差，但是还是要规律吃饭和喝水，\n\n你要是做不到的话我送你一个超大的水杯，你每天就坐书桌前捧着喝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。",
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 518,
+          "like_count": 13807,
+          "listed_count": 3,
+          "media_count": 618,
+          "tweet_count": 5738
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T22:07:36.000Z",
+        "description": "炸号了@v5Family_ 推友找回中🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "v5Family_"
+              }
+            ]
+          }
+        },
+        "id": "1977858284964159488",
+        "name": "芥末苔藓💮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977902174429642752/B7bawHQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 178,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 358
+        },
+        "username": "Quinnnankoku",
+        "verified": false
+      }
+    ]
+  }
+}

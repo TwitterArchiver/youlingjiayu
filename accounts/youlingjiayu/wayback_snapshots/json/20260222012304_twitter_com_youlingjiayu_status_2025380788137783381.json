@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2024899659303715323",
+    "created_at": "2026-02-22T01:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025380788137783381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1370054760980606982",
+          "start": 0,
+          "username": "strawberry0_0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025380788137783381",
+    "in_reply_to_user_id": "1370054760980606982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024899659303715323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strawberry0_0l 🥺草莓老师我也想试试。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2024899659303715323",
+        "created_at": "2026-02-22T01:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025380788137783381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1370054760980606982",
+              "start": 0,
+              "username": "strawberry0_0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025380788137783381",
+        "in_reply_to_user_id": "1370054760980606982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024899659303715323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strawberry0_0l 🥺草莓老师我也想试试。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370054760980606982",
+        "conversation_id": "2024899659303715323",
+        "created_at": "2026-02-20T17:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024899659303715323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024899659303715323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1641,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日给朋友算塔罗的反馈：78张牌里有70张宝剑三/看别人算的时候就要大喊剑来/8张牌上都是一个人踽踽独行能有什么好说的/教皇牌是暗示别乱搞小男孩/星币五好像你们两个老弱病残在雪夜里cos卖火柴的小女孩\n给自己打个广告，初学想精进一下业务，免费算塔罗，欢迎来找我玩🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 520,
+          "like_count": 17354,
+          "listed_count": 1,
+          "media_count": 855,
+          "tweet_count": 7509
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-11T16:51:33.000Z",
+        "description": "今宵多珍重",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/strawberry0_0l",
+                "end": 23,
+                "expanded_url": "http://ngl.link/strawberry0_0l",
+                "start": 0,
+                "url": "https://t.co/aQ3i2MG4fc"
+              }
+            ]
+          }
+        },
+        "id": "1370054760980606982",
+        "name": "因講了出來",
+        "pinned_tweet_id": "1878635510224343499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893951502953439232/MZiW3A93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 396,
+          "like_count": 25778,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 4370
+        },
+        "url": "https://t.co/aQ3i2MG4fc",
+        "username": "strawberry0_0l",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+  "username": "@youlingjiayu",
+  "bio": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。 提问箱：https://ngl.link/youlingjiayu",
+  "location": "奥陶纪",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "ngl.link/youlingjiayu",
+        "end": 53,
+        "expanded_url": "https://ngl.link/youlingjiayu",
+        "start": 30,
+        "url": "https://t.co/torEt74m0H"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg"
+}

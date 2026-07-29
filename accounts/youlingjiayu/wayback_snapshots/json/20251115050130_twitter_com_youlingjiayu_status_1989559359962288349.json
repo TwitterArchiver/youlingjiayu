@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1989559359962288349",
+    "created_at": "2025-11-15T05:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T06:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989559359962288349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RintheMemewitc…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/RintheMemewitch/status/1989555677358944328",
+          "start": 17,
+          "url": "https://t.co/jXYfZbLX2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989559359962288349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989555677358944328",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个赞掉落一个萨卡班甲鱼小知识。 https://t.co/jXYfZbLX2w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1989559359962288349",
+        "created_at": "2025-11-15T05:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989559359962288349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RintheMemewitc…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/RintheMemewitch/status/1989555677358944328",
+              "start": 17,
+              "url": "https://t.co/jXYfZbLX2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989559359962288349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989555677358944328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个赞掉落一个萨卡班甲鱼小知识。 https://t.co/jXYfZbLX2w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609641240827686913",
+        "conversation_id": "1989555677358944328",
+        "created_at": "2025-11-15T04:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989555677358944328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sharuruholmes/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/sharuruholmes/status/1989421175865545209",
+              "start": 14,
+              "url": "https://t.co/agEOTmAZnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989555677358944328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989421175865545209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个赞掉落一个师走凌小知识 https://t.co/agEOTmAZnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 524,
+          "like_count": 14382,
+          "listed_count": 1,
+          "media_count": 653,
+          "tweet_count": 6082
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T20:02:46.000Z",
+        "description": "防失聯：Discord /Pixiv/Ins/Fb/AO3/Ytb：Rinshiwasu |MemeWitch| only Angel devil 4ever|As long as I’m alive, I’ll keep drawing Angel. https://t.co/Z6nhB0bzxc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rinshiwasu.straw.page",
+                "end": 150,
+                "expanded_url": "https://rinshiwasu.straw.page",
+                "start": 127,
+                "url": "https://t.co/Z6nhB0bzxc"
+              }
+            ]
+          }
+        },
+        "id": "1609641240827686913",
+        "location": "Tokyo",
+        "name": "师走凌 Rin",
+        "pinned_tweet_id": "1904037965132955967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893492191240298499/y0CgKVkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 206,
+          "like_count": 10595,
+          "listed_count": 1,
+          "media_count": 545,
+          "tweet_count": 7696
+        },
+        "username": "RintheMemewitch",
+        "verified": false
+      }
+    ]
+  }
+}

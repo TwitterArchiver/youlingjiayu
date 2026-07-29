@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1851139798205153557",
+    "created_at": "2024-10-30T09:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T10:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851563897880481794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1082600293475397634",
+          "start": 0,
+          "username": "Kirakiradove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851563897880481794",
+    "in_reply_to_user_id": "1082600293475397634",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851139798205153557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakiradove fo了🥺🤲🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1851139798205153557",
+        "created_at": "2024-10-30T09:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T10:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851563897880481794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1082600293475397634",
+              "start": 0,
+              "username": "Kirakiradove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851563897880481794",
+        "in_reply_to_user_id": "1082600293475397634",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851139798205153557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakiradove fo了🥺🤲🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1082600293475397634",
+        "conversation_id": "1851139798205153557",
+        "created_at": "2024-10-29T05:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T06:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851139798205153557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851139798205153557",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16549,
+          "like_count": 259,
+          "quote_count": 2,
+          "reply_count": 78,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "互fo讓我成為被大家都喜歡的人吧求求你們了\n互fo讓我成為被大家都喜歡的人吧求求你們了\n互fo讓我成為被大家都喜歡的人吧求求你們了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼（意思是我是ftx）\n00后/intj/无业游民/臭搞同人的，把这边当日记本和垃圾桶\n不加lxfs，除非你是女的或者长得好看的男的，害怕性器官\n泛性恋（偏好非二元或者酷儿的1i/4i）/switch",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 496,
+          "like_count": 718,
+          "listed_count": 0,
+          "tweet_count": 580
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "列車通往的黃泉站，月台上站滿了來迎人的已故者。這哪裡是悲劇，這是團圓。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Kiradove/",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Kiradove/",
+                "start": 0,
+                "url": "https://t.co/x0Mhqt4L85"
+              }
+            ]
+          }
+        },
+        "id": "1082600293475397634",
+        "location": "Macau",
+        "name": "うさここ♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 1142,
+          "like_count": 993,
+          "listed_count": 1,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/x0Mhqt4L85",
+        "username": "Kirakiradove",
+        "verified": false
+      }
+    ]
+  }
+}

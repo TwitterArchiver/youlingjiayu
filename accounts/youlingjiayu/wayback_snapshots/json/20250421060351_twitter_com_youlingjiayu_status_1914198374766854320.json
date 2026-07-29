@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1913866834652102716",
+    "created_at": "2025-04-21T06:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T07:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914198374766854320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609641240827686913",
+          "start": 0,
+          "username": "RintheMemewitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914198374766854320",
+    "in_reply_to_user_id": "1609641240827686913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914179794016911734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RintheMemewitch 我对政敌哥爱得深沉，不当上苏丹不会对他纵欲的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1913866834652102716",
+        "created_at": "2025-04-21T06:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T07:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914198374766854320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609641240827686913",
+              "start": 0,
+              "username": "RintheMemewitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914198374766854320",
+        "in_reply_to_user_id": "1609641240827686913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914179794016911734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RintheMemewitch 我对政敌哥爱得深沉，不当上苏丹不会对他纵欲的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609641240827686913",
+        "conversation_id": "1913866834652102716",
+        "created_at": "2025-04-21T04:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T05:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914179794016911734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914179794016911734",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913866834652102716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 完蛋喽，政敌哥又不费吹灰之力俘虏了玩家芳心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 507,
+          "like_count": 9399,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 4119
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T20:02:46.000Z",
+        "description": "防失聯：Discord /Pixiv/Ins/Fb/AO3/Ytb account：Rinshiwasu ｜only Angel devil 4ever 配偶担保天使恶魔移民我是认真的 我和安吉尔实现功德平账 https://t.co/Z6nhB0bzxc 苯人对所有twi内容有最终解释权",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rinshiwasu.straw.page",
+                "end": 128,
+                "expanded_url": "https://rinshiwasu.straw.page",
+                "start": 105,
+                "url": "https://t.co/Z6nhB0bzxc"
+              }
+            ]
+          }
+        },
+        "id": "1609641240827686913",
+        "location": "Tokyo",
+        "name": "师走凌 Rin",
+        "pinned_tweet_id": "1904037965132955967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893492191240298499/y0CgKVkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 159,
+          "like_count": 5676,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 4264
+        },
+        "username": "RintheMemewitch",
+        "verified": false
+      }
+    ]
+  }
+}

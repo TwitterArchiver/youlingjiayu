@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "1955208200774619646",
+    "created_at": "2025-08-12T10:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T11:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955208200774619646"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955208200774619646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我觉得我用认知疗法很难给对面提供情绪价值，但还是会被移情……这种时候我就要跑路一阵子。\n或许我可以用精神分析疗法直接指出对面同时具有恋父癖和恋母癖来快速解决战斗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "1955208200774619646",
+        "created_at": "2025-08-12T10:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T11:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955208200774619646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955208200774619646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我觉得我用认知疗法很难给对面提供情绪价值，但还是会被移情……这种时候我就要跑路一阵子。\n或许我可以用精神分析疗法直接指出对面同时具有恋父癖和恋母癖来快速解决战斗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 540,
+          "like_count": 13311,
+          "listed_count": 1,
+          "media_count": 596,
+          "tweet_count": 5501
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

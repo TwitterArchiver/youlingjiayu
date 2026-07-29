@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1977600409532596678",
+    "created_at": "2025-10-13T06:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T07:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977618175572492555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1325135382963384328",
+          "start": 0,
+          "username": "CSZZL592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977618175572492555",
+    "in_reply_to_user_id": "1325135382963384328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977600409532596678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CSZZL592 粉领变灰领了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1977600409532596678",
+        "created_at": "2025-10-13T06:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977618175572492555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1325135382963384328",
+              "start": 0,
+              "username": "CSZZL592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977618175572492555",
+        "in_reply_to_user_id": "1325135382963384328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977600409532596678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CSZZL592 粉领变灰领了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1325135382963384328",
+        "conversation_id": "1977600409532596678",
+        "created_at": "2025-10-13T05:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977600409532596678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977600409532596678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报：硕士论文终于上知网了\n悲报：知网把论文划到了经济与管理领域，但是我他妈学的是新闻传播😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。",
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 516,
+          "like_count": 13645,
+          "listed_count": 2,
+          "media_count": 612,
+          "tweet_count": 5670
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T17:58:00.000Z",
+        "description": "假扮E人 | 科研牛马 | 道德洼地 | 观察人类同时写日记 | 通常拒绝网络争执和键政除非实在忍不住 | 别骂我我受不了网络暴力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiki65921",
+                "end": 23,
+                "expanded_url": "http://ngl.link/kiki65921",
+                "start": 0,
+                "url": "https://t.co/3ZCjglTMnx"
+              }
+            ]
+          }
+        },
+        "id": "1325135382963384328",
+        "name": "雨夜偷牛的人",
+        "pinned_tweet_id": "1960177313850835240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858571613735694336/1D0kPQsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 233,
+          "like_count": 4166,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/3ZCjglTMnx",
+        "username": "CSZZL592",
+        "verified": false
+      }
+    ]
+  }
+}

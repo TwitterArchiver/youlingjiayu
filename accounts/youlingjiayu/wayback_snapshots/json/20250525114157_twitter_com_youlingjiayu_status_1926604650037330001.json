@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1926594521560699231",
+    "created_at": "2025-05-25T11:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T12:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926604650037330001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1825540389169975296",
+          "start": 0,
+          "username": "zuo2you3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926604650037330001",
+    "in_reply_to_user_id": "1825540389169975296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926594521560699231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuo2you3 刚刚在KTV里唱完一首粤语歌。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1926594521560699231",
+        "created_at": "2025-05-25T11:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T12:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926604650037330001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1825540389169975296",
+              "start": 0,
+              "username": "zuo2you3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926604650037330001",
+        "in_reply_to_user_id": "1825540389169975296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926594521560699231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuo2you3 刚刚在KTV里唱完一首粤语歌。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825540389169975296",
+        "conversation_id": "1926594521560699231",
+        "created_at": "2025-05-25T11:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T12:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926594521560699231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926594521560699231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东北人是对粤语有什么执念吗，每次和长辈去KTV他们都会点自己苦练的粤语歌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 522,
+          "like_count": 10362,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 4497
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T14:28:59.000Z",
+        "description": "欢迎来到摩登森林",
+        "id": "1825540389169975296",
+        "name": "贝森",
+        "pinned_tweet_id": "1846582170934202825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924796753993465862/iM1ri0d0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 325,
+          "like_count": 6613,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 2376
+        },
+        "username": "zuo2you3",
+        "verified": false
+      }
+    ]
+  }
+}

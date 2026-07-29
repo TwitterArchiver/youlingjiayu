@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1861600743331111158",
+    "created_at": "2024-11-27T02:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T03:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861600910897750418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779493446010683392",
+          "start": 0,
+          "username": "chenli16257586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861600910897750418",
+    "in_reply_to_user_id": "1779493446010683392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861600743331111158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenli16257586 简直是我本人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1861600743331111158",
+        "created_at": "2024-11-27T02:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T03:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861600910897750418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779493446010683392",
+              "start": 0,
+              "username": "chenli16257586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861600910897750418",
+        "in_reply_to_user_id": "1779493446010683392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861600743331111158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenli16257586 简直是我本人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779493446010683392",
+        "conversation_id": "1861600743331111158",
+        "created_at": "2024-11-27T02:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T03:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861600743331111158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861600743331111158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥲我感觉自己是先天网恋圣体\n理想中的恋爱就是大家各过各的每天聊天然后一周/半个月约会一次\n大部分时间都是自己玩\n很适合我这种社交能力很低的游戏宅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 520,
+          "like_count": 1831,
+          "listed_count": 0,
+          "tweet_count": 1273
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T12:54:51.000Z",
+        "description": "泛性恋/dom/97infp射手/今天吃什么/废话日常",
+        "id": "1779493446010683392",
+        "name": "文柚果冰淇淋松饼",
+        "pinned_tweet_id": "1860715525397217324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861330861628760064/8ayqQWBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 170,
+          "like_count": 11281,
+          "listed_count": 1,
+          "tweet_count": 3618
+        },
+        "username": "chenli16257586",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2000138667734786184",
+    "created_at": "2025-12-14T15:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T16:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000221167647588557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "909189799",
+          "start": 0,
+          "username": "6jmtx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000221167647588557",
+    "in_reply_to_user_id": "909189799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000207825021403136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6jmtx 我不是吉祥物（大哭）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2000138667734786184",
+        "created_at": "2025-12-14T15:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T16:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000221167647588557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "909189799",
+              "start": 0,
+              "username": "6jmtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000221167647588557",
+        "in_reply_to_user_id": "909189799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000207825021403136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6jmtx 我不是吉祥物（大哭）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909189799",
+        "conversation_id": "2000138667734786184",
+        "created_at": "2025-12-14T14:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000207825021403136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000207825021403136",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000138667734786184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 呆呆的，悲观厌世，吉祥物总想拿复仇大女主剧本，细腻敏感，钝感在于延迟疼痛感，价值观趋于自我剥削成为工具人，需要领袖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 515,
+          "like_count": 15466,
+          "listed_count": 1,
+          "media_count": 731,
+          "tweet_count": 6750
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "",
+        "id": "909189799",
+        "name": "（重生）芥末苔藓💚",
+        "pinned_tweet_id": "1999067046437593367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999034742927441920/pqa1_lHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 355,
+          "like_count": 2112,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 261
+        },
+        "username": "6jmtx",
+        "verified": false
+      }
+    ]
+  }
+}

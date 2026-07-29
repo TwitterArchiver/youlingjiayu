@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2052367755664597368",
+    "created_at": "2026-05-07T12:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052367755664597368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BBBBBlabu/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/BBBBBlabu/status/2052323392947360227",
+          "start": 5,
+          "url": "https://t.co/a9EwfWVKlW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052367755664597368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052323392947360227",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本人。 https://t.co/a9EwfWVKlW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_2052323363411136512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtRObBbEAAhEaj.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2052367755664597368",
+        "created_at": "2026-05-07T12:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052367755664597368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BBBBBlabu/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/BBBBBlabu/status/2052323392947360227",
+              "start": 5,
+              "url": "https://t.co/a9EwfWVKlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052367755664597368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052323392947360227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本人。 https://t.co/a9EwfWVKlW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052323363411136512"
+          ]
+        },
+        "author_id": "909189799",
+        "conversation_id": "2052323392947360227",
+        "created_at": "2026-05-07T09:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052323392947360227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zt5VpQdVPj",
+              "end": 33,
+              "expanded_url": "https://x.com/BBBBBlabu/status/2052323392947360227/photo/1",
+              "media_key": "3_2052323363411136512",
+              "start": 10,
+              "url": "https://t.co/zt5VpQdVPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052323392947360227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前夫哥间接性就这样 https://t.co/zt5VpQdVPj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 524,
+          "like_count": 18427,
+          "listed_count": 1,
+          "media_count": 953,
+          "tweet_count": 8043
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "和我在一起，你便不必羡慕旁人的幸福会不会降临在你身上。",
+        "id": "909189799",
+        "name": "BB喇布",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044407686717153280/5qWvOYBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 721,
+          "like_count": 27562,
+          "listed_count": 2,
+          "media_count": 772,
+          "tweet_count": 10413
+        },
+        "username": "BBBBBlabu",
+        "verified": true
+      }
+    ]
+  }
+}

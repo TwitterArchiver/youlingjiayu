@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2031048024378794259",
+    "created_at": "2026-03-10T15:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031386321592467816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1897907755446681603",
+          "start": 0,
+          "username": "weirdfisheeees"
+        },
+        {
+          "end": 30,
+          "id": "1346974977434771460",
+          "start": 16,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031386321592467816",
+    "in_reply_to_user_id": "1897907755446681603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031258216701784400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weirdfisheeees @N0rthern_Land 你一说谎就疯狂结巴！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2031258216701784400].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2031258216701784400",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2031258216701784400"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2031048024378794259",
+        "created_at": "2026-03-10T15:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031386321592467816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1897907755446681603",
+              "start": 0,
+              "username": "weirdfisheeees"
+            },
+            {
+              "end": 30,
+              "id": "1346974977434771460",
+              "start": 16,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031386321592467816",
+        "in_reply_to_user_id": "1897907755446681603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031258216701784400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weirdfisheeees @N0rthern_Land 你一说谎就疯狂结巴！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 523,
+          "like_count": 17785,
+          "listed_count": 1,
+          "media_count": 881,
+          "tweet_count": 7662
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T07:10:52.000Z",
+        "description": "穿过骨头抚摸你",
+        "id": "1897907755446681603",
+        "name": "WeirdFish",
+        "pinned_tweet_id": "1897915052055052728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005177601703510023/bzSxGZ18_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 415,
+          "like_count": 19066,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 5175
+        },
+        "username": "weirdfisheeees",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男粉红别关注我/女朋友@ayashikinoco/私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "北长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995463213237125120/wvHDfzkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63290,
+          "following_count": 827,
+          "like_count": 106042,
+          "listed_count": 152,
+          "media_count": 3479,
+          "tweet_count": 33702
+        },
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1994990718545531180",
+    "created_at": "2025-12-01T09:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T10:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995419576503542264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1483472245062209536",
+          "start": 0,
+          "username": "fuku_2cc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995419576503542264",
+    "in_reply_to_user_id": "1483472245062209536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995398824781877379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuku_2cc 😽谢谢小福。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1994990718545531180",
+        "created_at": "2025-12-01T09:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T10:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995419576503542264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1483472245062209536",
+              "start": 0,
+              "username": "fuku_2cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995419576503542264",
+        "in_reply_to_user_id": "1483472245062209536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995398824781877379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuku_2cc 😽谢谢小福。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483472245062209536",
+        "conversation_id": "1994990718545531180",
+        "created_at": "2025-12-01T07:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995398824781877379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995398824781877379",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994990718545531180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu ！！迟来的生日快乐————！祝鱼鱼老师可以一直过自己喜欢的生活😽😽😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 513,
+          "like_count": 15014,
+          "listed_count": 1,
+          "media_count": 697,
+          "tweet_count": 6467
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T16:12:20.000Z",
+        "description": "(๑•̀ㅁ•́ฅ)",
+        "id": "1483472245062209536",
+        "name": "小福",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672299870986829825/tkFRDGVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 191,
+          "like_count": 14093,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 2891
+        },
+        "username": "fuku_2cc",
+        "verified": false
+      }
+    ]
+  }
+}

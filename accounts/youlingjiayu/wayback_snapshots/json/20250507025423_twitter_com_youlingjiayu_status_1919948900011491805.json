@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1919943876292558981",
+    "created_at": "2025-05-07T02:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T03:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919948900011491805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "827434202748456960",
+          "start": 0,
+          "username": "mqtztsxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919948900011491805",
+    "in_reply_to_user_id": "827434202748456960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919945078291771708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mqtztsxy 已下单。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1919943876292558981",
+        "created_at": "2025-05-07T02:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T03:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919948900011491805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "827434202748456960",
+              "start": 0,
+              "username": "mqtztsxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919948900011491805",
+        "in_reply_to_user_id": "827434202748456960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919945078291771708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mqtztsxy 已下单。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "827434202748456960",
+        "conversation_id": "1919943876292558981",
+        "created_at": "2025-05-07T02:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T03:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919945078291771708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919945078291771708",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919943876292558981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 穿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜我想答案可能是生命本身。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 508,
+          "like_count": 9792,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 4295
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-03T08:31:01.000Z",
+        "description": "接塔罗占卜星盘分析，apex代练陪玩，斯普拉遁3陪玩，以及其他steam小游戏陪玩。 提问箱https://t.co/kxDfisHacU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mqtztsxy",
+                "end": 69,
+                "expanded_url": "https://ngl.link/mqtztsxy",
+                "start": 46,
+                "url": "https://t.co/kxDfisHacU"
+              }
+            ]
+          }
+        },
+        "id": "827434202748456960",
+        "location": "来财群岛",
+        "name": "宇宙幽灵",
+        "pinned_tweet_id": "1912686736381255961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919365712000495616/Kcffw5_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 1647,
+          "like_count": 90633,
+          "listed_count": 0,
+          "media_count": 1516,
+          "tweet_count": 28213
+        },
+        "username": "mqtztsxy",
+        "verified": false
+      }
+    ]
+  }
+}

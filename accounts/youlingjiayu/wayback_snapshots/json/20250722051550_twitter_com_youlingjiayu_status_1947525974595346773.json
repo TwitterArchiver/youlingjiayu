@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1947525974595346773",
+    "created_at": "2025-07-22T05:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T06:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947525974595346773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1803576240642859011",
+          "start": 3,
+          "username": "lrenechishenme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947525974595346773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947522392932421672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lrenechishenme: 我是一个没有梦想的人，但是如果可以的话，你的梦想也可以成为我的梦想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1947525974595346773",
+        "created_at": "2025-07-22T05:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T06:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947525974595346773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1803576240642859011",
+              "start": 3,
+              "username": "lrenechishenme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947525974595346773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947522392932421672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lrenechishenme: 我是一个没有梦想的人，但是如果可以的话，你的梦想也可以成为我的梦想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803576240642859011",
+        "conversation_id": "1947522392932421672",
+        "created_at": "2025-07-22T05:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T06:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947522392932421672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947522392932421672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个没有梦想的人，但是如果可以的话，你的梦想也可以成为我的梦想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 535,
+          "like_count": 12148,
+          "listed_count": 0,
+          "media_count": 545,
+          "tweet_count": 5104
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T23:51:13.000Z",
+        "description": "你好朋友，欢迎你来~\n不好也可以，随便你",
+        "id": "1803576240642859011",
+        "location": "trash bin",
+        "name": "今天吃什么",
+        "pinned_tweet_id": "1946655970362544594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946761372391387137/V6Y5jHie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 463,
+          "like_count": 4582,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1061
+        },
+        "username": "lrenechishenme",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2028405363507405232",
+    "created_at": "2026-03-02T12:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028441574418559375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1436967591910645767",
+          "start": 0,
+          "username": "asahikokura1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028441574418559375",
+    "in_reply_to_user_id": "1436967591910645767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028433472118014086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahikokura1 我家里精神上不支持我出国。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2028405363507405232",
+        "created_at": "2026-03-02T12:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028441574418559375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436967591910645767",
+              "start": 0,
+              "username": "asahikokura1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028441574418559375",
+        "in_reply_to_user_id": "1436967591910645767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028433472118014086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahikokura1 我家里精神上不支持我出国。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436967591910645767",
+        "conversation_id": "2028405363507405232",
+        "created_at": "2026-03-02T11:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028433472118014086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028433472118014086",
+        "in_reply_to_user_id": "1436967591910645767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028433165648625855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 還有我覺得甲魚你可能不太適應國內工作環境 你先嘗試找一份工作試一下 如果不合適不合心意可以考慮留學或者學一些技能工簽？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 522,
+          "like_count": 17534,
+          "listed_count": 1,
+          "media_count": 872,
+          "tweet_count": 7576
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T08:19:21.000Z",
+        "description": "碎碎念兼記錄生活 \n近月委員會/地球🌍貓貓教\n@L080_0 里賬戶啟用 認識的人會通過",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "L080_0"
+              }
+            ]
+          }
+        },
+        "id": "1436967591910645767",
+        "location": "George Town",
+        "name": "小倉朝日🇬🇧地球🌍貓貓教",
+        "pinned_tweet_id": "2026615219922047348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011095330675441667/C_YIrlvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 449,
+          "like_count": 85546,
+          "listed_count": 3,
+          "media_count": 813,
+          "tweet_count": 22188
+        },
+        "username": "asahikokura1",
+        "verified": false
+      }
+    ]
+  }
+}

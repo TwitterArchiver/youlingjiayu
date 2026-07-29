@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1925102628037664872",
+    "created_at": "2025-05-21T08:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T09:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925105161850302513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "771971954584657920",
+          "start": 0,
+          "username": "vanilla_sodaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925105161850302513",
+    "in_reply_to_user_id": "771971954584657920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925102628037664872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vanilla_sodaa 但是你温和有礼又很有包容心，而且能用真心温暖和关心朋友，是非常好的香草。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1925102628037664872",
+        "created_at": "2025-05-21T08:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T09:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925105161850302513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "771971954584657920",
+              "start": 0,
+              "username": "vanilla_sodaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925105161850302513",
+        "in_reply_to_user_id": "771971954584657920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925102628037664872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanilla_sodaa 但是你温和有礼又很有包容心，而且能用真心温暖和关心朋友，是非常好的香草。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "771971954584657920",
+        "conversation_id": "1925102628037664872",
+        "created_at": "2025-05-21T08:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T09:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925102628037664872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925102628037664872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开始觉得我也没有特别强的社交手段，也没有透过文字察觉到朋友感受的能力。更不会把控和朋友的边界感，一团糟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 517,
+          "like_count": 10258,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 4454
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T07:23:51.000Z",
+        "description": "coffee fanatic || ENFP || 汉语🇨🇳English🇺🇸日本語🇯🇵 한국어 🇰🇷|| Cloud Native & Exchange @DXCTechnology || 知れ高粱の波溢るる如く、満ちたるを",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "DXCTechnology"
+              }
+            ]
+          }
+        },
+        "id": "771971954584657920",
+        "location": "安東都護府・東沓県・青泥浦郷",
+        "name": "𝖁𝖆𝖓𝖎𝖑𝖑𝖆𝕾𝖔𝖉𝖆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923021283844882432/NGIUUfSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 798,
+          "like_count": 110626,
+          "listed_count": 24,
+          "media_count": 5904,
+          "tweet_count": 64031
+        },
+        "username": "vanilla_sodaa",
+        "verified": false
+      }
+    ]
+  }
+}

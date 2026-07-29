@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934289491210252288"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1934289498202058909",
+    "created_at": "2025-06-15T16:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T17:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934289498202058909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IIMuvbOhH2",
+          "end": 74,
+          "expanded_url": "https://x.com/youlingjiayu/status/1934289498202058909/photo/1",
+          "media_key": "3_1934289491210252288",
+          "start": 51,
+          "url": "https://t.co/IIMuvbOhH2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934289498202058909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和牛蛙说了想再多学点东西。\n牛蛙：感觉你确实就是很想有知识。\n然后我正好发过去最近在看的九型人格…… https://t.co/IIMuvbOhH2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_1934289491210252288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtf6C0BbsAAqY3h.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934289491210252288"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1934289498202058909",
+        "created_at": "2025-06-15T16:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T17:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934289498202058909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IIMuvbOhH2",
+              "end": 74,
+              "expanded_url": "https://x.com/youlingjiayu/status/1934289498202058909/photo/1",
+              "media_key": "3_1934289491210252288",
+              "start": 51,
+              "url": "https://t.co/IIMuvbOhH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934289498202058909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和牛蛙说了想再多学点东西。\n牛蛙：感觉你确实就是很想有知识。\n然后我正好发过去最近在看的九型人格…… https://t.co/IIMuvbOhH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 524,
+          "like_count": 10858,
+          "listed_count": 0,
+          "media_count": 505,
+          "tweet_count": 4748
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

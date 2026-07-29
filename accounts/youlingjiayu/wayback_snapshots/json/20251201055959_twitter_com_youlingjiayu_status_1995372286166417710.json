@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1995335311866601931",
+    "created_at": "2025-12-01T05:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T06:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995372286166417710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977858284964159488",
+          "start": 0,
+          "username": "Quinnnankoku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995372286166417710",
+    "in_reply_to_user_id": "1977858284964159488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995335311866601931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quinnnankoku 总是爱上理工男我这一辈子已经有了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1995335311866601931",
+        "created_at": "2025-12-01T05:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T06:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995372286166417710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977858284964159488",
+              "start": 0,
+              "username": "Quinnnankoku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995372286166417710",
+        "in_reply_to_user_id": "1977858284964159488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995335311866601931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quinnnankoku 总是爱上理工男我这一辈子已经有了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977858284964159488",
+        "conversation_id": "1995335311866601931",
+        "created_at": "2025-12-01T03:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T04:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995335311866601931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quinnnankoku/s…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/quinnnankoku/status/1995331802819674551",
+              "start": 115,
+              "url": "https://t.co/9tibs7SZIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995335311866601931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所以当别人问我为什么不找个理工男当对象，\n\n行，\n\n先看看理工男里能出个“人”的几率有多少，\n\n只是一群为自己工具性自大的狂妄类人生物罢了，\n\n浑身发散着臭气，更别说让我欣赏美感了，\n\n一坨烂泥我怎么去注视对方都是个困难的事儿。\n\n这些都是没有心的类人生物，我只承认他们的存在让全世界的物质条件的提升和城市建设水平水涨船高，但我并不在乎人在温饱后还需要多么花里胡哨的生活，如果人类的整体心灵水平不提高，没科普到位，没进步，那不过是几亿过欲的猩猩在摩天大楼里狂欢罢了，到底有什么值得去自豪的。\n\n人类文明会因为这样的煞笔开倒车，\n要我说工具再好也是工具，用完就可以埋了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995331802819674551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以当别人问我为什么不找个理工男当对象，\n\n行，\n\n先看看理工男里能出个“人”的几率有多少，\n\n只是一群为自己工具性自大的狂妄类人生物罢了，\n\n浑身发散着臭气，更别说让我欣赏美感了，\n\n一坨烂泥我怎么去注视对方都是个困难的事儿。 https://t.co/9tibs7SZIs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 513,
+          "like_count": 14997,
+          "listed_count": 1,
+          "media_count": 696,
+          "tweet_count": 6460
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T22:07:36.000Z",
+        "description": "炸号了@v5Family_ 推友找回中🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "v5Family_"
+              }
+            ]
+          }
+        },
+        "id": "1977858284964159488",
+        "name": "芥末苔藓🩵（永动家仆版）",
+        "pinned_tweet_id": "1995079577627156783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988574423180525568/1ocXqfjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 395,
+          "like_count": 12419,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 5896
+        },
+        "username": "Quinnnankoku",
+        "verified": true
+      }
+    ]
+  }
+}

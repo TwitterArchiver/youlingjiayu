@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2014605828729536880",
+    "created_at": "2026-01-23T08:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T09:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014609407842406704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "909189799",
+          "start": 0,
+          "username": "JMTXsix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014609407842406704",
+    "in_reply_to_user_id": "909189799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014605828729536880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JMTXsix 那个调料盘的笑脸很别致。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2014605383864877056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VQ7DvbAAAkfHY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2014605828729536880",
+        "created_at": "2026-01-23T08:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T09:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014609407842406704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909189799",
+              "start": 0,
+              "username": "JMTXsix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014609407842406704",
+        "in_reply_to_user_id": "909189799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014605828729536880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JMTXsix 那个调料盘的笑脸很别致。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014605383864877056"
+          ]
+        },
+        "author_id": "909189799",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014605828729536880",
+        "created_at": "2026-01-23T07:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:45:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014605397475393737",
+          "2014605828729536880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65BYjG5h5t",
+              "end": 101,
+              "expanded_url": "https://x.com/JMTXsix/status/2014605828729536880/photo/1",
+              "media_key": "3_2014605383864877056",
+              "start": 78,
+              "url": "https://t.co/65BYjG5h5t"
+            },
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/cldeop/status/2014364524351295901",
+              "start": 102,
+              "url": "https://t.co/VTm1YNc7ZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014605828729536880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014364524351295901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前日前夫说自己有要感冒的迹象，命他早睡，睡前泡脚，热气从足底直穿头顶即可，\n\n昨日降温，请前夫吃南门儿涮肉用牛牛羊羊抵御寒气😋回家再放水泡澡，零可能感冒！ https://t.co/65BYjG5h5t https://t.co/VTm1YNc7ZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 521,
+          "like_count": 16815,
+          "listed_count": 1,
+          "media_count": 801,
+          "tweet_count": 7268
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "和我在一起，你便不必羡慕旁人的幸福会不会降临在你身上。",
+        "id": "909189799",
+        "name": "❄️雪顶苔藓🧁",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012794186509217792/h5a_W7uW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 591,
+          "like_count": 12857,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 4875
+        },
+        "username": "JMTXsix",
+        "verified": true
+      }
+    ]
+  }
+}

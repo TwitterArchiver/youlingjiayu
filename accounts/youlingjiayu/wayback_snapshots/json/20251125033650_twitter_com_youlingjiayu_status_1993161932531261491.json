@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1993113158026997765",
+    "created_at": "2025-11-25T03:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T04:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993161932531261491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977858284964159488",
+          "start": 0,
+          "username": "Quinnnankoku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993161932531261491",
+    "in_reply_to_user_id": "1977858284964159488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993113158026997765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quinnnankoku 我高中会很神奇地每学期固定发烧两次然后去医院挂水。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1993113158026997765",
+        "created_at": "2025-11-25T03:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993161932531261491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977858284964159488",
+              "start": 0,
+              "username": "Quinnnankoku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993161932531261491",
+        "in_reply_to_user_id": "1977858284964159488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993113158026997765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quinnnankoku 我高中会很神奇地每学期固定发烧两次然后去医院挂水。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977858284964159488",
+        "conversation_id": "1993113158026997765",
+        "created_at": "2025-11-25T00:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T01:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993113158026997765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993113158026997765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前夫哥可能挺适合交医保的吧，他每年都会感冒，我甚至觉得他应该和小学生一样，每年都去打流感疫苗。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 517,
+          "like_count": 14669,
+          "listed_count": 1,
+          "media_count": 682,
+          "tweet_count": 6287
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T22:07:36.000Z",
+        "description": "炸号了@v5Family_ 推友找回中🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "v5Family_"
+              }
+            ]
+          }
+        },
+        "id": "1977858284964159488",
+        "name": "芥末苔藓🩵（永动家仆版）",
+        "pinned_tweet_id": "1983385615346573455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988574423180525568/1ocXqfjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 356,
+          "like_count": 10205,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 4891
+        },
+        "username": "Quinnnankoku",
+        "verified": true
+      }
+    ]
+  }
+}

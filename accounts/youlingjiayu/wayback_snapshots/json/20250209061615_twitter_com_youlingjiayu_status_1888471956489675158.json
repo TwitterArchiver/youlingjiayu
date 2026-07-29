@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1888450317639192736",
+    "created_at": "2025-02-09T06:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T07:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888471956489675158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620470512995696641",
+          "start": 0,
+          "username": "Juan_Bing_"
+        },
+        {
+          "end": 26,
+          "id": "771971954584657920",
+          "start": 12,
+          "username": "vanilla_sodaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888471956489675158",
+    "in_reply_to_user_id": "1620470512995696641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888458775784501258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Juan_Bing_ @vanilla_sodaa 是学生是吧……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1888450317639192736",
+        "created_at": "2025-02-09T06:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T07:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888471956489675158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620470512995696641",
+              "start": 0,
+              "username": "Juan_Bing_"
+            },
+            {
+              "end": 26,
+              "id": "771971954584657920",
+              "start": 12,
+              "username": "vanilla_sodaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888471956489675158",
+        "in_reply_to_user_id": "1620470512995696641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888458775784501258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Juan_Bing_ @vanilla_sodaa 是学生是吧……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620470512995696641",
+        "conversation_id": "1888450317639192736",
+        "created_at": "2025-02-09T05:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T06:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888458775784501258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "771971954584657920",
+              "start": 0,
+              "username": "vanilla_sodaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888458775784501258",
+        "in_reply_to_user_id": "771971954584657920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888450317639192736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanilla_sodaa 那博主今年24岁吗（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 494,
+          "like_count": 5260,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2678
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T17:14:35.000Z",
+        "description": "卷饼 || ENFP-T || Film photography || 西语学习中 ||",
+        "id": "1620470512995696641",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871919703545069569/j3tLH2dQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 163,
+          "like_count": 3330,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1116
+        },
+        "username": "Juan_Bing_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T07:23:51.000Z",
+        "description": "ENFP-T || coffee fanatic & carnivore || 髡贼 || Lang:🇨🇳🇺🇸🇯🇵 || 谨慎关注！爹味男认证！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/vanillasoda",
+                "end": 23,
+                "expanded_url": "https://bento.me/vanillasoda",
+                "start": 0,
+                "url": "https://t.co/tdohnlY95O"
+              }
+            ]
+          }
+        },
+        "id": "771971954584657920",
+        "location": "대구광역시",
+        "name": "VanillaSoda",
+        "pinned_tweet_id": "1870756254161002873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879450119441174528/_o1lBe66_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2575,
+          "following_count": 841,
+          "like_count": 99101,
+          "listed_count": 22,
+          "media_count": 5381,
+          "tweet_count": 58053
+        },
+        "url": "https://t.co/tdohnlY95O",
+        "username": "vanilla_sodaa",
+        "verified": false
+      }
+    ]
+  }
+}

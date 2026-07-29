@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1950786281828765722",
+    "created_at": "2025-07-31T05:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T06:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950786795832295629"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950786795832295629",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950786281828765722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起之前毕业大半年还被恩师发消息说我毕业论文页码标错了一个要重传……\n我对infp：早知道985论文审查这么松弛，我们应该都去上985。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 39,
+        "media_key": "3_1950786279865769984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKVySwa4AA8QZY.png",
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1950786281828765722",
+        "created_at": "2025-07-31T05:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T06:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950786795832295629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950786795832295629",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950786281828765722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起之前毕业大半年还被恩师发消息说我毕业论文页码标错了一个要重传……\n我对infp：早知道985论文审查这么松弛，我们应该都去上985。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950786279865769984"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1950786281828765722",
+        "created_at": "2025-07-31T05:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T06:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950786281828765722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0T46xVPqV",
+              "end": 36,
+              "expanded_url": "https://x.com/youlingjiayu/status/1950786281828765722/photo/1",
+              "media_key": "3_1950786279865769984",
+              "start": 13,
+              "url": "https://t.co/V0T46xVPqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950786281828765722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我差点怀疑我不懂统计了。 https://t.co/V0T46xVPqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 540,
+          "like_count": 12595,
+          "listed_count": 0,
+          "media_count": 563,
+          "tweet_count": 5273
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1857180620419731570",
+    "created_at": "2024-11-14T23:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T00:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857198082796274070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1822360993948925952",
+          "start": 0,
+          "username": "6750401wen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857198082796274070",
+    "in_reply_to_user_id": "1822360993948925952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857180620419731570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6750401wen 🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1857180620419731570",
+        "created_at": "2024-11-14T23:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T00:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857198082796274070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1822360993948925952",
+              "start": 0,
+              "username": "6750401wen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857198082796274070",
+        "in_reply_to_user_id": "1822360993948925952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857180620419731570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6750401wen 🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822360993948925952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1857180620419731570",
+        "created_at": "2024-11-14T21:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T22:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857180620419731570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857180620419731570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我包装得光鲜亮丽同时邋遢对化妆打扮厌烦。我和人健康友善地互动同时又阴暗自负得要死。我是阴暗b阿宅的同时又喜欢变得健气去运动旅行。我一会自闭得跟人说一句话都流冷汗颤抖一会和人健谈到没完没了。能热情到让对方感到舒适的同时也能断崖式冷漠。对独处有强烈的需求但超级想贴贴。这就是矛盾的我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 520,
+          "like_count": 1321,
+          "listed_count": 0,
+          "tweet_count": 955
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T19:55:08.000Z",
+        "description": "等花光所有余量的心动 我就坦然地死去 自用紫鸟vpn https://t.co/ucrIwGNXY6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ziniao.sbs/#/login?code=o…",
+                "end": 50,
+                "expanded_url": "https://ziniao.sbs/#/login?code=oIBbV0KL",
+                "start": 27,
+                "url": "https://t.co/ucrIwGNXY6"
+              }
+            ]
+          }
+        },
+        "id": "1822360993948925952",
+        "location": "湖边公路",
+        "name": "果子狸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847333597113700356/KHXU_BLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2024,
+          "following_count": 492,
+          "like_count": 13159,
+          "listed_count": 2,
+          "tweet_count": 6141
+        },
+        "username": "6750401wen",
+        "verified": false
+      }
+    ]
+  }
+}

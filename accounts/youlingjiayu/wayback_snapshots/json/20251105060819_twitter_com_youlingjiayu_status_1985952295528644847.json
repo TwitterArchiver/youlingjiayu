@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985952293532123137"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1985943011407380668",
+    "created_at": "2025-11-05T06:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T07:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985952295528644847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1570416012419543041",
+          "start": 0,
+          "username": "oppositebb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6xxiBeH756",
+          "end": 35,
+          "expanded_url": "https://x.com/youlingjiayu/status/1985952295528644847/photo/1",
+          "media_key": "3_1985952293532123137",
+          "start": 12,
+          "url": "https://t.co/6xxiBeH756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985952295528644847",
+    "in_reply_to_user_id": "1570416012419543041",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985943011407380668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oppositebb https://t.co/6xxiBeH756"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_1985952293532123137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-FFsTawAERwwy.jpg",
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985952293532123137"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1985943011407380668",
+        "created_at": "2025-11-05T06:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T07:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985952295528644847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1570416012419543041",
+              "start": 0,
+              "username": "oppositebb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xxiBeH756",
+              "end": 35,
+              "expanded_url": "https://x.com/youlingjiayu/status/1985952295528644847/photo/1",
+              "media_key": "3_1985952293532123137",
+              "start": 12,
+              "url": "https://t.co/6xxiBeH756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985952295528644847",
+        "in_reply_to_user_id": "1570416012419543041",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985943011407380668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oppositebb https://t.co/6xxiBeH756"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570416012419543041",
+        "conversation_id": "1985943011407380668",
+        "created_at": "2025-11-05T05:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T06:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985943011407380668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985943011407380668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情绪失控发了好几天的话也没有人回 眼睁睁在各个平台看到他和新的女生互关我好难受 好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 524,
+          "like_count": 14181,
+          "listed_count": 2,
+          "media_count": 639,
+          "tweet_count": 5968
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T14:15:38.000Z",
+        "description": "",
+        "id": "1570416012419543041",
+        "location": "Japan",
+        "name": "wakana.noa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941295129756827649/GeIwzwLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 201,
+          "like_count": 1340,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 257
+        },
+        "username": "oppositebb",
+        "verified": false
+      }
+    ]
+  }
+}

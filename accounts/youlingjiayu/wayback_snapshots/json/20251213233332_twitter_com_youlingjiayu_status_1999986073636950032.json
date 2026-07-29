@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1999782933239038416",
+    "created_at": "2025-12-13T23:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T00:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999986073636950032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "852198642987528196",
+          "start": 0,
+          "username": "EXReroasashio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999986073636950032",
+    "in_reply_to_user_id": "852198642987528196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999876440658199001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EXReroasashio 像是什么“如果在平行世界，我们还会是朋友吗”这种议题。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "16_1999876422039740416",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G8D9ApJboAATNnO.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G8D9ApJboAATNnO.mp4"
+          }
+        ],
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1999782933239038416",
+        "created_at": "2025-12-13T23:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T00:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999986073636950032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "852198642987528196",
+              "start": 0,
+              "username": "EXReroasashio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999986073636950032",
+        "in_reply_to_user_id": "852198642987528196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999876440658199001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EXReroasashio 像是什么“如果在平行世界，我们还会是朋友吗”这种议题。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1999876422039740416"
+          ]
+        },
+        "author_id": "852198642987528196",
+        "conversation_id": "1999782933239038416",
+        "created_at": "2025-12-13T16:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999876440658199001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkmjO0eilV",
+              "end": 165,
+              "expanded_url": "https://x.com/EXReroasashio/status/1999876440658199001/photo/1",
+              "media_key": "16_1999876422039740416",
+              "start": 142,
+              "url": "https://t.co/tkmjO0eilV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999876440658199001",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999875015282700744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 就像昨天和OP老师的讨论一样\n如果万事万物只能总结成三种结局的某一种是最乐观的\n（量子隧穿）\n\n那就意味着我们现在所做的事都已是无限个平行宇宙中做过无数次的\n包括刚才机翻错误的 “萨达姆理论”\n在我们不知道的世界外  我们已经进行了无数次对话了 \n这样子 https://t.co/tkmjO0eilV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 515,
+          "like_count": 15423,
+          "listed_count": 1,
+          "media_count": 729,
+          "tweet_count": 6729
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-12T16:36:04.000Z",
+        "description": "磁器コレクション活動中🏴‍☠️",
+        "id": "852198642987528196",
+        "name": "雷洛",
+        "pinned_tweet_id": "1959981284752785725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959515165499719680/wPwNn4Ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 88,
+          "like_count": 8684,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 1619
+        },
+        "username": "EXReroasashio",
+        "verified": false
+      }
+    ]
+  }
+}

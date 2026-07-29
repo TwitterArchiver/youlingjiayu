@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2026615247893835814",
+    "created_at": "2026-02-26T10:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T11:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026969565343973756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1148789388798656512",
+          "start": 0,
+          "username": "cybersp83133846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026969565343973756",
+    "in_reply_to_user_id": "1148789388798656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026644735969141160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cybersp83133846 没有这么小。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2026615247893835814",
+        "created_at": "2026-02-26T10:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026969565343973756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1148789388798656512",
+              "start": 0,
+              "username": "cybersp83133846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026969565343973756",
+        "in_reply_to_user_id": "1148789388798656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026644735969141160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cybersp83133846 没有这么小。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1148789388798656512",
+        "conversation_id": "2026615247893835814",
+        "created_at": "2026-02-25T13:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T14:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026644735969141160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026644735969141160",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026615247893835814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 咋了，Ai的订阅忘记续费了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 520,
+          "like_count": 17459,
+          "listed_count": 1,
+          "media_count": 867,
+          "tweet_count": 7546
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-10T03:01:48.000Z",
+        "description": "IOS/Android 独立开发/ 数字游民\nWenn dir etwas Freude macht im Leben,dann musst du es einfach tun",
+        "id": "1148789388798656512",
+        "name": "cyber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1148789738620383233/X2ot0puC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 200,
+          "like_count": 38,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 2654
+        },
+        "username": "cybersp83133846",
+        "verified": false
+      }
+    ]
+  }
+}

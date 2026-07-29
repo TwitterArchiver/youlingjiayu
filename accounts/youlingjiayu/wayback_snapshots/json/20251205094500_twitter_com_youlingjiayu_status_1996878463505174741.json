@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1996780851041026075",
+    "created_at": "2025-12-05T09:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T10:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996878463505174741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1679794956876251136",
+          "start": 0,
+          "username": "Tankwukwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996878463505174741",
+    "in_reply_to_user_id": "1679794956876251136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996831926662095215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tankwukwu 你在日本吃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1996780851041026075",
+        "created_at": "2025-12-05T09:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T10:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996878463505174741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1679794956876251136",
+              "start": 0,
+              "username": "Tankwukwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996878463505174741",
+        "in_reply_to_user_id": "1679794956876251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996831926662095215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tankwukwu 你在日本吃。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679794956876251136",
+        "conversation_id": "1996780851041026075",
+        "created_at": "2025-12-05T06:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T07:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996831926662095215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "afd2dbc6df82cca8"
+        },
+        "id": "1996831926662095215",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996780851041026075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 想吃呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 516,
+          "like_count": 15176,
+          "listed_count": 1,
+          "media_count": 713,
+          "tweet_count": 6546
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T10:08:42.000Z",
+        "description": "ココという日本留学生っす、よろしく",
+        "id": "1679794956876251136",
+        "location": "Hino-shi, Tokyo",
+        "name": "一般通过可可",
+        "pinned_tweet_id": "1909535035432353836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867397012855152641/0OCjco4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 416,
+          "like_count": 7256,
+          "listed_count": 4,
+          "media_count": 908,
+          "tweet_count": 3734
+        },
+        "username": "Tankwukwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1992831672430297589",
+    "created_at": "2025-11-24T05:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992831672430297589"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992831672430297589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说我是一个没有什么爱好的人的意思是，我觉得爱好是需要燃烧的，而我似乎没有燃料，也没有什么坚持的意愿。以及我的爱好提供的快乐比较有限，在我的经验里，如果有“更重要的事情”，那么爱好就必须全部舍弃，哪怕那件事会带来痛苦；享乐约等于一种罪过，无法沉浸其中或者在过程中突然变得无比焦虑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1992831672430297589",
+        "created_at": "2025-11-24T05:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992831672430297589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992831672430297589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说我是一个没有什么爱好的人的意思是，我觉得爱好是需要燃烧的，而我似乎没有燃料，也没有什么坚持的意愿。以及我的爱好提供的快乐比较有限，在我的经验里，如果有“更重要的事情”，那么爱好就必须全部舍弃，哪怕那件事会带来痛苦；享乐约等于一种罪过，无法沉浸其中或者在过程中突然变得无比焦虑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 520,
+          "like_count": 14628,
+          "listed_count": 1,
+          "media_count": 681,
+          "tweet_count": 6264
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

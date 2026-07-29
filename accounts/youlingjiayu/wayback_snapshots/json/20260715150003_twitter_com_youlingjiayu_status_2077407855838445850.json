@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077407853640572928"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "2077407855838445850",
+    "created_at": "2026-07-15T15:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077407855838445850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h8lfnGnGij",
+          "end": 23,
+          "expanded_url": "https://x.com/youlingjiayu/status/2077407855838445850/photo/1",
+          "media_key": "3_2077407853640572928",
+          "start": 0,
+          "url": "https://t.co/h8lfnGnGij"
+        },
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/2077399442349818181",
+          "start": 24,
+          "url": "https://t.co/CtE1lN72Wg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077407855838445850",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077399442349818181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/h8lfnGnGij https://t.co/CtE1lN72Wg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 567,
+        "media_key": "3_2077407853640572928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRvb7HaYAAR9lU.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077407853640572928"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "2077407855838445850",
+        "created_at": "2026-07-15T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077407855838445850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8lfnGnGij",
+              "end": 23,
+              "expanded_url": "https://x.com/youlingjiayu/status/2077407855838445850/photo/1",
+              "media_key": "3_2077407853640572928",
+              "start": 0,
+              "url": "https://t.co/h8lfnGnGij"
+            },
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/2077399442349818181",
+              "start": 24,
+              "url": "https://t.co/CtE1lN72Wg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077407855838445850",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077399442349818181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/h8lfnGnGij https://t.co/CtE1lN72Wg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2077399442349818181",
+        "created_at": "2026-07-15T14:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077399442349818181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/2077399004661571957",
+              "start": 19,
+              "url": "https://t.co/kbJaHmvumJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077399442349818181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077399004661571957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我因为自己的病态吸引了同样病态的人。 https://t.co/kbJaHmvumJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 536,
+          "like_count": 19257,
+          "listed_count": 1,
+          "media_count": 1009,
+          "tweet_count": 8363
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

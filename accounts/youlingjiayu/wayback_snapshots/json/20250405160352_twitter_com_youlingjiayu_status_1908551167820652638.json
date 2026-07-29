@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1908532974556971110",
+    "created_at": "2025-04-05T16:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T17:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908551167820652638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "362228606",
+          "start": 0,
+          "username": "7thasylum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908551167820652638",
+    "in_reply_to_user_id": "362228606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908532974556971110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7thasylum 没有像这样破坏过任何东西，我家里不允许任何情绪的宣泄或者比较激烈的流露，到后来就只能自残了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1908532974556971110",
+        "created_at": "2025-04-05T16:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T17:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908551167820652638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "362228606",
+              "start": 0,
+              "username": "7thasylum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908551167820652638",
+        "in_reply_to_user_id": "362228606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908532974556971110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7thasylum 没有像这样破坏过任何东西，我家里不允许任何情绪的宣泄或者比较激烈的流露，到后来就只能自残了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "362228606",
+        "conversation_id": "1908532974556971110",
+        "created_at": "2025-04-05T14:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T15:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908532974556971110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Uwillseeee/sta…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/Uwillseeee/status/1908196292855292067",
+              "start": 105,
+              "url": "https://t.co/6Zo3cn6eM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908532974556971110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908196292855292067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我撕过一本哈农which is练指法的枯燥东西，现在想起来，我这种根本坐不下来练琴的人这么多年只撕过一本琴谱足以证明我真的还没学会发脾气。我的begin again通常无法自主进行，只能靠外界打击，呜呼哀哉。 https://t.co/6Zo3cn6eM2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 498,
+          "like_count": 8202,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 3658
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-26T01:55:12.000Z",
+        "description": "“顽劣的、温和的。”\n名字是栖栖/ENFP♎️/ADHD/世界上所有人都是我的爱人（精神上）/switch/泛/braaaat♀️/无孩爱猫待业做题家。\n是个生活推，欢迎和我交朋友嘟🥺☝",
+        "id": "362228606",
+        "location": "Guangdong",
+        "name": "第七避难所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888529439195291648/3z0aU-W9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 199,
+          "like_count": 5541,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 843
+        },
+        "username": "7thasylum",
+        "verified": false
+      }
+    ]
+  }
+}

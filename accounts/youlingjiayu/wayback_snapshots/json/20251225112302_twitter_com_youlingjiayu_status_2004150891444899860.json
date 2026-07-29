@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2003995241213563326",
+    "created_at": "2025-12-25T11:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T12:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004150891444899860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "909189799",
+          "start": 0,
+          "username": "6jmtx"
+        },
+        {
+          "end": 18,
+          "id": "1772308958495260672",
+          "start": 7,
+          "username": "Rushsharkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004150891444899860",
+    "in_reply_to_user_id": "909189799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004068684256759919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6jmtx @Rushsharkk 别骂了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2003995241213563326",
+        "created_at": "2025-12-25T11:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T12:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004150891444899860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "909189799",
+              "start": 0,
+              "username": "6jmtx"
+            },
+            {
+              "end": 18,
+              "id": "1772308958495260672",
+              "start": 7,
+              "username": "Rushsharkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004150891444899860",
+        "in_reply_to_user_id": "909189799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004068684256759919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6jmtx @Rushsharkk 别骂了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909189799",
+        "conversation_id": "2003995241213563326",
+        "created_at": "2025-12-25T05:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T06:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004068684256759919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772308958495260672",
+              "start": 0,
+              "username": "Rushsharkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004068684256759919",
+        "in_reply_to_user_id": "1772308958495260672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003995241213563326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rushsharkk 三个字总结：做题家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 514,
+          "like_count": 15909,
+          "listed_count": 1,
+          "media_count": 755,
+          "tweet_count": 6916
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "",
+        "id": "909189799",
+        "name": "❄️雪顶苔藓🧁",
+        "pinned_tweet_id": "1999067046437593367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002619030343913472/oaS2c0NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 437,
+          "like_count": 4659,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1374
+        },
+        "username": "6jmtx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T17:06:18.000Z",
+        "description": "女Female/2004/ACGN/🎮Splatoon3/日常废话daily yapping/假文艺真傻逼/小提手🎻",
+        "id": "1772308958495260672",
+        "location": "Canada",
+        "name": "Rushshark猛鯊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908586697920577536/P-PC1WEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 976,
+          "like_count": 47335,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 2671
+        },
+        "username": "Rushsharkk",
+        "verified": false
+      }
+    ]
+  }
+}

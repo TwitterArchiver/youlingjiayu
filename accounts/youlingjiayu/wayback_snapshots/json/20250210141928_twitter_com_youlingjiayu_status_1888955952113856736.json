@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1888951643028533484",
+    "created_at": "2025-02-10T14:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T15:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888955952113856736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1152893917953609728",
+          "start": 0,
+          "username": "MediocreDiary_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888955952113856736",
+    "in_reply_to_user_id": "1152893917953609728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888951643028533484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MediocreDiary_ 生日快乐🎂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1888951643028533484",
+        "created_at": "2025-02-10T14:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T15:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888955952113856736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1152893917953609728",
+              "start": 0,
+              "username": "MediocreDiary_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888955952113856736",
+        "in_reply_to_user_id": "1152893917953609728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888951643028533484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MediocreDiary_ 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1152893917953609728",
+        "conversation_id": "1888951643028533484",
+        "created_at": "2025-02-10T14:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T15:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888951643028533484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888951643028533484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二十一岁生日是我真正意义上过的一次生日，我自己一个人过的。那天我用我自己赚的工资订了一个六寸的蛋糕，下班后拿到了我自己租的出租屋，自己吹蜡烛，自己吃蛋糕。我喜欢甜食，那一整个六寸的蛋糕我自己一个人全部吃完了，幸福得落下了泪。我仍旧没有收到别人送给我的礼物，但是我把自己送还了自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 497,
+          "like_count": 5328,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2690
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-21T10:51:44.000Z",
+        "description": "无性别｜泛性恋｜S｜DOM｜1｜INTP｜Writer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/carmen25632",
+                "end": 23,
+                "expanded_url": "https://ngl.link/carmen25632",
+                "start": 0,
+                "url": "https://t.co/mdoDU730FS"
+              }
+            ]
+          }
+        },
+        "id": "1152893917953609728",
+        "location": "妈妈的子宫里",
+        "name": "碌碌日记",
+        "pinned_tweet_id": "1629542109232463878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774060933587050496/q1qV4ToV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 233,
+          "like_count": 6217,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/mdoDU730FS",
+        "username": "MediocreDiary_",
+        "verified": false
+      }
+    ]
+  }
+}

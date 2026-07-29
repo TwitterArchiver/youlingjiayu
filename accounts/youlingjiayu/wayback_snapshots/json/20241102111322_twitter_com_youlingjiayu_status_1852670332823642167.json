@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1852580949860733371",
+    "created_at": "2024-11-02T11:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T12:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852670332823642167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673394046503616512",
+          "start": 0,
+          "username": "brohungryasfuck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852670332823642167",
+    "in_reply_to_user_id": "1673394046503616512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852580949860733371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brohungryasfuck （揣进兜里）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1852580949860733371",
+        "created_at": "2024-11-02T11:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T12:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852670332823642167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673394046503616512",
+              "start": 0,
+              "username": "brohungryasfuck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852670332823642167",
+        "in_reply_to_user_id": "1673394046503616512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852580949860733371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brohungryasfuck （揣进兜里）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852580943493726208",
+            "3_1852580943477018624",
+            "3_1852580943632150528",
+            "3_1852580943472812032"
+          ]
+        },
+        "author_id": "1673394046503616512",
+        "conversation_id": "1852580949860733371",
+        "created_at": "2024-11-02T05:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T06:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852580949860733371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/baefaMoW3D",
+              "end": 43,
+              "expanded_url": "https://x.com/brohungryasfuck/status/1852580949860733371/photo/1",
+              "media_key": "3_1852580943493726208",
+              "start": 20,
+              "url": "https://t.co/baefaMoW3D"
+            },
+            {
+              "display_url": "pic.x.com/baefaMoW3D",
+              "end": 43,
+              "expanded_url": "https://x.com/brohungryasfuck/status/1852580949860733371/photo/1",
+              "media_key": "3_1852580943477018624",
+              "start": 20,
+              "url": "https://t.co/baefaMoW3D"
+            },
+            {
+              "display_url": "pic.x.com/baefaMoW3D",
+              "end": 43,
+              "expanded_url": "https://x.com/brohungryasfuck/status/1852580949860733371/photo/1",
+              "media_key": "3_1852580943632150528",
+              "start": 20,
+              "url": "https://t.co/baefaMoW3D"
+            },
+            {
+              "display_url": "pic.x.com/baefaMoW3D",
+              "end": 43,
+              "expanded_url": "https://x.com/brohungryasfuck/status/1852580949860733371/photo/1",
+              "media_key": "3_1852580943472812032",
+              "start": 20,
+              "url": "https://t.co/baefaMoW3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852580949860733371",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3368,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人出门太危险了！我想你应该带上这个 https://t.co/baefaMoW3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼（意思是我是ftx）\n00后/intj/无业游民/臭搞同人的，把这边当日记本和垃圾桶\n不加lxfs，除非你是女的或者长得好看的男的，害怕性器官\n泛性恋（偏好非二元或者酷儿的1i/4i）/switch",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 503,
+          "like_count": 822,
+          "listed_count": 0,
+          "tweet_count": 643
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T18:13:35.000Z",
+        "description": "你变坏了吗？",
+        "id": "1673394046503616512",
+        "location": "Here, there and everywhere ",
+        "name": "奇怪鱼鱼Arpeggi",
+        "pinned_tweet_id": "1832478318844899591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782746425539072000/Q0v8ZNB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9253,
+          "following_count": 668,
+          "like_count": 11451,
+          "listed_count": 25,
+          "tweet_count": 1785
+        },
+        "username": "brohungryasfuck",
+        "verified": false
+      }
+    ]
+  }
+}

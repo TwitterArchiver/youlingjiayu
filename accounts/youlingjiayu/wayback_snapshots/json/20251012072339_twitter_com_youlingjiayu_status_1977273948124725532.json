@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1976707461316067827",
+    "created_at": "2025-10-12T07:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977273948124725532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "362228606",
+          "start": 0,
+          "username": "7thAsylum"
+        },
+        {
+          "end": 21,
+          "id": "1087492556802338816",
+          "start": 11,
+          "username": "5pace1ion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977273948124725532",
+    "in_reply_to_user_id": "362228606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976713723407679798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7thAsylum @5pace1ion 我真服了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1976707461316067827",
+        "created_at": "2025-10-12T07:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977273948124725532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "362228606",
+              "start": 0,
+              "username": "7thAsylum"
+            },
+            {
+              "end": 21,
+              "id": "1087492556802338816",
+              "start": 11,
+              "username": "5pace1ion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977273948124725532",
+        "in_reply_to_user_id": "362228606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976713723407679798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7thAsylum @5pace1ion 我真服了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "362228606",
+        "conversation_id": "1976707461316067827",
+        "created_at": "2025-10-10T18:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T19:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976713723407679798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1087492556802338816",
+              "start": 0,
+              "username": "5pace1ion"
+            },
+            {
+              "end": 24,
+              "id": "1751158019516465152",
+              "start": 11,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976713723407679798",
+        "in_reply_to_user_id": "1087492556802338816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 698,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976711545544650990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5pace1ion @youlingjiayu 摩尔又开始向世界泼洒脏水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "我只能生活在这个世界的开端或结局。",
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 518,
+          "like_count": 13587,
+          "listed_count": 2,
+          "media_count": 610,
+          "tweet_count": 5657
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-26T01:55:12.000Z",
+        "description": "“顽劣的，温和的。” ENFP♎️ / 可以叫我栖栖 /世界上所有人都是我的爱人（精神上）/ Switch / 是个生活推，生活匮乏到只有下体的人远离我好吗好的",
+        "id": "362228606",
+        "location": "破败教堂的废墟里，做过梦的无花果树下",
+        "name": "第七避难所",
+        "pinned_tweet_id": "1974793992446575041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975419063540285440/jtP6rD-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 299,
+          "like_count": 13098,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 2099
+        },
+        "username": "7thAsylum",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-21T23:30:04.000Z",
+        "description": "就拱拱火",
+        "id": "1087492556802338816",
+        "location": "ленинград",
+        "name": "sрасе1iоп",
+        "pinned_tweet_id": "1933155514818658647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957329936261476352/jObElbXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 88,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1024
+        },
+        "username": "5pace1ion",
+        "verified": false
+      }
+    ]
+  }
+}

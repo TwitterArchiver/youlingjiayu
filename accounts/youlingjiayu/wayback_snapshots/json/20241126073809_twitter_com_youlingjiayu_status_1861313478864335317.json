@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1861309415141581066",
+    "created_at": "2024-11-26T07:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T08:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861313478864335317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1592172867189293057",
+          "start": 0,
+          "username": "cxszb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861313478864335317",
+    "in_reply_to_user_id": "1592172867189293057",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861309415141581066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxszb 🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1861309415141581066",
+        "created_at": "2024-11-26T07:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T08:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861313478864335317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1592172867189293057",
+              "start": 0,
+              "username": "cxszb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861313478864335317",
+        "in_reply_to_user_id": "1592172867189293057",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861309415141581066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxszb 🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1861309396128800768"
+          ]
+        },
+        "author_id": "1592172867189293057",
+        "conversation_id": "1861309415141581066",
+        "created_at": "2024-11-26T07:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T08:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861309415141581066"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "男娘"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8qQseyhK0",
+              "end": 110,
+              "expanded_url": "https://x.com/cxszb/status/1861309415141581066/video/1",
+              "media_key": "7_1861309396128800768",
+              "start": 87,
+              "url": "https://t.co/S8qQseyhK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861309415141581066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上天似乎在玩弄我，只给了我美貌却没有给性快感，全程没有一点享受和快感，只有疼痛到意识模糊感觉身体要被撕成两半，仿佛接近快死的状态，本能般发布防空警报似的爆鸣\n#男娘 #药娘 https://t.co/S8qQseyhK0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 520,
+          "like_count": 1774,
+          "listed_count": 0,
+          "tweet_count": 1247
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "03/173cm/52kg/MTX药娘🍥/无证含糖/线下可约，无质量保证⚠️/好友位50没有图包🚪/抖s👿/收ATM🤑/毒舌/傲娇/天然呆/间歇性发病/回避型人格/阴暗逼/性冷淡/现居广东茂名/纯乐子人什么都发点，内容质量极低爱看不看，玻璃心滚，当qq空间玩😋",
+        "id": "1592172867189293057",
+        "name": "直花今天不嘴臭(限流互推版",
+        "pinned_tweet_id": "1836806921233617051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836997525456441347/invyqL7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 456,
+          "like_count": 9595,
+          "listed_count": 2,
+          "tweet_count": 5648
+        },
+        "username": "cxszb",
+        "verified": false
+      }
+    ]
+  }
+}

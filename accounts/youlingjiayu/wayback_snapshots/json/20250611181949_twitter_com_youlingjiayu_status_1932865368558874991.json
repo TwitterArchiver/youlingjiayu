@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1932865368558874991",
+    "created_at": "2025-06-11T18:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T19:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932865368558874991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260660356591915011",
+          "start": 3,
+          "username": "alleysgogo2020"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "e.tb.cn/h.6vGxO5vaFmbm…",
+          "end": 129,
+          "expanded_url": "https://e.tb.cn/h.6vGxO5vaFmbm35u?tk=Q4hlVlueKrA",
+          "start": 106,
+          "status": 200,
+          "unwound_url": "https://e.tb.cn/h.6vGxO5vaFmbm35u?tk=Q4hlVlueKrA",
+          "url": "https://t.co/ufW2SmSdsS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932865368558874991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932767664893743193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alleysgogo2020: 桂味荔枝降价促销啦！本条转发抽奖\n\n备受大家喜爱的桂味降价啦，自家果园直发，当天采摘当天发货，不过夜不泡水不放任何添加剂，顺丰冷链包邮到家，新鲜有保证。砸单👇👇👇\n\n淘宝：https://t.co/ufW2SmSdsS（风云百货商店）…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932767649437753344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKR79oaoAA_dG2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1932767649471324160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKR79wa4AAUSAH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1932767649806888962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKR7_AbMAIxGPy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1023,
+        "media_key": "3_1932767649882386432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKR7_SbMAAyStp.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1932865368558874991",
+        "created_at": "2025-06-11T18:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T19:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932865368558874991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260660356591915011",
+              "start": 3,
+              "username": "alleysgogo2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "e.tb.cn/h.6vGxO5vaFmbm…",
+              "end": 129,
+              "expanded_url": "https://e.tb.cn/h.6vGxO5vaFmbm35u?tk=Q4hlVlueKrA",
+              "start": 106,
+              "status": 200,
+              "unwound_url": "https://e.tb.cn/h.6vGxO5vaFmbm35u?tk=Q4hlVlueKrA",
+              "url": "https://t.co/ufW2SmSdsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932865368558874991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932767664893743193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alleysgogo2020: 桂味荔枝降价促销啦！本条转发抽奖\n\n备受大家喜爱的桂味降价啦，自家果园直发，当天采摘当天发货，不过夜不泡水不放任何添加剂，顺丰冷链包邮到家，新鲜有保证。砸单👇👇👇\n\n淘宝：https://t.co/ufW2SmSdsS（风云百货商店）…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932767649437753344",
+            "3_1932767649471324160",
+            "3_1932767649806888962",
+            "3_1932767649882386432"
+          ]
+        },
+        "author_id": "1260660356591915011",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1932767664893743193",
+        "created_at": "2025-06-11T11:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T12:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932767664893743193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "e.tb.cn/h.6vGxO5vaFmbm…",
+              "end": 109,
+              "expanded_url": "https://e.tb.cn/h.6vGxO5vaFmbm35u?tk=Q4hlVlueKrA",
+              "start": 86,
+              "status": 200,
+              "unwound_url": "https://e.tb.cn/h.6vGxO5vaFmbm35u?tk=Q4hlVlueKrA",
+              "url": "https://t.co/ufW2SmSdsS"
+            },
+            {
+              "display_url": "k.youshop10.com/7GzE0Waz",
+              "end": 145,
+              "expanded_url": "https://k.youshop10.com/7GzE0Waz",
+              "start": 122,
+              "status": 200,
+              "title": "风云百货商店",
+              "unwound_url": "https://weidian.com/?userid=1817473028&wfr=c&sfr=app&source=shop",
+              "url": "https://t.co/eS3NQMu6Tl"
+            },
+            {
+              "display_url": "pic.x.com/ydZNHhqgXq",
+              "end": 169,
+              "expanded_url": "https://x.com/alleysgogo2020/status/1932767664893743193/photo/1",
+              "media_key": "3_1932767649437753344",
+              "start": 146,
+              "url": "https://t.co/ydZNHhqgXq"
+            },
+            {
+              "display_url": "pic.x.com/ydZNHhqgXq",
+              "end": 169,
+              "expanded_url": "https://x.com/alleysgogo2020/status/1932767664893743193/photo/1",
+              "media_key": "3_1932767649471324160",
+              "start": 146,
+              "url": "https://t.co/ydZNHhqgXq"
+            },
+            {
+              "display_url": "pic.x.com/ydZNHhqgXq",
+              "end": 169,
+              "expanded_url": "https://x.com/alleysgogo2020/status/1932767664893743193/photo/1",
+              "media_key": "3_1932767649806888962",
+              "start": 146,
+              "url": "https://t.co/ydZNHhqgXq"
+            },
+            {
+              "display_url": "pic.x.com/ydZNHhqgXq",
+              "end": 169,
+              "expanded_url": "https://x.com/alleysgogo2020/status/1932767664893743193/photo/1",
+              "media_key": "3_1932767649882386432",
+              "start": 146,
+              "url": "https://t.co/ydZNHhqgXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932767664893743193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "e.tb.cn/h.6vGxO5vaFmbm…",
+                "end": 109,
+                "expanded_url": "https://e.tb.cn/h.6vGxO5vaFmbm35u?tk=Q4hlVlueKrA",
+                "start": 86,
+                "url": "https://t.co/UvRElyjBmX"
+              },
+              {
+                "display_url": "k.youshop10.com/7GzE0Waz",
+                "end": 145,
+                "expanded_url": "https://k.youshop10.com/7GzE0Waz",
+                "start": 122,
+                "url": "https://t.co/tToj3p8pEP"
+              }
+            ]
+          },
+          "text": "桂味荔枝降价促销啦！本条转发抽奖\n\n备受大家喜爱的桂味降价啦，自家果园直发，当天采摘当天发货，不过夜不泡水不放任何添加剂，顺丰冷链包邮到家，新鲜有保证。砸单👇👇👇\n\n淘宝：https://t.co/UvRElyjBmX（风云百货商店）\n\n微店：https://t.co/tToj3p8pEP\n\n转发本条推文抽奖送出4箱4.5斤的桂味，荔枝我出，运费中奖者承担。6月12号21时开奖！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1753,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "桂味荔枝降价促销啦！本条转发抽奖\n\n备受大家喜爱的桂味降价啦，自家果园直发，当天采摘当天发货，不过夜不泡水不放任何添加剂，顺丰冷链包邮到家，新鲜有保证。砸单👇👇👇\n\n淘宝：https://t.co/ufW2SmSdsS（风云百货商店）\n\n微店：https://t.co/eS3NQMu6Tl https://t.co/ydZNHhqgXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 523,
+          "like_count": 10810,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 4695
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T19:57:19.000Z",
+        "description": "阔别多时，再度相逢。2018年开始在推特销售自家荔枝，今年是第8年。 微店下单链接： https://t.co/OQC78itlEm 淘宝下单链接：https://t.co/bBejPLzsx6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weidian.com/?userid=181747…",
+                "end": 66,
+                "expanded_url": "https://weidian.com/?userid=1817473028",
+                "start": 43,
+                "url": "https://t.co/OQC78itlEm"
+              },
+              {
+                "display_url": "shop136733976.taobao.com",
+                "end": 97,
+                "expanded_url": "https://shop136733976.taobao.com/",
+                "start": 74,
+                "url": "https://t.co/bBejPLzsx6"
+              }
+            ]
+          }
+        },
+        "id": "1260660356591915011",
+        "name": "风碎的云",
+        "pinned_tweet_id": "1932767664893743193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1317519960114032640/K-tgIbfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 290,
+          "like_count": 517,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 863
+        },
+        "username": "alleysgogo2020",
+        "verified": true
+      }
+    ]
+  }
+}

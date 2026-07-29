@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1913614160962658393",
+    "created_at": "2025-04-20T07:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T08:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913856162849775658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808552527119437824",
+          "start": 0,
+          "username": "11dontcryTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913856162849775658",
+    "in_reply_to_user_id": "1808552527119437824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913854375757328594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11dontcryTT 😮我怎么来……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1913614160962658393",
+        "created_at": "2025-04-20T07:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T08:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913856162849775658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808552527119437824",
+              "start": 0,
+              "username": "11dontcryTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913856162849775658",
+        "in_reply_to_user_id": "1808552527119437824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913854375757328594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11dontcryTT 😮我怎么来……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808552527119437824",
+        "conversation_id": "1913614160962658393",
+        "created_at": "2025-04-20T07:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T08:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913854375757328594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913854375757328594",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913776184623796279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 甲鱼你也来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 506,
+          "like_count": 9370,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 4109
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T17:25:07.000Z",
+        "description": "一直向前",
+        "id": "1808552527119437824",
+        "name": "₊⁺ ·悲᳐伤猫猫头᳐· ﾟ ₊",
+        "pinned_tweet_id": "1869826853781025104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913296400961679360/laN52EPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4192,
+          "following_count": 75,
+          "like_count": 2513,
+          "listed_count": 12,
+          "media_count": 546,
+          "tweet_count": 4954
+        },
+        "username": "11dontcryTT",
+        "verified": false
+      }
+    ]
+  }
+}

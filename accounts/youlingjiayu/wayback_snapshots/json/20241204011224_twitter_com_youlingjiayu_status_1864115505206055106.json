@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1864111393261408702",
+    "created_at": "2024-12-04T01:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T02:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864115505206055106"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1864115505206055106",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864114727057764697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对待快乐的事情我的做法很简单，保存，然后回味。我会截图聊天记录、拍照、写日记，然后时不时拿出来反复回味，直到这份快乐像涮了好几次的涮杯水一样寡淡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1864111393261408702",
+        "created_at": "2024-12-04T01:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T02:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864115505206055106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864115505206055106",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864114727057764697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对待快乐的事情我的做法很简单，保存，然后回味。我会截图聊天记录、拍照、写日记，然后时不时拿出来反复回味，直到这份快乐像涮了好几次的涮杯水一样寡淡。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1864111393261408702",
+        "created_at": "2024-12-04T01:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T02:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864114727057764697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864114727057764697",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864113760660803737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不会原谅，不会宽解，我希望他们都过得生不如死（当然是不可能的，没有任何人会感受到和我一样的痛苦），那么还是只有远离。\n算是在家庭生活中埋了一个雷，我预感在未来不久之后要爆了，应该是他们开始把我结婚提上日程那会儿。\n在那之前我起码要有养活自己的经济和能力，算是一个长期的小目标吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 520,
+          "like_count": 2486,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1613
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

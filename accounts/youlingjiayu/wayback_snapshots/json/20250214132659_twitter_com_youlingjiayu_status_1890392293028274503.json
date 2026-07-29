@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1890390877333344483",
+    "created_at": "2025-02-14T13:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T14:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890392293028274503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825459880268050432",
+          "start": 0,
+          "username": "shinysilver404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890392293028274503",
+    "in_reply_to_user_id": "1825459880268050432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890390877333344483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinysilver404 说明她不会衡量，也不值得你付出，不是恋爱让人变成这样，而是她本来就是这样的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1890390877333344483",
+        "created_at": "2025-02-14T13:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T14:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890392293028274503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825459880268050432",
+              "start": 0,
+              "username": "shinysilver404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890392293028274503",
+        "in_reply_to_user_id": "1825459880268050432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890390877333344483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinysilver404 说明她不会衡量，也不值得你付出，不是恋爱让人变成这样，而是她本来就是这样的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825459880268050432",
+        "conversation_id": "1890390877333344483",
+        "created_at": "2025-02-14T13:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T14:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890390877333344483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shinysilver404…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/shinysilver404/status/1890388166583914767",
+              "start": 122,
+              "url": "https://t.co/ynkZCQzEkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890390877333344483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890388166583914767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很可悲 我曾经有一个从幼儿园到大的朋友 我们有20年的时刻在彼此的人生里有重要的地位 她恋爱以后就再没有我的位置\n我问她“我和你认识这么长时间比不上这个认识你一个月的男人吗？”\n为什么恋爱能简单的把她们变成离我很远的人 我恨她们这群恋爱脑蠢货 https://t.co/ynkZCQzEkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 497,
+          "like_count": 5527,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 2727
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T09:08:57.000Z",
+        "description": "江火/伟大女性/不仅仅是文字推/\n人皮扣的提问箱：https://t.co/gVD662VE8f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/40497800",
+                "end": 48,
+                "expanded_url": "https://ngl.link/40497800",
+                "start": 25,
+                "url": "https://t.co/gVD662VE8f"
+              }
+            ]
+          }
+        },
+        "id": "1825459880268050432",
+        "location": "南湖",
+        "name": "人皮扣",
+        "pinned_tweet_id": "1826615799735632327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889831854083375104/8L7uR6Mx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 266,
+          "like_count": 3521,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1694
+        },
+        "username": "shinysilver404",
+        "verified": false
+      }
+    ]
+  }
+}

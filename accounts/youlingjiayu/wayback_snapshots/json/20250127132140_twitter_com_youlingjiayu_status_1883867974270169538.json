@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1883866596177023258",
+    "created_at": "2025-01-27T13:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T14:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883867974270169538"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1883867974270169538",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883866596177023258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "父亲对我道了歉，但仍然坚持他某些主张是对的。他说母亲现在只能这样了，以后老了也只有洗洗晒晒衣服，只能为我做这么多。\n那爱呢？我没有说，再索要这种本就不存在的东西就没意思了，最后还是沉默地接受。\n前几年为了避免痛苦一直在自我洗脑我的家庭其实很美好，大家都很爱我，差点就深信不疑了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1883866596177023258",
+        "created_at": "2025-01-27T13:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T14:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883867974270169538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883867974270169538",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883866596177023258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "父亲对我道了歉，但仍然坚持他某些主张是对的。他说母亲现在只能这样了，以后老了也只有洗洗晒晒衣服，只能为我做这么多。\n那爱呢？我没有说，再索要这种本就不存在的东西就没意思了，最后还是沉默地接受。\n前几年为了避免痛苦一直在自我洗脑我的家庭其实很美好，大家都很爱我，差点就深信不疑了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1883866596177023258",
+        "created_at": "2025-01-27T13:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T14:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883866596177023258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883866596177023258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想到明天要去爷爷奶奶家吃团圆饭就有点焦虑，但待上半天就有红包拿我还是乐意的。\n突然发觉母亲其实已经很久没有和爷爷奶奶一起吃团圆饭了，她其实不喜欢爷爷奶奶，我知道的，父亲也知道的。\n奶奶每年都在问我和父亲，你妈妈今天会来吗？为什么不来呢？以后会来吗？这段对话已经成为了除夕的固定节目。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 528,
+          "like_count": 4503,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2458
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

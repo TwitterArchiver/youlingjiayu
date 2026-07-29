@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1954735748000985269",
+    "created_at": "2025-08-11T02:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T03:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954737472598090227"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1954737472598090227",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954735748000985269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好了现在这人开始和我哭自己爹在她高三那年花了一年时间就过法考的事情了。\n我俩搞同人基本上没怎么关心过法律问题就是因为身边有个活法典（？）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1954735748000985269",
+        "created_at": "2025-08-11T02:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T03:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954737472598090227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954737472598090227",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954735748000985269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好了现在这人开始和我哭自己爹在她高三那年花了一年时间就过法考的事情了。\n我俩搞同人基本上没怎么关心过法律问题就是因为身边有个活法典（？）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1954735748000985269",
+        "created_at": "2025-08-11T02:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T03:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954735748000985269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954735748000985269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很羡慕entp的辩论精力，她是那种一定要说到别人接受她观点的那种人；我一般和她讨论什么问题，大概三个回合就累了。\n没有什么输出精力，吵架更觉得是浪费时间；一般不点出我认为的别人的错误，不代表我觉得对面是对的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 538,
+          "like_count": 13220,
+          "listed_count": 1,
+          "media_count": 593,
+          "tweet_count": 5481
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

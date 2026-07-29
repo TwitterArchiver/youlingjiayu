@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2078424075274498398",
+    "created_at": "2026-07-18T10:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078424075274498398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/2077066358203027555",
+          "start": 33,
+          "url": "https://t.co/9HjoQHMo1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078424075274498398",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077066358203027555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "My chaser, will you save me too? https://t.co/9HjoQHMo1o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2078424075274498398",
+        "created_at": "2026-07-18T10:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078424075274498398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/2077066358203027555",
+              "start": 33,
+              "url": "https://t.co/9HjoQHMo1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078424075274498398",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077066358203027555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "My chaser, will you save me too? https://t.co/9HjoQHMo1o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2077066358203027555",
+        "created_at": "2026-07-14T16:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077066358203027555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/2076677017857294400",
+              "start": 33,
+              "url": "https://t.co/fdxNGvWs7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077066358203027555",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076677017857294400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Chaser, I don't want to wake up. https://t.co/fdxNGvWs7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 539,
+          "like_count": 19295,
+          "listed_count": 1,
+          "media_count": 1009,
+          "tweet_count": 8377
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

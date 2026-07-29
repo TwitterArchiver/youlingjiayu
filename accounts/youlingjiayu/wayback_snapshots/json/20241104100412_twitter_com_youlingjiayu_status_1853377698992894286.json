@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1853371720817914256",
+    "created_at": "2024-11-04T10:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T11:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853377698992894286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816105634179534848",
+          "start": 0,
+          "username": "sevensand7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853377698992894286",
+    "in_reply_to_user_id": "1816105634179534848",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853371720817914256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevensand7 看着像雅思自习室……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1853371720817914256",
+        "created_at": "2024-11-04T10:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T11:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853377698992894286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816105634179534848",
+              "start": 0,
+              "username": "sevensand7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853377698992894286",
+        "in_reply_to_user_id": "1816105634179534848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853371720817914256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevensand7 看着像雅思自习室……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853371713901453312"
+          ]
+        },
+        "author_id": "1816105634179534848",
+        "conversation_id": "1853371720817914256",
+        "created_at": "2024-11-04T09:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T10:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853371720817914256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVG4wa0pXH",
+              "end": 42,
+              "expanded_url": "https://x.com/sevensand7/status/1853371720817914256/photo/1",
+              "media_key": "3_1853371713901453312",
+              "start": 19,
+              "url": "https://t.co/eVG4wa0pXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853371720817914256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于让我占到这里的位置了哈哈哈哈哈哈 https://t.co/eVG4wa0pXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/臭搞同人的，把这边当日记本和垃圾桶\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 519,
+          "like_count": 950,
+          "listed_count": 0,
+          "tweet_count": 723
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T13:38:30.000Z",
+        "description": "魔都打工人｜pansexual｜🎵杂食｜非二元性别｜温良queer｜忧郁小作家｜毫无攻击性的废话bot｜本体是魔法小猫",
+        "id": "1816105634179534848",
+        "location": "遥远的西伯利亚",
+        "name": "七尺沙地和她孕育的孩子",
+        "pinned_tweet_id": "1844075906048065910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852330581587283968/6XAd9j2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 159,
+          "like_count": 3465,
+          "listed_count": 0,
+          "tweet_count": 1038
+        },
+        "username": "sevensand7",
+        "verified": false
+      }
+    ]
+  }
+}

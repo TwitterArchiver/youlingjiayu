@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1892106205847314782",
+    "created_at": "2025-02-19T07:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T08:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892114691381686546"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1892114691381686546",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892111937288163705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总觉得“我”的人设参考了李煜和朱允炆，不过应该还有其他人。\n所有人在命运的骗局的操纵下，在破败腐烂的舞台上奋力舞动着自己；无人逃离，无人幸免，无人能挣脱出这个舞台去寻找其他的可能。最后只有无力和悲哀，如同大梦一场。\n我会想如果太后没有走这一步棋会怎样，估计只是延缓亡国的速度而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1892106205847314782",
+        "created_at": "2025-02-19T07:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T08:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892114691381686546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892114691381686546",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892111937288163705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总觉得“我”的人设参考了李煜和朱允炆，不过应该还有其他人。\n所有人在命运的骗局的操纵下，在破败腐烂的舞台上奋力舞动着自己；无人逃离，无人幸免，无人能挣脱出这个舞台去寻找其他的可能。最后只有无力和悲哀，如同大梦一场。\n我会想如果太后没有走这一步棋会怎样，估计只是延缓亡国的速度而已。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1892106205847314782",
+        "created_at": "2025-02-19T07:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T08:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892111937288163705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892111937288163705",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892110310485393733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后都离开了，燕郎死于乱军刀下，蕙妃本在佛寺清修，却入了青楼，最后成了疯子。\n“我”和蕙妃因爱鸟而相识，最后各自飞；或许燕郎的“燕”字也是一种暗示。\n离开皇宫后“我”成了走索艺人，建了杂耍班子，随着皇宫的大火消失了；得到又失去，最后只有一卷《论语》和一条棕绳与“我”常伴青灯古佛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 494,
+          "like_count": 5764,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2768
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

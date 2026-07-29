@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953406321035993088",
+        "3_1953406320545251328",
+        "3_1953406320524283905"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1953406328518627562",
+    "created_at": "2025-08-07T10:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T11:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953406328518627562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QZ8vAtNcv8",
+          "end": 60,
+          "expanded_url": "https://x.com/youlingjiayu/status/1953406328518627562/photo/1",
+          "media_key": "3_1953406321035993088",
+          "start": 37,
+          "url": "https://t.co/QZ8vAtNcv8"
+        },
+        {
+          "display_url": "pic.x.com/QZ8vAtNcv8",
+          "end": 60,
+          "expanded_url": "https://x.com/youlingjiayu/status/1953406328518627562/photo/1",
+          "media_key": "3_1953406320545251328",
+          "start": 37,
+          "url": "https://t.co/QZ8vAtNcv8"
+        },
+        {
+          "display_url": "pic.x.com/QZ8vAtNcv8",
+          "end": 60,
+          "expanded_url": "https://x.com/youlingjiayu/status/1953406328518627562/photo/1",
+          "media_key": "3_1953406320524283905",
+          "start": 37,
+          "url": "https://t.co/QZ8vAtNcv8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953406328518627562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无意中得知老累是intj而且经常讲mbti之后，去她微博搜到了如下言论。 https://t.co/QZ8vAtNcv8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 380,
+        "media_key": "3_1953406321035993088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvkswtaYAAb9c4.jpg",
+        "width": 1198
+      },
+      {
+        "height": 392,
+        "media_key": "3_1953406320545251328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxvksu4aQAANbrt.jpg",
+        "width": 1200
+      },
+      {
+        "height": 771,
+        "media_key": "3_1953406320524283905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvksuzaUAE7y43.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953406321035993088",
+            "3_1953406320545251328",
+            "3_1953406320524283905"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1953406328518627562",
+        "created_at": "2025-08-07T10:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T11:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953406328518627562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZ8vAtNcv8",
+              "end": 60,
+              "expanded_url": "https://x.com/youlingjiayu/status/1953406328518627562/photo/1",
+              "media_key": "3_1953406321035993088",
+              "start": 37,
+              "url": "https://t.co/QZ8vAtNcv8"
+            },
+            {
+              "display_url": "pic.x.com/QZ8vAtNcv8",
+              "end": 60,
+              "expanded_url": "https://x.com/youlingjiayu/status/1953406328518627562/photo/1",
+              "media_key": "3_1953406320545251328",
+              "start": 37,
+              "url": "https://t.co/QZ8vAtNcv8"
+            },
+            {
+              "display_url": "pic.x.com/QZ8vAtNcv8",
+              "end": 60,
+              "expanded_url": "https://x.com/youlingjiayu/status/1953406328518627562/photo/1",
+              "media_key": "3_1953406320524283905",
+              "start": 37,
+              "url": "https://t.co/QZ8vAtNcv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953406328518627562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无意中得知老累是intj而且经常讲mbti之后，去她微博搜到了如下言论。 https://t.co/QZ8vAtNcv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 539,
+          "like_count": 13013,
+          "listed_count": 0,
+          "media_count": 585,
+          "tweet_count": 5410
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

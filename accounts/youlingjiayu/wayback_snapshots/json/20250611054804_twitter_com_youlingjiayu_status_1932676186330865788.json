@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1932635790036832696",
+    "created_at": "2025-06-11T05:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T06:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932676186330865788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1722682507479441408",
+          "start": 0,
+          "username": "4N_atiius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932676186330865788",
+    "in_reply_to_user_id": "1722682507479441408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932649185209389439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4N_atiius 有点惨但真的很微妙的缘分……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1932635790036832696",
+        "created_at": "2025-06-11T05:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T06:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932676186330865788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1722682507479441408",
+              "start": 0,
+              "username": "4N_atiius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932676186330865788",
+        "in_reply_to_user_id": "1722682507479441408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932649185209389439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4N_atiius 有点惨但真的很微妙的缘分……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722682507479441408",
+        "conversation_id": "1932635790036832696",
+        "created_at": "2025-06-11T04:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T05:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932649185209389439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932649185209389439",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932648463017406615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 笑死主要是之前瘸了刚能落地第一场看的就和平饭店 后面又瘸的时候也是工作场合碰到主唱 巧得很和平饭店对我一点都不peace&amp;love"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 523,
+          "like_count": 10780,
+          "listed_count": 0,
+          "media_count": 494,
+          "tweet_count": 4683
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T18:28:28.000Z",
+        "description": "烏雲追着我們下着瓢潑大雨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natiius",
+                "end": 23,
+                "expanded_url": "https://ngl.link/natiius",
+                "start": 0,
+                "url": "https://t.co/OAeWtJyCUU"
+              }
+            ]
+          }
+        },
+        "id": "1722682507479441408",
+        "name": "歲譠Suììtán",
+        "pinned_tweet_id": "1930367928916160752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887529447538282496/DQnYq0Ss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 82,
+          "like_count": 1867,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/OAeWtJyCUU",
+        "username": "4N_atiius",
+        "verified": false
+      }
+    ]
+  }
+}

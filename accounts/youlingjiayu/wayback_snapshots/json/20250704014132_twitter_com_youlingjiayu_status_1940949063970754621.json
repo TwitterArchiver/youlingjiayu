@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940949060858400769"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1922122864708276379",
+    "created_at": "2025-07-04T01:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T02:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940949063970754621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SBb3uF0Gz9",
+          "end": 38,
+          "expanded_url": "https://x.com/youlingjiayu/status/1940949063970754621/photo/1",
+          "media_key": "3_1940949060858400769",
+          "start": 15,
+          "url": "https://t.co/SBb3uF0Gz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940949063970754621",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922124363387555904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "居然还能有callback。 https://t.co/SBb3uF0Gz9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_1940949060858400769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu-i4yOX0AEUw2r.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940949060858400769"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1922122864708276379",
+        "created_at": "2025-07-04T01:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T02:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940949063970754621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBb3uF0Gz9",
+              "end": 38,
+              "expanded_url": "https://x.com/youlingjiayu/status/1940949063970754621/photo/1",
+              "media_key": "3_1940949060858400769",
+              "start": 15,
+              "url": "https://t.co/SBb3uF0Gz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940949063970754621",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922124363387555904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然还能有callback。 https://t.co/SBb3uF0Gz9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1922122864708276379",
+        "created_at": "2025-05-13T02:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T03:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922124363387555904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922124363387555904",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 118,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922122864708276379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么算是人这个问题可展开的地方比较多——一个如果身体全都换成了赛博义体，就像忒修斯之船一样，那人还是自己吗？一个从代码和网络之中诞生的有自主意识的“生命体”是真正的人吗？我猜想女主决定融合可能是意识到自己在人的方面的某些缺失，于是选择帮助病毒繁衍而获得某种完整，或许就是为了寻找灵魂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 532,
+          "like_count": 11500,
+          "listed_count": 0,
+          "media_count": 517,
+          "tweet_count": 4898
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

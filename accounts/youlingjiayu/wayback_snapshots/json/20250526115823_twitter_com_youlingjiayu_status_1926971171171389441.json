@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1926968079604388201",
+    "created_at": "2025-05-26T11:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T12:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926971171171389441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1825540389169975296",
+          "start": 0,
+          "username": "zuo2you3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926971171171389441",
+    "in_reply_to_user_id": "1825540389169975296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926970730308083776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuo2you3 啊谢谢你贝森老师。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1926968079604388201",
+        "created_at": "2025-05-26T11:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T12:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926971171171389441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1825540389169975296",
+              "start": 0,
+              "username": "zuo2you3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926971171171389441",
+        "in_reply_to_user_id": "1825540389169975296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926970730308083776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuo2you3 啊谢谢你贝森老师。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825540389169975296",
+        "conversation_id": "1926968079604388201",
+        "created_at": "2025-05-26T11:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T12:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926970730308083776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926970730308083776",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926968079604388201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 抱抱你甲鱼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 522,
+          "like_count": 10430,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 4516
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T14:28:59.000Z",
+        "description": "欢迎来到摩登森林",
+        "id": "1825540389169975296",
+        "name": "贝森",
+        "pinned_tweet_id": "1846582170934202825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924796753993465862/iM1ri0d0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 324,
+          "like_count": 6623,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 2383
+        },
+        "username": "zuo2you3",
+        "verified": false
+      }
+    ]
+  }
+}

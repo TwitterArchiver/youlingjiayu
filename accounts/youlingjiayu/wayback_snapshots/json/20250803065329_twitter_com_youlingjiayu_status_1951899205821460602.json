@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1951814823563702752",
+    "created_at": "2025-08-03T06:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T07:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951899205821460602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1484413265556172802",
+          "start": 0,
+          "username": "coulee_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951899205821460602",
+    "in_reply_to_user_id": "1484413265556172802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951818935432782014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coulee_x 啊谢谢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1951814823563702752",
+        "created_at": "2025-08-03T06:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951899205821460602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1484413265556172802",
+              "start": 0,
+              "username": "coulee_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951899205821460602",
+        "in_reply_to_user_id": "1484413265556172802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951818935432782014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coulee_x 啊谢谢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484413265556172802",
+        "conversation_id": "1951814823563702752",
+        "created_at": "2025-08-03T01:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T02:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951818935432782014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951818935432782014",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951814823563702752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 你已经很好啦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 540,
+          "like_count": 12721,
+          "listed_count": 0,
+          "media_count": 570,
+          "tweet_count": 5320
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T06:31:28.000Z",
+        "description": "graduate, embeded electronics engineering",
+        "id": "1484413265556172802",
+        "location": "BC, CA",
+        "name": "Coulee🇺🇦🇮🇱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715982159641755648/8XLLEFbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 888,
+          "like_count": 77107,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 8926
+        },
+        "username": "coulee_x",
+        "verified": false
+      }
+    ]
+  }
+}

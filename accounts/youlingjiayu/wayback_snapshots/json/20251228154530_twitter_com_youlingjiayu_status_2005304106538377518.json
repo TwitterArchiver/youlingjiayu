@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2005303177441411268",
+    "created_at": "2025-12-28T15:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T16:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005304106538377518"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005304106538377518",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005303177441411268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好消息是，我纠结的这件事情，大概有两个月的时间供我去思考和消化要不要去做，如果这两个月里发了能扭转我想法的事情，这件事我就能不了了之了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2005303177441411268",
+        "created_at": "2025-12-28T15:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005304106538377518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005304106538377518",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005303177441411268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好消息是，我纠结的这件事情，大概有两个月的时间供我去思考和消化要不要去做，如果这两个月里发了能扭转我想法的事情，这件事我就能不了了之了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2005303177441411268",
+        "created_at": "2025-12-28T15:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005303177441411268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005303177441411268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真想过要不很多事情就这么算了吧，我现实中的麻烦推着我去面对更恐怖的东西，所以我的一些困扰显得微不足道了；但我不确定我能不能做到完全不受影响，我很犹豫。\n我想得过且过了，我失望到了一定程度，觉得期待没有价值，执念也没有意义；我或许应当放弃我的某些标准，去换取解决当下问题的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004368357987082240/AxDwqPw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 514,
+          "like_count": 16037,
+          "listed_count": 1,
+          "media_count": 761,
+          "tweet_count": 6964
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

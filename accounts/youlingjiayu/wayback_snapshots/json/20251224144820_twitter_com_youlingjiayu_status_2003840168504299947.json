@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2003840063105642795",
+    "created_at": "2025-12-24T14:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T15:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003840168504299947"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2003840168504299947",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003840063105642795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "左边那个简直魔童降世。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003840059309772801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88R6snbUAE3JhR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003840058990944257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88R6rbaYAEk_f5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2003840063105642795",
+        "created_at": "2025-12-24T14:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T15:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003840168504299947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003840168504299947",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003840063105642795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "左边那个简直魔童降世。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003840059309772801",
+            "3_2003840058990944257"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "2003840063105642795",
+        "created_at": "2025-12-24T14:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T15:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003840063105642795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kAUZXMTjdm",
+              "end": 38,
+              "expanded_url": "https://x.com/youlingjiayu/status/2003840063105642795/photo/1",
+              "media_key": "3_2003840059309772801",
+              "start": 15,
+              "url": "https://t.co/kAUZXMTjdm"
+            },
+            {
+              "display_url": "pic.x.com/kAUZXMTjdm",
+              "end": 38,
+              "expanded_url": "https://x.com/youlingjiayu/status/2003840063105642795/photo/1",
+              "media_key": "3_2003840058990944257",
+              "start": 15,
+              "url": "https://t.co/kAUZXMTjdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003840063105642795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疑似害我过敏的两名罪魁祸首。 https://t.co/kAUZXMTjdm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 514,
+          "like_count": 15852,
+          "listed_count": 1,
+          "media_count": 753,
+          "tweet_count": 6891
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

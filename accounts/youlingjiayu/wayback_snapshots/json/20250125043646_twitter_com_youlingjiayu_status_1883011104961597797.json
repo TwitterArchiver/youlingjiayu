@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1883007748398612689",
+    "created_at": "2025-01-25T04:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T05:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883011104961597797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1492091884768227328",
+          "start": 0,
+          "username": "Amp84071979"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883011104961597797",
+    "in_reply_to_user_id": "1492091884768227328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883008663109165257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amp84071979 吃过饭了，明天试试。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1883007748398612689",
+        "created_at": "2025-01-25T04:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T05:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883011104961597797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1492091884768227328",
+              "start": 0,
+              "username": "Amp84071979"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883011104961597797",
+        "in_reply_to_user_id": "1492091884768227328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883008663109165257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amp84071979 吃过饭了，明天试试。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492091884768227328",
+        "conversation_id": "1883007748398612689",
+        "created_at": "2025-01-25T04:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T05:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883008663109165257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883008663109165257",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883007748398612689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 做个好吃的饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 522,
+          "like_count": 4318,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2401
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T11:03:38.000Z",
+        "description": "触碰吧 你永远追随不到的我的背影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amp84071979",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amp84071979",
+                "start": 0,
+                "url": "https://t.co/GQEiicmK2G"
+              }
+            ]
+          }
+        },
+        "id": "1492091884768227328",
+        "location": "圣克莱门特症候群",
+        "name": "Nabi",
+        "pinned_tweet_id": "1868746776221823035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679101639247151104/BGnYpLHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 132,
+          "like_count": 3115,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1499
+        },
+        "url": "https://t.co/GQEiicmK2G",
+        "username": "Amp84071979",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2036313764514111949",
+    "created_at": "2026-03-24T06:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T07:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036327375353606304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1783054284818714624",
+          "start": 0,
+          "username": "omen000823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036327375353606304",
+    "in_reply_to_user_id": "1783054284818714624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036324577102442683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omen000823 那很饿了。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2036324577102442683].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2036324577102442683",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2036324577102442683"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2036313764514111949",
+        "created_at": "2026-03-24T06:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T07:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036327375353606304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1783054284818714624",
+              "start": 0,
+              "username": "omen000823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036327375353606304",
+        "in_reply_to_user_id": "1783054284818714624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036324577102442683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omen000823 那很饿了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 521,
+          "like_count": 18025,
+          "listed_count": 1,
+          "media_count": 915,
+          "tweet_count": 7788
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T08:44:21.000Z",
+        "description": "Godforsaken",
+        "id": "1783054284818714624",
+        "name": "G.",
+        "pinned_tweet_id": "1855896294411456929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940792214977699840/0cUXx7Bo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 230,
+          "like_count": 7049,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 4529
+        },
+        "username": "omen000823",
+        "verified": false
+      }
+    ]
+  }
+}

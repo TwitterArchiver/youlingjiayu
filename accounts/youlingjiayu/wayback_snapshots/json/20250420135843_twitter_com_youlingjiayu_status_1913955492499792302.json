@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913955470211223555",
+        "3_1913955470261514240"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1913955492499792302",
+    "created_at": "2025-04-20T13:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T14:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913955492499792302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WYxPwqTYCA",
+          "end": 78,
+          "expanded_url": "https://x.com/youlingjiayu/status/1913955492499792302/photo/1",
+          "media_key": "3_1913955470211223555",
+          "start": 55,
+          "url": "https://t.co/WYxPwqTYCA"
+        },
+        {
+          "display_url": "pic.x.com/WYxPwqTYCA",
+          "end": 78,
+          "expanded_url": "https://x.com/youlingjiayu/status/1913955492499792302/photo/1",
+          "media_key": "3_1913955470261514240",
+          "start": 55,
+          "url": "https://t.co/WYxPwqTYCA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913955492499792302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老地方充电。\n我能容忍两千姐一个是因为我俩当了十年朋友🤗另一个是因为她会花钱买我被浪费的时间😗这顿是她请的。 https://t.co/WYxPwqTYCA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913955470211223555",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-8XA3bEAMSco9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1913955470261514240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-8XBDacAAMg0s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913955470211223555",
+            "3_1913955470261514240"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1913955492499792302",
+        "created_at": "2025-04-20T13:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T14:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913955492499792302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYxPwqTYCA",
+              "end": 78,
+              "expanded_url": "https://x.com/youlingjiayu/status/1913955492499792302/photo/1",
+              "media_key": "3_1913955470211223555",
+              "start": 55,
+              "url": "https://t.co/WYxPwqTYCA"
+            },
+            {
+              "display_url": "pic.x.com/WYxPwqTYCA",
+              "end": 78,
+              "expanded_url": "https://x.com/youlingjiayu/status/1913955492499792302/photo/1",
+              "media_key": "3_1913955470261514240",
+              "start": 55,
+              "url": "https://t.co/WYxPwqTYCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913955492499792302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老地方充电。\n我能容忍两千姐一个是因为我俩当了十年朋友🤗另一个是因为她会花钱买我被浪费的时间😗这顿是她请的。 https://t.co/WYxPwqTYCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 507,
+          "like_count": 9384,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 4114
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

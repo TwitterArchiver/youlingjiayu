@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980472923933507584"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1980472946100695439",
+    "created_at": "2025-10-21T03:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T04:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980472946100695439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xVD2pgdd2c",
+          "end": 113,
+          "expanded_url": "https://x.com/youlingjiayu/status/1980472946100695439/photo/1",
+          "media_key": "3_1980472923933507584",
+          "start": 90,
+          "url": "https://t.co/xVD2pgdd2c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980472946100695439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从医院出来之后满脑子都是“看病也是要花费时间和金钱的”，“为什么要生病”，“为什么不好好注意自己的身体”之类的想法。吃完滨寿司这些嘈杂就变得小声了……大概算某种对我特攻的病号餐。 https://t.co/xVD2pgdd2c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1980472923933507584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wNoZ5WAAA-H5n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980472923933507584"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1980472946100695439",
+        "created_at": "2025-10-21T03:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T04:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980472946100695439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVD2pgdd2c",
+              "end": 113,
+              "expanded_url": "https://x.com/youlingjiayu/status/1980472946100695439/photo/1",
+              "media_key": "3_1980472923933507584",
+              "start": 90,
+              "url": "https://t.co/xVD2pgdd2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980472946100695439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从医院出来之后满脑子都是“看病也是要花费时间和金钱的”，“为什么要生病”，“为什么不好好注意自己的身体”之类的想法。吃完滨寿司这些嘈杂就变得小声了……大概算某种对我特攻的病号餐。 https://t.co/xVD2pgdd2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。",
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 518,
+          "like_count": 13848,
+          "listed_count": 2,
+          "media_count": 622,
+          "tweet_count": 5757
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2020116875544293867",
+    "created_at": "2026-02-07T12:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T13:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020116875544293867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/2020082039316484360",
+          "start": 35,
+          "url": "https://t.co/jYKCZy4zOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020116875544293867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020082039316484360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但这家自助不好吃，难吃到我不知道吃什么，只好拿了两份烤地瓜填饱肚子。 https://t.co/jYKCZy4zOK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020082025592680448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjF5kCacAACq8T.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2020116875544293867",
+        "created_at": "2026-02-07T12:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T13:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020116875544293867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/2020082039316484360",
+              "start": 35,
+              "url": "https://t.co/jYKCZy4zOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020116875544293867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020082039316484360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但这家自助不好吃，难吃到我不知道吃什么，只好拿了两份烤地瓜填饱肚子。 https://t.co/jYKCZy4zOK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020082025592680448"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "2020082039316484360",
+        "created_at": "2026-02-07T10:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020082039316484360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9MejPYQ7Gr",
+              "end": 30,
+              "expanded_url": "https://x.com/youlingjiayu/status/2020082039316484360/photo/1",
+              "media_key": "3_2020082025592680448",
+              "start": 7,
+              "url": "https://t.co/9MejPYQ7Gr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020082039316484360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蟹，免费了。 https://t.co/9MejPYQ7Gr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 521,
+          "like_count": 17205,
+          "listed_count": 1,
+          "media_count": 827,
+          "tweet_count": 7435
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

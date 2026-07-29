@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930861854907387904",
+        "3_1930861846539730944"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1930861868492722349",
+    "created_at": "2025-06-06T05:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T06:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930861868492722349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0RtRhf3uZt",
+          "end": 34,
+          "expanded_url": "https://x.com/youlingjiayu/status/1930861868492722349/photo/1",
+          "media_key": "3_1930861854907387904",
+          "start": 11,
+          "url": "https://t.co/0RtRhf3uZt"
+        },
+        {
+          "display_url": "pic.x.com/0RtRhf3uZt",
+          "end": 34,
+          "expanded_url": "https://x.com/youlingjiayu/status/1930861868492722349/photo/1",
+          "media_key": "3_1930861846539730944",
+          "start": 11,
+          "url": "https://t.co/0RtRhf3uZt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930861868492722349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要给光头狠狠砸钱。 https://t.co/0RtRhf3uZt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_1930861854907387904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsvMoHwbUAA9Dr4.jpg",
+        "width": 929
+      },
+      {
+        "height": 921,
+        "media_key": "3_1930861846539730944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsvMnolbAAAmtsS.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930861854907387904",
+            "3_1930861846539730944"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930861868492722349",
+        "created_at": "2025-06-06T05:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T06:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930861868492722349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RtRhf3uZt",
+              "end": 34,
+              "expanded_url": "https://x.com/youlingjiayu/status/1930861868492722349/photo/1",
+              "media_key": "3_1930861854907387904",
+              "start": 11,
+              "url": "https://t.co/0RtRhf3uZt"
+            },
+            {
+              "display_url": "pic.x.com/0RtRhf3uZt",
+              "end": 34,
+              "expanded_url": "https://x.com/youlingjiayu/status/1930861868492722349/photo/1",
+              "media_key": "3_1930861846539730944",
+              "start": 11,
+              "url": "https://t.co/0RtRhf3uZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930861868492722349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要给光头狠狠砸钱。 https://t.co/0RtRhf3uZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 524,
+          "like_count": 10632,
+          "listed_count": 0,
+          "media_count": 487,
+          "tweet_count": 4625
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2057132760612139120",
+    "created_at": "2026-05-20T16:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057140129370976420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1902194167486541824",
+          "start": 0,
+          "username": "CatWall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057140129370976420",
+    "in_reply_to_user_id": "1902194167486541824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057138335877882025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CatWall 我也是乡毋宁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2057132760612139120",
+        "created_at": "2026-05-20T16:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057140129370976420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1902194167486541824",
+              "start": 0,
+              "username": "CatWall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057140129370976420",
+        "in_reply_to_user_id": "1902194167486541824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057138335877882025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatWall 我也是乡毋宁。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902194167486541824",
+        "conversation_id": "2057132760612139120",
+        "created_at": "2026-05-20T16:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057138335877882025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057138335877882025",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057132760612139120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 乡毋宁可以去吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 525,
+          "like_count": 18614,
+          "listed_count": 1,
+          "media_count": 969,
+          "tweet_count": 8121
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T03:04:10.000Z",
+        "description": "头像本人 害怕人类",
+        "id": "1902194167486541824",
+        "name": "华尔猫猫",
+        "pinned_tweet_id": "2053089099003600906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964165883104022531/X7i10k_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 163,
+          "like_count": 558,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 643
+        },
+        "username": "CatWall",
+        "verified": false
+      }
+    ]
+  }
+}

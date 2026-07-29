@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2004865422894813505",
+    "created_at": "2025-12-27T10:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T11:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004865422894813505"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004865422894813505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天家里人拿了单位发的消费券带我去超市买了一堆东西回来，然后他对我说：“你看我对你这么好，你之前还那样说我们对你不好，我要和你算算旧账了。”\n我觉得我去年过年边哭边写的东西成了一个笑话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2004865422894813505",
+        "created_at": "2025-12-27T10:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004865422894813505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004865422894813505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天家里人拿了单位发的消费券带我去超市买了一堆东西回来，然后他对我说：“你看我对你这么好，你之前还那样说我们对你不好，我要和你算算旧账了。”\n我觉得我去年过年边哭边写的东西成了一个笑话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004368357987082240/AxDwqPw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 514,
+          "like_count": 15977,
+          "listed_count": 1,
+          "media_count": 758,
+          "tweet_count": 6937
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

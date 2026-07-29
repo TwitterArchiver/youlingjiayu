@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1952201906576887982",
+    "created_at": "2025-08-04T05:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T06:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952247356054990979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1087492556802338816",
+          "start": 0,
+          "username": "5pace1ion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952247356054990979",
+    "in_reply_to_user_id": "1087492556802338816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952245636834939057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5pace1ion 自己滚吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1952201906576887982",
+        "created_at": "2025-08-04T05:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T06:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952247356054990979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1087492556802338816",
+              "start": 0,
+              "username": "5pace1ion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952247356054990979",
+        "in_reply_to_user_id": "1087492556802338816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952245636834939057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5pace1ion 自己滚吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087492556802338816",
+        "conversation_id": "1952201906576887982",
+        "created_at": "2025-08-04T05:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T06:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952245636834939057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952245636834939057",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952201906576887982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 那有点贵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 540,
+          "like_count": 12794,
+          "listed_count": 0,
+          "media_count": 578,
+          "tweet_count": 5344
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-21T23:30:04.000Z",
+        "description": "就拱拱火",
+        "id": "1087492556802338816",
+        "location": "ленинград",
+        "name": "sрасе1iоп",
+        "pinned_tweet_id": "1933155514818658647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931014537492439040/VZCwY8yK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 86,
+          "like_count": 810,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 925
+        },
+        "username": "5pace1ion",
+        "verified": false
+      }
+    ]
+  }
+}

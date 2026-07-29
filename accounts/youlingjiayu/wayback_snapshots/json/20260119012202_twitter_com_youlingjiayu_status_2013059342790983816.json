@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2012966989602627888",
+    "created_at": "2026-01-19T01:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T02:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013059342790983816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753470997422878720",
+          "start": 0,
+          "username": "404nocoriander"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013059342790983816",
+    "in_reply_to_user_id": "1753470997422878720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012966989602627888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@404nocoriander 我觉得如果两个人一开始就意识到互相喜欢，只是为了不影响学习没有公开，这种情况还没有那么惊悚……我一直觉得友情是一条单独的进化路线，终点是近似亲情的关系，和朋友搞上这件事和乱伦没区别；但我还蛮尊重别人从友情变爱情……费解但是这种情况确实挺普遍的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2012966989602627888",
+        "created_at": "2026-01-19T01:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T02:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013059342790983816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753470997422878720",
+              "start": 0,
+              "username": "404nocoriander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013059342790983816",
+        "in_reply_to_user_id": "1753470997422878720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012966989602627888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@404nocoriander 我觉得如果两个人一开始就意识到互相喜欢，只是为了不影响学习没有公开，这种情况还没有那么惊悚……我一直觉得友情是一条单独的进化路线，终点是近似亲情的关系，和朋友搞上这件事和乱伦没区别；但我还蛮尊重别人从友情变爱情……费解但是这种情况确实挺普遍的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753470997422878720",
+        "conversation_id": "2012966989602627888",
+        "created_at": "2026-01-18T19:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012966989602627888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012966989602627888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "想起高三的时候室友和她玩得最好的男同学在一起了 得知的消息的我三观都震碎了 因为我想不明白两个人以好朋友的形式相处了三年为啥在高考前没多久突然就爱上了还谈上了 总之我be like：你们是在乱伦吗？*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 517,
+          "like_count": 16668,
+          "listed_count": 1,
+          "media_count": 794,
+          "tweet_count": 7212
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T17:30:39.000Z",
+        "description": "爱看看不看滚",
+        "id": "1753470997422878720",
+        "location": "宛平南路600号",
+        "name": "精神卫生中心菜医生",
+        "pinned_tweet_id": "2006779245671100515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997698629545713664/6A_5O8o1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 307,
+          "like_count": 14515,
+          "listed_count": 10,
+          "media_count": 322,
+          "tweet_count": 8999
+        },
+        "username": "404nocoriander",
+        "verified": false
+      }
+    ]
+  }
+}

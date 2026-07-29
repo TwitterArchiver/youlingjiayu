@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1920395824074535212",
+    "created_at": "2025-05-08T11:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T12:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920439063724912644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "362228606",
+          "start": 0,
+          "username": "7thasylum"
+        },
+        {
+          "end": 25,
+          "id": "771971954584657920",
+          "start": 11,
+          "username": "vanilla_sodaa"
+        },
+        {
+          "end": 36,
+          "id": "467127256",
+          "start": 26,
+          "username": "Luna_Jobs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920439063724912644",
+    "in_reply_to_user_id": "362228606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920426903305138619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7thasylum @vanilla_sodaa @Luna_Jobs 笑死了，我用的也是这款。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1920395824074535212",
+        "created_at": "2025-05-08T11:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T12:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920439063724912644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "362228606",
+              "start": 0,
+              "username": "7thasylum"
+            },
+            {
+              "end": 25,
+              "id": "771971954584657920",
+              "start": 11,
+              "username": "vanilla_sodaa"
+            },
+            {
+              "end": 36,
+              "id": "467127256",
+              "start": 26,
+              "username": "Luna_Jobs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920439063724912644",
+        "in_reply_to_user_id": "362228606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920426903305138619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7thasylum @vanilla_sodaa @Luna_Jobs 笑死了，我用的也是这款。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "362228606",
+        "conversation_id": "1920395824074535212",
+        "created_at": "2025-05-08T10:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T11:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920426903305138619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "771971954584657920",
+              "start": 0,
+              "username": "vanilla_sodaa"
+            },
+            {
+              "end": 25,
+              "id": "467127256",
+              "start": 15,
+              "username": "Luna_Jobs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920426903305138619",
+        "in_reply_to_user_id": "771971954584657920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920399004493623594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanilla_sodaa @Luna_Jobs 习武之人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜我想答案可能是生命本身。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 510,
+          "like_count": 9817,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 4317
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-26T01:55:12.000Z",
+        "description": "“顽劣的、温和的。”\n名字是栖栖/ENFP♎️/ADHD/世界上所有人都是我的爱人（精神上）/switch/泛/braaaat♀️/无孩爱猫待业做题家。\n是个生活推，欢迎和我交朋友嘟🥺☝",
+        "id": "362228606",
+        "location": "Guangdong",
+        "name": "第七避难所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888529439195291648/3z0aU-W9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 211,
+          "like_count": 7414,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 1195
+        },
+        "username": "7thasylum",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T07:23:51.000Z",
+        "description": "coffee fanatic || ENFP || 汉语🇨🇳English🇺🇸日本語🇯🇵 한국어 🇰🇷|| Cloud Native & Exchange @DXCTechnology || 知れ高粱の波溢るる如く、満ちたるを",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "DXCTechnology"
+              }
+            ]
+          }
+        },
+        "id": "771971954584657920",
+        "location": "安東都護府・東沓県・青泥浦郷",
+        "name": "𝖁𝖆𝖓𝖎𝖑𝖑𝖆𝕾𝖔𝖉𝖆",
+        "pinned_tweet_id": "1917112453907026337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920295005979066368/Xu7zRUw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 782,
+          "like_count": 108805,
+          "listed_count": 24,
+          "media_count": 5819,
+          "tweet_count": 63089
+        },
+        "username": "vanilla_sodaa",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-18T04:27:11.000Z",
+        "description": "狗减sin狗 六分之狗仨儿",
+        "id": "467127256",
+        "location": "中国",
+        "name": "六分之狗仨儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646936192401940481/JUCofvfL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 951,
+          "like_count": 10707,
+          "listed_count": 10,
+          "media_count": 713,
+          "tweet_count": 22620
+        },
+        "username": "Luna_Jobs",
+        "verified": false
+      }
+    ]
+  }
+}

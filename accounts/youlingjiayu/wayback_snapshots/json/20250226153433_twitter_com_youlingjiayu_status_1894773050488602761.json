@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1894710306905133215",
+    "created_at": "2025-02-26T15:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T16:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894773050488602761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816105634179534848",
+          "start": 0,
+          "username": "sevensand7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894773050488602761",
+    "in_reply_to_user_id": "1816105634179534848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894710306905133215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevensand7 显然不是我……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1894710306905133215",
+        "created_at": "2025-02-26T15:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T16:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894773050488602761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816105634179534848",
+              "start": 0,
+              "username": "sevensand7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894773050488602761",
+        "in_reply_to_user_id": "1816105634179534848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894710306905133215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevensand7 显然不是我……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816105634179534848",
+        "conversation_id": "1894710306905133215",
+        "created_at": "2025-02-26T11:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T12:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894710306905133215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894710306905133215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1294,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真的好想认识那些充满激情的人，每时每刻都在燃烧着，看着星星疯狂地大笑，仿佛被巨人的手指碰着了、因而拥有了魔力……😭好想休假去全世界各地玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 492,
+          "like_count": 6085,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 2837
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T13:38:30.000Z",
+        "description": "queer｜黑色猫咪正淌过绿色的河",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sevensand",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sevensand",
+                "start": 0,
+                "url": "https://t.co/LkrygZI6Jg"
+              }
+            ]
+          }
+        },
+        "id": "1816105634179534848",
+        "location": "提问箱 ——",
+        "name": "七尺沙地和她孕育的孩子",
+        "pinned_tweet_id": "1872684054631612808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893230349855137792/yvRdKUXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 272,
+          "like_count": 18025,
+          "listed_count": 7,
+          "media_count": 423,
+          "tweet_count": 4428
+        },
+        "url": "https://t.co/LkrygZI6Jg",
+        "username": "sevensand7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942608114362245124"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1942608144280015216",
+    "created_at": "2025-07-08T15:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T16:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942608144280015216"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 127,
+          "start": 119,
+          "tag": "甲鱼不正经书评"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wQkrba0UDv",
+          "end": 151,
+          "expanded_url": "https://x.com/youlingjiayu/status/1942608144280015216/photo/1",
+          "media_key": "3_1942608114362245124",
+          "start": 128,
+          "url": "https://t.co/wQkrba0UDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942608144280015216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "甲鱼不正经书评43\n《上映》\n是Avagado6老师的画集。\n天使们的走马灯电影院上映某个自杀者的人生，天使们因为电影的虎头蛇尾而不满，于是自杀者决定回去继续自己的人生。\n如果人生最后会变成一部电影——\n“一定要拍一部最好的电影出来。”\n#甲鱼不正经书评 https://t.co/wQkrba0UDv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1942608114362245124",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvWHyaJaYAQtT96.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942608114362245124"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1942608144280015216",
+        "created_at": "2025-07-08T15:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942608144280015216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 119,
+              "tag": "甲鱼不正经书评"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQkrba0UDv",
+              "end": 151,
+              "expanded_url": "https://x.com/youlingjiayu/status/1942608144280015216/photo/1",
+              "media_key": "3_1942608114362245124",
+              "start": 128,
+              "url": "https://t.co/wQkrba0UDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942608144280015216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经书评43\n《上映》\n是Avagado6老师的画集。\n天使们的走马灯电影院上映某个自杀者的人生，天使们因为电影的虎头蛇尾而不满，于是自杀者决定回去继续自己的人生。\n如果人生最后会变成一部电影——\n“一定要拍一部最好的电影出来。”\n#甲鱼不正经书评 https://t.co/wQkrba0UDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 533,
+          "like_count": 11611,
+          "listed_count": 0,
+          "media_count": 525,
+          "tweet_count": 4937
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

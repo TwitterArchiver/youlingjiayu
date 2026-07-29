@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1993153308366926133",
+    "created_at": "2025-11-25T03:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T04:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993164956402143263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977858284964159488",
+          "start": 0,
+          "username": "Quinnnankoku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993164956402143263",
+    "in_reply_to_user_id": "1977858284964159488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993153308366926133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quinnnankoku 你怎么知道是求知而不是逃避现实……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1993153308366926133",
+        "created_at": "2025-11-25T03:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993164956402143263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977858284964159488",
+              "start": 0,
+              "username": "Quinnnankoku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993164956402143263",
+        "in_reply_to_user_id": "1977858284964159488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993153308366926133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quinnnankoku 你怎么知道是求知而不是逃避现实……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977858284964159488",
+        "conversation_id": "1993153308366926133",
+        "created_at": "2025-11-25T03:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993153308366926133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993153308366926133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纵使人欲有三级之分，有七宗罪，\n但我最崇尚的还是求知欲与好奇心，\n对此有强欲之人，同我一样，对我有致命吸引力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 517,
+          "like_count": 14674,
+          "listed_count": 1,
+          "media_count": 682,
+          "tweet_count": 6289
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T22:07:36.000Z",
+        "description": "炸号了@v5Family_ 推友找回中🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "v5Family_"
+              }
+            ]
+          }
+        },
+        "id": "1977858284964159488",
+        "name": "芥末苔藓🩵（永动家仆版）",
+        "pinned_tweet_id": "1983385615346573455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988574423180525568/1ocXqfjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 356,
+          "like_count": 10212,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 4899
+        },
+        "username": "Quinnnankoku",
+        "verified": true
+      }
+    ]
+  }
+}

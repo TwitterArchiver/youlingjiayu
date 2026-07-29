@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1951666979770945774",
+    "created_at": "2025-08-02T15:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T16:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951671384754762068"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1951671384754762068",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 15,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951666979770945774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我验证了一些事情，我没有办法参考别人的生活和幸福来找到我的生活和幸福。\n在所有人都为朋友的爱情动容时，我没有一点情绪波动；这种异常让我觉得很不安。\n我觉得以后不会再试图变得正常，或者合群，或者符合其他人的期望了；我终于知道我是没有能力做到的，因为我本来就不是这样的人。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8133,
+        "height": 720,
+        "media_key": "7_1951666929871298561",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951666929871298561/pu/img/JXaWW7PTffihnqdc.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951666929871298561/pu/vid/avc1/360x270/hwstOpNMD_7UyI6f.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951666929871298561/pu/vid/avc1/480x360/MQNHG_PvC2mlB4dB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951666929871298561/pu/vid/avc1/960x720/xxVA0HZZUy-HNe7u.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951666929871298561/pu/pl/02loREVHxRNJVVXf.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1951666979770945774",
+        "created_at": "2025-08-02T15:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951671384754762068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951671384754762068",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951666979770945774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我验证了一些事情，我没有办法参考别人的生活和幸福来找到我的生活和幸福。\n在所有人都为朋友的爱情动容时，我没有一点情绪波动；这种异常让我觉得很不安。\n我觉得以后不会再试图变得正常，或者合群，或者符合其他人的期望了；我终于知道我是没有能力做到的，因为我本来就不是这样的人。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1951666929871298561"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1951666979770945774",
+        "created_at": "2025-08-02T15:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951666979770945774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGjvTFwFma",
+              "end": 156,
+              "expanded_url": "https://x.com/youlingjiayu/status/1951666979770945774/video/1",
+              "media_key": "7_1951666929871298561",
+              "start": 133,
+              "url": "https://t.co/RGjvTFwFma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951666979770945774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不算生活体验派，更多地是想看看别人怎么活，然后找到一个参考或答案。\n参加婚礼对我来说很新鲜，两位新人都是我的朋友，所以我坐了三个半小时高铁来了沧州。\n但好像只在开始时高兴了一小会儿，然后就开始消耗我的社交能量来参加聚会；最后实在受不了了，坐在秋千上拍下了这段视频。 https://t.co/RGjvTFwFma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 540,
+          "like_count": 12704,
+          "listed_count": 0,
+          "media_count": 568,
+          "tweet_count": 5312
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

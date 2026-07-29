@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952913934509588480"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1952913937017782353",
+    "created_at": "2025-08-06T02:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T03:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952913937017782353"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 133,
+          "start": 125,
+          "tag": "甲鱼不正经书评"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SBaN6Ushdt",
+          "end": 157,
+          "expanded_url": "https://x.com/youlingjiayu/status/1952913937017782353/photo/1",
+          "media_key": "3_1952913934509588480",
+          "start": 134,
+          "url": "https://t.co/SBaN6Ushdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952913937017782353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "甲鱼不正经书评47\n《吃掉那只青蛙：博恩·崔西的高效时间管理法则》\n目前为止看过的最好的时间管理方面的书，原理简捷而且可操作性强；书最后贴心地设置了方法的总结，直接翻到最后照做都行。\n如果想要做成一件困难的事情，就需要每天吃掉一只又一只恶心的青蛙。\n#甲鱼不正经书评 https://t.co/SBaN6Ushdt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 468,
+        "media_key": "3_1952913934509588480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxok4F9awAAUwop.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952913934509588480"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1952913937017782353",
+        "created_at": "2025-08-06T02:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T03:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952913937017782353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 125,
+              "tag": "甲鱼不正经书评"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBaN6Ushdt",
+              "end": 157,
+              "expanded_url": "https://x.com/youlingjiayu/status/1952913937017782353/photo/1",
+              "media_key": "3_1952913934509588480",
+              "start": 134,
+              "url": "https://t.co/SBaN6Ushdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952913937017782353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经书评47\n《吃掉那只青蛙：博恩·崔西的高效时间管理法则》\n目前为止看过的最好的时间管理方面的书，原理简捷而且可操作性强；书最后贴心地设置了方法的总结，直接翻到最后照做都行。\n如果想要做成一件困难的事情，就需要每天吃掉一只又一只恶心的青蛙。\n#甲鱼不正经书评 https://t.co/SBaN6Ushdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 539,
+          "like_count": 12926,
+          "listed_count": 0,
+          "media_count": 580,
+          "tweet_count": 5383
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1908129888638480560",
+    "created_at": "2025-04-05T08:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T09:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908431109786132738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1078692330947969029",
+          "start": 0,
+          "username": "TingYunAiAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908431109786132738",
+    "in_reply_to_user_id": "1078692330947969029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908429697471709524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TingYunAiAi 已经离开嘞，下次再来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1908129888638480560",
+        "created_at": "2025-04-05T08:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T09:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908431109786132738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1078692330947969029",
+              "start": 0,
+              "username": "TingYunAiAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908431109786132738",
+        "in_reply_to_user_id": "1078692330947969029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908429697471709524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TingYunAiAi 已经离开嘞，下次再来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1078692330947969029",
+        "conversation_id": "1908129888638480560",
+        "created_at": "2025-04-05T08:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T09:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908429697471709524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908429697471709524",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908129888638480560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 甲鱼是在苏堤吗！旁边有个公园夜景蛮漂亮的，不知道你逛了没有，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的重力系赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，把网友当垃圾回收员，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 498,
+          "like_count": 8150,
+          "listed_count": 1,
+          "media_count": 325,
+          "tweet_count": 3641
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-28T16:41:07.000Z",
+        "description": "年轻时我一无所有，徒有一颗空荡荡的心和一具不会疲劳的身体。\n🐕：@yakamashi777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "yakamashi777"
+              }
+            ]
+          }
+        },
+        "id": "1078692330947969029",
+        "location": "不加联系方式‖互关除外",
+        "name": "呕吐雾",
+        "pinned_tweet_id": "1896170536801378813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903428964015919104/RrbGEyDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 191,
+          "like_count": 6756,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 2056
+        },
+        "username": "TingYunAiAi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2018237331782901778",
+    "created_at": "2026-02-02T08:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T09:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018237331782901778"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "想和香",
+          "probability": 0.758,
+          "start": 0,
+          "type": "Person"
+        },
+        {
+          "end": 7,
+          "normalized_text": "慈子孝",
+          "probability": 0.759,
+          "start": 5,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/7thAsylum/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/7thAsylum/status/2018208427508719772",
+          "start": 13,
+          "url": "https://t.co/V0XNyzAHA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018237331782901778",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018208427508719772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想和香草父慈子孝拼刺刀。 https://t.co/V0XNyzAHA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2018208420361568256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAId3YpagAATDt7.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2018208420332191744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAId3YiaQAAAo6F.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2018237331782901778",
+        "created_at": "2026-02-02T08:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018237331782901778"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "想和香",
+              "probability": 0.758,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 7,
+              "normalized_text": "慈子孝",
+              "probability": 0.759,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/7thAsylum/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/7thAsylum/status/2018208427508719772",
+              "start": 13,
+              "url": "https://t.co/V0XNyzAHA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018237331782901778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018208427508719772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想和香草父慈子孝拼刺刀。 https://t.co/V0XNyzAHA9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018208420361568256",
+            "3_2018208420332191744"
+          ]
+        },
+        "author_id": "362228606",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018208427508719772",
+        "created_at": "2026-02-02T06:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T07:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018208427508719772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYEMqIPgLe",
+              "end": 76,
+              "expanded_url": "https://x.com/7thAsylum/status/2018208427508719772/photo/1",
+              "media_key": "3_2018208420361568256",
+              "start": 53,
+              "url": "https://t.co/zYEMqIPgLe"
+            },
+            {
+              "display_url": "pic.x.com/zYEMqIPgLe",
+              "end": 76,
+              "expanded_url": "https://x.com/7thAsylum/status/2018208427508719772/photo/1",
+              "media_key": "3_2018208420332191744",
+              "start": 53,
+              "url": "https://t.co/zYEMqIPgLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018208427508719772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 671,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（胡诌）（开枪）（乱叫）（跑来跑去）（乱叫）（跑来跑去）（跑来跑去）（跑来跑去）（跑来跑去）（跑来跑去） https://t.co/zYEMqIPgLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 522,
+          "like_count": 17138,
+          "listed_count": 1,
+          "media_count": 824,
+          "tweet_count": 7418
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-26T01:55:12.000Z",
+        "description": "“顽劣的，温和的。” 世界上所有人都是我精神上的爱人 。 关于我：ENFP.IMSB/是个生活推，生活匮乏到只有下体的人远离我",
+        "id": "362228606",
+        "location": "破败教堂的废墟里，做过梦的无花果树下",
+        "name": "第七避难所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010397144889602048/2-In8cbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2168,
+          "following_count": 413,
+          "like_count": 23235,
+          "listed_count": 5,
+          "media_count": 151,
+          "tweet_count": 2775
+        },
+        "username": "7thAsylum",
+        "verified": false
+      }
+    ]
+  }
+}

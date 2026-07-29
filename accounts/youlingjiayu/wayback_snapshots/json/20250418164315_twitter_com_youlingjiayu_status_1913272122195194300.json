@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1913271451127525417",
+    "created_at": "2025-04-18T16:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T17:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913272122195194300"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1913272122195194300",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913271451127525417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "朋友：我觉得你会喜欢政敌哥，他一看就是你喜欢的类型。\n我：（不以为然）真的吗？我不信。\n打了两局后。\n我：嘶……确实喜欢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1913271451127525417",
+        "created_at": "2025-04-18T16:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T17:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913272122195194300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913272122195194300",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913271451127525417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朋友：我觉得你会喜欢政敌哥，他一看就是你喜欢的类型。\n我：（不以为然）真的吗？我不信。\n打了两局后。\n我：嘶……确实喜欢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1913271451127525417",
+        "created_at": "2025-04-18T16:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T17:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913271451127525417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913271451127525417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在朋友们玩《苏丹的游戏》都想撅苏丹的情况下；我今天打开游戏过了新手教程之后……燃起了对权力的渴望，对苏丹没有性欲，一心一意想当苏丹好吧。也可能是比起苏丹我更喜欢政敌哥咳咳。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 506,
+          "like_count": 9297,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 4083
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

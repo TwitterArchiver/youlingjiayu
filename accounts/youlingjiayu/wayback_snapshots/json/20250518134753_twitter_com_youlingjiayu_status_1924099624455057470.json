@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924099499858784256",
+        "3_1924099499829370880",
+        "3_1924099500227903488",
+        "3_1924099500609548288"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1924099624455057470",
+    "created_at": "2025-05-18T13:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T14:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924099624455057470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/blmKyahzZV",
+          "end": 135,
+          "expanded_url": "https://x.com/youlingjiayu/status/1924099624455057470/photo/1",
+          "media_key": "3_1924099499858784256",
+          "start": 112,
+          "url": "https://t.co/blmKyahzZV"
+        },
+        {
+          "display_url": "pic.x.com/blmKyahzZV",
+          "end": 135,
+          "expanded_url": "https://x.com/youlingjiayu/status/1924099624455057470/photo/1",
+          "media_key": "3_1924099499829370880",
+          "start": 112,
+          "url": "https://t.co/blmKyahzZV"
+        },
+        {
+          "display_url": "pic.x.com/blmKyahzZV",
+          "end": 135,
+          "expanded_url": "https://x.com/youlingjiayu/status/1924099624455057470/photo/1",
+          "media_key": "3_1924099500227903488",
+          "start": 112,
+          "url": "https://t.co/blmKyahzZV"
+        },
+        {
+          "display_url": "pic.x.com/blmKyahzZV",
+          "end": 135,
+          "expanded_url": "https://x.com/youlingjiayu/status/1924099624455057470/photo/1",
+          "media_key": "3_1924099500609548288",
+          "start": 112,
+          "url": "https://t.co/blmKyahzZV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924099624455057470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天和古生物哥一起去了矿博会和花鸟鱼虫市场，吃了烤匠之后去唱k。\n矿博会看看就行，买东西还是算了；有一个特展，但是排队的人特别多，所以就不去了。\n鱼很克系。\n南林旁边的咖喱饭还行。\n烤匠属于一款我心目中的连锁烤鱼top1。 https://t.co/blmKyahzZV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924099499858784256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPGTQGW8AATiSE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1924099499829370880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPGTP_WIAAqsiX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1924099500227903488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPGTReXQAA7e1p.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1924099500609548288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPGTS5WsAAK7No.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924099499858784256",
+            "3_1924099499829370880",
+            "3_1924099500227903488",
+            "3_1924099500609548288"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1924099624455057470",
+        "created_at": "2025-05-18T13:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T14:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924099624455057470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/blmKyahzZV",
+              "end": 135,
+              "expanded_url": "https://x.com/youlingjiayu/status/1924099624455057470/photo/1",
+              "media_key": "3_1924099499858784256",
+              "start": 112,
+              "url": "https://t.co/blmKyahzZV"
+            },
+            {
+              "display_url": "pic.x.com/blmKyahzZV",
+              "end": 135,
+              "expanded_url": "https://x.com/youlingjiayu/status/1924099624455057470/photo/1",
+              "media_key": "3_1924099499829370880",
+              "start": 112,
+              "url": "https://t.co/blmKyahzZV"
+            },
+            {
+              "display_url": "pic.x.com/blmKyahzZV",
+              "end": 135,
+              "expanded_url": "https://x.com/youlingjiayu/status/1924099624455057470/photo/1",
+              "media_key": "3_1924099500227903488",
+              "start": 112,
+              "url": "https://t.co/blmKyahzZV"
+            },
+            {
+              "display_url": "pic.x.com/blmKyahzZV",
+              "end": 135,
+              "expanded_url": "https://x.com/youlingjiayu/status/1924099624455057470/photo/1",
+              "media_key": "3_1924099500609548288",
+              "start": 112,
+              "url": "https://t.co/blmKyahzZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924099624455057470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和古生物哥一起去了矿博会和花鸟鱼虫市场，吃了烤匠之后去唱k。\n矿博会看看就行，买东西还是算了；有一个特展，但是排队的人特别多，所以就不去了。\n鱼很克系。\n南林旁边的咖喱饭还行。\n烤匠属于一款我心目中的连锁烤鱼top1。 https://t.co/blmKyahzZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 514,
+          "like_count": 10097,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 4401
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

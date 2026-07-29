@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1853499857899844056",
+    "created_at": "2024-11-05T01:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T02:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853609166356803809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1319238021800169472",
+          "start": 0,
+          "username": "mevushal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853609166356803809",
+    "in_reply_to_user_id": "1319238021800169472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853608705977430026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mevushal 交叉学科魅力时刻（不）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1853499857899844056",
+        "created_at": "2024-11-05T01:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T02:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853609166356803809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1319238021800169472",
+              "start": 0,
+              "username": "mevushal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853609166356803809",
+        "in_reply_to_user_id": "1319238021800169472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853608705977430026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mevushal 交叉学科魅力时刻（不）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319238021800169472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1853499857899844056",
+        "created_at": "2024-11-05T01:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T02:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853608705977430026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853608705977430026",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853607804499841066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 关于应该心理学回归哲学 还是心理学吞噬一部分哲学\n还是这两样都被人类学吃掉 我暂且蒙在鼓里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/臭搞同人的，把这边当日记本和垃圾桶\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 523,
+          "like_count": 985,
+          "listed_count": 0,
+          "tweet_count": 741
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-22T11:23:53.000Z",
+        "description": "…",
+        "id": "1319238021800169472",
+        "location": "Ordo Nocturno Antiochi",
+        "name": "Decesus",
+        "pinned_tweet_id": "1827404789736731003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840576718865825792/_umlU6QY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 113,
+          "like_count": 27333,
+          "listed_count": 7,
+          "tweet_count": 8699
+        },
+        "username": "mevushal",
+        "verified": false
+      }
+    ]
+  }
+}

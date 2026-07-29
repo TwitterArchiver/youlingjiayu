@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1889601942025834786",
+    "created_at": "2025-02-12T09:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T10:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889601942025834786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainshizhigou/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/rainshizhigou/status/1889591524947640829",
+          "start": 14,
+          "url": "https://t.co/OxWVU4dDwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889601942025834786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889591524947640829",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本人，感受力差是这样的。 https://t.co/OxWVU4dDwa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1889601942025834786",
+        "created_at": "2025-02-12T09:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T10:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889601942025834786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainshizhigou/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/rainshizhigou/status/1889591524947640829",
+              "start": 14,
+              "url": "https://t.co/OxWVU4dDwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889601942025834786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889591524947640829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本人，感受力差是这样的。 https://t.co/OxWVU4dDwa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650764160874196992",
+        "conversation_id": "1889591524947640829",
+        "created_at": "2025-02-12T08:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T09:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889591524947640829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889591524947640829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得有的人不是需要引导型恋人，而是需要导弹型恋人打穿她那死硬的嘴。问题已经积累到温柔的引导没有用了，不强制一下很难让她感受到什么是爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 500,
+          "like_count": 5406,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 2710
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:30:33.000Z",
+        "description": "勇气、智慧和爱",
+        "id": "1650764160874196992",
+        "name": "e",
+        "pinned_tweet_id": "1887881735033213301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876536482518925312/Ajfi-KqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 34,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1509
+        },
+        "username": "rainshizhigou",
+        "verified": false
+      }
+    ]
+  }
+}

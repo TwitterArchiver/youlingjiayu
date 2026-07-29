@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1857972056203403541",
+    "created_at": "2024-11-17T05:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T06:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858027246570844486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1491116081838268420",
+          "start": 0,
+          "username": "unclealad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858027246570844486",
+    "in_reply_to_user_id": "1491116081838268420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858026106370015375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unclealad 非常赞同，只是有些家长习惯把孩子托管给老师，或者试图过度干涉老师的教学。\n但其实很多父母都不会教育，所以家庭教育这一块是欠缺的，以及我不清楚为什么那么多没有学过教育的人自信自己更加专业——总结下来就是，我的家庭教育没错，肯定都是老师的问题。\n如果老师道德感和责任感比较高，就会很难受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1857972056203403541",
+        "created_at": "2024-11-17T05:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T06:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858027246570844486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1491116081838268420",
+              "start": 0,
+              "username": "unclealad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858027246570844486",
+        "in_reply_to_user_id": "1491116081838268420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858026106370015375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unclealad 非常赞同，只是有些家长习惯把孩子托管给老师，或者试图过度干涉老师的教学。\n但其实很多父母都不会教育，所以家庭教育这一块是欠缺的，以及我不清楚为什么那么多没有学过教育的人自信自己更加专业——总结下来就是，我的家庭教育没错，肯定都是老师的问题。\n如果老师道德感和责任感比较高，就会很难受。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491116081838268420",
+        "conversation_id": "1857972056203403541",
+        "created_at": "2024-11-17T05:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T06:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858026106370015375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858026106370015375",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857981392480776661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 嗯 甲鱼老师 您好 私以为 就塑造人格来说 家庭比学校重要 过分的家长要为小朋友出格的行为负责 小学到现在见过好多这样的例子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 520,
+          "like_count": 1408,
+          "listed_count": 0,
+          "tweet_count": 1016
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T18:26:07.000Z",
+        "description": "本人有点聪明 请不要骗我！",
+        "id": "1491116081838268420",
+        "name": "穷眼睛幽幽地看着李嘉诚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853089885349126144/3aVwlVRy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 288,
+          "like_count": 908,
+          "listed_count": 0,
+          "tweet_count": 45
+        },
+        "username": "unclealad",
+        "verified": false
+      }
+    ]
+  }
+}

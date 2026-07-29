@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1883866596177023258",
+    "created_at": "2025-01-27T13:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T14:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883870358450929858"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1883870358450929858",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883867974270169538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从一开始就是错的，外公外婆的教育，父母的凑合，我的家教。\n会有人因为世界上存在着我这么一个人而感到快乐吗？他们期待的不是我而是降生，爱的不是孩子而是血缘；如果没有这层纽带，他们肯定连这一点爱都不会给我的。\n如果有人能接受真实全部的我，那我可能会觉得我是被爱着的吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1883866596177023258",
+        "created_at": "2025-01-27T13:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T14:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883870358450929858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883870358450929858",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883867974270169538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从一开始就是错的，外公外婆的教育，父母的凑合，我的家教。\n会有人因为世界上存在着我这么一个人而感到快乐吗？他们期待的不是我而是降生，爱的不是孩子而是血缘；如果没有这层纽带，他们肯定连这一点爱都不会给我的。\n如果有人能接受真实全部的我，那我可能会觉得我是被爱着的吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1883866596177023258",
+        "created_at": "2025-01-27T13:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T14:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883867974270169538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883867974270169538",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883866596177023258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "父亲对我道了歉，但仍然坚持他某些主张是对的。他说母亲现在只能这样了，以后老了也只有洗洗晒晒衣服，只能为我做这么多。\n那爱呢？我没有说，再索要这种本就不存在的东西就没意思了，最后还是沉默地接受。\n前几年为了避免痛苦一直在自我洗脑我的家庭其实很美好，大家都很爱我，差点就深信不疑了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 528,
+          "like_count": 4505,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2459
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

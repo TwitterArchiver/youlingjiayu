@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1954338295451959532",
+    "created_at": "2025-08-10T00:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T01:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954338295451959532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/animasciolta/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/animasciolta/status/1953773626731204705",
+          "start": 8,
+          "url": "https://t.co/Ya2a7oWdhY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954338295451959532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953773626731204705",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "问问互关们喵。 https://t.co/Ya2a7oWdhY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_1953773620528132097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0ywZ8bsAEPcwr.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1954338295451959532",
+        "created_at": "2025-08-10T00:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T01:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954338295451959532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/animasciolta/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/animasciolta/status/1953773626731204705",
+              "start": 8,
+              "url": "https://t.co/Ya2a7oWdhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954338295451959532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953773626731204705",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问问互关们喵。 https://t.co/Ya2a7oWdhY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953773620528132097"
+          ]
+        },
+        "author_id": "1934289544897245184",
+        "conversation_id": "1953773626731204705",
+        "created_at": "2025-08-08T11:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953773626731204705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MP9QTAAEWT",
+              "end": 36,
+              "expanded_url": "https://x.com/animasciolta/status/1953773626731204705/photo/1",
+              "media_key": "3_1953773620528132097",
+              "start": 13,
+              "url": "https://t.co/MP9QTAAEWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953773626731204705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 798,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "众爱卿各位大侠我求你们了 https://t.co/MP9QTAAEWT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 538,
+          "like_count": 13159,
+          "listed_count": 1,
+          "media_count": 591,
+          "tweet_count": 5456
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T16:39:09.000Z",
+        "description": "🛸🎐叫我千狸就好/05/中文+English+ русский/Nsfw dni !!/欢迎互fo！取关双取/提供情绪价值的私信闲聊半小时200元，我喜欢神秘学，如果和我说黄色内容我会诅咒你。",
+        "id": "1934289544897245184",
+        "location": "Austria",
+        "name": "碎鏡千狸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953678507017400320/GcUpsxkV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 313,
+          "like_count": 2183,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 2290
+        },
+        "username": "animasciolta",
+        "verified": false
+      }
+    ]
+  }
+}

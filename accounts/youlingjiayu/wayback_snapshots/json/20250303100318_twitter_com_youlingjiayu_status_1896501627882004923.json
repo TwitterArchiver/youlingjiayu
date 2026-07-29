@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1896491773351931984",
+    "created_at": "2025-03-03T10:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T11:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896501627882004923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808552527119437824",
+          "start": 0,
+          "username": "11dontcryTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896501627882004923",
+    "in_reply_to_user_id": "1808552527119437824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896491773351931984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11dontcryTT 甲鱼仍需努力。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1896491768494886912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlGxNySXEAA4mNO.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1896491773351931984",
+        "created_at": "2025-03-03T10:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T11:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896501627882004923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808552527119437824",
+              "start": 0,
+              "username": "11dontcryTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896501627882004923",
+        "in_reply_to_user_id": "1808552527119437824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896491773351931984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11dontcryTT 甲鱼仍需努力。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896491768494886912"
+          ]
+        },
+        "author_id": "1808552527119437824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1896491773351931984",
+        "created_at": "2025-03-03T09:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T10:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896491773351931984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1896035266302750720/kd9Q2bIk?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1896035266302750720/kd9Q2bIk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/jxoEcB5GXl"
+            },
+            {
+              "display_url": "pic.x.com/bDeSQIT4bS",
+              "end": 64,
+              "expanded_url": "https://x.com/11dontcryTT/status/1896491773351931984/photo/1",
+              "media_key": "3_1896491768494886912",
+              "start": 41,
+              "url": "https://t.co/bDeSQIT4bS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896491773351931984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/jxoEcB5GXl https://t.co/bDeSQIT4bS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 497,
+          "like_count": 6307,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 2904
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T17:25:07.000Z",
+        "description": "小心易碎。@staywithmeTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "staywithmeTvT"
+              }
+            ]
+          }
+        },
+        "id": "1808552527119437824",
+        "name": "₊⁺ ·悲᳐伤猫猫头᳐· ﾟ ₊",
+        "pinned_tweet_id": "1869826853781025104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891893187616149505/uBLd6hiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 77,
+          "like_count": 2140,
+          "listed_count": 7,
+          "media_count": 324,
+          "tweet_count": 3222
+        },
+        "username": "11dontcryTT",
+        "verified": false
+      }
+    ]
+  }
+}

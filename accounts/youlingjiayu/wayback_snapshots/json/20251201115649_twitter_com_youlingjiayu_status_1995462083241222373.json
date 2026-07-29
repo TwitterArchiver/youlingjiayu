@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1995441388989899140",
+    "created_at": "2025-12-01T11:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T12:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995462083241222373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "270220767",
+          "start": 0,
+          "username": "porntubecocc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995462083241222373",
+    "in_reply_to_user_id": "270220767",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995444776448016522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@porntubecocc 心脏受不了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1995441388989899140",
+        "created_at": "2025-12-01T11:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995462083241222373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "270220767",
+              "start": 0,
+              "username": "porntubecocc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995462083241222373",
+        "in_reply_to_user_id": "270220767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995444776448016522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@porntubecocc 心脏受不了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "270220767",
+        "conversation_id": "1995441388989899140",
+        "created_at": "2025-12-01T10:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T11:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995444776448016522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995444776448016522",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995441388989899140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 不吓人就会继续睡了（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 513,
+          "like_count": 15019,
+          "listed_count": 1,
+          "media_count": 697,
+          "tweet_count": 6470
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-22T06:31:52.000Z",
+        "description": "儿时梦想是睡沙发",
+        "id": "270220767",
+        "location": "地外阿基米德点",
+        "name": "被窝里偷窥星星夜光",
+        "pinned_tweet_id": "1995377431210045872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994781383018123268/oDu4sFEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 42,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "username": "porntubecocc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924885216071712770"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1924885219011920066",
+    "created_at": "2025-05-20T17:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T18:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924885219011920066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/skRzSC9p7W",
+          "end": 30,
+          "expanded_url": "https://x.com/youlingjiayu/status/1924885219011920066/photo/1",
+          "media_key": "3_1924885216071712770",
+          "start": 7,
+          "url": "https://t.co/skRzSC9p7W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924885219011920066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本科毕业了。 https://t.co/skRzSC9p7W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 831,
+        "media_key": "3_1924885216071712770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GraQ59FbAAIyB7a.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924885216071712770"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1924885219011920066",
+        "created_at": "2025-05-20T17:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T18:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924885219011920066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/skRzSC9p7W",
+              "end": 30,
+              "expanded_url": "https://x.com/youlingjiayu/status/1924885219011920066/photo/1",
+              "media_key": "3_1924885216071712770",
+              "start": 7,
+              "url": "https://t.co/skRzSC9p7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924885219011920066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本科毕业了。 https://t.co/skRzSC9p7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 517,
+          "like_count": 10225,
+          "listed_count": 1,
+          "media_count": 452,
+          "tweet_count": 4440
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

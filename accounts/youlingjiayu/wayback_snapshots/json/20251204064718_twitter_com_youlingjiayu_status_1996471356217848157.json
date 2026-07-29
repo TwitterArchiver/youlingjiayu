@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1996393130451722415",
+    "created_at": "2025-12-04T06:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T07:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996471356217848157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977858284964159488",
+          "start": 0,
+          "username": "Quinnnankoku"
+        },
+        {
+          "end": 22,
+          "id": "1260016459926781956",
+          "start": 14,
+          "username": "SCGQDFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996471356217848157",
+    "in_reply_to_user_id": "1977858284964159488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996463015944970694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quinnnankoku @SCGQDFL 可能在我认知里吃别人嘴上的胭脂会变成贾宝玉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1996393130451722415",
+        "created_at": "2025-12-04T06:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996471356217848157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977858284964159488",
+              "start": 0,
+              "username": "Quinnnankoku"
+            },
+            {
+              "end": 22,
+              "id": "1260016459926781956",
+              "start": 14,
+              "username": "SCGQDFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996471356217848157",
+        "in_reply_to_user_id": "1977858284964159488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996463015944970694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quinnnankoku @SCGQDFL 可能在我认知里吃别人嘴上的胭脂会变成贾宝玉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977858284964159488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1996393130451722415",
+        "created_at": "2025-12-04T06:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996463015944970694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            },
+            {
+              "end": 22,
+              "id": "1260016459926781956",
+              "start": 14,
+              "username": "SCGQDFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996463015944970694",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996461440421761206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu @SCGQDFL 你的言情小说和少女漫画读狗肚子里去了吗🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 517,
+          "like_count": 15146,
+          "listed_count": 1,
+          "media_count": 709,
+          "tweet_count": 6528
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T22:07:36.000Z",
+        "description": "炸号了@v5Family_ 推友找回中🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "v5Family_"
+              }
+            ]
+          }
+        },
+        "id": "1977858284964159488",
+        "name": "芥末苔藓🩵（永动家仆版）",
+        "pinned_tweet_id": "1995079577627156783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988574423180525568/1ocXqfjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 407,
+          "like_count": 13468,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 6323
+        },
+        "username": "Quinnnankoku",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-12T01:18:39.000Z",
+        "description": "I SEE FIRE\n恋爱中丨有点宅但是喜欢运动丨社畜丨橘猫叫政宗（伊达政宗缩略）丨偶尔探店白嫖吃喝丨推特都是生活中没能说出的碎碎念丨不讨论政治&成人话题",
+        "id": "1260016459926781956",
+        "location": "Shanghai",
+        "name": "不须涉川",
+        "pinned_tweet_id": "1976151796122087678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900193126028898304/MjSaBKAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 348,
+          "like_count": 29535,
+          "listed_count": 4,
+          "media_count": 2214,
+          "tweet_count": 18684
+        },
+        "username": "SCGQDFL",
+        "verified": false
+      }
+    ]
+  }
+}

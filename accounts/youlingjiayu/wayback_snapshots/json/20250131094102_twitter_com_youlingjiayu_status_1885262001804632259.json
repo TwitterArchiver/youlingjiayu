@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1885175606108971427",
+    "created_at": "2025-01-31T09:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T10:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885262001804632259"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1885262001804632259",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885254238294728755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我外婆大概是喜欢那种阳光开朗，爱笑听话，独立稳重的女孩。\n然后养出了优柔寡断生活疑似不能自理的我妈，所幸她还挺爱笑听话的，可能有一半是成功了；和我这个扭曲爬行，永远记不住亲戚的脸和对应的称呼，和亲戚说话就全身僵硬无所适从，一生都在叛逆期的阴暗逼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1885175606108971427",
+        "created_at": "2025-01-31T09:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T10:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885262001804632259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885262001804632259",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885254238294728755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我外婆大概是喜欢那种阳光开朗，爱笑听话，独立稳重的女孩。\n然后养出了优柔寡断生活疑似不能自理的我妈，所幸她还挺爱笑听话的，可能有一半是成功了；和我这个扭曲爬行，永远记不住亲戚的脸和对应的称呼，和亲戚说话就全身僵硬无所适从，一生都在叛逆期的阴暗逼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1885175606108971427",
+        "created_at": "2025-01-31T09:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T10:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885254238294728755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885254238294728755",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885250202418008545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中学的妹妹给家里人殷勤夹菜，让他们尝这个尝那个，贴心又爱笑；感觉是我外婆会喜欢的女孩的类型。\n和沉默寡言玩手机干饭，绝望地一遍遍拒绝我奶反复问我要不要吃某个菜的我形成鲜明对比。\n在小孩的吵闹中产生了，为什么小孩不像我小时候一样安静的迷思，后来突然意识到我可能是阿斯伯格，那没事了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 530,
+          "like_count": 4730,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2529
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

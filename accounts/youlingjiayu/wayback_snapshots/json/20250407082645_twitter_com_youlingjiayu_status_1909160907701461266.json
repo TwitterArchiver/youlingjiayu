@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1909159204612616685",
+    "created_at": "2025-04-07T08:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T09:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909160907701461266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576097349331345409",
+          "start": 0,
+          "username": "vaticancameosL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909160907701461266",
+    "in_reply_to_user_id": "1576097349331345409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909160794799116605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vaticancameosL 想去就去！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1909159204612616685",
+        "created_at": "2025-04-07T08:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T09:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909160907701461266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576097349331345409",
+              "start": 0,
+              "username": "vaticancameosL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909160907701461266",
+        "in_reply_to_user_id": "1576097349331345409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909160794799116605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vaticancameosL 想去就去！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576097349331345409",
+        "conversation_id": "1909159204612616685",
+        "created_at": "2025-04-07T08:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T09:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909160794799116605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909160794799116605",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909160139183267980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 嗯对杭州的在5月10号 我在想要不要就近去广州的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 501,
+          "like_count": 8382,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 3713
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T06:31:14.000Z",
+        "description": "连就连",
+        "id": "1576097349331345409",
+        "location": "Reichenbach Waterfall",
+        "name": "Jade有痣",
+        "pinned_tweet_id": "1834300170420543704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908969355460935680/4kcelvHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31481,
+          "following_count": 264,
+          "like_count": 14423,
+          "listed_count": 56,
+          "media_count": 437,
+          "tweet_count": 6185
+        },
+        "username": "vaticancameosL",
+        "verified": false
+      }
+    ]
+  }
+}

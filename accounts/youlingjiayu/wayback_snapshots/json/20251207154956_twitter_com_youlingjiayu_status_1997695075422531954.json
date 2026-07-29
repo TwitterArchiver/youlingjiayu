@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1997686354013216986",
+    "created_at": "2025-12-07T15:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T16:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997695075422531954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "852198642987528196",
+          "start": 0,
+          "username": "EXReroasashio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997695075422531954",
+    "in_reply_to_user_id": "852198642987528196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997694334435815605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EXReroasashio 牛蛙是古生物专业的，我对这方面也比较感兴趣。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 318,
+        "media_key": "16_1997694320909172736",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G7k8Zo-bQAASDL8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G7k8Zo-bQAASDL8.mp4"
+          }
+        ],
+        "width": 318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1997686354013216986",
+        "created_at": "2025-12-07T15:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997695075422531954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "852198642987528196",
+              "start": 0,
+              "username": "EXReroasashio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997695075422531954",
+        "in_reply_to_user_id": "852198642987528196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997694334435815605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EXReroasashio 牛蛙是古生物专业的，我对这方面也比较感兴趣。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1997694320909172736"
+          ]
+        },
+        "author_id": "852198642987528196",
+        "conversation_id": "1997686354013216986",
+        "created_at": "2025-12-07T15:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997694334435815605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Af7iXQ8wcm",
+              "end": 47,
+              "expanded_url": "https://x.com/EXReroasashio/status/1997694334435815605/photo/1",
+              "media_key": "16_1997694320909172736",
+              "start": 24,
+              "url": "https://t.co/Af7iXQ8wcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997694334435815605",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997686354013216986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 是喜欢古生物的朋友 https://t.co/Af7iXQ8wcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 516,
+          "like_count": 15259,
+          "listed_count": 1,
+          "media_count": 716,
+          "tweet_count": 6597
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-12T16:36:04.000Z",
+        "description": "磁器コレクション活動中🏴‍☠️",
+        "id": "852198642987528196",
+        "name": "雷洛",
+        "pinned_tweet_id": "1959981284752785725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959515165499719680/wPwNn4Ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 87,
+          "like_count": 8267,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 1570
+        },
+        "username": "EXReroasashio",
+        "verified": false
+      }
+    ]
+  }
+}

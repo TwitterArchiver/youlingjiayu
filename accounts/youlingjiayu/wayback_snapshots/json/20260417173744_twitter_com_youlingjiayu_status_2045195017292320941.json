@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2045195017292320941",
+    "created_at": "2026-04-17T17:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045195017292320941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BBBBBlabu/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/BBBBBlabu/status/2045182372426203352",
+          "start": 20,
+          "url": "https://t.co/J7gMKlP4Hq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045195017292320941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045182372426203352",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尤其是我这种焦虑型与回避型混合的选手。 https://t.co/J7gMKlP4Hq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2045195017292320941",
+        "created_at": "2026-04-17T17:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045195017292320941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BBBBBlabu/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/BBBBBlabu/status/2045182372426203352",
+              "start": 20,
+              "url": "https://t.co/J7gMKlP4Hq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045195017292320941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045182372426203352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尤其是我这种焦虑型与回避型混合的选手。 https://t.co/J7gMKlP4Hq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909189799",
+        "conversation_id": "2045182372426203352",
+        "created_at": "2026-04-17T16:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045182372426203352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045182372426203352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谈恋爱想换下一个人最大的沉默成本不是金钱，不是时间，不是青春，是信任。\n\n一旦已经习惯相信一个人了，对下一个人投入信任只会增加更多的筹码。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 524,
+          "like_count": 18135,
+          "listed_count": 1,
+          "media_count": 946,
+          "tweet_count": 7917
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "和我在一起，你便不必羡慕旁人的幸福会不会降临在你身上。",
+        "id": "909189799",
+        "name": "BB喇布",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044407686717153280/5qWvOYBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 690,
+          "like_count": 24638,
+          "listed_count": 2,
+          "media_count": 699,
+          "tweet_count": 9042
+        },
+        "username": "BBBBBlabu",
+        "verified": true
+      }
+    ]
+  }
+}

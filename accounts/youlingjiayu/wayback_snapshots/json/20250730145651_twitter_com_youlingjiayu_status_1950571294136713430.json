@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1950510185694609482",
+    "created_at": "2025-07-30T14:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T15:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950571294136713430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "771971954584657920",
+          "start": 0,
+          "username": "vanilla_sodaa"
+        },
+        {
+          "end": 28,
+          "id": "1866597193571876864",
+          "start": 15,
+          "username": "Rebecca_1574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950571294136713430",
+    "in_reply_to_user_id": "771971954584657920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950571152465944681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vanilla_sodaa @Rebecca_1574 那我现在是香草特供版intp了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1950510185694609482",
+        "created_at": "2025-07-30T14:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T15:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950571294136713430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "771971954584657920",
+              "start": 0,
+              "username": "vanilla_sodaa"
+            },
+            {
+              "end": 28,
+              "id": "1866597193571876864",
+              "start": 15,
+              "username": "Rebecca_1574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950571294136713430",
+        "in_reply_to_user_id": "771971954584657920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950571152465944681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanilla_sodaa @Rebecca_1574 那我现在是香草特供版intp了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "771971954584657920",
+        "conversation_id": "1950510185694609482",
+        "created_at": "2025-07-30T14:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T15:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950571152465944681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            },
+            {
+              "end": 27,
+              "id": "1866597193571876864",
+              "start": 14,
+              "username": "Rebecca_1574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950571152465944681",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950561546826027219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu @Rebecca_1574 你特例，我把你当p人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 539,
+          "like_count": 12570,
+          "listed_count": 0,
+          "media_count": 561,
+          "tweet_count": 5258
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T07:23:51.000Z",
+        "description": "coffee fanatic || ENFP || Langs:🇨🇳🇺🇸🇯🇵🇰🇷 || Cloud Native & Devops || NPD verified",
+        "id": "771971954584657920",
+        "location": "大邱廣域市",
+        "name": "𝐕𝐚𝐧𝐢𝐥𝐥𝐚𝐒𝐨𝐝𝐚",
+        "pinned_tweet_id": "1902972133774626898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932121912026787840/h1hK1uW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2876,
+          "following_count": 850,
+          "like_count": 118632,
+          "listed_count": 26,
+          "media_count": 6297,
+          "tweet_count": 68250
+        },
+        "username": "vanilla_sodaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T21:33:57.000Z",
+        "description": "",
+        "id": "1866597193571876864",
+        "name": "Señorita瑞贝卡",
+        "pinned_tweet_id": "1901136671305068623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938919181379854336/N_ogaa9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 446,
+          "like_count": 3468,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1642
+        },
+        "username": "Rebecca_1574",
+        "verified": false
+      }
+    ]
+  }
+}

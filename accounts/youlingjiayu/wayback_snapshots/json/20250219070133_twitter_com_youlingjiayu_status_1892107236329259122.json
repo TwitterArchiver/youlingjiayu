@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1892106205847314782",
+    "created_at": "2025-02-19T07:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T08:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892107236329259122"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1892107236329259122",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892106205847314782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“我”游离于这一切之外，不了解发生了什么，也不知道为什么就登上了皇位；“我”可以任性地草菅人命，却又处处收母后和太后的桎梏。“我”是太后阴谋下错位的帝王，她玩弄了所有人，挑选了一个更好操控的傀儡；“我”承接了本不该承接的命运，滥用权力，逃避责任，最后被皇兄收回了本属于他的东西。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 495,
+        "media_key": "3_1892106202605289473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkIckQOaAAEzZbJ.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1892106205847314782",
+        "created_at": "2025-02-19T07:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T08:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892107236329259122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892107236329259122",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892106205847314782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我”游离于这一切之外，不了解发生了什么，也不知道为什么就登上了皇位；“我”可以任性地草菅人命，却又处处收母后和太后的桎梏。“我”是太后阴谋下错位的帝王，她玩弄了所有人，挑选了一个更好操控的傀儡；“我”承接了本不该承接的命运，滥用权力，逃避责任，最后被皇兄收回了本属于他的东西。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892106202605289473"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1892106205847314782",
+        "created_at": "2025-02-19T06:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T07:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892106205847314782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umrdtJO0q5",
+              "end": 164,
+              "expanded_url": "https://x.com/youlingjiayu/status/1892106205847314782/photo/1",
+              "media_key": "3_1892106202605289473",
+              "start": 141,
+              "url": "https://t.co/umrdtJO0q5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892106205847314782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经书评8\n《我的帝王生涯》\n太好看了……要不是今天有事，我就在昨天一口气看完了。\n冷艳的文风，前半段的故事透着森森鬼气，奢靡的宫中白日歌舞升平，夜晚却哀叹悲泣不止——于是“我”下令割掉了那些妇人的舌头。\n开头很《局外人》，父王死了，王位给了“我”，但我与这一切都格格不入。 https://t.co/umrdtJO0q5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 494,
+          "like_count": 5761,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2765
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1955593284140867699",
+    "created_at": "2025-08-13T11:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T12:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955599980196151776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814525373348003840",
+          "start": 0,
+          "username": "ayuuy4425736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955599980196151776",
+    "in_reply_to_user_id": "1814525373348003840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955598054100525479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayuuy4425736 老师也不想上班。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955593284140867699",
+        "created_at": "2025-08-13T11:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955599980196151776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814525373348003840",
+              "start": 0,
+              "username": "ayuuy4425736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955599980196151776",
+        "in_reply_to_user_id": "1814525373348003840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955598054100525479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayuuy4425736 老师也不想上班。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814525373348003840",
+        "conversation_id": "1955593284140867699",
+        "created_at": "2025-08-13T11:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955598054100525479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955598054100525479",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955593284140867699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 老师我不想上班"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 538,
+          "like_count": 13409,
+          "listed_count": 1,
+          "media_count": 600,
+          "tweet_count": 5531
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T04:59:36.000Z",
+        "description": "想回家，跑路完成60%",
+        "id": "1814525373348003840",
+        "location": "哪里",
+        "name": "ayuuy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821157097373102080/crG37Rip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 161,
+          "like_count": 5137,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 5290
+        },
+        "username": "ayuuy4425736",
+        "verified": false
+      }
+    ]
+  }
+}

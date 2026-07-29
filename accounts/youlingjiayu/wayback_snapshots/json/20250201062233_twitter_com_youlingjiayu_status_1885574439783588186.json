@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1885574413795680256",
+        "7_1885574418820456448"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1885574439783588186",
+    "created_at": "2025-02-01T06:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T07:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885574439783588186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P32LnOkgcC",
+          "end": 38,
+          "expanded_url": "https://x.com/youlingjiayu/status/1885574439783588186/video/1",
+          "media_key": "7_1885574413795680256",
+          "start": 15,
+          "url": "https://t.co/P32LnOkgcC"
+        },
+        {
+          "display_url": "pic.x.com/P32LnOkgcC",
+          "end": 38,
+          "expanded_url": "https://x.com/youlingjiayu/status/1885574439783588186/video/1",
+          "media_key": "7_1885574418820456448",
+          "start": 15,
+          "url": "https://t.co/P32LnOkgcC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885574439783588186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "邀请你和我在海边驻足30秒。 https://t.co/P32LnOkgcC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15104,
+        "height": 720,
+        "media_key": "7_1885574413795680256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1885574413795680256/pu/img/kMpagKL8aAm2oaV2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885574413795680256/pu/vid/avc1/360x270/OxH5cWx4gjqz4gWZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885574413795680256/pu/vid/avc1/480x360/GflkhTHBVI2IrHC1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885574413795680256/pu/vid/avc1/960x720/jyvx8OG-rN2bqwUd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1885574413795680256/pu/pl/HRF4uxKQZKNOcz7Y.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 15138,
+        "height": 720,
+        "media_key": "7_1885574418820456448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1885574418820456448/pu/img/XW_nldo6hK5Pl27q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885574418820456448/pu/vid/avc1/360x270/Pj2m-gGPSt23zPlJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885574418820456448/pu/vid/avc1/480x360/3hHQ_pIlkhuTkGe9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885574418820456448/pu/vid/avc1/960x720/N006c8B3iUuqUmwG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1885574418820456448/pu/pl/QMb3dCCH7vL_kQFz.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1885574413795680256",
+            "7_1885574418820456448"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1885574439783588186",
+        "created_at": "2025-02-01T06:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T07:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885574439783588186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P32LnOkgcC",
+              "end": 38,
+              "expanded_url": "https://x.com/youlingjiayu/status/1885574439783588186/video/1",
+              "media_key": "7_1885574413795680256",
+              "start": 15,
+              "url": "https://t.co/P32LnOkgcC"
+            },
+            {
+              "display_url": "pic.x.com/P32LnOkgcC",
+              "end": 38,
+              "expanded_url": "https://x.com/youlingjiayu/status/1885574439783588186/video/1",
+              "media_key": "7_1885574418820456448",
+              "start": 15,
+              "url": "https://t.co/P32LnOkgcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885574439783588186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "邀请你和我在海边驻足30秒。 https://t.co/P32LnOkgcC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 530,
+          "like_count": 4770,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2539
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

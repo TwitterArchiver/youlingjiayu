@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1949727084827308355",
+    "created_at": "2025-07-28T09:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T10:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949760188816425361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1850899358864310272",
+          "start": 0,
+          "username": "A_ashes_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949760188816425361",
+    "in_reply_to_user_id": "1850899358864310272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949727084827308355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A_ashes_ 怎么是妮娜表情包，好好笑……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1949727084827308355].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1949727084827308355",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1949727084827308355"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1949727084827308355",
+        "created_at": "2025-07-28T09:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949760188816425361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1850899358864310272",
+              "start": 0,
+              "username": "A_ashes_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949760188816425361",
+        "in_reply_to_user_id": "1850899358864310272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949727084827308355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_ashes_ 怎么是妮娜表情包，好好笑……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 536,
+          "like_count": 12451,
+          "listed_count": 0,
+          "media_count": 554,
+          "tweet_count": 5208
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T13:56:17.000Z",
+        "description": "火种与灾厄｜新月｜目击众神死亡的草原上野花一片，远在远方的风比远方更远｜碎碎念与图片备份｜小号@Tai_zhen_过互关和眼熟宝宝 ｜骂我先骂@ilovemycato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Tai_zhen_"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "ilovemycato"
+              }
+            ]
+          }
+        },
+        "id": "1850899358864310272",
+        "name": "燃成灰烬的雨滴",
+        "pinned_tweet_id": "1948743759807815706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856720312874012672/lL15I4Zt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 351,
+          "like_count": 9906,
+          "listed_count": 4,
+          "media_count": 119,
+          "tweet_count": 2079
+        },
+        "username": "A_ashes_",
+        "verified": false
+      }
+    ]
+  }
+}

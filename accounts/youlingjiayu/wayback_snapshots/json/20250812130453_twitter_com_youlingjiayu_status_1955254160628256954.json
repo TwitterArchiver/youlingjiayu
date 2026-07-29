@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955254158522716160"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1955254160628256954",
+    "created_at": "2025-08-12T13:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T14:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955254160628256954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/onLhPuGRpj",
+          "end": 42,
+          "expanded_url": "https://x.com/youlingjiayu/status/1955254160628256954/photo/1",
+          "media_key": "3_1955254158522716160",
+          "start": 19,
+          "url": "https://t.co/onLhPuGRpj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955254160628256954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我决定再相信一次科技……快速等待喵。 https://t.co/onLhPuGRpj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_1955254158522716160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyJ1TDxaEAALEUb.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955254158522716160"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955254160628256954",
+        "created_at": "2025-08-12T13:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955254160628256954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/onLhPuGRpj",
+              "end": 42,
+              "expanded_url": "https://x.com/youlingjiayu/status/1955254160628256954/photo/1",
+              "media_key": "3_1955254158522716160",
+              "start": 19,
+              "url": "https://t.co/onLhPuGRpj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955254160628256954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定再相信一次科技……快速等待喵。 https://t.co/onLhPuGRpj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 540,
+          "like_count": 13329,
+          "listed_count": 1,
+          "media_count": 597,
+          "tweet_count": 5506
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

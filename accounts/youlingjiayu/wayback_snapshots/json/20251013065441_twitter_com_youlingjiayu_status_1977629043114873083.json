@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1977600341769347211",
+    "created_at": "2025-10-13T06:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T07:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977629043114873083"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1977629043114873083",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977600341769347211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我的生活补了一点肾上腺素的体验，但代价是什么，我不知道。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 416,
+        "media_key": "3_1977600339672190976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HZB_naUAA9c5T.jpg",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1977600341769347211",
+        "created_at": "2025-10-13T06:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977629043114873083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977629043114873083",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977600341769347211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我的生活补了一点肾上腺素的体验，但代价是什么，我不知道。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977600339672190976"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1977600341769347211",
+        "created_at": "2025-10-13T05:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977600341769347211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TAe49fUacv",
+              "end": 64,
+              "expanded_url": "https://x.com/youlingjiayu/status/1977600341769347211/photo/1",
+              "media_key": "3_1977600339672190976",
+              "start": 41,
+              "url": "https://t.co/TAe49fUacv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977600341769347211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "似乎找到了觉得有意思而且可以研究很久的事情，让我们来看看这个甲鱼什么时候厌倦吧。 https://t.co/TAe49fUacv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。",
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 516,
+          "like_count": 13649,
+          "listed_count": 2,
+          "media_count": 612,
+          "tweet_count": 5672
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2036274986667876479",
+    "created_at": "2026-03-24T03:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036280826758046032"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036280826758046032",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036274986667876479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以才想转行啊，我道德方面的缺失让我无法成为这个行业的佼佼者啊……每天演绎方法而不是出于本心也很是很痛苦的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2036274986667876479",
+        "created_at": "2026-03-24T03:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036280826758046032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036280826758046032",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036274986667876479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以才想转行啊，我道德方面的缺失让我无法成为这个行业的佼佼者啊……每天演绎方法而不是出于本心也很是很痛苦的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2036274986667876479",
+        "created_at": "2026-03-24T02:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T03:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036274986667876479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036274986667876479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然意识过于稀少的同理心和事不关己的态度反而能让我在老本行里保持比较稳定的情绪，相反真情实感才容易声带息肉和乳腺结节……对我来说可能的只是一场巴甫洛夫实验的实践，所以我注定没有办法成为本专业的优秀者。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 521,
+          "like_count": 18019,
+          "listed_count": 1,
+          "media_count": 914,
+          "tweet_count": 7785
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

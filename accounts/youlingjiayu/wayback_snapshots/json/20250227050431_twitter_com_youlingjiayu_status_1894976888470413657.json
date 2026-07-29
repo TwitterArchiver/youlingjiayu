@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1894970859523318176",
+    "created_at": "2025-02-27T05:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T06:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894976888470413657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669760888285573120",
+          "start": 0,
+          "username": "noschoolnodie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894976888470413657",
+    "in_reply_to_user_id": "1669760888285573120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894975610122125320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noschoolnodie 豪德👌200fo估计还会抽一次🤔我的推文大部分都是无意义碎碎念（）多做点同人饭看看会不会好一点……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1894970859523318176",
+        "created_at": "2025-02-27T05:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T06:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894976888470413657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669760888285573120",
+              "start": 0,
+              "username": "noschoolnodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894976888470413657",
+        "in_reply_to_user_id": "1669760888285573120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894975610122125320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noschoolnodie 豪德👌200fo估计还会抽一次🤔我的推文大部分都是无意义碎碎念（）多做点同人饭看看会不会好一点……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669760888285573120",
+        "conversation_id": "1894970859523318176",
+        "created_at": "2025-02-27T04:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T05:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894975610122125320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894975610122125320",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894970859523318176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 多发博文多互动就好吧hhh，我特别喜欢看别人分享日常或者的兴趣爱好啥的，就会点点关注，然后就是开space/抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 492,
+          "like_count": 6132,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 2845
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T17:37:36.000Z",
+        "description": "这样淡淡的永恒的被爱着 本来就是值得骄傲的",
+        "id": "1669760888285573120",
+        "name": "sweetcanyonlullaby",
+        "pinned_tweet_id": "1821213505439330372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893221426469171200/pfNAUup__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 499,
+          "like_count": 12331,
+          "listed_count": 2,
+          "media_count": 768,
+          "tweet_count": 2972
+        },
+        "username": "noschoolnodie",
+        "verified": false
+      }
+    ]
+  }
+}

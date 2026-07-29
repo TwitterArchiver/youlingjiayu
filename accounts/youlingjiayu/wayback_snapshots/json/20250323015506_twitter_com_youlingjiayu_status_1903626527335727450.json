@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1903625773644226953",
+    "created_at": "2025-03-23T01:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T02:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903626527335727450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1145892219213242369",
+          "start": 0,
+          "username": "yan_mind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903626527335727450",
+    "in_reply_to_user_id": "1145892219213242369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903625773644226953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan_mind 血源诅咒……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1903625773644226953].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903625773644226953",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1903625773644226953"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1903625773644226953",
+        "created_at": "2025-03-23T01:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T02:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903626527335727450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1145892219213242369",
+              "start": 0,
+              "username": "yan_mind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903626527335727450",
+        "in_reply_to_user_id": "1145892219213242369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903625773644226953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan_mind 血源诅咒……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 493,
+          "like_count": 7151,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 3237
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-02T03:09:29.000Z",
+        "description": "我越看自己越觉得好看是否也是一种overfitting？ | network engineer, writes code",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yanmin…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yanmind.bsky.social",
+                "start": 0,
+                "url": "https://t.co/QtkoUQ0u5G"
+              }
+            ]
+          }
+        },
+        "id": "1145892219213242369",
+        "location": "@yanmind.bsky.social",
+        "name": "Yan",
+        "pinned_tweet_id": "1518800428887990272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853076820930994176/CqtLZi0p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 5141,
+          "like_count": 127042,
+          "listed_count": 28,
+          "media_count": 3960,
+          "tweet_count": 32815
+        },
+        "url": "https://t.co/QtkoUQ0u5G",
+        "username": "yan_mind",
+        "verified": false
+      }
+    ]
+  }
+}

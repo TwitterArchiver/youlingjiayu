@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1952571249542271466",
+    "created_at": "2025-08-05T03:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T04:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952571249542271466"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952571249542271466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点想明白了，原本承担脑交和情感功能的那位，因为我的自我保护需求，被我主动隔离出精神世界了；所以这块目前一直是空缺的，而我也没精力去找别人脑交或者认识新的人，导致我又回到了一开始上推的状态。\n最后也只是反复验证依赖是危险的，交出五成以上的信任是会痛苦的，情感是无法控制的。\n好无聊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1952571249542271466",
+        "created_at": "2025-08-05T03:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T04:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952571249542271466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952571249542271466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点想明白了，原本承担脑交和情感功能的那位，因为我的自我保护需求，被我主动隔离出精神世界了；所以这块目前一直是空缺的，而我也没精力去找别人脑交或者认识新的人，导致我又回到了一开始上推的状态。\n最后也只是反复验证依赖是危险的，交出五成以上的信任是会痛苦的，情感是无法控制的。\n好无聊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 538,
+          "like_count": 12853,
+          "listed_count": 0,
+          "media_count": 579,
+          "tweet_count": 5358
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

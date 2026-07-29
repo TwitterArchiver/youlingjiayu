@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2070530337810330046",
+    "created_at": "2026-06-27T14:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070882471043125665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070882471043125665",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070756340642041872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS 谢谢你喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2070530337810330046",
+        "created_at": "2026-06-27T14:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070882471043125665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070882471043125665",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070756340642041872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS 谢谢你喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2998529749",
+        "conversation_id": "2070530337810330046",
+        "created_at": "2026-06-27T06:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070756340642041872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070756340642041872",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070530337810330046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 我喜欢你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 530,
+          "like_count": 19198,
+          "listed_count": 1,
+          "media_count": 1003,
+          "tweet_count": 8292
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "重生2.0（11年）|躁郁|抽烟|受虐|od|戒割|悲观|地下影片（理解能力有问题，冒泡勿喷）  不接线下  今年100大寿  绿帽癖勿扰",
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "下雨了",
+        "pinned_tweet_id": "2062845256304120062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063013655164456960/rPLO7_K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 559,
+          "like_count": 41928,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 12794
+        },
+        "url": "",
+        "username": "STULRS",
+        "verified": false
+      }
+    ]
+  }
+}

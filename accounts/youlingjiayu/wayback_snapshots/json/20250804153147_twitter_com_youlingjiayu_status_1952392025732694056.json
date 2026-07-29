@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1952340736374145139",
+    "created_at": "2025-08-04T15:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T16:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952392025732694056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1888138772359094273",
+          "start": 0,
+          "username": "_Chocolate0208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952392025732694056",
+    "in_reply_to_user_id": "1888138772359094273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952391775148233000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Chocolate0208 收到哇，周末就去看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1952340736374145139",
+        "created_at": "2025-08-04T15:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T16:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952392025732694056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1888138772359094273",
+              "start": 0,
+              "username": "_Chocolate0208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952392025732694056",
+        "in_reply_to_user_id": "1888138772359094273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952391775148233000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Chocolate0208 收到哇，周末就去看！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888138772359094273",
+        "conversation_id": "1952340736374145139",
+        "created_at": "2025-08-04T15:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T16:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952391775148233000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952391775148233000",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952380449063616586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 很可爱很有意思的一部，美术和bgm都很出色，故事也很流畅有趣，没有下流梗，是那种淡淡的幽默，差不多是成人童话吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 537,
+          "like_count": 12838,
+          "listed_count": 0,
+          "media_count": 579,
+          "tweet_count": 5351
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T08:13:06.000Z",
+        "description": "玻璃晴朗，橘子辉煌。",
+        "id": "1888138772359094273",
+        "name": "欧包一拳打爆世界",
+        "pinned_tweet_id": "1907347006512861327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916718333988417536/QKas3mPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 483,
+          "like_count": 8240,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 2136
+        },
+        "username": "_Chocolate0208",
+        "verified": false
+      }
+    ]
+  }
+}

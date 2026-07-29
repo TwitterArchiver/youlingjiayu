@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952197456659415040"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1952197191109386439",
+    "created_at": "2025-08-04T02:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T03:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952197460450754614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yPq1WfUgcd",
+          "end": 43,
+          "expanded_url": "https://x.com/youlingjiayu/status/1952197460450754614/photo/1",
+          "media_key": "3_1952197456659415040",
+          "start": 20,
+          "url": "https://t.co/yPq1WfUgcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952197460450754614",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952197191109386439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同行的朋友说这是陶喆鸡时候陶鸡陶鸡鸡。 https://t.co/yPq1WfUgcd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952197456659415040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxeZPl-bAAAaagX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952197181907283968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxeY_mcaMAA1qi6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952197182830030848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxeY_p4aMAAuvuN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1952197184943947776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxeY_xwaAAAT4Ti.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1952197186319704064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxeY_24aYAAejNG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952197456659415040"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1952197191109386439",
+        "created_at": "2025-08-04T02:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T03:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952197460450754614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPq1WfUgcd",
+              "end": 43,
+              "expanded_url": "https://x.com/youlingjiayu/status/1952197460450754614/photo/1",
+              "media_key": "3_1952197456659415040",
+              "start": 20,
+              "url": "https://t.co/yPq1WfUgcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952197460450754614",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952197191109386439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同行的朋友说这是陶喆鸡时候陶鸡陶鸡鸡。 https://t.co/yPq1WfUgcd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952197181907283968",
+            "3_1952197182830030848",
+            "3_1952197184943947776",
+            "3_1952197186319704064"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1952197191109386439",
+        "created_at": "2025-08-04T02:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T03:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952197191109386439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5eojPJzP4",
+              "end": 166,
+              "expanded_url": "https://x.com/youlingjiayu/status/1952197191109386439/photo/1",
+              "media_key": "3_1952197181907283968",
+              "start": 143,
+              "url": "https://t.co/C5eojPJzP4"
+            },
+            {
+              "display_url": "pic.x.com/C5eojPJzP4",
+              "end": 166,
+              "expanded_url": "https://x.com/youlingjiayu/status/1952197191109386439/photo/1",
+              "media_key": "3_1952197182830030848",
+              "start": 143,
+              "url": "https://t.co/C5eojPJzP4"
+            },
+            {
+              "display_url": "pic.x.com/C5eojPJzP4",
+              "end": 166,
+              "expanded_url": "https://x.com/youlingjiayu/status/1952197191109386439/photo/1",
+              "media_key": "3_1952197184943947776",
+              "start": 143,
+              "url": "https://t.co/C5eojPJzP4"
+            },
+            {
+              "display_url": "pic.x.com/C5eojPJzP4",
+              "end": 166,
+              "expanded_url": "https://x.com/youlingjiayu/status/1952197191109386439/photo/1",
+              "media_key": "3_1952197186319704064",
+              "start": 143,
+              "url": "https://t.co/C5eojPJzP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952197191109386439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉去哪儿都要跑一趟当地博物馆。\n沧州博物馆越往上走越热，但东西很多还免费，所以原谅了。\n生物相关的没什么意思，名人堂倒是看到了很多老熟人；杂技和武术馆都很有特色，可惜时间不够不然想去吴桥看杂技，因为下雨大运河博物馆也没去，唉。\n一楼蕉林遗韵特展很无聊，不推荐。\nP1似乎是镇馆之宝。 https://t.co/C5eojPJzP4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 539,
+          "like_count": 12776,
+          "listed_count": 0,
+          "media_count": 576,
+          "tweet_count": 5338
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

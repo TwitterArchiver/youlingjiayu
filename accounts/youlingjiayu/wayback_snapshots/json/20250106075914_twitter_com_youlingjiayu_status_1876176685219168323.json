@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1876074720116060523",
+    "created_at": "2025-01-06T07:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T08:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876176685219168323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594749463192485888",
+          "start": 0,
+          "username": "UuSNNY_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876176685219168323",
+    "in_reply_to_user_id": "1594749463192485888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876173991989399558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UuSNNY_8 谢谢你序老师😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1876074720116060523",
+        "created_at": "2025-01-06T07:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T08:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876176685219168323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594749463192485888",
+              "start": 0,
+              "username": "UuSNNY_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876176685219168323",
+        "in_reply_to_user_id": "1594749463192485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876173991989399558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UuSNNY_8 谢谢你序老师😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594749463192485888",
+        "conversation_id": "1876074720116060523",
+        "created_at": "2025-01-06T07:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T08:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876173991989399558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876173991989399558",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876074720116060523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 甲鱼甲鱼怎么了 好好休息注意身体！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 519,
+          "like_count": 3369,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2092
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T17:48:05.000Z",
+        "description": "📝小序的碎碎念日记本‖ I'm gonna sleep,cuz u live in my daydreams ‖我喜欢装熟 如有冒犯对不起😔",
+        "id": "1594749463192485888",
+        "location": "那就下一场雨 让一切都潮湿",
+        "name": "风落序",
+        "pinned_tweet_id": "1827733759439069579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597990263112228864/5gQbtCIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 178,
+          "like_count": 8212,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 2966
+        },
+        "username": "UuSNNY_8",
+        "verified": false
+      }
+    ]
+  }
+}

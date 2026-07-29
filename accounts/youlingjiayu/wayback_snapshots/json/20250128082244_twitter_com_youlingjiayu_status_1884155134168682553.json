@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1884126954967949412",
+    "created_at": "2025-01-28T08:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T09:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884155134168682553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1651352228936941568",
+          "start": 0,
+          "username": "Arockandrew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884155134168682553",
+    "in_reply_to_user_id": "1651352228936941568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884126954967949412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arockandrew 约炮不违法但嫖娼绝对违法吧……\n疑似想混淆概念蒙混过关。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1884126954967949412",
+        "created_at": "2025-01-28T08:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T09:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884155134168682553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1651352228936941568",
+              "start": 0,
+              "username": "Arockandrew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884155134168682553",
+        "in_reply_to_user_id": "1651352228936941568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884126954967949412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arockandrew 约炮不违法但嫖娼绝对违法吧……\n疑似想混淆概念蒙混过关。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884126945186832384"
+          ]
+        },
+        "author_id": "1651352228936941568",
+        "conversation_id": "1884126954967949412",
+        "created_at": "2025-01-28T06:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T07:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884126954967949412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cvy2GvwhoK",
+              "end": 111,
+              "expanded_url": "https://x.com/Arockandrew/status/1884126954967949412/photo/1",
+              "media_key": "3_1884126945186832384",
+              "start": 88,
+              "url": "https://t.co/Cvy2GvwhoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884126954967949412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 652,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不公是必然的，但是公不公跟我本人怎么看待和我怎么社交有啥关系，社会上有问题的，该做的不该做的多的是，你要对着这些生活吗？你并非和社会生活，你也是具体的人，你接触的也是具体的人 https://t.co/Cvy2GvwhoK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 528,
+          "like_count": 4548,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2475
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T22:27:15.000Z",
+        "description": "码农 | 虚无主义 | 世间牵扯无一不让人心痛，就像万有引力无处不在。我对你也痛，你对我也有引力。 | 提问箱可提问任何问题，和我无关也可以：https://t.co/m5p4oKQQtW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/arockandrew",
+                "end": 94,
+                "expanded_url": "https://ngl.link/arockandrew",
+                "start": 71,
+                "url": "https://t.co/m5p4oKQQtW"
+              }
+            ]
+          }
+        },
+        "id": "1651352228936941568",
+        "location": "England, United Kingdom",
+        "name": "andrsonrobot",
+        "pinned_tweet_id": "1877239299684311421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651352531103109120/e2SjJj8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 522,
+          "like_count": 26411,
+          "listed_count": 6,
+          "media_count": 738,
+          "tweet_count": 10007
+        },
+        "username": "Arockandrew",
+        "verified": false
+      }
+    ]
+  }
+}

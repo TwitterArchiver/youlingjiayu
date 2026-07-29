@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1922122864708276379",
+    "created_at": "2025-05-13T02:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T03:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922124363387555904"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922124363387555904",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922122864708276379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么算是人这个问题可展开的地方比较多——一个如果身体全都换成了赛博义体，就像忒修斯之船一样，那人还是自己吗？一个从代码和网络之中诞生的有自主意识的“生命体”是真正的人吗？我猜想女主决定融合可能是意识到自己在人的方面的某些缺失，于是选择帮助病毒繁衍而获得某种完整，或许就是为了寻找灵魂。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1922122860719702017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqzAjtfbAAEregj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1922122864708276379",
+        "created_at": "2025-05-13T02:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T03:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922124363387555904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922124363387555904",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922122864708276379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么算是人这个问题可展开的地方比较多——一个如果身体全都换成了赛博义体，就像忒修斯之船一样，那人还是自己吗？一个从代码和网络之中诞生的有自主意识的“生命体”是真正的人吗？我猜想女主决定融合可能是意识到自己在人的方面的某些缺失，于是选择帮助病毒繁衍而获得某种完整，或许就是为了寻找灵魂。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922122860719702017"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1922122864708276379",
+        "created_at": "2025-05-13T02:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T03:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922122864708276379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/to72zUC7ps",
+              "end": 159,
+              "expanded_url": "https://x.com/youlingjiayu/status/1922122864708276379/photo/1",
+              "media_key": "3_1922122860719702017",
+              "start": 136,
+              "url": "https://t.co/to72zUC7ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922122864708276379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经影评20\n《攻壳机动队》\n亲友锐评：“一看就感觉是很经典的赛博朋克里什么算是人系。”\n虽然她没有看过但是确实点出了主旨。说实话刚看完没怎么看懂，只是有种模糊的感觉。最后一段的大决战似乎存在一些宗教隐喻——疑似教堂的地点、有关人的生命之树、飞机像天使一样的剪影。 https://t.co/to72zUC7ps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜我想答案可能是生命本身。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 508,
+          "like_count": 9891,
+          "listed_count": 1,
+          "media_count": 433,
+          "tweet_count": 4344
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1920111749048742287",
+    "created_at": "2025-05-07T16:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T17:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920159957384900996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846442596216066051",
+          "start": 0,
+          "username": "mewmewmewmew428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920159957384900996",
+    "in_reply_to_user_id": "1846442596216066051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920111749048742287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mewmewmewmew428 发现很多事情都没有看上去重要，我和所有人类一样渺小短暂，而孤独是需要习惯的永恒；以及发现人总是让我失望，爱是某种幻觉，生命大部分时间充斥着无聊和无意义，所以只能尽量专注于我自认为重要的事情了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1920111749048742287",
+        "created_at": "2025-05-07T16:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T17:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920159957384900996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846442596216066051",
+              "start": 0,
+              "username": "mewmewmewmew428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920159957384900996",
+        "in_reply_to_user_id": "1846442596216066051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920111749048742287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mewmewmewmew428 发现很多事情都没有看上去重要，我和所有人类一样渺小短暂，而孤独是需要习惯的永恒；以及发现人总是让我失望，爱是某种幻觉，生命大部分时间充斥着无聊和无意义，所以只能尽量专注于我自认为重要的事情了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846442596216066051",
+        "conversation_id": "1920111749048742287",
+        "created_at": "2025-05-07T13:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T14:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920111749048742287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920111749048742287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问推u们一个问题 你们是怎么成为现在的你们的 或者是 你们的成长轨迹中有没有什么是至关重要的不可或缺的 你们是因为什么而突然意识到我需要做出改变 来达到我的目标"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜我想答案可能是生命本身。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 508,
+          "like_count": 9822,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 4305
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T06:46:45.000Z",
+        "description": "日记本/医学生/摄影/enfp/反射弧长/喜熬夜 摄影作品一般放在dy：95132525232",
+        "id": "1846442596216066051",
+        "name": "所以然后呢",
+        "pinned_tweet_id": "1896892887885095149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846442857827348480/7syvoyu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 93,
+          "like_count": 2911,
+          "listed_count": 1,
+          "media_count": 697,
+          "tweet_count": 2534
+        },
+        "username": "mewmewmewmew428",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1984963949998309802",
+    "created_at": "2025-11-02T16:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T17:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985019300311343309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750040441880498176",
+          "start": 0,
+          "username": "kill_this_hate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985019300311343309",
+    "in_reply_to_user_id": "1750040441880498176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984967448618258718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill_this_hate 草还有这种事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1984963949998309802",
+        "created_at": "2025-11-02T16:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T17:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985019300311343309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750040441880498176",
+              "start": 0,
+              "username": "kill_this_hate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985019300311343309",
+        "in_reply_to_user_id": "1750040441880498176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984967448618258718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_this_hate 草还有这种事。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750040441880498176",
+        "conversation_id": "1984963949998309802",
+        "created_at": "2025-11-02T12:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T13:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984967448618258718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984967448618258718",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984963949998309802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 我操你怎么知道我今天刚跟人说过一模一样的决定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 524,
+          "like_count": 14138,
+          "listed_count": 2,
+          "media_count": 634,
+          "tweet_count": 5930
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T06:19:04.000Z",
+        "description": "你们真是欠爱了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i46595",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i46595",
+                "start": 0,
+                "url": "https://t.co/cehcglWnGw"
+              }
+            ]
+          }
+        },
+        "id": "1750040441880498176",
+        "location": "你的认知配得上你的苦难😆",
+        "name": "雀儿（接占卜",
+        "pinned_tweet_id": "1956051781475356953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904043326652960768/_stZidxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 163,
+          "like_count": 14611,
+          "listed_count": 2,
+          "media_count": 694,
+          "tweet_count": 7033
+        },
+        "url": "https://t.co/cehcglWnGw",
+        "username": "kill_this_hate",
+        "verified": false
+      }
+    ]
+  }
+}

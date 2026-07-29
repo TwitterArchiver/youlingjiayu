@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919272545481842689",
+        "3_1919272546018754561",
+        "3_1919272546060668928",
+        "3_1919272546161270784"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1919272161509790013",
+    "created_at": "2025-05-05T06:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T07:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919272548962877915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jth2O2zjL7",
+          "end": 23,
+          "expanded_url": "https://x.com/youlingjiayu/status/1919272548962877915/photo/1",
+          "media_key": "3_1919272545481842689",
+          "start": 0,
+          "url": "https://t.co/Jth2O2zjL7"
+        },
+        {
+          "display_url": "pic.x.com/Jth2O2zjL7",
+          "end": 23,
+          "expanded_url": "https://x.com/youlingjiayu/status/1919272548962877915/photo/1",
+          "media_key": "3_1919272546018754561",
+          "start": 0,
+          "url": "https://t.co/Jth2O2zjL7"
+        },
+        {
+          "display_url": "pic.x.com/Jth2O2zjL7",
+          "end": 23,
+          "expanded_url": "https://x.com/youlingjiayu/status/1919272548962877915/photo/1",
+          "media_key": "3_1919272546060668928",
+          "start": 0,
+          "url": "https://t.co/Jth2O2zjL7"
+        },
+        {
+          "display_url": "pic.x.com/Jth2O2zjL7",
+          "end": 23,
+          "expanded_url": "https://x.com/youlingjiayu/status/1919272548962877915/photo/1",
+          "media_key": "3_1919272546161270784",
+          "start": 0,
+          "url": "https://t.co/Jth2O2zjL7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919272548962877915",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919272161509790013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Jth2O2zjL7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_1919272545481842689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKgNhya4AEuChG.jpg",
+        "width": 648
+      },
+      {
+        "height": 1841,
+        "media_key": "3_1919272546018754561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKgNjybgAElXfV.jpg",
+        "width": 642
+      },
+      {
+        "height": 832,
+        "media_key": "3_1919272546060668928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKgNj8bEAAE6yP.jpg",
+        "width": 1200
+      },
+      {
+        "height": 874,
+        "media_key": "3_1919272546161270784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKgNkUaIAA8tNT.jpg",
+        "width": 1200
+      },
+      {
+        "height": 798,
+        "media_key": "3_1919272158733479936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKf3BCbMAAS4qt.jpg",
+        "width": 1200
+      },
+      {
+        "height": 589,
+        "media_key": "3_1919272158645346304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKf3AtaYAATxTp.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1453,
+        "media_key": "3_1919272158976790528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKf3B8b0AA8VuQ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 479,
+        "media_key": "3_1919272158729252864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKf3BBasAAF-Eo.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919272545481842689",
+            "3_1919272546018754561",
+            "3_1919272546060668928",
+            "3_1919272546161270784"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1919272161509790013",
+        "created_at": "2025-05-05T06:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T07:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919272548962877915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jth2O2zjL7",
+              "end": 23,
+              "expanded_url": "https://x.com/youlingjiayu/status/1919272548962877915/photo/1",
+              "media_key": "3_1919272545481842689",
+              "start": 0,
+              "url": "https://t.co/Jth2O2zjL7"
+            },
+            {
+              "display_url": "pic.x.com/Jth2O2zjL7",
+              "end": 23,
+              "expanded_url": "https://x.com/youlingjiayu/status/1919272548962877915/photo/1",
+              "media_key": "3_1919272546018754561",
+              "start": 0,
+              "url": "https://t.co/Jth2O2zjL7"
+            },
+            {
+              "display_url": "pic.x.com/Jth2O2zjL7",
+              "end": 23,
+              "expanded_url": "https://x.com/youlingjiayu/status/1919272548962877915/photo/1",
+              "media_key": "3_1919272546060668928",
+              "start": 0,
+              "url": "https://t.co/Jth2O2zjL7"
+            },
+            {
+              "display_url": "pic.x.com/Jth2O2zjL7",
+              "end": 23,
+              "expanded_url": "https://x.com/youlingjiayu/status/1919272548962877915/photo/1",
+              "media_key": "3_1919272546161270784",
+              "start": 0,
+              "url": "https://t.co/Jth2O2zjL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919272548962877915",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919272161509790013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Jth2O2zjL7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919272158733479936",
+            "3_1919272158645346304",
+            "3_1919272158976790528",
+            "3_1919272158729252864"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1919272161509790013",
+        "created_at": "2025-05-05T06:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T07:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919272161509790013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PgfzSE5X8a",
+              "end": 37,
+              "expanded_url": "https://x.com/youlingjiayu/status/1919272161509790013/photo/1",
+              "media_key": "3_1919272158733479936",
+              "start": 14,
+              "url": "https://t.co/PgfzSE5X8a"
+            },
+            {
+              "display_url": "pic.x.com/PgfzSE5X8a",
+              "end": 37,
+              "expanded_url": "https://x.com/youlingjiayu/status/1919272161509790013/photo/1",
+              "media_key": "3_1919272158645346304",
+              "start": 14,
+              "url": "https://t.co/PgfzSE5X8a"
+            },
+            {
+              "display_url": "pic.x.com/PgfzSE5X8a",
+              "end": 37,
+              "expanded_url": "https://x.com/youlingjiayu/status/1919272161509790013/photo/1",
+              "media_key": "3_1919272158976790528",
+              "start": 14,
+              "url": "https://t.co/PgfzSE5X8a"
+            },
+            {
+              "display_url": "pic.x.com/PgfzSE5X8a",
+              "end": 37,
+              "expanded_url": "https://x.com/youlingjiayu/status/1919272161509790013/photo/1",
+              "media_key": "3_1919272158729252864",
+              "start": 14,
+              "url": "https://t.co/PgfzSE5X8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919272161509790013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起剧情更喜欢看这类思考。 https://t.co/PgfzSE5X8a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 508,
+          "like_count": 9747,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 4277
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

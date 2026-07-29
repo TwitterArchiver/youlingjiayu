@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1927571127091536238",
+    "created_at": "2025-05-28T03:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T04:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927571127091536238"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927571127091536238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为我所有的社交软件都是设置的没有提示和提示音，所以聊天框对我来说更像一个留言箱，什么内容什么时间都可以随便给我发，我看到就会回；我有的时候能秒回可能只是刚好看到了以及我查看比较勤快……偶尔自闭了什么消息都回不了，有急事找我请打电话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1927571127091536238",
+        "created_at": "2025-05-28T03:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T04:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927571127091536238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927571127091536238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为我所有的社交软件都是设置的没有提示和提示音，所以聊天框对我来说更像一个留言箱，什么内容什么时间都可以随便给我发，我看到就会回；我有的时候能秒回可能只是刚好看到了以及我查看比较勤快……偶尔自闭了什么消息都回不了，有急事找我请打电话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 522,
+          "like_count": 10467,
+          "listed_count": 1,
+          "media_count": 472,
+          "tweet_count": 4541
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

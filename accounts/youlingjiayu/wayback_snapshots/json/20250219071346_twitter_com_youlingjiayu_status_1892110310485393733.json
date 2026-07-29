@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1892106205847314782",
+    "created_at": "2025-02-19T07:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T08:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892110310485393733"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1892110310485393733",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892107236329259122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可这一切真的有意义吗？\n“我”在位时，百姓生灵涂炭；而皇兄夺回皇位后，燮国还是灭亡了。权力更迭没给人民带来什么，“燮国的灾难快要降临了”。\n在皇宫中我被簇拥着，但母后和太后只想利用“我”，妃嫔中只有蕙妃爱“我”，而和“我”一起逃离皇宫的只有太监燕郎，在权力的斗争中仅剩一点点真情实意。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1892106205847314782",
+        "created_at": "2025-02-19T07:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T08:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892110310485393733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892110310485393733",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892107236329259122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可这一切真的有意义吗？\n“我”在位时，百姓生灵涂炭；而皇兄夺回皇位后，燮国还是灭亡了。权力更迭没给人民带来什么，“燮国的灾难快要降临了”。\n在皇宫中我被簇拥着，但母后和太后只想利用“我”，妃嫔中只有蕙妃爱“我”，而和“我”一起逃离皇宫的只有太监燕郎，在权力的斗争中仅剩一点点真情实意。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1892106205847314782",
+        "created_at": "2025-02-19T07:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T08:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892107236329259122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892107236329259122",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892106205847314782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我”游离于这一切之外，不了解发生了什么，也不知道为什么就登上了皇位；“我”可以任性地草菅人命，却又处处收母后和太后的桎梏。“我”是太后阴谋下错位的帝王，她玩弄了所有人，挑选了一个更好操控的傀儡；“我”承接了本不该承接的命运，滥用权力，逃避责任，最后被皇兄收回了本属于他的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 494,
+          "like_count": 5764,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2766
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

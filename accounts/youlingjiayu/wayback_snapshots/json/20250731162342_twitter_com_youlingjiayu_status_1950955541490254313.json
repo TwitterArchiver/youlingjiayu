@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1950954947748450596",
+    "created_at": "2025-07-31T16:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T17:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950955541490254313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846442596216066051",
+          "start": 0,
+          "username": "mewmewmewmew428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950955541490254313",
+    "in_reply_to_user_id": "1846442596216066051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950954947748450596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mewmewmewmew428 我之前也爱看娟子……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1950954947748450596",
+        "created_at": "2025-07-31T16:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T17:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950955541490254313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846442596216066051",
+              "start": 0,
+              "username": "mewmewmewmew428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950955541490254313",
+        "in_reply_to_user_id": "1846442596216066051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950954947748450596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mewmewmewmew428 我之前也爱看娟子……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846442596216066051",
+        "conversation_id": "1950954947748450596",
+        "created_at": "2025-07-31T16:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T17:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950954947748450596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950954947748450596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前爱看娟子 结果她进去了 后面我又爱看无骨小丽 结果评论区仅互关了没意思 现在我爱看良子和季洪行 唉 网络糟粕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 540,
+          "like_count": 12646,
+          "listed_count": 0,
+          "media_count": 565,
+          "tweet_count": 5287
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T06:46:45.000Z",
+        "description": "日记本/医学生/摄影/enfp/反射弧长/喜熬夜 摄影作品一般放在dy：95132525232",
+        "id": "1846442596216066051",
+        "name": "所以然后呢",
+        "pinned_tweet_id": "1896892887885095149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846442857827348480/7syvoyu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 124,
+          "like_count": 5044,
+          "listed_count": 1,
+          "media_count": 918,
+          "tweet_count": 3434
+        },
+        "username": "mewmewmewmew428",
+        "verified": false
+      }
+    ]
+  }
+}

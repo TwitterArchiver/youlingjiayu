@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1950028507288879480",
+    "created_at": "2025-07-29T03:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T04:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950028507288879480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ScarletC33832/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ScarletC33832/status/1949880926282146295",
+          "start": 17,
+          "url": "https://t.co/ZCG9RZsWCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950028507288879480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949880926282146295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被适度介入日常生活会觉得被在乎。 https://t.co/ZCG9RZsWCg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1950028507288879480",
+        "created_at": "2025-07-29T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950028507288879480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ScarletC33832/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ScarletC33832/status/1949880926282146295",
+              "start": 17,
+              "url": "https://t.co/ZCG9RZsWCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950028507288879480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949880926282146295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被适度介入日常生活会觉得被在乎。 https://t.co/ZCG9RZsWCg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759076490061426688",
+        "conversation_id": "1949880926282146295",
+        "created_at": "2025-07-28T17:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T18:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949880926282146295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949880926282146295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被管束会产生被关注的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 537,
+          "like_count": 12500,
+          "listed_count": 0,
+          "media_count": 556,
+          "tweet_count": 5228
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T04:45:26.000Z",
+        "description": "吃苹果时享用苹果",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flowus.cn/share/9edbf4b9…",
+                "end": 23,
+                "expanded_url": "https://flowus.cn/share/9edbf4b9-2ccc-4538-95a0-7fa04d8784d4",
+                "start": 0,
+                "url": "https://t.co/0yjJgHyneE"
+              }
+            ]
+          }
+        },
+        "id": "1759076490061426688",
+        "location": "you've raised my standard",
+        "name": "Arthur",
+        "pinned_tweet_id": "1942202630463451531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946834279574773760/_6-s-grk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 518,
+          "like_count": 9033,
+          "listed_count": 0,
+          "media_count": 455,
+          "tweet_count": 3495
+        },
+        "url": "https://t.co/0yjJgHyneE",
+        "username": "ScarletC33832",
+        "verified": false
+      }
+    ]
+  }
+}

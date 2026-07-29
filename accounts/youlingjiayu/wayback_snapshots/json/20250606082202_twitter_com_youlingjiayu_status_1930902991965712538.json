@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1930880196963414303",
+    "created_at": "2025-06-06T08:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T09:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930902991965712538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1576097349331345409",
+          "start": 0,
+          "username": "mispainkiller"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930902991965712538",
+    "in_reply_to_user_id": "1576097349331345409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930880324617314808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mispainkiller 密教线搞得我有点掉san了，所以还是在兢兢业业谋反……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1930880196963414303",
+        "created_at": "2025-06-06T08:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T09:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930902991965712538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1576097349331345409",
+              "start": 0,
+              "username": "mispainkiller"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930902991965712538",
+        "in_reply_to_user_id": "1576097349331345409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930880324617314808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mispainkiller 密教线搞得我有点掉san了，所以还是在兢兢业业谋反……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576097349331345409",
+        "conversation_id": "1930880196963414303",
+        "created_at": "2025-06-06T06:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T07:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930880324617314808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930880324617314808",
+        "in_reply_to_user_id": "1576097349331345409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930880196963414303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打了这么多天除了误入密教线以外不搞革命的次数为0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 524,
+          "like_count": 10640,
+          "listed_count": 0,
+          "media_count": 487,
+          "tweet_count": 4627
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T06:31:14.000Z",
+        "description": "也许某个无风的日子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iseey0u",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iseey0u",
+                "start": 0,
+                "url": "https://t.co/4pX4m2Kmhl"
+              }
+            ]
+          }
+        },
+        "id": "1576097349331345409",
+        "name": "jade有痣",
+        "pinned_tweet_id": "1834300170420543704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930902470554955777/itStZ3vD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31429,
+          "following_count": 268,
+          "like_count": 15987,
+          "listed_count": 54,
+          "media_count": 498,
+          "tweet_count": 6770
+        },
+        "url": "https://t.co/4pX4m2Kmhl",
+        "username": "mispainkiller",
+        "verified": false
+      }
+    ]
+  }
+}

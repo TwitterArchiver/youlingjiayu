@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1903119672599544136",
+    "created_at": "2025-06-29T14:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T15:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939325257019773384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "992695315",
+          "start": 0,
+          "username": "Danmei_nvhai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939325257019773384",
+    "in_reply_to_user_id": "992695315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939163688059191571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Danmei_nvhai 感谢安利！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1903119672599544136",
+        "created_at": "2025-06-29T14:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T15:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939325257019773384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "992695315",
+              "start": 0,
+              "username": "Danmei_nvhai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939325257019773384",
+        "in_reply_to_user_id": "992695315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939163688059191571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Danmei_nvhai 感谢安利！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992695315",
+        "conversation_id": "1903119672599544136",
+        "created_at": "2025-06-29T03:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T04:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939163688059191571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939163688059191571",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903119672599544136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 我最近看过的一本「侯爷他娶了男妻」受生来就体弱多病，经常生病咳嗽🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 532,
+          "like_count": 11328,
+          "listed_count": 0,
+          "media_count": 512,
+          "tweet_count": 4867
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-06T09:01:22.000Z",
+        "description": "30↑┊︎hrmk┊︎akam┊︎bjyxszd┊︎⚠️二哈和他的白猫师尊読んだ方は絶対余污読んで！┊︎188男团 《邵群と原炀が推し》 ┊︎追妻火葬场Love┊︎中華BL┊︎耽美广播剧┊︎🇨🇳産まれ🇯🇵育ち、中文OK👌┊︎中国語×BL オンラインレッスンやってます🙋‍♀️お気軽にDMください·͜· ︎︎ᕷ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/m_niangaojing?…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/m_niangaojing?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/oYxA4fMwTF"
+              }
+            ]
+          }
+        },
+        "id": "992695315",
+        "location": "日本",
+        "name": "misa☻",
+        "pinned_tweet_id": "1811694918844449094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742413434808094720/_dU3Glby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 330,
+          "like_count": 30774,
+          "listed_count": 43,
+          "media_count": 1244,
+          "tweet_count": 31237
+        },
+        "url": "https://t.co/oYxA4fMwTF",
+        "username": "Danmei_nvhai",
+        "verified": false
+      }
+    ]
+  }
+}

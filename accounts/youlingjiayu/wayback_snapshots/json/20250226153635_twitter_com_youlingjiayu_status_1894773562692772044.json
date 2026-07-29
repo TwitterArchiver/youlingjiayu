@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1894755943445053636",
+    "created_at": "2025-02-26T15:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T16:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894773562692772044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825459880268050432",
+          "start": 0,
+          "username": "shinysilver404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894773562692772044",
+    "in_reply_to_user_id": "1825459880268050432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894755943445053636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinysilver404 我（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1894755943445053636",
+        "created_at": "2025-02-26T15:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T16:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894773562692772044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825459880268050432",
+              "start": 0,
+              "username": "shinysilver404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894773562692772044",
+        "in_reply_to_user_id": "1825459880268050432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894755943445053636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinysilver404 我（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825459880268050432",
+        "conversation_id": "1894755943445053636",
+        "created_at": "2025-02-26T14:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T15:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894755943445053636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894755943445053636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我记人只记头像的 如果互关换了头像且互关名字不是中文 我就会开始宕机\n妈的这人谁啊 （翻主页）想半天 噢（啧嘴）是xxx老师啊 ！\n（仔细观察头像）噫——还是以前的看着顺眼（摇头）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 492,
+          "like_count": 6087,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 2838
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T09:08:57.000Z",
+        "description": "搞黄小号：@hfjdbxjsjdj江火/伟大女性/不仅仅是文字推/\n人皮扣的提问箱：https://t.co/gVD662VE8f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "hfjdbxjsjdj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/40497800",
+                "end": 65,
+                "expanded_url": "https://ngl.link/40497800",
+                "start": 42,
+                "url": "https://t.co/gVD662VE8f"
+              }
+            ]
+          }
+        },
+        "id": "1825459880268050432",
+        "location": "南湖",
+        "name": "人皮扣",
+        "pinned_tweet_id": "1878090820039188914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889831854083375104/8L7uR6Mx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 283,
+          "like_count": 4295,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 2213
+        },
+        "username": "shinysilver404",
+        "verified": false
+      }
+    ]
+  }
+}

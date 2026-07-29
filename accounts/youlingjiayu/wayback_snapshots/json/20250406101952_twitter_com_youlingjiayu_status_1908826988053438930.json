@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908826978628808704"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1908826988053438930",
+    "created_at": "2025-04-06T10:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T11:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908826988053438930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MtV1PG6oZe",
+          "end": 35,
+          "expanded_url": "https://x.com/youlingjiayu/status/1908826988053438930/photo/1",
+          "media_key": "3_1908826978628808704",
+          "start": 12,
+          "url": "https://t.co/MtV1PG6oZe"
+        },
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/1908377092951314453",
+          "start": 36,
+          "url": "https://t.co/8Zf30jjVzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908826988053438930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908377092951314453",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "亲友的熊到了，好肥美！ https://t.co/MtV1PG6oZe https://t.co/8Zf30jjVzj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1908826978628808704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2EBg7aMAA5xM7.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908826978628808704"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1908826988053438930",
+        "created_at": "2025-04-06T10:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908826988053438930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MtV1PG6oZe",
+              "end": 35,
+              "expanded_url": "https://x.com/youlingjiayu/status/1908826988053438930/photo/1",
+              "media_key": "3_1908826978628808704",
+              "start": 12,
+              "url": "https://t.co/MtV1PG6oZe"
+            },
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1908377092951314453",
+              "start": 36,
+              "url": "https://t.co/8Zf30jjVzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908826988053438930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908377092951314453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亲友的熊到了，好肥美！ https://t.co/MtV1PG6oZe https://t.co/8Zf30jjVzj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1908377092951314453",
+        "created_at": "2025-04-05T04:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T05:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908377092951314453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908377092951314453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等名创优品自嘲熊铺货我就去搞只熊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 498,
+          "like_count": 8257,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 3672
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

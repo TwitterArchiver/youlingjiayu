@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1919934465486299326",
+    "created_at": "2025-05-07T01:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T02:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919934465486299326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/1917935362997207233",
+          "start": 20,
+          "url": "https://t.co/Pjauc1mt6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919934465486299326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917935362997207233",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天看到要出张居正，又把忘川下回来了。 https://t.co/Pjauc1mt6E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1919934465486299326",
+        "created_at": "2025-05-07T01:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T02:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919934465486299326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1917935362997207233",
+              "start": 20,
+              "url": "https://t.co/Pjauc1mt6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919934465486299326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917935362997207233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天看到要出张居正，又把忘川下回来了。 https://t.co/Pjauc1mt6E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1917935362997207233",
+        "created_at": "2025-05-01T13:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T14:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917935362997207233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917935362997207233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "史同魂有点冒头……对韩非旧情复燃了，啃几页《韩非子》冷静冷静。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜我想答案可能是生命本身。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 508,
+          "like_count": 9789,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 4293
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

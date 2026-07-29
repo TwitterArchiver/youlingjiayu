@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1993151101093527567",
+    "created_at": "2025-11-25T03:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T04:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993156882673156549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977858284964159488",
+          "start": 0,
+          "username": "Quinnnankoku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993156882673156549",
+    "in_reply_to_user_id": "1977858284964159488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993151101093527567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quinnnankoku 《爱弥儿》还行……我觉得看懂不算很难，比较经典的教育学和心理学作品；本科课上要求读的，但我本人其实对这作兴致一般。\n两米高的巨型男性早上也只吃一份麦当劳套餐。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993151070672175104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kYVq8awAAV52d.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1993151070823235586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kYVrgbwAINbOO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1993151070663856128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kYVq6b0AAZ9Kh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1993151070659657731",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kYVq5bwAMORG9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1993151101093527567",
+        "created_at": "2025-11-25T03:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993156882673156549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977858284964159488",
+              "start": 0,
+              "username": "Quinnnankoku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993156882673156549",
+        "in_reply_to_user_id": "1977858284964159488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993151101093527567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quinnnankoku 《爱弥儿》还行……我觉得看懂不算很难，比较经典的教育学和心理学作品；本科课上要求读的，但我本人其实对这作兴致一般。\n两米高的巨型男性早上也只吃一份麦当劳套餐。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993151070672175104",
+            "3_1993151070823235586",
+            "3_1993151070663856128",
+            "3_1993151070659657731"
+          ]
+        },
+        "author_id": "1977858284964159488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993151101093527567",
+        "created_at": "2025-11-25T02:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993151101093527567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdZvV1U9e1",
+              "end": 88,
+              "expanded_url": "https://x.com/Quinnnankoku/status/1993151101093527567/photo/1",
+              "media_key": "3_1993151070672175104",
+              "start": 65,
+              "url": "https://t.co/YdZvV1U9e1"
+            },
+            {
+              "display_url": "pic.x.com/YdZvV1U9e1",
+              "end": 88,
+              "expanded_url": "https://x.com/Quinnnankoku/status/1993151101093527567/photo/1",
+              "media_key": "3_1993151070823235586",
+              "start": 65,
+              "url": "https://t.co/YdZvV1U9e1"
+            },
+            {
+              "display_url": "pic.x.com/YdZvV1U9e1",
+              "end": 88,
+              "expanded_url": "https://x.com/Quinnnankoku/status/1993151101093527567/photo/1",
+              "media_key": "3_1993151070663856128",
+              "start": 65,
+              "url": "https://t.co/YdZvV1U9e1"
+            },
+            {
+              "display_url": "pic.x.com/YdZvV1U9e1",
+              "end": 88,
+              "expanded_url": "https://x.com/Quinnnankoku/status/1993151101093527567/photo/1",
+              "media_key": "3_1993151070659657731",
+              "start": 65,
+              "url": "https://t.co/YdZvV1U9e1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993151101093527567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好累，空腹有氧家务1h后力竭了，。\n\n麦当劳的汉堡怎么变得这么小了？\n我吃一个是没问题，遇上2米高的巨型男性早上吃10个才够吧？\n\n为什么我要这么贤惠，前夫哥走了我还在帮他收拾要搬得东西，我真得对待一段感情的分离，做的好体面…我把他挂在衣橱里的衣服，全部带着衣服撑叠好，再放进车载收纳箱里，这样他在新家，随手一挂，就能挂好，也不用重新塞衣架子…我好贴心…\n呵呵，但是此男并不会领我的情，我已经想象到了他一脸娇气的碎碎念：“嘁。谁让你赶我走的~”\n\n帮他收拾书，又破防了，爱上哲b是我的宿命，一想到他看好多书，我就觉得，卧槽，这男人竟是如此，该死的甜美，\n（偷走他的《爱弥儿》，我想看，\n\n前夫哥肯定会说：你真的会看嘛？\n\n别管，我就想看，搞得和你看了一样，书封都没拆，还有好多奥威尔啊，也想看，但是我记得他说我适合看托尔斯泰…）\n\n）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累，空腹有氧家务1h后力竭了，。\n\n麦当劳的汉堡怎么变得这么小了？\n我吃一个是没问题，遇上2米高的巨型男性早上吃10个才够吧？ https://t.co/YdZvV1U9e1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 517,
+          "like_count": 14662,
+          "listed_count": 1,
+          "media_count": 682,
+          "tweet_count": 6285
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T22:07:36.000Z",
+        "description": "炸号了@v5Family_ 推友找回中🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "v5Family_"
+              }
+            ]
+          }
+        },
+        "id": "1977858284964159488",
+        "name": "芥末苔藓🩵（永动家仆版）",
+        "pinned_tweet_id": "1983385615346573455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988574423180525568/1ocXqfjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 356,
+          "like_count": 10191,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 4886
+        },
+        "username": "Quinnnankoku",
+        "verified": true
+      }
+    ]
+  }
+}

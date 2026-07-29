@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1902741361646039424",
+    "created_at": "2025-03-20T16:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T17:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902761379154833502"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902761379154833502",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902759418254791045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后疫情改变了一切，他家里出现了问题，不得不帮别人代写论文来赚生活费，从汉语言到计算机到设计穴——当时的我觉得他是那种无所不能的天才。但他昼夜颠倒又经常挨饿，无度的抽烟喝酒让他时不时吐血。\n然后我们分开了，以一种戏剧的不体面的形式；因为他的病症，也因为我们太过相似的病情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1902741361646039424",
+        "created_at": "2025-03-20T16:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T17:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902761379154833502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902761379154833502",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902759418254791045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后疫情改变了一切，他家里出现了问题，不得不帮别人代写论文来赚生活费，从汉语言到计算机到设计穴——当时的我觉得他是那种无所不能的天才。但他昼夜颠倒又经常挨饿，无度的抽烟喝酒让他时不时吐血。\n然后我们分开了，以一种戏剧的不体面的形式；因为他的病症，也因为我们太过相似的病情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1902741361646039424",
+        "created_at": "2025-03-20T16:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T17:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902759418254791045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902759418254791045",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902741361646039424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不能说无法接受，但实在难以想象为什么会变成现在这样……\n我依旧记得第一次见面时他的恣意，那种轻飘飘的从容和不羁；我觉得我没有美化这段记忆，或者就算是美化了也无所谓。那个时候我远比现在更迷茫、幼稚、抑郁、封闭，那个时候我还在计划20岁的自杀；他让我知道了世界很大，我也可以做我自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 492,
+          "like_count": 6933,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 3139
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

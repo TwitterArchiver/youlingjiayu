@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1861356723879235911",
+    "created_at": "2024-11-26T10:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T11:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861361468463292809"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1861361468463292809",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861357360025084154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之后找了一个朋友问这是什么意思，她：我感觉越是熟人越难打直球，反正我说不出口。\n我：不是越熟越能打直球吗？\n\n虽然不理解，但是无意间找到了迫害这位狂攻的方法，怎么不算一种收获呢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1861356723879235911",
+        "created_at": "2024-11-26T10:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T11:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861361468463292809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861361468463292809",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861357360025084154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之后找了一个朋友问这是什么意思，她：我感觉越是熟人越难打直球，反正我说不出口。\n我：不是越熟越能打直球吗？\n\n虽然不理解，但是无意间找到了迫害这位狂攻的方法，怎么不算一种收获呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1861356723879235911",
+        "created_at": "2024-11-26T10:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T11:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861357360025084154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861357360025084154",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861356992742514892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是爱就是爱，不爱就是不爱，除了爱情我会审慎一点，朋友之间的爱为什么不能说呢？（歪头）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 520,
+          "like_count": 1794,
+          "listed_count": 0,
+          "tweet_count": 1256
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

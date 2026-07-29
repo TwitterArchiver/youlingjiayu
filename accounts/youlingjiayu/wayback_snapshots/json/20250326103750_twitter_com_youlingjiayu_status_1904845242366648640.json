@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1904845242366648640",
+    "created_at": "2025-03-26T10:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T11:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904845242366648640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RintheMemewitc…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/RintheMemewitch/status/1904737631193489478",
+          "start": 52,
+          "url": "https://t.co/JlZy5V6gcD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904845242366648640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904737631193489478",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "重新转一下，互关如果想要类似的irasutoya小人可以小窗发我本人照片/角色图/自设图然后我帮你画。 https://t.co/JlZy5V6gcD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_1904737621252988928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm78xlkbYAAgWsy.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1904845242366648640",
+        "created_at": "2025-03-26T10:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T11:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904845242366648640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RintheMemewitc…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/RintheMemewitch/status/1904737631193489478",
+              "start": 52,
+              "url": "https://t.co/JlZy5V6gcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904845242366648640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904737631193489478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重新转一下，互关如果想要类似的irasutoya小人可以小窗发我本人照片/角色图/自设图然后我帮你画。 https://t.co/JlZy5V6gcD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904737621252988928"
+          ]
+        },
+        "author_id": "1609641240827686913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1904737631193489478",
+        "created_at": "2025-03-26T03:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T04:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904737631193489478"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 84,
+              "normalized_text": "chainsawman",
+              "probability": 0.534,
+              "start": 74,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "Angeldevil",
+              "probability": 0.6814,
+              "start": 87,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 72,
+              "start": 66,
+              "tag": "天使の悪魔"
+            },
+            {
+              "end": 85,
+              "start": 73,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 97,
+              "start": 86,
+              "tag": "Angeldevil"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1751158019516465152",
+              "start": 42,
+              "username": "youlingjiayu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3vz36YlVK",
+              "end": 121,
+              "expanded_url": "https://x.com/RintheMemewitch/status/1904737631193489478/photo/1",
+              "media_key": "3_1904737621252988928",
+              "start": 98,
+              "url": "https://t.co/h3vz36YlVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904737631193489478",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 348,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "dis genius created fantastic illustration @youlingjiayu \n#チェンソーマン #天使の悪魔 #chainsawman #Angeldevil https://t.co/h3vz36YlVK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 493,
+          "like_count": 7265,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 3292
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T20:02:46.000Z",
+        "description": "防失聯：Discord /Pixiv/Ins/Fb/AO3/Ytb account：Rinshiwasu ｜only Angel devil 4ever 配偶担保天使恶魔移民我是认真的 我和安吉尔实现功德平账 https://t.co/Z6nhB0bzxc 苯人对所有twi内容有最终解释权",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rinshiwasu.straw.page",
+                "end": 128,
+                "expanded_url": "https://rinshiwasu.straw.page",
+                "start": 105,
+                "url": "https://t.co/Z6nhB0bzxc"
+              }
+            ]
+          }
+        },
+        "id": "1609641240827686913",
+        "location": "Tokyo",
+        "name": "师走凌 Rin",
+        "pinned_tweet_id": "1904037965132955967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893492191240298499/y0CgKVkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 151,
+          "like_count": 5207,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 4017
+        },
+        "username": "RintheMemewitch",
+        "verified": false
+      }
+    ]
+  }
+}

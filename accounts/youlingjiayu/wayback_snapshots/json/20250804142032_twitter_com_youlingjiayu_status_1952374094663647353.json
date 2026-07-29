@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1952374094663647353",
+    "created_at": "2025-08-04T14:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T15:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952374094663647353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 46,
+          "id": "1720665183188922368",
+          "start": 41,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952374094663647353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在和我互相关注的人中考虑家庭构成！请考虑与我互动的排名，只用昵称告诉我，不要用@\n@grok \n\n父亲：  \n母亲：  \n哥哥：  \n弟弟：  \n姐姐：  \n妹妹：  \n死党：  \n朋友：  \n宠物：  \n恋人：  \n死党：  \n老师：  \n前辈：  \n后辈：  \n一生一世的对手："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1952374094663647353",
+        "created_at": "2025-08-04T14:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952374094663647353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1720665183188922368",
+              "start": 41,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952374094663647353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在和我互相关注的人中考虑家庭构成！请考虑与我互动的排名，只用昵称告诉我，不要用@\n@grok \n\n父亲：  \n母亲：  \n哥哥：  \n弟弟：  \n姐姐：  \n妹妹：  \n死党：  \n朋友：  \n宠物：  \n恋人：  \n死党：  \n老师：  \n前辈：  \n后辈：  \n一生一世的对手："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 536,
+          "like_count": 12826,
+          "listed_count": 0,
+          "media_count": 579,
+          "tweet_count": 5349
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5757824,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4570,
+          "media_count": 2444606,
+          "tweet_count": 32653523
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

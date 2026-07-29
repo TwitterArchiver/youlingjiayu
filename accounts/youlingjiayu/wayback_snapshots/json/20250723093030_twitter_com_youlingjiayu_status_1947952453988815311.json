@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1947747058368098314",
+    "created_at": "2025-07-23T09:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T10:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947952453988815311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741397388000919552",
+          "start": 0,
+          "username": "caoyuanlyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947952453988815311",
+    "in_reply_to_user_id": "1741397388000919552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947747058368098314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caoyuanlyy 你猜我为什么想文转理……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1947747058368098314",
+        "created_at": "2025-07-23T09:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T10:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947952453988815311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741397388000919552",
+              "start": 0,
+              "username": "caoyuanlyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947952453988815311",
+        "in_reply_to_user_id": "1741397388000919552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947747058368098314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caoyuanlyy 你猜我为什么想文转理……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741397388000919552",
+        "conversation_id": "1947747058368098314",
+        "created_at": "2025-07-22T19:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T20:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947747058368098314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947747058368098314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上就被逼的学人文社科了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 535,
+          "like_count": 12201,
+          "listed_count": 0,
+          "media_count": 546,
+          "tweet_count": 5116
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T09:54:36.000Z",
+        "description": "我会一直幸福",
+        "id": "1741397388000919552",
+        "name": "青青草原懒洋洋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926993910049472512/7VNrE8kA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 68,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 401
+        },
+        "username": "caoyuanlyy",
+        "verified": false
+      }
+    ]
+  }
+}

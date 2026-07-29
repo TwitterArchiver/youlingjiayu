@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1955255154028249538",
+    "created_at": "2025-08-12T13:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T14:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955258090690863223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547239678549495813",
+          "start": 0,
+          "username": "pretty594321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955258090690863223",
+    "in_reply_to_user_id": "1547239678549495813",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955257839963836920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pretty594321 🥺期待喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955255154028249538",
+        "created_at": "2025-08-12T13:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955258090690863223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547239678549495813",
+              "start": 0,
+              "username": "pretty594321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955258090690863223",
+        "in_reply_to_user_id": "1547239678549495813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955257839963836920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pretty594321 🥺期待喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547239678549495813",
+        "conversation_id": "1955255154028249538",
+        "created_at": "2025-08-12T13:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955257839963836920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955257839963836920",
+        "in_reply_to_user_id": "1547239678549495813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955257550359638328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 不出门的话可以不用穿戴裤，腿稍微夹紧点不会掉且真的很爽…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 540,
+          "like_count": 13337,
+          "listed_count": 1,
+          "media_count": 597,
+          "tweet_count": 5509
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T15:21:49.000Z",
+        "description": "一期一会｜自诩为复杂的人类",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pretty594321",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pretty594321",
+                "start": 0,
+                "url": "https://t.co/bdXaUZ91TL"
+              }
+            ]
+          }
+        },
+        "id": "1547239678549495813",
+        "location": "私人日记本",
+        "name": "薄荷巧克力",
+        "pinned_tweet_id": "1949762969031860500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842669399196782592/zjnIhb0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 139,
+          "like_count": 7242,
+          "listed_count": 1,
+          "media_count": 803,
+          "tweet_count": 7788
+        },
+        "url": "https://t.co/bdXaUZ91TL",
+        "username": "pretty594321",
+        "verified": false
+      }
+    ]
+  }
+}

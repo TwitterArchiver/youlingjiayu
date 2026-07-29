@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1897645504324075682",
+    "created_at": "2025-03-06T14:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T15:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897661409200345574"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1897661409200345574",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897645504324075682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "店长有种宝冢风范，问了一下果然在日本待过。人很热情，对我这种社恐非常友好。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_1897645500524109824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlXKh1BboAAljsW.jpg",
+        "width": 2049
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1897645500540813312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlXKh1FagAAPS-r.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1897645500553420800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlXKh1Ia4AATLgc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1897645500507283457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlXKh09a4AEi5Fp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1897645504324075682",
+        "created_at": "2025-03-06T14:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T15:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897661409200345574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897661409200345574",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897645504324075682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "店长有种宝冢风范，问了一下果然在日本待过。人很热情，对我这种社恐非常友好。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897645500524109824",
+            "3_1897645500540813312",
+            "3_1897645500553420800",
+            "3_1897645500507283457"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1897645504324075682",
+        "created_at": "2025-03-06T13:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T14:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897645504324075682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTpLfUGY27",
+              "end": 35,
+              "expanded_url": "https://x.com/youlingjiayu/status/1897645504324075682/photo/1",
+              "media_key": "3_1897645500524109824",
+              "start": 12,
+              "url": "https://t.co/TTpLfUGY27"
+            },
+            {
+              "display_url": "pic.x.com/TTpLfUGY27",
+              "end": 35,
+              "expanded_url": "https://x.com/youlingjiayu/status/1897645504324075682/photo/1",
+              "media_key": "3_1897645500540813312",
+              "start": 12,
+              "url": "https://t.co/TTpLfUGY27"
+            },
+            {
+              "display_url": "pic.x.com/TTpLfUGY27",
+              "end": 35,
+              "expanded_url": "https://x.com/youlingjiayu/status/1897645504324075682/photo/1",
+              "media_key": "3_1897645500553420800",
+              "start": 12,
+              "url": "https://t.co/TTpLfUGY27"
+            },
+            {
+              "display_url": "pic.x.com/TTpLfUGY27",
+              "end": 35,
+              "expanded_url": "https://x.com/youlingjiayu/status/1897645504324075682/photo/1",
+              "media_key": "3_1897645500507283457",
+              "start": 12,
+              "url": "https://t.co/TTpLfUGY27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897645504324075682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将赞美壹零肆执事厅。 https://t.co/TTpLfUGY27"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 496,
+          "like_count": 6422,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 2952
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

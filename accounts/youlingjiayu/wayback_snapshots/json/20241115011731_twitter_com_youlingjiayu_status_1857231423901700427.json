@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1857228453105570161",
+    "created_at": "2024-11-15T01:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T02:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857231423901700427"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1857231423901700427",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857228453105570161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是相处下来，他们发现我嘴贱又独裁，不仅喜欢对他们进行刺激反应实验，还试图用巴甫洛夫那套来让他们建立对我的条件反射……然而并没有成功，只是长时间在青春期的相处让我们更默契一点，还有就是我怀疑我们知道了太多彼此的黑历史，如果我们的友谊破裂，那我们就都会社死……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1857228453105570161",
+        "created_at": "2024-11-15T01:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T02:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857231423901700427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857231423901700427",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857228453105570161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是相处下来，他们发现我嘴贱又独裁，不仅喜欢对他们进行刺激反应实验，还试图用巴甫洛夫那套来让他们建立对我的条件反射……然而并没有成功，只是长时间在青春期的相处让我们更默契一点，还有就是我怀疑我们知道了太多彼此的黑历史，如果我们的友谊破裂，那我们就都会社死……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1857228453105570161",
+        "created_at": "2024-11-15T01:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T02:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857228453105570161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857228453105570161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别看我在网上这个样子，其实我真人沉默寡言冷峻似铁，被不止一个朋友说过看上去不好相处，每天都是一副生人勿近的样子；还经常性盯着莫名其妙的某处发呆让人感到困惑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 520,
+          "like_count": 1323,
+          "listed_count": 0,
+          "tweet_count": 958
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

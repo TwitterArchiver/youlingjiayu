@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1910561754448576737",
+    "created_at": "2025-04-11T05:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T06:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910562454389870980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1483472245062209536",
+          "start": 0,
+          "username": "w85155001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910562454389870980",
+    "in_reply_to_user_id": "1483472245062209536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910562184364449902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w85155001 51汇了我要昏迷了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1910561754448576737",
+        "created_at": "2025-04-11T05:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T06:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910562454389870980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1483472245062209536",
+              "start": 0,
+              "username": "w85155001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910562454389870980",
+        "in_reply_to_user_id": "1483472245062209536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910562184364449902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w85155001 51汇了我要昏迷了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483472245062209536",
+        "conversation_id": "1910561754448576737",
+        "created_at": "2025-04-11T05:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T06:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910562184364449902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910562184364449902",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910561754448576737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu ？我的妈呀我上星期跟团还是五汇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 503,
+          "like_count": 8753,
+          "listed_count": 1,
+          "media_count": 352,
+          "tweet_count": 3898
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T16:12:20.000Z",
+        "description": "(๑•̀ㅁ•́ฅ)\nhttps://t.co/470gBHfYly",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/22252536",
+                "end": 33,
+                "expanded_url": "http://ngl.link/22252536",
+                "start": 10,
+                "url": "https://t.co/470gBHfYly"
+              }
+            ]
+          }
+        },
+        "id": "1483472245062209536",
+        "name": "小福",
+        "pinned_tweet_id": "1908850786085327335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672299870986829825/tkFRDGVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 115,
+          "like_count": 6170,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1396
+        },
+        "username": "w85155001",
+        "verified": false
+      }
+    ]
+  }
+}

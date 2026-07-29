@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2077398135433994584",
+    "created_at": "2026-07-15T14:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077398135433994584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/2077397548910981372",
+          "start": 9,
+          "url": "https://t.co/mNSgG3OwM1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077398135433994584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077397548910981372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "郁结于胸的晚上。 https://t.co/mNSgG3OwM1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2077398135433994584",
+        "created_at": "2026-07-15T14:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077398135433994584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/2077397548910981372",
+              "start": 9,
+              "url": "https://t.co/mNSgG3OwM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077398135433994584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077397548910981372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "郁结于胸的晚上。 https://t.co/mNSgG3OwM1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2077397548910981372",
+        "created_at": "2026-07-15T14:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077397548910981372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077397548910981372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊的晚上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 537,
+          "like_count": 19250,
+          "listed_count": 1,
+          "media_count": 1008,
+          "tweet_count": 8356
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

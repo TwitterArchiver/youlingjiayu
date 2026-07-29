@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1998756054923137476",
+    "created_at": "2025-12-10T14:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T15:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998756315733332247"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998756315733332247",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998756054923137476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "招魂一下这支已解散乐队……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_1998756045439848449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70CCJEbUAE_vQA.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1998756054923137476",
+        "created_at": "2025-12-10T14:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998756315733332247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998756315733332247",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998756054923137476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "招魂一下这支已解散乐队……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998756045439848449"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1998756054923137476",
+        "created_at": "2025-12-10T14:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998756054923137476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/slGwXttGw6",
+              "end": 23,
+              "expanded_url": "https://x.com/youlingjiayu/status/1998756054923137476/photo/1",
+              "media_key": "3_1998756045439848449",
+              "start": 0,
+              "url": "https://t.co/slGwXttGw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998756054923137476",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/slGwXttGw6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 516,
+          "like_count": 15308,
+          "listed_count": 1,
+          "media_count": 722,
+          "tweet_count": 6660
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

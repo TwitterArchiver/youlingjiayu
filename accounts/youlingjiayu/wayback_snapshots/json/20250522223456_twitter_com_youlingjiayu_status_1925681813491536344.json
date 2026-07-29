@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1925560856789877200",
+    "created_at": "2025-05-22T22:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T23:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925681813491536344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1722682507479441408",
+          "start": 0,
+          "username": "N_atiius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925681813491536344",
+    "in_reply_to_user_id": "1722682507479441408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925638869354946712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_atiius 什么专业？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1925560856789877200",
+        "created_at": "2025-05-22T22:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T23:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925681813491536344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1722682507479441408",
+              "start": 0,
+              "username": "N_atiius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925681813491536344",
+        "in_reply_to_user_id": "1722682507479441408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925638869354946712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_atiius 什么专业？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722682507479441408",
+        "conversation_id": "1925560856789877200",
+        "created_at": "2025-05-22T19:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T20:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925638869354946712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925638869354946712",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925560856789877200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 你们应该和我读同一个专业 老师会带你游历的 不过你愿不愿意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 520,
+          "like_count": 10316,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 4469
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T18:28:28.000Z",
+        "description": "烏雲追着我們下着瓢潑大雨",
+        "id": "1722682507479441408",
+        "location": "斯萊特林的掛墜盒",
+        "name": "歲譠",
+        "pinned_tweet_id": "1924952175299748245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887529447538282496/DQnYq0Ss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 75,
+          "like_count": 1709,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 994
+        },
+        "username": "N_atiius",
+        "verified": false
+      }
+    ]
+  }
+}

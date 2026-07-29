@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1951666979770945774",
+    "created_at": "2025-08-02T16:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T17:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951675864233418823"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1951675864233418823",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951671384754762068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她是最理解我的朋友……她知道解决我的问题所需要的是无比庞大的东西；她之前问我，从来没有人能完全理解你会孤单吗。\n我觉得我可能不再期望被理解，或者向别人解释自己了。\n我觉得我像某种披着人皮的怪物，我不应当期待合群和普通的幸福。\n我应该把精力全都放在自己的各种事情上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1951666979770945774",
+        "created_at": "2025-08-02T16:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T17:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951675864233418823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951675864233418823",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951671384754762068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她是最理解我的朋友……她知道解决我的问题所需要的是无比庞大的东西；她之前问我，从来没有人能完全理解你会孤单吗。\n我觉得我可能不再期望被理解，或者向别人解释自己了。\n我觉得我像某种披着人皮的怪物，我不应当期待合群和普通的幸福。\n我应该把精力全都放在自己的各种事情上。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1951666979770945774",
+        "created_at": "2025-08-02T15:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951671384754762068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951671384754762068",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951666979770945774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我验证了一些事情，我没有办法参考别人的生活和幸福来找到我的生活和幸福。\n在所有人都为朋友的爱情动容时，我没有一点情绪波动；这种异常让我觉得很不安。\n我觉得以后不会再试图变得正常，或者合群，或者符合其他人的期望了；我终于知道我是没有能力做到的，因为我本来就不是这样的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 540,
+          "like_count": 12705,
+          "listed_count": 0,
+          "media_count": 568,
+          "tweet_count": 5313
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

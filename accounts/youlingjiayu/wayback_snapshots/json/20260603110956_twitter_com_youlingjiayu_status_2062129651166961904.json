@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2062065794192949544",
+    "created_at": "2026-06-03T11:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062129651166961904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031983501038534664",
+          "start": 0,
+          "username": "planifoliaspark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062129651166961904",
+    "in_reply_to_user_id": "2031983501038534664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062105583734681777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@planifoliaspark 找了一圈不知道是谁，不安desu。我更害怕是锁推号什么的……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062105583734681777].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062105583734681777",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062105583734681777"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2062065794192949544",
+        "created_at": "2026-06-03T11:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062129651166961904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031983501038534664",
+              "start": 0,
+              "username": "planifoliaspark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062129651166961904",
+        "in_reply_to_user_id": "2031983501038534664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062105583734681777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@planifoliaspark 找了一圈不知道是谁，不安desu。我更害怕是锁推号什么的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 530,
+          "like_count": 18852,
+          "listed_count": 1,
+          "media_count": 988,
+          "tweet_count": 8218
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T06:40:16.000Z",
+        "description": "推油寻回中 香草三代目  | coffee fanatic | ENFP | 汉语🇨🇳English🇺🇸日本語🇯🇵| Cloud Native & Infra | 不想在X “合群” | 利物浦是冠军 | Shadowban中",
+        "id": "2031983501038534664",
+        "name": "香草美式",
+        "pinned_tweet_id": "2058605431191490681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059896447068454912/lr9HfcqA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 314,
+          "like_count": 5369,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 2366
+        },
+        "username": "planifoliaspark",
+        "verified": false
+      }
+    ]
+  }
+}

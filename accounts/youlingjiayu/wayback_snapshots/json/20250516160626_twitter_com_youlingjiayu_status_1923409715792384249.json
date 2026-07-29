@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1923399206531744197",
+    "created_at": "2025-05-16T16:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T17:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923409715792384249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1735792880470347776",
+          "start": 0,
+          "username": "babychun000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923409715792384249",
+    "in_reply_to_user_id": "1735792880470347776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923408119289315554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babychun000 是吧是吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1923399206531744197",
+        "created_at": "2025-05-16T16:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T17:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923409715792384249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1735792880470347776",
+              "start": 0,
+              "username": "babychun000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923409715792384249",
+        "in_reply_to_user_id": "1735792880470347776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923408119289315554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babychun000 是吧是吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735792880470347776",
+        "conversation_id": "1923399206531744197",
+        "created_at": "2025-05-16T16:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T17:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923408119289315554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923408119289315554",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923399206531744197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 这是真的，我还用过一个白色洗手液质感也挺像。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 515,
+          "like_count": 10051,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 4396
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T22:44:18.000Z",
+        "description": "ISTP | 非常低俗和暴躁的一个人，素质为负，不建议招惹。一个处于需要新朋友和厌人症重度患者之间的矛盾体。三次很忙不闲聊，但会回复正常私信。不友好和目的性很强的人会骂。\n「忠于自己是第一要务」",
+        "id": "1735792880470347776",
+        "location": "porra",
+        "name": "小轻",
+        "pinned_tweet_id": "1922678668268130451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915803194032066566/q4sbLHzY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 54,
+          "like_count": 6830,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 2179
+        },
+        "username": "babychun000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1893574168958132283",
+    "created_at": "2025-02-23T08:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T09:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893578320119230943"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1893578320119230943",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893574168958132283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在个人偏好里不喜欢也不讨厌的一部，可能还是时长问题，节奏太快没品完就结束了；也可能是身边人评价太高导致我有了不该有的期待，看完之后略微有些失望。\n感觉可能现场看氛围会更好一点，不过音乐剧不看现场就失去了灵魂（目移）；等我最想看的两部定档了再考虑买票的问题好了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1893574166537756672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkdTrABW4AAVCH1.jpg",
+        "width": 1622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1893574168958132283",
+        "created_at": "2025-02-23T08:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T09:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893578320119230943"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893578320119230943",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893574168958132283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在个人偏好里不喜欢也不讨厌的一部，可能还是时长问题，节奏太快没品完就结束了；也可能是身边人评价太高导致我有了不该有的期待，看完之后略微有些失望。\n感觉可能现场看氛围会更好一点，不过音乐剧不看现场就失去了灵魂（目移）；等我最想看的两部定档了再考虑买票的问题好了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893574166537756672"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1893574168958132283",
+        "created_at": "2025-02-23T08:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T09:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893574168958132283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bahoDVJwR",
+              "end": 169,
+              "expanded_url": "https://x.com/youlingjiayu/status/1893574168958132283/photo/1",
+              "media_key": "3_1893574166537756672",
+              "start": 146,
+              "url": "https://t.co/7bahoDVJwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893574168958132283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经影评7\n《Six》\n因为来华了所以想看看剧怎么样。\n怎么说呢……比起音乐“剧”更像演唱会组合相声小品，歌挺好听的。\n查了下票价，和时长换算一下比一般音乐剧贵蛮多，如果我真去看的话估计买个二楼得了，反正也没有大型道具和舞美；弹幕氛围太差了，想看看西区版又太糊了，最后就看了百老汇版。 https://t.co/7bahoDVJwR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 494,
+          "like_count": 5970,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 2803
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

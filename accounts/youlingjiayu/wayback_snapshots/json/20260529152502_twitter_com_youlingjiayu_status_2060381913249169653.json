@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060381909637840896"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060381913249169653",
+    "created_at": "2026-05-29T15:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060381913249169653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1094453901783293952",
+          "start": 3,
+          "username": "_cookie_bing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lCQg3NAiW8",
+          "end": 78,
+          "expanded_url": "https://x.com/youlingjiayu/status/2060381913249169653/photo/1",
+          "media_key": "3_2060381909637840896",
+          "start": 55,
+          "url": "https://t.co/lCQg3NAiW8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060381913249169653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和这个@_cookie_bing 饼饼先去看了电影然后去喝酒（他喝的无酒精）。\n饼饼开车带我出去玩，饼饼好。 https://t.co/lCQg3NAiW8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060381909637840896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfybjGawAAwgUO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060381909637840896"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060381913249169653",
+        "created_at": "2026-05-29T15:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060381913249169653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1094453901783293952",
+              "start": 3,
+              "username": "_cookie_bing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCQg3NAiW8",
+              "end": 78,
+              "expanded_url": "https://x.com/youlingjiayu/status/2060381913249169653/photo/1",
+              "media_key": "3_2060381909637840896",
+              "start": 55,
+              "url": "https://t.co/lCQg3NAiW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060381913249169653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和这个@_cookie_bing 饼饼先去看了电影然后去喝酒（他喝的无酒精）。\n饼饼开车带我出去玩，饼饼好。 https://t.co/lCQg3NAiW8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 526,
+          "like_count": 18715,
+          "listed_count": 1,
+          "media_count": 975,
+          "tweet_count": 8170
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-10T04:31:58.000Z",
+        "description": "或许我早就死在了看向月亮的那个夜",
+        "id": "1094453901783293952",
+        "name": "cookie",
+        "pinned_tweet_id": "1964510651747094775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721603552047661056/ZB2TEFoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 345,
+          "like_count": 4993,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 4112
+        },
+        "username": "_cookie_bing",
+        "verified": false
+      }
+    ]
+  }
+}

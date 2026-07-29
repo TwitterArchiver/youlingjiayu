@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2060377740906492093",
+    "created_at": "2026-05-29T15:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060377740906492093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GodBottleXD/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/GodBottleXD/status/2060159022263930946",
+          "start": 10,
+          "url": "https://t.co/y1nCf89ssS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060377740906492093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060159022263930946",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人外控是这样的…… https://t.co/y1nCf89ssS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_2060159012482760704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcntOfawAALF-w.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2060377740906492093",
+        "created_at": "2026-05-29T15:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060377740906492093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GodBottleXD/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/GodBottleXD/status/2060159022263930946",
+              "start": 10,
+              "url": "https://t.co/y1nCf89ssS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060377740906492093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060159022263930946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人外控是这样的…… https://t.co/y1nCf89ssS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060159012482760704"
+          ]
+        },
+        "author_id": "1664970844026867713",
+        "conversation_id": "2060159022263930946",
+        "created_at": "2026-05-29T00:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060159022263930946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGuKDj2cig",
+              "end": 23,
+              "expanded_url": "https://x.com/GodBottleXD/status/2060159022263930946/photo/1",
+              "media_key": "3_2060159012482760704",
+              "start": 0,
+              "url": "https://t.co/NGuKDj2cig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060159022263930946",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 612,
+          "impression_count": 216551,
+          "like_count": 4860,
+          "quote_count": 18,
+          "reply_count": 107,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NGuKDj2cig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 526,
+          "like_count": 18714,
+          "listed_count": 1,
+          "media_count": 974,
+          "tweet_count": 8169
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T12:23:12.000Z",
+        "description": "让银河燃烧吧",
+        "id": "1664970844026867713",
+        "name": "GodBottleXD",
+        "pinned_tweet_id": "1950160542544646570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664972571111202817/5c2-gyNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5733,
+          "following_count": 489,
+          "like_count": 1950,
+          "listed_count": 9,
+          "media_count": 1740,
+          "tweet_count": 4029
+        },
+        "username": "GodBottleXD",
+        "verified": false
+      }
+    ]
+  }
+}

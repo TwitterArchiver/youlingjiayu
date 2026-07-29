@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1907462482488406294",
+    "created_at": "2025-04-02T16:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T17:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907464045999063530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808552527119437824",
+          "start": 0,
+          "username": "11dontcryTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907464045999063530",
+    "in_reply_to_user_id": "1808552527119437824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907462482488406294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11dontcryTT 我去我第一次进最里面的圈。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1907462480416440320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnirBQ-bgAA_Zes.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1907462482488406294",
+        "created_at": "2025-04-02T16:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T17:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907464045999063530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808552527119437824",
+              "start": 0,
+              "username": "11dontcryTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907464045999063530",
+        "in_reply_to_user_id": "1808552527119437824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907462482488406294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11dontcryTT 我去我第一次进最里面的圈。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907462480416440320"
+          ]
+        },
+        "author_id": "1808552527119437824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1907462482488406294",
+        "created_at": "2025-04-02T15:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T16:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907462482488406294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1906251370073927680/R8ipQ7fc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1906251370073927680/R8ipQ7fc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/jxoEcB6eMT"
+            },
+            {
+              "display_url": "pic.x.com/pDQ5eU4cfo",
+              "end": 64,
+              "expanded_url": "https://x.com/11dontcryTT/status/1907462482488406294/photo/1",
+              "media_key": "3_1907462480416440320",
+              "start": 41,
+              "url": "https://t.co/pDQ5eU4cfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907462482488406294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/jxoEcB6eMT https://t.co/pDQ5eU4cfo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的重力系赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，把网友当垃圾回收员，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 495,
+          "like_count": 7862,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 3520
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T17:25:07.000Z",
+        "description": "一直向前",
+        "id": "1808552527119437824",
+        "name": "₊⁺ ·悲᳐伤猫猫头᳐· ﾟ ₊",
+        "pinned_tweet_id": "1869826853781025104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904193810303012864/JJJtEkJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 80,
+          "like_count": 2446,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 4514
+        },
+        "username": "11dontcryTT",
+        "verified": false
+      }
+    ]
+  }
+}

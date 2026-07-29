@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1883007748398612689",
+    "created_at": "2025-01-25T15:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T16:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883169645370462647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771788962123718656",
+          "start": 0,
+          "username": "TheUnsheath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883169645370462647",
+    "in_reply_to_user_id": "1771788962123718656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883166289222639947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheUnsheath 收到！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1883007748398612689",
+        "created_at": "2025-01-25T15:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T16:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883169645370462647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771788962123718656",
+              "start": 0,
+              "username": "TheUnsheath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883169645370462647",
+        "in_reply_to_user_id": "1771788962123718656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883166289222639947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheUnsheath 收到！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771788962123718656",
+        "conversation_id": "1883007748398612689",
+        "created_at": "2025-01-25T14:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T15:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883166289222639947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883166289222639947",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883007748398612689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 早上起来铺床（不一定要把被子叠起来）只需要5分钟但是看到整洁的床会开心尤其是一天结束后"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 524,
+          "like_count": 4377,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2418
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T06:39:57.000Z",
+        "description": "红尘修道，不忘初心。接塔罗占卜、星盘分析和心理咨询",
+        "id": "1771788962123718656",
+        "location": "Canada",
+        "name": "云中之龙（占卜与心理咨询）",
+        "pinned_tweet_id": "1834295894063100012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833304685383491584/42DKNblR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 47,
+          "like_count": 2739,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 300
+        },
+        "username": "TheUnsheath",
+        "verified": false
+      }
+    ]
+  }
+}

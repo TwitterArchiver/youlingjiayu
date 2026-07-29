@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1977565305816932582",
+    "created_at": "2025-10-13T04:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977593881979171230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "771971954584657920",
+          "start": 0,
+          "username": "vanilla_sodaa"
+        },
+        {
+          "end": 30,
+          "id": "1239064974884028416",
+          "start": 15,
+          "username": "FabricsAndSoul"
+        },
+        {
+          "end": 43,
+          "id": "1954881594193584128",
+          "start": 31,
+          "username": "k_karsa9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977593881979171230",
+    "in_reply_to_user_id": "771971954584657920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977569276740641152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@vanilla_sodaa @FabricsAndSoul @k_karsa9527 因为人的前额叶大概要到25岁才发育成熟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1977565305816932582",
+        "created_at": "2025-10-13T04:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977593881979171230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "771971954584657920",
+              "start": 0,
+              "username": "vanilla_sodaa"
+            },
+            {
+              "end": 30,
+              "id": "1239064974884028416",
+              "start": 15,
+              "username": "FabricsAndSoul"
+            },
+            {
+              "end": 43,
+              "id": "1954881594193584128",
+              "start": 31,
+              "username": "k_karsa9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977593881979171230",
+        "in_reply_to_user_id": "771971954584657920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977569276740641152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@vanilla_sodaa @FabricsAndSoul @k_karsa9527 因为人的前额叶大概要到25岁才发育成熟。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "771971954584657920",
+        "conversation_id": "1977565305816932582",
+        "created_at": "2025-10-13T02:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T03:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977569276740641152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239064974884028416",
+              "start": 0,
+              "username": "FabricsAndSoul"
+            },
+            {
+              "end": 28,
+              "id": "1954881594193584128",
+              "start": 16,
+              "username": "k_karsa9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977569276740641152",
+        "in_reply_to_user_id": "1239064974884028416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977566302048080247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@FabricsAndSoul @k_karsa9527 确实过了25岁之后感觉我大部分生活方式都被扭转了一遍🤔️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。",
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977267413894021121/VA7W3DNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 516,
+          "like_count": 13639,
+          "listed_count": 2,
+          "media_count": 611,
+          "tweet_count": 5667
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T07:23:51.000Z",
+        "description": "coffee fanatic || Langs:🇨🇳🇺🇸🇯🇵🇰🇷 || Cloud Native & Devops || ENFP && ADHD || 如果你发现自己被拉黑，一定是因为你是对的 || 不想在推特 “合群”",
+        "id": "771971954584657920",
+        "location": "大東亜共栄圏",
+        "name": "𝐕𝐚𝐧𝐢𝐥𝐥𝐚𝐒𝐨𝐝𝐚",
+        "pinned_tweet_id": "1976143538888011809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955296909217894403/3jzq3HQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3011,
+          "following_count": 869,
+          "like_count": 124112,
+          "listed_count": 27,
+          "media_count": 6628,
+          "tweet_count": 71144
+        },
+        "username": "vanilla_sodaa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-15T05:44:59.000Z",
+        "description": "杀人不过头点地",
+        "id": "1239064974884028416",
+        "location": "月球",
+        "name": "Maria de Buenos Aires",
+        "pinned_tweet_id": "1977070232620666883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976924609741307909/GIX0DV9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 125,
+          "like_count": 3100,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 648
+        },
+        "username": "FabricsAndSoul",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T12:24:48.000Z",
+        "description": "别管，总之是别管",
+        "id": "1954881594193584128",
+        "name": "高桥热介",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954882188253741056/PtdmdzCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 38,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 50
+        },
+        "username": "k_karsa9527",
+        "verified": false
+      }
+    ]
+  }
+}

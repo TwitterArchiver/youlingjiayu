@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1934481089181184141",
+    "created_at": "2025-06-16T05:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T06:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934488232621978064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759076490061426688",
+          "start": 0,
+          "username": "ScarletC33832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934488232621978064",
+    "in_reply_to_user_id": "1759076490061426688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934481089181184141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletC33832 不用短视频软件还是会被碎片化的信息侵袭，所以我现在逼迫自己看越来越长的东西来恢复专注力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1934481089181184141",
+        "created_at": "2025-06-16T05:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T06:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934488232621978064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759076490061426688",
+              "start": 0,
+              "username": "ScarletC33832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934488232621978064",
+        "in_reply_to_user_id": "1759076490061426688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934481089181184141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletC33832 不用短视频软件还是会被碎片化的信息侵袭，所以我现在逼迫自己看越来越长的东西来恢复专注力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759076490061426688",
+        "conversation_id": "1934481089181184141",
+        "created_at": "2025-06-16T05:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T06:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934481089181184141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934481089181184141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了禁止自己刷短视频卸载了软件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 525,
+          "like_count": 10874,
+          "listed_count": 0,
+          "media_count": 506,
+          "tweet_count": 4756
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T04:45:26.000Z",
+        "description": "干翻一切",
+        "id": "1759076490061426688",
+        "location": "you've raised my standard",
+        "name": "Arthur",
+        "pinned_tweet_id": "1927626677619982814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875882829386788864/g4V5PRdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 476,
+          "like_count": 7864,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 3048
+        },
+        "username": "ScarletC33832",
+        "verified": false
+      }
+    ]
+  }
+}

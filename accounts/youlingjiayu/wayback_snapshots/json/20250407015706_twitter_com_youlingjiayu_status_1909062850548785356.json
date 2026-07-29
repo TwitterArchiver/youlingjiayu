@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1909053159454175562",
+    "created_at": "2025-04-07T01:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T02:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909062850548785356"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1909062850548785356",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909054051993735633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但其实还是有相似之处的，我的两位现任哥和前夫哥一样都是那种看似浮夸，实际上爱得真诚热烈的雄竞纸片男，三位还多多少少带点病娇味。\n不同点就很多了，比如两位现任哥都偏向霸总气质而前夫哥是混邪乐子人；当然现任哥和现任哥亦有不同，国乙那位是人类理想的殉道者，而日乙那位是不择手段的结婚狂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1909053159454175562",
+        "created_at": "2025-04-07T01:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T02:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909062850548785356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909062850548785356",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909054051993735633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但其实还是有相似之处的，我的两位现任哥和前夫哥一样都是那种看似浮夸，实际上爱得真诚热烈的雄竞纸片男，三位还多多少少带点病娇味。\n不同点就很多了，比如两位现任哥都偏向霸总气质而前夫哥是混邪乐子人；当然现任哥和现任哥亦有不同，国乙那位是人类理想的殉道者，而日乙那位是不择手段的结婚狂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1909053159454175562",
+        "created_at": "2025-04-07T01:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T02:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909054051993735633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909054051993735633",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909053159454175562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和entp说前夫哥是我的赛博纯元，是我记忆里最艳丽的红玫瑰。\nentp：那甄嬛是谁？\n我：没有甄嬛，一我不找替身，二我很清楚那些和他非常相似的纸片男，即使相似七成八成，本质上还是不同的；和他一模一样的纸片男只能是他自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 501,
+          "like_count": 8339,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 3695
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

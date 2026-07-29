@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2046447132878741900",
+    "created_at": "2026-04-22T03:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T04:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046800678719574040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031983501038534664",
+          "start": 0,
+          "username": "planifoliaspark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046800678719574040",
+    "in_reply_to_user_id": "2031983501038534664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046447132878741900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@planifoliaspark 我电脑里现在还有好几个版本的SPSS……还有实验和问卷的数据。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2046447132878741900",
+        "created_at": "2026-04-22T03:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046800678719574040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031983501038534664",
+              "start": 0,
+              "username": "planifoliaspark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046800678719574040",
+        "in_reply_to_user_id": "2031983501038534664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046447132878741900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@planifoliaspark 我电脑里现在还有好几个版本的SPSS……还有实验和问卷的数据。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031983501038534664",
+        "conversation_id": "2046447132878741900",
+        "created_at": "2026-04-21T04:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046447132878741900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pretty59321/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/pretty59321/status/2046282864522895428",
+              "start": 27,
+              "url": "https://t.co/qPqyVxjPfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046447132878741900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 843,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046282864522895428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "离开蓝厂那么多年还能在网上看到有人用spss，欣慰😌 https://t.co/qPqyVxjPfy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 524,
+          "like_count": 18215,
+          "listed_count": 1,
+          "media_count": 949,
+          "tweet_count": 7947
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T06:40:16.000Z",
+        "description": "推油寻回中 香草三代目  | coffee fanatic | ENFP | 汉语🇨🇳English🇺🇸日本語🇯🇵| Cloud Native & Infra | 不想在X “合群” | 利物浦是冠军",
+        "id": "2031983501038534664",
+        "name": "香草美式",
+        "pinned_tweet_id": "2038150797742235751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031994772337147906/tfm6O435_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 232,
+          "like_count": 2387,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 924
+        },
+        "username": "planifoliaspark",
+        "verified": false
+      }
+    ]
+  }
+}

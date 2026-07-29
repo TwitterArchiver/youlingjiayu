@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1951488214134562816"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1951488274050195810",
+    "created_at": "2025-08-02T03:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T04:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951488274050195810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vb1aK2nU2W",
+          "end": 37,
+          "expanded_url": "https://x.com/youlingjiayu/status/1951488274050195810/video/1",
+          "media_key": "7_1951488214134562816",
+          "start": 14,
+          "url": "https://t.co/Vb1aK2nU2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951488274050195810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "论我为什么喜欢靠窗的座位。 https://t.co/Vb1aK2nU2W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15188,
+        "height": 960,
+        "media_key": "7_1951488214134562816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951488214134562816/pu/img/5mt9iAcE6ADyh126.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951488214134562816/pu/vid/avc1/320x426/V3w6utDZkWzw_jhh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951488214134562816/pu/vid/avc1/480x640/rnchY6-78eQDvcUY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951488214134562816/pu/vid/avc1/720x960/xJy4tlLOjvqtjU40.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951488214134562816/pu/pl/NUzJ72x-j2mU604i.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1951488214134562816"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1951488274050195810",
+        "created_at": "2025-08-02T03:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T04:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951488274050195810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vb1aK2nU2W",
+              "end": 37,
+              "expanded_url": "https://x.com/youlingjiayu/status/1951488274050195810/video/1",
+              "media_key": "7_1951488214134562816",
+              "start": 14,
+              "url": "https://t.co/Vb1aK2nU2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951488274050195810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论我为什么喜欢靠窗的座位。 https://t.co/Vb1aK2nU2W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 540,
+          "like_count": 12687,
+          "listed_count": 0,
+          "media_count": 567,
+          "tweet_count": 5304
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

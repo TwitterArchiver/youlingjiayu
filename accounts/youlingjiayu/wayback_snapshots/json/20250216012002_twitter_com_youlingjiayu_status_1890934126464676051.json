@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1890858246748979288",
+    "created_at": "2025-02-16T01:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T02:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890934126464676051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759076490061426688",
+          "start": 0,
+          "username": "ScarletC33832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890934126464676051",
+    "in_reply_to_user_id": "1759076490061426688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890858246748979288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletC33832 租的房子+和别人一起住＝做了也没意义所以不做家务。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1890858246748979288",
+        "created_at": "2025-02-16T01:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T02:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890934126464676051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759076490061426688",
+              "start": 0,
+              "username": "ScarletC33832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890934126464676051",
+        "in_reply_to_user_id": "1759076490061426688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890858246748979288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletC33832 租的房子+和别人一起住＝做了也没意义所以不做家务。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759076490061426688",
+        "conversation_id": "1890858246748979288",
+        "created_at": "2025-02-15T20:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T21:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890858246748979288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890858246748979288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现我以前也不是真的喜欢房间乱乱的，只是没精力分配给做家务。\n而且它是我一种隐性的消极对抗。\n因为这个空间不是我的意志，它只是我生活的落脚点，而非我生活的一部分。\n现在由于喜欢我就非常勤于维护∠(｀ω´*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 496,
+          "like_count": 5565,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 2736
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T04:45:26.000Z",
+        "description": "燃烧蓝色",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/scaletc33832",
+                "end": 23,
+                "expanded_url": "https://ngl.link/scaletc33832",
+                "start": 0,
+                "url": "https://t.co/CtEUOCxrcd"
+              }
+            ]
+          }
+        },
+        "id": "1759076490061426688",
+        "location": "you've raise my standard",
+        "name": "Arthur",
+        "pinned_tweet_id": "1874623692623544402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875882829386788864/g4V5PRdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 620,
+          "like_count": 4646,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1619
+        },
+        "url": "https://t.co/CtEUOCxrcd",
+        "username": "ScarletC33832",
+        "verified": false
+      }
+    ]
+  }
+}

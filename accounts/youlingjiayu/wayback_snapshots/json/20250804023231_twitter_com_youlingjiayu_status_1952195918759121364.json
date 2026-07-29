@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952195911821717504",
+        "3_1952195913273024512",
+        "3_1952195914996850688",
+        "3_1952195914837393408"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1952195918759121364",
+    "created_at": "2025-08-04T02:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T03:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952195918759121364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xf0PDrWMxl",
+          "end": 82,
+          "expanded_url": "https://x.com/youlingjiayu/status/1952195918759121364/photo/1",
+          "media_key": "3_1952195911821717504",
+          "start": 59,
+          "url": "https://t.co/Xf0PDrWMxl"
+        },
+        {
+          "display_url": "pic.x.com/Xf0PDrWMxl",
+          "end": 82,
+          "expanded_url": "https://x.com/youlingjiayu/status/1952195918759121364/photo/1",
+          "media_key": "3_1952195913273024512",
+          "start": 59,
+          "url": "https://t.co/Xf0PDrWMxl"
+        },
+        {
+          "display_url": "pic.x.com/Xf0PDrWMxl",
+          "end": 82,
+          "expanded_url": "https://x.com/youlingjiayu/status/1952195918759121364/photo/1",
+          "media_key": "3_1952195914996850688",
+          "start": 59,
+          "url": "https://t.co/Xf0PDrWMxl"
+        },
+        {
+          "display_url": "pic.x.com/Xf0PDrWMxl",
+          "end": 82,
+          "expanded_url": "https://x.com/youlingjiayu/status/1952195918759121364/photo/1",
+          "media_key": "3_1952195914837393408",
+          "start": 59,
+          "url": "https://t.co/Xf0PDrWMxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952195918759121364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉去哪个新城市都要跑一趟当地博物馆。\n沧州博物馆越往上走越热，但东西很多还免费，所以原谅了。\nP1似乎是镇馆之宝。 https://t.co/Xf0PDrWMxl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952195911821717504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxeX1rAacAAPztP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952195913273024512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxeX1waboAAKNQA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1952195914996850688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxeX121bIAAarcg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1952195914837393408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxeX12PaAAAzuk3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952195911821717504",
+            "3_1952195913273024512",
+            "3_1952195914996850688",
+            "3_1952195914837393408"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1952195918759121364",
+        "created_at": "2025-08-04T02:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T03:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952195918759121364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xf0PDrWMxl",
+              "end": 82,
+              "expanded_url": "https://x.com/youlingjiayu/status/1952195918759121364/photo/1",
+              "media_key": "3_1952195911821717504",
+              "start": 59,
+              "url": "https://t.co/Xf0PDrWMxl"
+            },
+            {
+              "display_url": "pic.x.com/Xf0PDrWMxl",
+              "end": 82,
+              "expanded_url": "https://x.com/youlingjiayu/status/1952195918759121364/photo/1",
+              "media_key": "3_1952195913273024512",
+              "start": 59,
+              "url": "https://t.co/Xf0PDrWMxl"
+            },
+            {
+              "display_url": "pic.x.com/Xf0PDrWMxl",
+              "end": 82,
+              "expanded_url": "https://x.com/youlingjiayu/status/1952195918759121364/photo/1",
+              "media_key": "3_1952195914996850688",
+              "start": 59,
+              "url": "https://t.co/Xf0PDrWMxl"
+            },
+            {
+              "display_url": "pic.x.com/Xf0PDrWMxl",
+              "end": 82,
+              "expanded_url": "https://x.com/youlingjiayu/status/1952195918759121364/photo/1",
+              "media_key": "3_1952195914837393408",
+              "start": 59,
+              "url": "https://t.co/Xf0PDrWMxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952195918759121364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉去哪个新城市都要跑一趟当地博物馆。\n沧州博物馆越往上走越热，但东西很多还免费，所以原谅了。\nP1似乎是镇馆之宝。 https://t.co/Xf0PDrWMxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 539,
+          "like_count": 12775,
+          "listed_count": 0,
+          "media_count": 575,
+          "tweet_count": 5337
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038871300123574272"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2038871302577242570",
+    "created_at": "2026-03-31T06:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038871302577242570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JxKQKWrURU",
+          "end": 30,
+          "expanded_url": "https://x.com/youlingjiayu/status/2038871302577242570/photo/1",
+          "media_key": "3_2038871300123574272",
+          "start": 7,
+          "url": "https://t.co/JxKQKWrURU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038871302577242570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次吃郎。 https://t.co/JxKQKWrURU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2038871300123574272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuGpSKawAAXEPY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038871300123574272"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038871302577242570",
+        "created_at": "2026-03-31T06:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038871302577242570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxKQKWrURU",
+              "end": 30,
+              "expanded_url": "https://x.com/youlingjiayu/status/2038871302577242570/photo/1",
+              "media_key": "3_2038871300123574272",
+              "start": 7,
+              "url": "https://t.co/JxKQKWrURU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038871302577242570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次吃郎。 https://t.co/JxKQKWrURU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 522,
+          "like_count": 18140,
+          "listed_count": 1,
+          "media_count": 923,
+          "tweet_count": 7847
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

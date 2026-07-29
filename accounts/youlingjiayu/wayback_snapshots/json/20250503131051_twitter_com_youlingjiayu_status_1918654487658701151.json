@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1918634382367367198",
+    "created_at": "2025-05-03T13:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T14:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918654487658701151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "362228606",
+          "start": 0,
+          "username": "7thasylum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918654487658701151",
+    "in_reply_to_user_id": "362228606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918634382367367198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7thasylum 我4月就得买12月的音乐剧票……习惯了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_1918634379108405248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBbzWyb0AA5cIL.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1918634382367367198",
+        "created_at": "2025-05-03T13:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T14:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918654487658701151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "362228606",
+              "start": 0,
+              "username": "7thasylum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918654487658701151",
+        "in_reply_to_user_id": "362228606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918634382367367198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7thasylum 我4月就得买12月的音乐剧票……习惯了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918634379108405248"
+          ]
+        },
+        "author_id": "362228606",
+        "conversation_id": "1918634382367367198",
+        "created_at": "2025-05-03T11:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T12:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918634382367367198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gKLLpS0gI",
+              "end": 57,
+              "expanded_url": "https://x.com/7thasylum/status/1918634382367367198/photo/1",
+              "media_key": "3_1918634379108405248",
+              "start": 34,
+              "url": "https://t.co/0gKLLpS0gI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918634382367367198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么全世界都要提前这么久开票  我都不知道我8月31有没有被饿死 https://t.co/0gKLLpS0gI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 508,
+          "like_count": 9709,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 4263
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-26T01:55:12.000Z",
+        "description": "“顽劣的、温和的。”\n名字是栖栖/ENFP♎️/ADHD/世界上所有人都是我的爱人（精神上）/switch/泛/braaaat♀️/无孩爱猫待业做题家。\n是个生活推，欢迎和我交朋友嘟🥺☝",
+        "id": "362228606",
+        "location": "Guangdong",
+        "name": "第七避难所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888529439195291648/3z0aU-W9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 202,
+          "like_count": 7336,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 1167
+        },
+        "username": "7thasylum",
+        "verified": false
+      }
+    ]
+  }
+}

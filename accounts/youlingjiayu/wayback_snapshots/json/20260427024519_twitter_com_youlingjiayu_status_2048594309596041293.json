@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2048526619615404364",
+    "created_at": "2026-04-27T02:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048594309596041293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031983501038534664",
+          "start": 0,
+          "username": "planifoliaspark"
+        },
+        {
+          "end": 26,
+          "id": "4621959314",
+          "start": 17,
+          "username": "Labelray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048594309596041293",
+    "in_reply_to_user_id": "2031983501038534664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048562361985106333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@planifoliaspark @Labelray 并非美少女但我不是neet吗……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048562361985106333].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048562361985106333",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048562361985106333"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2048526619615404364",
+        "created_at": "2026-04-27T02:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048594309596041293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031983501038534664",
+              "start": 0,
+              "username": "planifoliaspark"
+            },
+            {
+              "end": 26,
+              "id": "4621959314",
+              "start": 17,
+              "username": "Labelray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048594309596041293",
+        "in_reply_to_user_id": "2031983501038534664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048562361985106333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@planifoliaspark @Labelray 并非美少女但我不是neet吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 524,
+          "like_count": 18283,
+          "listed_count": 1,
+          "media_count": 950,
+          "tweet_count": 7977
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T06:40:16.000Z",
+        "description": "推油寻回中 香草三代目  | coffee fanatic | ENFP | 汉语🇨🇳English🇺🇸日本語🇯🇵| Cloud Native & Infra | 不想在X “合群” | 利物浦是冠军",
+        "id": "2031983501038534664",
+        "name": "香草美式",
+        "pinned_tweet_id": "2038150797742235751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031994772337147906/tfm6O435_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 237,
+          "like_count": 2590,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1025
+        },
+        "username": "planifoliaspark",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-21T13:15:35.000Z",
+        "description": "虽然常常自称为狗但其实是猫系人类",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/labelray",
+                "end": 23,
+                "expanded_url": "http://t.me/labelray",
+                "start": 0,
+                "url": "https://t.co/FtE3Z3zIA5"
+              }
+            ]
+          }
+        },
+        "id": "4621959314",
+        "location": "Seattle, WA",
+        "name": "Labelray",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768507802836664320/WQw1TZQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2904,
+          "following_count": 493,
+          "like_count": 9454,
+          "listed_count": 17,
+          "media_count": 491,
+          "tweet_count": 11694
+        },
+        "url": "https://t.co/FtE3Z3zIA5",
+        "username": "Labelray",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1902336862066520484",
+    "created_at": "2025-03-19T13:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T14:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902349743436787756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841886564244455428",
+          "start": 0,
+          "username": "Yannn_pup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902349743436787756",
+    "in_reply_to_user_id": "1841886564244455428",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902336862066520484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yannn_pup 3😶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1902336862066520484",
+        "created_at": "2025-03-19T13:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T14:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902349743436787756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841886564244455428",
+              "start": 0,
+              "username": "Yannn_pup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902349743436787756",
+        "in_reply_to_user_id": "1841886564244455428",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902336862066520484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yannn_pup 3😶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841886564244455428",
+        "conversation_id": "1902336862066520484",
+        "created_at": "2025-03-19T12:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T13:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902336862066520484"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "抽奖"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902336862066520484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苯人200fo啦！\n 一直在想抽点什么呢 想抽点有特点的东西，暂时没想到所以先抽两个疯狂星期四吧(*´I`*)\n\n点赞+评论就可以！ \n\n1 从点赞列表随机数抽两个吃疯狂星期四（可折m记）本周日晚上开！\n\n 2 再评论一个1-10的数字我会在这个区间随机一个数字，中的我会给我再想想的有特点的东西 下周开！ \n#抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 490,
+          "like_count": 6852,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 3092
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T17:02:40.000Z",
+        "description": "是各种美丽的器官。咪的发情日记。贴贴狂魔。喜欢我可以给我打钱。🚪可问。 02/167/67 /短发/声音好听 ｜野猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yannn_pup",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yannn_pup",
+                "start": 0,
+                "url": "https://t.co/CKx0PW8QbU"
+              }
+            ]
+          }
+        },
+        "id": "1841886564244455428",
+        "location": "北京",
+        "name": "幻想咪",
+        "pinned_tweet_id": "1878451229246013543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878626846297960448/PmOnSe-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 54,
+          "like_count": 532,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/CKx0PW8QbU",
+        "username": "Yannn_pup",
+        "verified": false
+      }
+    ]
+  }
+}

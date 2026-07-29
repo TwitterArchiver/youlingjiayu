@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1995441388989899140",
+    "created_at": "2025-12-01T17:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T18:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995541776300736653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1679794956876251136",
+          "start": 0,
+          "username": "Tankwukwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995541776300736653",
+    "in_reply_to_user_id": "1679794956876251136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995537601546387747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tankwukwu 就是被小米吓到了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "3_1995537599818235904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GS380aAAApWNE.jpg",
+        "width": 172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1995441388989899140",
+        "created_at": "2025-12-01T17:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T18:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995541776300736653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1679794956876251136",
+              "start": 0,
+              "username": "Tankwukwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995541776300736653",
+        "in_reply_to_user_id": "1679794956876251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995537601546387747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tankwukwu 就是被小米吓到了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995537599818235904"
+          ]
+        },
+        "author_id": "1679794956876251136",
+        "conversation_id": "1995441388989899140",
+        "created_at": "2025-12-01T16:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995537601546387747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRaKCubK2c",
+              "end": 66,
+              "expanded_url": "https://x.com/Tankwukwu/status/1995537601546387747/photo/1",
+              "media_key": "3_1995537599818235904",
+              "start": 43,
+              "url": "https://t.co/WRaKCubK2c"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "5cf616c8f739cb2b"
+        },
+        "id": "1995537601546387747",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995441388989899140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 小米的闹铃很好听很柔和，但是又能把人喊醒，懒人适合小米的 https://t.co/WRaKCubK2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 514,
+          "like_count": 15037,
+          "listed_count": 1,
+          "media_count": 698,
+          "tweet_count": 6478
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T10:08:42.000Z",
+        "description": "ココという日本留学生っす、よろしく",
+        "id": "1679794956876251136",
+        "location": "Hino-shi, Tokyo",
+        "name": "一般通过可可",
+        "pinned_tweet_id": "1909535035432353836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867397012855152641/0OCjco4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 419,
+          "like_count": 7187,
+          "listed_count": 4,
+          "media_count": 899,
+          "tweet_count": 3698
+        },
+        "username": "Tankwukwu",
+        "verified": false
+      }
+    ]
+  }
+}

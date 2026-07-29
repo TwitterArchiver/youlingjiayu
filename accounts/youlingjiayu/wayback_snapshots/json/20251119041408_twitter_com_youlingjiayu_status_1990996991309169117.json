@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1990950962840662338",
+    "created_at": "2025-11-19T04:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T05:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990996991309169117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977858284964159488",
+          "start": 0,
+          "username": "Quinnnankoku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990996991309169117",
+    "in_reply_to_user_id": "1977858284964159488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990950962840662338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quinnnankoku 看完之后想和对面拜个把子，点进评论主页一看intj……好嘛我全懂了；类型学魅力时刻说是。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1974,
+        "media_key": "3_1990950947632394241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FHVp7bMAEMCQi.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1887,
+        "media_key": "3_1990950947586256897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FHVpwbMAEQueV.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1863,
+        "media_key": "3_1990950947800166404",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FHVqjbMAQxn9m.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1974,
+        "media_key": "3_1990950947879878656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FHVq2bgAApdXF.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1990950962840662338",
+        "created_at": "2025-11-19T04:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T05:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990996991309169117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977858284964159488",
+              "start": 0,
+              "username": "Quinnnankoku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990996991309169117",
+        "in_reply_to_user_id": "1977858284964159488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990950962840662338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quinnnankoku 看完之后想和对面拜个把子，点进评论主页一看intj……好嘛我全懂了；类型学魅力时刻说是。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990950947632394241",
+            "3_1990950947586256897",
+            "3_1990950947800166404",
+            "3_1990950947879878656"
+          ]
+        },
+        "author_id": "1977858284964159488",
+        "conversation_id": "1990950962840662338",
+        "created_at": "2025-11-19T01:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T02:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990950962840662338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RRULljTdFG",
+              "end": 104,
+              "expanded_url": "https://x.com/Quinnnankoku/status/1990950962840662338/photo/1",
+              "media_key": "3_1990950947632394241",
+              "start": 81,
+              "url": "https://t.co/RRULljTdFG"
+            },
+            {
+              "display_url": "pic.x.com/RRULljTdFG",
+              "end": 104,
+              "expanded_url": "https://x.com/Quinnnankoku/status/1990950962840662338/photo/1",
+              "media_key": "3_1990950947586256897",
+              "start": 81,
+              "url": "https://t.co/RRULljTdFG"
+            },
+            {
+              "display_url": "pic.x.com/RRULljTdFG",
+              "end": 104,
+              "expanded_url": "https://x.com/Quinnnankoku/status/1990950962840662338/photo/1",
+              "media_key": "3_1990950947800166404",
+              "start": 81,
+              "url": "https://t.co/RRULljTdFG"
+            },
+            {
+              "display_url": "pic.x.com/RRULljTdFG",
+              "end": 104,
+              "expanded_url": "https://x.com/Quinnnankoku/status/1990950962840662338/photo/1",
+              "media_key": "3_1990950947879878656",
+              "start": 81,
+              "url": "https://t.co/RRULljTdFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990950962840662338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好伤心直接破防哭了\n我承认他从头到尾都不算喜欢我了好吧\n我多少个夜里抱着他哭\n痛苦的好想直接死了从这个世界上消失\n我真的不要喜欢你了\n骗子\n骗我说永远陪我一辈子 https://t.co/RRULljTdFG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 521,
+          "like_count": 14420,
+          "listed_count": 0,
+          "media_count": 663,
+          "tweet_count": 6140
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T22:07:36.000Z",
+        "description": "炸号了@v5Family_ 推友找回中🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "v5Family_"
+              }
+            ]
+          }
+        },
+        "id": "1977858284964159488",
+        "name": "芥末苔藓🩵（永动家仆版）",
+        "pinned_tweet_id": "1983385615346573455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988574423180525568/1ocXqfjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 322,
+          "like_count": 8219,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 3975
+        },
+        "username": "Quinnnankoku",
+        "verified": true
+      }
+    ]
+  }
+}

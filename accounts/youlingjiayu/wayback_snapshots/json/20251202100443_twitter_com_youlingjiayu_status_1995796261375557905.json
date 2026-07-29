@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1995781710987080149",
+    "created_at": "2025-12-02T10:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T11:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995796261375557905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977858284964159488",
+          "start": 0,
+          "username": "Quinnnankoku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995796261375557905",
+    "in_reply_to_user_id": "1977858284964159488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995781710987080149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quinnnankoku 看到这条尝试回忆了一下我5岁的时候和我妈之间有什么事情，除了她工作日都来外公外婆家吃饭，其他毫无印象。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995781698286653440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Jw4WeaEAAdiKS.jpg",
+        "width": 1269
+      },
+      {
+        "height": 1769,
+        "media_key": "3_1995781698282500096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Jw4WdasAAWosJ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1995781710987080149",
+        "created_at": "2025-12-02T10:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995796261375557905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977858284964159488",
+              "start": 0,
+              "username": "Quinnnankoku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995796261375557905",
+        "in_reply_to_user_id": "1977858284964159488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995781710987080149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quinnnankoku 看到这条尝试回忆了一下我5岁的时候和我妈之间有什么事情，除了她工作日都来外公外婆家吃饭，其他毫无印象。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995781698286653440",
+            "3_1995781698282500096"
+          ]
+        },
+        "author_id": "1977858284964159488",
+        "conversation_id": "1995781710987080149",
+        "created_at": "2025-12-02T09:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T10:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995781710987080149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzhHSinBky",
+              "end": 81,
+              "expanded_url": "https://x.com/Quinnnankoku/status/1995781710987080149/photo/1",
+              "media_key": "3_1995781698286653440",
+              "start": 58,
+              "url": "https://t.co/pzhHSinBky"
+            },
+            {
+              "display_url": "pic.x.com/pzhHSinBky",
+              "end": 81,
+              "expanded_url": "https://x.com/Quinnnankoku/status/1995781710987080149/photo/1",
+              "media_key": "3_1995781698282500096",
+              "start": 58,
+              "url": "https://t.co/pzhHSinBky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995781710987080149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 89,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们才是真正的缺爱b，\n你们那些幸福过的人会丧失，\n我们没拥有过的人根本就不会因此陷入抑郁。\n所以说，上帝很公平。 https://t.co/pzhHSinBky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 515,
+          "like_count": 15067,
+          "listed_count": 1,
+          "media_count": 702,
+          "tweet_count": 6494
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T22:07:36.000Z",
+        "description": "炸号了@v5Family_ 推友找回中🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "v5Family_"
+              }
+            ]
+          }
+        },
+        "id": "1977858284964159488",
+        "name": "芥末苔藓🩵（永动家仆版）",
+        "pinned_tweet_id": "1995079577627156783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988574423180525568/1ocXqfjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 399,
+          "like_count": 12862,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 6090
+        },
+        "username": "Quinnnankoku",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1994348981850161511",
+    "created_at": "2025-11-28T12:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994378754362351901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "835869741419909120",
+          "start": 0,
+          "username": "YoiteTc_404"
+        },
+        {
+          "end": 22,
+          "id": "1452116448239931392",
+          "start": 13,
+          "username": "Umi_hush"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994378754362351901",
+    "in_reply_to_user_id": "835869741419909120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994353612902801908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoiteTc_404 @Umi_hush 😥在攒钱去北京了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1994348981850161511",
+        "created_at": "2025-11-28T12:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994378754362351901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "835869741419909120",
+              "start": 0,
+              "username": "YoiteTc_404"
+            },
+            {
+              "end": 22,
+              "id": "1452116448239931392",
+              "start": 13,
+              "username": "Umi_hush"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994378754362351901",
+        "in_reply_to_user_id": "835869741419909120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994353612902801908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoiteTc_404 @Umi_hush 😥在攒钱去北京了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "835869741419909120",
+        "conversation_id": "1994348981850161511",
+        "created_at": "2025-11-28T10:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994353612902801908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1452116448239931392",
+              "start": 0,
+              "username": "Umi_hush"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994353612902801908",
+        "in_reply_to_user_id": "1452116448239931392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994353198295814564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Umi_hush 再也不当菩萨了，从来都是我去朋友的城市玩，没人来我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 518,
+          "like_count": 14894,
+          "listed_count": 1,
+          "media_count": 688,
+          "tweet_count": 6406
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-26T15:10:50.000Z",
+        "description": "此人绝非扇贝。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "right-slouch-c6e.notion.site/Tc-s-Home-a8ff…",
+                "end": 23,
+                "expanded_url": "https://right-slouch-c6e.notion.site/Tc-s-Home-a8ff53ffb567472399789bb0a3f5c488?pvs=73",
+                "start": 0,
+                "url": "https://t.co/S46OZbLXMO"
+              }
+            ]
+          }
+        },
+        "id": "835869741419909120",
+        "location": "ᵕ̈ ",
+        "name": "烤虚拟鱼",
+        "pinned_tweet_id": "1980846460817363229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832091806822969349/CFE2O-rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13399,
+          "following_count": 1296,
+          "like_count": 11889,
+          "listed_count": 30,
+          "media_count": 3246,
+          "tweet_count": 10642
+        },
+        "url": "https://t.co/S46OZbLXMO",
+        "username": "YoiteTc_404",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T03:35:31.000Z",
+        "description": "",
+        "id": "1452116448239931392",
+        "name": "Yeeeeeex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779871361701412864/sJdoGMmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 484,
+          "like_count": 18771,
+          "listed_count": 15,
+          "media_count": 316,
+          "tweet_count": 5815
+        },
+        "username": "Umi_hush",
+        "verified": true
+      }
+    ]
+  }
+}

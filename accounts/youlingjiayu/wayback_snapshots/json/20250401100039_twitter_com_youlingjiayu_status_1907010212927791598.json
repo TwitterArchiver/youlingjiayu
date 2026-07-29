@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1907007873902850236",
+    "created_at": "2025-04-01T10:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T11:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907010212927791598"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1907010212927791598",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907007873902850236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沟口的向往在战争中幻灭，于是鹤川自杀死了；沟口在无意义的生活中和柏木成为了朋友，于是死的本能将他带向了绝望和毁灭——最后金阁寺被烧掉了，但在纵火时，可能沟口才真的在死亡的追寻中活着。\n金阁寺是永恒的美，在毁灭之后成为永恒；因为你是美的，因为我爱你的美，美不属于任何人，所以我毁灭你。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 491,
+        "media_key": "3_1907007870731980800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncNjf7akAAbmf9.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1907007873902850236",
+        "created_at": "2025-04-01T10:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T11:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907010212927791598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907010212927791598",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907007873902850236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沟口的向往在战争中幻灭，于是鹤川自杀死了；沟口在无意义的生活中和柏木成为了朋友，于是死的本能将他带向了绝望和毁灭——最后金阁寺被烧掉了，但在纵火时，可能沟口才真的在死亡的追寻中活着。\n金阁寺是永恒的美，在毁灭之后成为永恒；因为你是美的，因为我爱你的美，美不属于任何人，所以我毁灭你。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907007870731980800"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907007873902850236",
+        "created_at": "2025-04-01T09:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T10:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907007873902850236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OzAskbiYlH",
+              "end": 142,
+              "expanded_url": "https://x.com/youlingjiayu/status/1907007873902850236/photo/1",
+              "media_key": "3_1907007870731980800",
+              "start": 119,
+              "url": "https://t.co/OzAskbiYlH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907007873902850236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经书评14\n《金阁寺》\n“世界上没有比金阁寺更美的东西。”\n我总觉得沟口、柏木、鹤川其实是一个人，就像梅菲斯特和浮士德。沟口是摇摆不定的本我的自己，柏木是死是毁灭，鹤川是生是向往；而沟口所追寻的有为子则是和金阁寺一样的美的意象。 https://t.co/OzAskbiYlH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的重力系赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，把网友当垃圾回收员，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 494,
+          "like_count": 7727,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 3474
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

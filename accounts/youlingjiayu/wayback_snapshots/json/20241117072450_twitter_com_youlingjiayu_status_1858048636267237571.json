@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1858045562324660519",
+    "created_at": "2024-11-17T07:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T08:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858048636267237571"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1858048636267237571",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858046940619092374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本质上还是想掌控一切，只是方式很迂回……\n以及时常不安和感到负罪，所以一直在寻找赎罪券路上，想办法平衡这些混杂在一起的扭曲感受。\n我很清楚这种脆弱的平衡可能维持不了多久，但是确实目前没有更好的办法。\n如果我哪天道德感没有这么高，或者真正将生命抓在手里，或者自信一点，可能就能自愈了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1858045562324660519",
+        "created_at": "2024-11-17T07:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T08:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858048636267237571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858048636267237571",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858046940619092374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本质上还是想掌控一切，只是方式很迂回……\n以及时常不安和感到负罪，所以一直在寻找赎罪券路上，想办法平衡这些混杂在一起的扭曲感受。\n我很清楚这种脆弱的平衡可能维持不了多久，但是确实目前没有更好的办法。\n如果我哪天道德感没有这么高，或者真正将生命抓在手里，或者自信一点，可能就能自愈了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1858045562324660519",
+        "created_at": "2024-11-17T07:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T08:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858046940619092374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858046940619092374",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858045562324660519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比如把权力让渡给别人，找人分担一部分权力；如果某事必须由我全权负责，我就会试图将其他方面的权力交给别人，所以和我做事的舒适区其实是让我当副手……\n不止是权力，我整个人都像一只在天上的风筝，我努力在当风筝的同时去当那根风筝；如果不行，我会把线交给别人。\n我要拉住即将失控的我自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 520,
+          "like_count": 1414,
+          "listed_count": 0,
+          "tweet_count": 1022
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

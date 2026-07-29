@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1944067555012055292",
+    "created_at": "2025-07-13T01:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T02:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944202484425404815"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1944202484425404815",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944192401318588835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我将学习汉尼拔违法犯罪以外的部分。\n感情方面不用学，我已经悲哀地在一次次给entp解释人物动机时发现我俩是同一类癫人……\n喜欢威尔很好理解，他高尚又想拯救更多人，他能理解我，看上去像脆弱精美的茶杯；一开始应该只是觉得有趣，想弄脏他，摆布他，发现他完全能理解我后便想拉他下地狱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1944067555012055292",
+        "created_at": "2025-07-13T01:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T02:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944202484425404815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944202484425404815",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944192401318588835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我将学习汉尼拔违法犯罪以外的部分。\n感情方面不用学，我已经悲哀地在一次次给entp解释人物动机时发现我俩是同一类癫人……\n喜欢威尔很好理解，他高尚又想拯救更多人，他能理解我，看上去像脆弱精美的茶杯；一开始应该只是觉得有趣，想弄脏他，摆布他，发现他完全能理解我后便想拉他下地狱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1944067555012055292",
+        "created_at": "2025-07-13T00:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T01:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944192401318588835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944192401318588835",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944067555012055292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到第三季第七集这里的时候我觉得汉尼拔是真的爱威尔，物理上被爱判处终身孤寂了属于。\n唉拔啊我懂你，能遇到威尔这种相互影响的灵魂伴侣我也会发疯的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 534,
+          "like_count": 11764,
+          "listed_count": 0,
+          "media_count": 532,
+          "tweet_count": 4980
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

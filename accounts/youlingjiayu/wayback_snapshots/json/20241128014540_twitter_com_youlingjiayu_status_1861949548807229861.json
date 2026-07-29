@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1861919043827163558",
+    "created_at": "2024-11-28T01:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T02:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861949548807229861"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1861949548807229861",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861919935263637755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但我现在已经能很习惯孤独了，甚至有点离群索居。\n可能是因为我一直拥有着很少很少的东西，最重要的我会努力攥在手里，那些不重要的失去了也就失去了，没有那么多特别重要的人，我也只是其他人生命的过客而已——当然我希望我未来能获得更多，而且是那种专属于“我”的私有物，虽然最后只会剩下我自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1861919043827163558",
+        "created_at": "2024-11-28T01:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T02:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861949548807229861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861949548807229861",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861919935263637755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但我现在已经能很习惯孤独了，甚至有点离群索居。\n可能是因为我一直拥有着很少很少的东西，最重要的我会努力攥在手里，那些不重要的失去了也就失去了，没有那么多特别重要的人，我也只是其他人生命的过客而已——当然我希望我未来能获得更多，而且是那种专属于“我”的私有物，虽然最后只会剩下我自己。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1861919043827163558",
+        "created_at": "2024-11-27T23:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T00:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861919935263637755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861919935263637755",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861919043827163558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在想想可能是有点轻微的精神分裂，但是后来自愈了；我猜是因为我去尝试交朋友了。\n当然后遗症就是我还保留着自己和自己说话，自己和自己吵架的毛病……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 520,
+          "like_count": 1945,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1356
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

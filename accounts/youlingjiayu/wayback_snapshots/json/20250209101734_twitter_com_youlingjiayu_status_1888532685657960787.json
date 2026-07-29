@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1888526512401592475",
+    "created_at": "2025-02-09T10:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T11:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888532685657960787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862734229513068544",
+          "start": 0,
+          "username": "EWisoky68445"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888532685657960787",
+    "in_reply_to_user_id": "1862734229513068544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888529410946441634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EWisoky68445 是记忆。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1888526512401592475",
+        "created_at": "2025-02-09T10:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T11:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888532685657960787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862734229513068544",
+              "start": 0,
+              "username": "EWisoky68445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888532685657960787",
+        "in_reply_to_user_id": "1862734229513068544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888529410946441634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EWisoky68445 是记忆。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862734229513068544",
+        "conversation_id": "1888526512401592475",
+        "created_at": "2025-02-09T10:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T11:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888529410946441634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888529410946441634",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888526512401592475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 啊，听起来怪怪的，你是想表达陪伴的意思吗？生命中不可或缺的一部分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887153201717391361/4bjcFH4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 497,
+          "like_count": 5279,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2683
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T05:43:51.000Z",
+        "description": "手握日月摘星辰，世间无我这般人。",
+        "id": "1862734229513068544",
+        "location": "安徽省合肥市",
+        "name": "Eugene Wisoky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611812236017664/unOQgzlb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 216,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 539
+        },
+        "username": "EWisoky68445",
+        "verified": false
+      }
+    ]
+  }
+}

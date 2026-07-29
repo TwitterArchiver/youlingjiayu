@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946450048427999233"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1946450051297108447",
+    "created_at": "2025-07-19T06:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T07:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946450051297108447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m4vb6uVmGP",
+          "end": 58,
+          "expanded_url": "https://x.com/youlingjiayu/status/1946450051297108447/photo/1",
+          "media_key": "3_1946450048427999233",
+          "start": 35,
+          "url": "https://t.co/m4vb6uVmGP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946450051297108447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 107,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想自闭但是失败了，因为被朋友拉出去看电影了，而且计划两周至少看三场。 https://t.co/m4vb6uVmGP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "3_1946450048427999233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwMuAZ2XwAEltR1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946450048427999233"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1946450051297108447",
+        "created_at": "2025-07-19T06:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T07:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946450051297108447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4vb6uVmGP",
+              "end": 58,
+              "expanded_url": "https://x.com/youlingjiayu/status/1946450051297108447/photo/1",
+              "media_key": "3_1946450048427999233",
+              "start": 35,
+              "url": "https://t.co/m4vb6uVmGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946450051297108447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想自闭但是失败了，因为被朋友拉出去看电影了，而且计划两周至少看三场。 https://t.co/m4vb6uVmGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 534,
+          "like_count": 12034,
+          "listed_count": 0,
+          "media_count": 542,
+          "tweet_count": 5068
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

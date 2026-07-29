@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2078828842932940837",
+    "created_at": "2026-07-19T13:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078830423921283219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103821331588571136",
+          "start": 0,
+          "username": "recatorseky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078830423921283219",
+    "in_reply_to_user_id": "1103821331588571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078828842932940837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@recatorseky 令人羡慕的抓娃娃技术……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078828820426342400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl7zE5bQAAprYV.jpg",
+        "width": 1518
+      },
+      {
+        "height": 1720,
+        "media_key": "3_2078828820413730816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl7zE2a0AAI20v.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2078828820422184960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl7zE4b0AAyEAG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2078828842932940837",
+        "created_at": "2026-07-19T13:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078830423921283219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103821331588571136",
+              "start": 0,
+              "username": "recatorseky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078830423921283219",
+        "in_reply_to_user_id": "1103821331588571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078828842932940837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@recatorseky 令人羡慕的抓娃娃技术……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078828820426342400",
+            "3_2078828820413730816",
+            "3_2078828820422184960"
+          ]
+        },
+        "author_id": "1103821331588571136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078828842932940837",
+        "created_at": "2026-07-19T13:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078828842932940837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/stf2dKvsiD",
+              "end": 51,
+              "expanded_url": "https://x.com/recatorseky/status/2078828842932940837/photo/1",
+              "media_key": "3_2078828820426342400",
+              "start": 28,
+              "url": "https://t.co/stf2dKvsiD"
+            },
+            {
+              "display_url": "pic.x.com/stf2dKvsiD",
+              "end": 51,
+              "expanded_url": "https://x.com/recatorseky/status/2078828842932940837/photo/1",
+              "media_key": "3_2078828820413730816",
+              "start": 28,
+              "url": "https://t.co/stf2dKvsiD"
+            },
+            {
+              "display_url": "pic.x.com/stf2dKvsiD",
+              "end": 51,
+              "expanded_url": "https://x.com/recatorseky/status/2078828842932940837/photo/1",
+              "media_key": "3_2078828820422184960",
+              "start": 28,
+              "url": "https://t.co/stf2dKvsiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078828842932940837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃和地雷妹对象出勤推红12中！替她抓了好多滴啦熊ww https://t.co/stf2dKvsiD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 539,
+          "like_count": 19302,
+          "listed_count": 1,
+          "media_count": 1009,
+          "tweet_count": 8381
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T00:54:48.000Z",
+        "description": "中文 Eng/奥克兰AKL/FF14/R6S/buhurt/cosplay/Gundam/ COC TRPG/\n恋人@AOHITOM1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "AOHITOM1"
+              }
+            ]
+          }
+        },
+        "id": "1103821331588571136",
+        "location": "RE",
+        "name": "REC470R",
+        "pinned_tweet_id": "1984171567253967185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973030013831364608/nOg1CYWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 118,
+          "like_count": 30031,
+          "listed_count": 0,
+          "media_count": 622,
+          "tweet_count": 3663
+        },
+        "url": "",
+        "username": "recatorseky",
+        "verified": false
+      }
+    ]
+  }
+}

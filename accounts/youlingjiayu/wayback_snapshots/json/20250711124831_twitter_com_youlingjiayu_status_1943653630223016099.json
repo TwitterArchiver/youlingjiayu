@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1943598252827304172",
+    "created_at": "2025-07-11T12:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T13:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943653630223016099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1832322595146100736",
+          "start": 0,
+          "username": "staywithmeTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943653630223016099",
+    "in_reply_to_user_id": "1832322595146100736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943650201056489586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@staywithmeTvT 我不到啊。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1943650201056489586].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1943650201056489586",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1943650201056489586"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1943598252827304172",
+        "created_at": "2025-07-11T12:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T13:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943653630223016099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1832322595146100736",
+              "start": 0,
+              "username": "staywithmeTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943653630223016099",
+        "in_reply_to_user_id": "1832322595146100736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943650201056489586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@staywithmeTvT 我不到啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 533,
+          "like_count": 11725,
+          "listed_count": 0,
+          "media_count": 529,
+          "tweet_count": 4965
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T07:38:55.000Z",
+        "description": "龟龟@ddddubbbbb｜扯皮@FinnaXS｜心选姐@Abtccc_｜地上恋@labulalabu｜捧哏@bloria33｜老辈子@Ahuiii0327｜5丢@one_forgetfuls｜老公@SaltCat2580｜不想当狗@XBEl_mes｜三孙子@Leiliu62393｜傍尖@chichen020711",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "ddddubbbbb"
+              },
+              {
+                "end": 24,
+                "start": 16,
+                "username": "FinnaXS"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "Abtccc_"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "labulalabu"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "bloria33"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "Ahuiii0327"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "one_forgetfuls"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "SaltCat2580"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "XBEl_mes"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Leiliu62393"
+              },
+              {
+                "end": 158,
+                "start": 144,
+                "username": "chichen020711"
+              }
+            ]
+          }
+        },
+        "id": "1832322595146100736",
+        "location": "阴暗潮湿的角落",
+        "name": "我一会就死了",
+        "pinned_tweet_id": "1940757998332530793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943388718053658625/IJLpaf03_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 56,
+          "like_count": 226,
+          "listed_count": 2,
+          "media_count": 574,
+          "tweet_count": 3159
+        },
+        "username": "staywithmeTvT",
+        "verified": false
+      }
+    ]
+  }
+}

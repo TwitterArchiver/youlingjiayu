@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2079270577735618958",
+    "created_at": "2026-07-21T01:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079377245974733305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1241047750260568064",
+          "start": 0,
+          "username": "lovemeplzkillme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079377245974733305",
+    "in_reply_to_user_id": "1241047750260568064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079270577735618958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovemeplzkillme 同时刷到小小香草和大香草有种微妙的感觉喵。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079270577735618958].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079270577735618958",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079270577735618958"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2079270577735618958",
+        "created_at": "2026-07-21T01:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079377245974733305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1241047750260568064",
+              "start": 0,
+              "username": "lovemeplzkillme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079377245974733305",
+        "in_reply_to_user_id": "1241047750260568064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079270577735618958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovemeplzkillme 同时刷到小小香草和大香草有种微妙的感觉喵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 539,
+          "like_count": 19317,
+          "listed_count": 1,
+          "media_count": 1009,
+          "tweet_count": 8385
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T17:03:44.000Z",
+        "description": "中型香草 - 880海军航空兵中队 - 皇家方舟号航母 - 南太平洋 | Carpe diem et memento mori | 推文照片请不要外传 谢谢",
+        "id": "1241047750260568064",
+        "location": "85 Albert Embankment, Vauxhall",
+        "name": "四季夏目",
+        "pinned_tweet_id": "2067971863171703277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062594031562227712/fJ3wHjLt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 150,
+          "like_count": 10038,
+          "listed_count": 0,
+          "media_count": 719,
+          "tweet_count": 6652
+        },
+        "url": "",
+        "username": "lovemeplzkillme",
+        "verified": false
+      }
+    ]
+  }
+}

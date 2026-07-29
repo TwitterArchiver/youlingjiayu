@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1992272745418404277",
+    "created_at": "2025-11-22T16:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992274794809872490"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992274794809872490",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992272745418404277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢看他为理想筹谋，为了目标陷入癫狂切断退路。更喜欢看他落败，看他被自己的理想反噬，被自己对ala的执念困住和利用。喜欢戏剧性大于希望他成功，生前被电视机砸死那段也是——这样一个美国精神病人式的赛级西格玛白男有如此荒诞的死法和落败后不堪的一面，看到这个就让我产生了一种蹂躏的快感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1992272745418404277",
+        "created_at": "2025-11-22T16:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992274794809872490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992274794809872490",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992272745418404277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢看他为理想筹谋，为了目标陷入癫狂切断退路。更喜欢看他落败，看他被自己的理想反噬，被自己对ala的执念困住和利用。喜欢戏剧性大于希望他成功，生前被电视机砸死那段也是——这样一个美国精神病人式的赛级西格玛白男有如此荒诞的死法和落败后不堪的一面，看到这个就让我产生了一种蹂躏的快感。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1992272745418404277",
+        "created_at": "2025-11-22T16:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992272745418404277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1992117381808984276",
+              "start": 137,
+              "url": "https://t.co/3VM4hcB1XG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992272745418404277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992117381808984276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尽管我知道他是官方本季钦定反派，但我依然在设想他在if线能够成功。地狱和天堂尽是些无能的蠢货，而他有野心和魄力，有凡人成为神明超越神明的欲望；尽管和本季的主题不符但这种姿态实在是太美丽了。而为了追求不可能的理想甚至抛妻弃子，最后满盘皆输老婆还舍身来救他，vox我嫉妒你…… https://t.co/3VM4hcB1XG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990371983478145025/vRu09Xjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 519,
+          "like_count": 14571,
+          "listed_count": 1,
+          "media_count": 674,
+          "tweet_count": 6234
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

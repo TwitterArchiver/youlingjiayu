@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1880862946546643144",
+    "created_at": "2025-01-19T10:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T11:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880930523134263495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609641240827686913",
+          "start": 0,
+          "username": "RintheMemewitch"
+        },
+        {
+          "end": 29,
+          "id": "1651352228936941568",
+          "start": 17,
+          "username": "Arockandrew"
+        },
+        {
+          "end": 43,
+          "id": "1773041626581221376",
+          "start": 30,
+          "username": "Nikikiki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880930523134263495",
+    "in_reply_to_user_id": "1609641240827686913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880925036103827580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RintheMemewitch @Arockandrew @Nikikiki8964 我好像一直都能意识到在做梦……然后“我”和我分离了，一个成为主角，一个旁观，旁观的我甚至会想“剧情应该改成这样比较好”，然后没过多久就醒了；没什么体验感就是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1880862946546643144",
+        "created_at": "2025-01-19T10:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880930523134263495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609641240827686913",
+              "start": 0,
+              "username": "RintheMemewitch"
+            },
+            {
+              "end": 29,
+              "id": "1651352228936941568",
+              "start": 17,
+              "username": "Arockandrew"
+            },
+            {
+              "end": 43,
+              "id": "1773041626581221376",
+              "start": 30,
+              "username": "Nikikiki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880930523134263495",
+        "in_reply_to_user_id": "1609641240827686913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880925036103827580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RintheMemewitch @Arockandrew @Nikikiki8964 我好像一直都能意识到在做梦……然后“我”和我分离了，一个成为主角，一个旁观，旁观的我甚至会想“剧情应该改成这样比较好”，然后没过多久就醒了；没什么体验感就是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609641240827686913",
+        "conversation_id": "1880862946546643144",
+        "created_at": "2025-01-19T10:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880925036103827580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1651352228936941568",
+              "start": 0,
+              "username": "Arockandrew"
+            },
+            {
+              "end": 26,
+              "id": "1773041626581221376",
+              "start": 13,
+              "username": "Nikikiki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880925036103827580",
+        "in_reply_to_user_id": "1651352228936941568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880871156934406647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arockandrew @Nikikiki8964 呜呜好羡慕 我梦里全是被牵着鼻子走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1878149895590187252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 522,
+          "like_count": 3957,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2298
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T20:02:46.000Z",
+        "description": "防失聯：Discord /Pixiv/Ins/Fb/AO3/Ytb account：Rinshiwasu ｜only Angel devil 4ever 配偶担保天使恶魔移民我是认真的 提问箱：https://t.co/ECxZURx6XL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rinshiwasu",
+                "end": 120,
+                "expanded_url": "https://ngl.link/rinshiwasu",
+                "start": 97,
+                "url": "https://t.co/ECxZURx6XL"
+              }
+            ]
+          }
+        },
+        "id": "1609641240827686913",
+        "location": "Tokyo",
+        "name": "师走凌 Rin",
+        "pinned_tweet_id": "1866720151099625928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866720127531749376/DLfupZz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 132,
+          "like_count": 4157,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3346
+        },
+        "username": "RintheMemewitch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T22:27:15.000Z",
+        "description": "码农 | 虚无主义 | 世间牵扯无一不让人心痛，就像万有引力无处不在。我对你也痛，你对我也有引力。 | 提问箱可提问任何问题，和我无关也可以：https://t.co/m5p4oKQQtW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/arockandrew",
+                "end": 94,
+                "expanded_url": "https://ngl.link/arockandrew",
+                "start": 71,
+                "url": "https://t.co/m5p4oKQQtW"
+              }
+            ]
+          }
+        },
+        "id": "1651352228936941568",
+        "location": "England, United Kingdom",
+        "name": "andrsonrobot",
+        "pinned_tweet_id": "1877239299684311421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651352531103109120/e2SjJj8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 495,
+          "like_count": 24715,
+          "listed_count": 6,
+          "media_count": 618,
+          "tweet_count": 9434
+        },
+        "username": "Arockandrew",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "尊厌｜这里是一片负能切片",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名信箱→",
+        "name": "西瓜投手",
+        "pinned_tweet_id": "1880858628900749359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879181983957630977/AUsQfd6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 99,
+          "like_count": 17700,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      }
+    ]
+  }
+}

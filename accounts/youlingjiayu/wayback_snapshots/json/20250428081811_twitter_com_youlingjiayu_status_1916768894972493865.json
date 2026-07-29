@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1916708862151004253",
+    "created_at": "2025-04-28T08:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T09:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916768894972493865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1611080123859742720",
+          "start": 0,
+          "username": "ETA112233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916768894972493865",
+    "in_reply_to_user_id": "1611080123859742720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916708862151004253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ETA112233 因为不是现在比较流行的妆面吧……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916708852047007744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpmEi7gb0AAa0wO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916708852143411200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpmEi73a0AArFQL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1916708862151004253",
+        "created_at": "2025-04-28T08:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T09:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916768894972493865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1611080123859742720",
+              "start": 0,
+              "username": "ETA112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916768894972493865",
+        "in_reply_to_user_id": "1611080123859742720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916708862151004253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ETA112233 因为不是现在比较流行的妆面吧……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916708852047007744",
+            "3_1916708852143411200"
+          ]
+        },
+        "author_id": "1611080123859742720",
+        "conversation_id": "1916708862151004253",
+        "created_at": "2025-04-28T04:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T05:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916708862151004253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOOWglQsXj",
+              "end": 48,
+              "expanded_url": "https://x.com/ETA112233/status/1916708862151004253/photo/1",
+              "media_key": "3_1916708852047007744",
+              "start": 25,
+              "url": "https://t.co/pOOWglQsXj"
+            },
+            {
+              "display_url": "pic.x.com/pOOWglQsXj",
+              "end": 48,
+              "expanded_url": "https://x.com/ETA112233/status/1916708862151004253/photo/1",
+              "media_key": "3_1916708852143411200",
+              "start": 25,
+              "url": "https://t.co/pOOWglQsXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916708862151004253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次出cos总有一种十年前的老人味，网感为0…… https://t.co/pOOWglQsXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 507,
+          "like_count": 9555,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 4183
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T19:20:23.000Z",
+        "description": "What’s your ETA?✨",
+        "id": "1611080123859742720",
+        "name": "eta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912323620375805952/C5NVA16u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 90,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 155
+        },
+        "username": "ETA112233",
+        "verified": false
+      }
+    ]
+  }
+}

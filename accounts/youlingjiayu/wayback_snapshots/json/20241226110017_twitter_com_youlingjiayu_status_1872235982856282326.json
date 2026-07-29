@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1872235755512484141",
+    "created_at": "2024-12-26T11:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T12:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872235982856282326"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1872235982856282326",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872235755512484141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明天还要去livehouse站至少两个小时……后天逛一整天动漫星城，真得燃尽了吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1872235755512484141",
+        "created_at": "2024-12-26T11:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872235982856282326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872235982856282326",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872235755512484141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天还要去livehouse站至少两个小时……后天逛一整天动漫星城，真得燃尽了吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872235747278991360",
+            "3_1872235750588325889",
+            "3_1872235750567313408",
+            "3_1872235752127676416"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1872235755512484141",
+        "created_at": "2024-12-26T10:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T11:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872235755512484141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNhtRorAkP",
+              "end": 29,
+              "expanded_url": "https://x.com/youlingjiayu/status/1872235755512484141/photo/1",
+              "media_key": "3_1872235747278991360",
+              "start": 6,
+              "url": "https://t.co/vNhtRorAkP"
+            },
+            {
+              "display_url": "pic.x.com/vNhtRorAkP",
+              "end": 29,
+              "expanded_url": "https://x.com/youlingjiayu/status/1872235755512484141/photo/1",
+              "media_key": "3_1872235750588325889",
+              "start": 6,
+              "url": "https://t.co/vNhtRorAkP"
+            },
+            {
+              "display_url": "pic.x.com/vNhtRorAkP",
+              "end": 29,
+              "expanded_url": "https://x.com/youlingjiayu/status/1872235755512484141/photo/1",
+              "media_key": "3_1872235750567313408",
+              "start": 6,
+              "url": "https://t.co/vNhtRorAkP"
+            },
+            {
+              "display_url": "pic.x.com/vNhtRorAkP",
+              "end": 29,
+              "expanded_url": "https://x.com/youlingjiayu/status/1872235755512484141/photo/1",
+              "media_key": "3_1872235752127676416",
+              "start": 6,
+              "url": "https://t.co/vNhtRorAkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872235755512484141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我燃尽了。 https://t.co/vNhtRorAkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870033441397596160/ItBZg8zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 521,
+          "like_count": 3134,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1985
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

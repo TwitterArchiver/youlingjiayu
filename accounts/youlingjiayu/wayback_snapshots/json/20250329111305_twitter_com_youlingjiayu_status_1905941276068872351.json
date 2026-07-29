@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1905940776246259775",
+    "created_at": "2025-03-29T11:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T12:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905941276068872351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609641240827686913",
+          "start": 0,
+          "username": "RintheMemewitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905941276068872351",
+    "in_reply_to_user_id": "1609641240827686913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905940776246259775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RintheMemewitch 虽然很多人在骂但我觉得整体做得非常好啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1905940776246259775",
+        "created_at": "2025-03-29T11:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T12:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905941276068872351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609641240827686913",
+              "start": 0,
+              "username": "RintheMemewitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905941276068872351",
+        "in_reply_to_user_id": "1609641240827686913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905940776246259775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RintheMemewitch 虽然很多人在骂但我觉得整体做得非常好啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609641240827686913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          }
+        ],
+        "conversation_id": "1905940776246259775",
+        "created_at": "2025-03-29T11:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T12:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905940776246259775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manmantink0/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/manmantink0/status/1905895728284876815",
+              "start": 7,
+              "url": "https://t.co/7uPuCLWqVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905940776246259775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905895728284876815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有种魔性的美 https://t.co/7uPuCLWqVw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的重力系赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，把网友当垃圾回收员，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 493,
+          "like_count": 7509,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 3390
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T20:02:46.000Z",
+        "description": "防失聯：Discord /Pixiv/Ins/Fb/AO3/Ytb account：Rinshiwasu ｜only Angel devil 4ever 配偶担保天使恶魔移民我是认真的 我和安吉尔实现功德平账 https://t.co/Z6nhB0bzxc 苯人对所有twi内容有最终解释权",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rinshiwasu.straw.page",
+                "end": 128,
+                "expanded_url": "https://rinshiwasu.straw.page",
+                "start": 105,
+                "url": "https://t.co/Z6nhB0bzxc"
+              }
+            ]
+          }
+        },
+        "id": "1609641240827686913",
+        "location": "Tokyo",
+        "name": "师走凌 Rin",
+        "pinned_tweet_id": "1904037965132955967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893492191240298499/y0CgKVkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 154,
+          "like_count": 5287,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 4047
+        },
+        "username": "RintheMemewitch",
+        "verified": false
+      }
+    ]
+  }
+}

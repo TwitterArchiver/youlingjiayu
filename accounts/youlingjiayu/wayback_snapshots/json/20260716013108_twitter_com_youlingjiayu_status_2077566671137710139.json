@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2077566671137710139",
+    "created_at": "2026-07-16T01:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T02:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077566671137710139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/2077566199865671961",
+          "start": 50,
+          "url": "https://t.co/PlMmga7i7S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077566671137710139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077566199865671961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我死亡的欲望是把杀死我的权力交到最爱最信任的人手上，这样我的生命就能变得轻飘飘的，像气球或是风筝。 https://t.co/PlMmga7i7S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2077566671137710139",
+        "created_at": "2026-07-16T01:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077566671137710139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/2077566199865671961",
+              "start": 50,
+              "url": "https://t.co/PlMmga7i7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077566671137710139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077566199865671961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我死亡的欲望是把杀死我的权力交到最爱最信任的人手上，这样我的生命就能变得轻飘飘的，像气球或是风筝。 https://t.co/PlMmga7i7S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2077566199865671961",
+        "created_at": "2026-07-16T01:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077566199865671961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077566199865671961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我拒绝了所有能上瘾的东西，除了爱、痛苦和死亡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 537,
+          "like_count": 19266,
+          "listed_count": 1,
+          "media_count": 1009,
+          "tweet_count": 8368
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

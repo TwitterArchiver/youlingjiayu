@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1923928820278755528",
+    "created_at": "2025-05-18T12:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T13:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924077320404693382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816105634179534848",
+          "start": 0,
+          "username": "sevensand7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924077320404693382",
+    "in_reply_to_user_id": "1816105634179534848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923928820278755528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevensand7 保护好自己哇……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1923928820278755528",
+        "created_at": "2025-05-18T12:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T13:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924077320404693382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816105634179534848",
+              "start": 0,
+              "username": "sevensand7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924077320404693382",
+        "in_reply_to_user_id": "1816105634179534848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923928820278755528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevensand7 保护好自己哇……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816105634179534848",
+        "conversation_id": "1923928820278755528",
+        "created_at": "2025-05-18T02:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T03:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923928820278755528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923928820278755528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1794,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在朋友家睡 此人突然来了句我可以抱抱你吗 给我魂都吓没了 杀伤力不异于某A姓男推半夜四点让我想打紧急求救电话的“我可以对你实施窒息吗” 但此人比A好的一点在于起码他是平视我的 A某完全是不把我当人看哈😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 514,
+          "like_count": 10088,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 4399
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T13:38:30.000Z",
+        "description": "queer｜黑色猫咪正淌过绿色的河",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sevensand",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sevensand",
+                "start": 0,
+                "url": "https://t.co/LkrygZI6Jg"
+              }
+            ]
+          }
+        },
+        "id": "1816105634179534848",
+        "location": "提问箱 ——",
+        "name": "七尺沙地和她孕育的孩子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920720661737336832/8OEcoshY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 291,
+          "like_count": 22575,
+          "listed_count": 7,
+          "media_count": 561,
+          "tweet_count": 6084
+        },
+        "url": "https://t.co/LkrygZI6Jg",
+        "username": "sevensand7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1905801516738585005",
+    "created_at": "2025-03-29T02:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T03:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905807661729472521"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1905807661729472521",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905806244197409162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她是成绩更好的，性格更好的，甚至长相更好的小孩。你为什么不能像她一样呢？你为什么要为了你的一点小成就骄傲呢？你做得不够好，你应该谦虚，你不应该为了这种事快乐，你要继续努力。为什么不喜欢我而是喜欢别的小孩？你们要抛弃我吗？你们要选择别人当小孩吗？你们又要觉得我不够努力而对我失望吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1905801516738585005",
+        "created_at": "2025-03-29T02:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T03:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905807661729472521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905807661729472521",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905806244197409162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她是成绩更好的，性格更好的，甚至长相更好的小孩。你为什么不能像她一样呢？你为什么要为了你的一点小成就骄傲呢？你做得不够好，你应该谦虚，你不应该为了这种事快乐，你要继续努力。为什么不喜欢我而是喜欢别的小孩？你们要抛弃我吗？你们要选择别人当小孩吗？你们又要觉得我不够努力而对我失望吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1905801516738585005",
+        "created_at": "2025-03-29T02:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T03:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905806244197409162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905806244197409162",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905801516738585005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想和谁对比，因为我知道人和人不能被比较的，那为什么要把我放进对比项和选项里？过年的时候外公提起那个久违的名字依然会让我头皮发麻，我说了好几遍我讨厌她但他还是自顾自地讲她的近况。我其实不怎么认识她，我知道我不应该讨厌一个没什么交际，她只是在做自己的事情，但我还是克制不住地害怕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的重力系赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，把网友当垃圾回收员，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 493,
+          "like_count": 7461,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 3369
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

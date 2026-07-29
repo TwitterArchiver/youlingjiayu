@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1910027211543044403",
+    "created_at": "2025-04-09T17:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T18:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910029257994297843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699423835064311808",
+          "start": 0,
+          "username": "TizzyBan61761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910029257994297843",
+    "in_reply_to_user_id": "1699423835064311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910028128019480761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TizzyBan61761 谢谢，但明天还有事要做……哪怕打晕自己我也要努力睡着。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1910027211543044403",
+        "created_at": "2025-04-09T17:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T18:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910029257994297843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1699423835064311808",
+              "start": 0,
+              "username": "TizzyBan61761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910029257994297843",
+        "in_reply_to_user_id": "1699423835064311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910028128019480761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TizzyBan61761 谢谢，但明天还有事要做……哪怕打晕自己我也要努力睡着。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699423835064311808",
+        "conversation_id": "1910027211543044403",
+        "created_at": "2025-04-09T17:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T18:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910028128019480761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910028128019480761",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910027211543044403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 那今晚起码不是一个人，不睡就不结束的今天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 503,
+          "like_count": 8681,
+          "listed_count": 1,
+          "media_count": 343,
+          "tweet_count": 3851
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T14:06:43.000Z",
+        "description": "摄魂怪，窥私欲，颜控，无情绪的",
+        "id": "1699423835064311808",
+        "name": "Tizzy ban",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850982035252563968/OCgID0U8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 741,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 440
+        },
+        "username": "TizzyBan61761",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922212012148371456",
+        "3_1922212009673949184"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1922204835832611114",
+    "created_at": "2025-05-13T08:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T09:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922212015319232671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sa9YQvw41Q",
+          "end": 166,
+          "expanded_url": "https://x.com/youlingjiayu/status/1922212015319232671/photo/1",
+          "media_key": "3_1922212012148371456",
+          "start": 143,
+          "url": "https://t.co/Sa9YQvw41Q"
+        },
+        {
+          "display_url": "pic.x.com/Sa9YQvw41Q",
+          "end": 166,
+          "expanded_url": "https://x.com/youlingjiayu/status/1922212015319232671/photo/1",
+          "media_key": "3_1922212009673949184",
+          "start": 143,
+          "url": "https://t.co/Sa9YQvw41Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922212015319232671",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922204835832611114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理论都知道了但是做起来很难吧……努力去关注“现在”只会觉得不足和惶恐；现在很渺小，真实得丑陋又不堪，而未来是瑰丽宏大的肥皂泡，是看一眼就会被引诱的幻梦。\n“人的思维是一种漫游性思维，而漫游性思维会让人不快乐”。我畸形的模型让我主动寻求痛苦，否则我甚至连快乐都无法品尝……我不想麻木啊。 https://t.co/Sa9YQvw41Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 438,
+        "media_key": "3_1922212012148371456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq0RpAcXsAAmBEa.jpg",
+        "width": 1194
+      },
+      {
+        "height": 773,
+        "media_key": "3_1922212009673949184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq0Ro3ObAAA9W9b.jpg",
+        "width": 1668
+      },
+      {
+        "height": 452,
+        "media_key": "3_1922204830518431744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq0LG-yXUAATxRj.jpg",
+        "width": 887
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1922204832716263424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq0LHG-XkAALiOH.jpg",
+        "width": 1342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922212012148371456",
+            "3_1922212009673949184"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1922204835832611114",
+        "created_at": "2025-05-13T08:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T09:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922212015319232671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sa9YQvw41Q",
+              "end": 166,
+              "expanded_url": "https://x.com/youlingjiayu/status/1922212015319232671/photo/1",
+              "media_key": "3_1922212012148371456",
+              "start": 143,
+              "url": "https://t.co/Sa9YQvw41Q"
+            },
+            {
+              "display_url": "pic.x.com/Sa9YQvw41Q",
+              "end": 166,
+              "expanded_url": "https://x.com/youlingjiayu/status/1922212015319232671/photo/1",
+              "media_key": "3_1922212009673949184",
+              "start": 143,
+              "url": "https://t.co/Sa9YQvw41Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922212015319232671",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922204835832611114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理论都知道了但是做起来很难吧……努力去关注“现在”只会觉得不足和惶恐；现在很渺小，真实得丑陋又不堪，而未来是瑰丽宏大的肥皂泡，是看一眼就会被引诱的幻梦。\n“人的思维是一种漫游性思维，而漫游性思维会让人不快乐”。我畸形的模型让我主动寻求痛苦，否则我甚至连快乐都无法品尝……我不想麻木啊。 https://t.co/Sa9YQvw41Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922204830518431744",
+            "3_1922204832716263424"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1922204835832611114",
+        "created_at": "2025-05-13T08:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T09:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922204835832611114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n61r8JnsVT",
+              "end": 160,
+              "expanded_url": "https://x.com/youlingjiayu/status/1922204835832611114/photo/1",
+              "media_key": "3_1922204830518431744",
+              "start": 137,
+              "url": "https://t.co/n61r8JnsVT"
+            },
+            {
+              "display_url": "pic.x.com/n61r8JnsVT",
+              "end": 160,
+              "expanded_url": "https://x.com/youlingjiayu/status/1922204835832611114/photo/1",
+              "media_key": "3_1922204832716263424",
+              "start": 137,
+              "url": "https://t.co/n61r8JnsVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922204835832611114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甲鱼不正经书评31\n《贪婪的多巴胺》\n大概能解答为什么我容易厌倦，无法活在当下而过于向往极遥远的未来的问题。\n虽然人的意识是非常复杂的东西，但人确实很大程度上会被这类小小的化学物质所操控，但利用这些来改变自己又是另外一回事……\n总之仍需努力运用多巴胺的机制调整我的生活吧。 https://t.co/n61r8JnsVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼｜我想答案可能是生命本身。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝓈𝒶𝒸𝒶𝒷𝒶𝓂𝒷𝒶𝓈𝓅𝒾𝓈",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 508,
+          "like_count": 9895,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 4348
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1949786415799451984",
+    "created_at": "2025-07-28T13:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T14:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949817670070608177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1722682507479441408",
+          "start": 0,
+          "username": "4N_atiius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949817670070608177",
+    "in_reply_to_user_id": "1722682507479441408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949788838282355070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4N_atiius 孩子衣服晒不完了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1949786415799451984",
+        "created_at": "2025-07-28T13:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T14:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949817670070608177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1722682507479441408",
+              "start": 0,
+              "username": "4N_atiius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949817670070608177",
+        "in_reply_to_user_id": "1722682507479441408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949788838282355070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4N_atiius 孩子衣服晒不完了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722682507479441408",
+        "conversation_id": "1949786415799451984",
+        "created_at": "2025-07-28T11:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T12:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949788838282355070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949788838282355070",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949786515619635270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 最好下个大雨孩子好热"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 536,
+          "like_count": 12459,
+          "listed_count": 0,
+          "media_count": 555,
+          "tweet_count": 5213
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T18:28:28.000Z",
+        "description": "烏雲追着我們下着瓢潑大雨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natiius",
+                "end": 23,
+                "expanded_url": "https://ngl.link/natiius",
+                "start": 0,
+                "url": "https://t.co/OAeWtJyCUU"
+              }
+            ]
+          }
+        },
+        "id": "1722682507479441408",
+        "name": "歲譠",
+        "pinned_tweet_id": "1930367928916160752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945129873292324864/XSbyrsQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 89,
+          "like_count": 1926,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/OAeWtJyCUU",
+        "username": "4N_atiius",
+        "verified": false
+      }
+    ]
+  }
+}

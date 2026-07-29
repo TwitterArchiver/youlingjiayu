@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1917080016388849780",
+    "created_at": "2025-04-29T05:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T06:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917089276959113235"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1917089276959113235",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917087724143804579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想马尔克斯最后还是宽容的，毕竟老鸨说女孩爱上了“我”，而他也没有写到两人相见就戛然而止；是对自己的衰老的不忍吗？\n这真爱又超越了欲望：“性是一个人在不能得到爱时给自己的安慰”。\n“终于，真正的生活开始了，我的心安然无恙，注定会在百岁之后的某日，在幸福的弥留之际死于美好的爱情”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1917080016388849780",
+        "created_at": "2025-04-29T05:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T06:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917089276959113235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917089276959113235",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917087724143804579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想马尔克斯最后还是宽容的，毕竟老鸨说女孩爱上了“我”，而他也没有写到两人相见就戛然而止；是对自己的衰老的不忍吗？\n这真爱又超越了欲望：“性是一个人在不能得到爱时给自己的安慰”。\n“终于，真正的生活开始了，我的心安然无恙，注定会在百岁之后的某日，在幸福的弥留之际死于美好的爱情”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1917080016388849780",
+        "created_at": "2025-04-29T05:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T06:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917087724143804579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917087724143804579",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917080016388849780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "况且我觉得这也不算是完全的爱情，更像是一个将死之人贪恋青春的生命。少女没有名字，“我”也不想知道，甚至不知道她的眼睛的颜色；她一直沉睡着，供我凝视，供我自作多情地陷入苦恋——是虚幻的爱。\n在高中读时就有种模糊的触动，现在想来大概是爱是一种幻觉之类的感悟。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别赛博萨卡班甲鱼\n这里是真实的，但不是全部的，你并不了解我，就像我从来没有真正认识过任何人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 507,
+          "like_count": 9579,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 4201
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

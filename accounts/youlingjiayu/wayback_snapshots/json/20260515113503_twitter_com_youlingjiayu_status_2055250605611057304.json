@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2055250605611057304",
+    "created_at": "2026-05-15T11:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055250605611057304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_cookie_bing/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/_cookie_bing/status/2055217721961582877",
+          "start": 14,
+          "url": "https://t.co/1swb668Pvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055250605611057304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055217721961582877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想立刻瘦到90斤穿蕾服。 https://t.co/1swb668Pvv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2055250605611057304",
+        "created_at": "2026-05-15T11:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055250605611057304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_cookie_bing/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/_cookie_bing/status/2055217721961582877",
+              "start": 14,
+              "url": "https://t.co/1swb668Pvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055250605611057304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055217721961582877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想立刻瘦到90斤穿蕾服。 https://t.co/1swb668Pvv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094453901783293952",
+        "conversation_id": "2055217721961582877",
+        "created_at": "2026-05-15T09:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055217721961582877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055217721961582877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想立刻瘦到90斤穿蕾服。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 526,
+          "like_count": 18535,
+          "listed_count": 1,
+          "media_count": 964,
+          "tweet_count": 8083
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-10T04:31:58.000Z",
+        "description": "或许我早就死在了看向月亮的那个夜",
+        "id": "1094453901783293952",
+        "name": "cookie",
+        "pinned_tweet_id": "1964510651747094775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721603552047661056/ZB2TEFoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 337,
+          "like_count": 4862,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 4005
+        },
+        "username": "_cookie_bing",
+        "verified": false
+      }
+    ]
+  }
+}

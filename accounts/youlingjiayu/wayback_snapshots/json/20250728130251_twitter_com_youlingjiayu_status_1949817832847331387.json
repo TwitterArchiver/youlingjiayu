@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1949811107578732700",
+    "created_at": "2025-07-28T13:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T14:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949817832847331387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1866846638515318784",
+          "start": 0,
+          "username": "bloria33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949817832847331387",
+    "in_reply_to_user_id": "1866846638515318784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949811107578732700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bloria33 偷一口薯条喵。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949811099768885248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw8e3VzWkAA0H7_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1949811107578732700",
+        "created_at": "2025-07-28T13:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T14:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949817832847331387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1866846638515318784",
+              "start": 0,
+              "username": "bloria33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949817832847331387",
+        "in_reply_to_user_id": "1866846638515318784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949811107578732700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bloria33 偷一口薯条喵。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949811099768885248"
+          ]
+        },
+        "author_id": "1866846638515318784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1949811107578732700",
+        "created_at": "2025-07-28T12:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T13:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949811107578732700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kR5czv4fz",
+              "end": 49,
+              "expanded_url": "https://x.com/bloria33/status/1949811107578732700/photo/1",
+              "media_key": "3_1949811099768885248",
+              "start": 26,
+              "url": "https://t.co/0kR5czv4fz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949811107578732700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说去图书馆写论文 刚出门想起自己没吃饭 转弯走向麦 https://t.co/0kR5czv4fz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 536,
+          "like_count": 12463,
+          "listed_count": 0,
+          "media_count": 555,
+          "tweet_count": 5214
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T14:05:06.000Z",
+        "description": "小井盖的小离去是小老乡的小追求还是小老鼠的不挽留",
+        "id": "1866846638515318784",
+        "location": "Bunnahabhain, Scotland",
+        "name": "Bloria",
+        "pinned_tweet_id": "1942057643339563359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948015669091700736/EeMUPNyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 180,
+          "like_count": 9061,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1461
+        },
+        "username": "bloria33",
+        "verified": false
+      }
+    ]
+  }
+}

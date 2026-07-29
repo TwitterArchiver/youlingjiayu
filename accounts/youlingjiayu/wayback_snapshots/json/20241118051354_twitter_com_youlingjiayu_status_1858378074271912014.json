@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1858363973286125844",
+    "created_at": "2024-11-18T05:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T06:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858378074271912014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636798393711497216",
+          "start": 0,
+          "username": "tongwuttttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858378074271912014",
+    "in_reply_to_user_id": "1636798393711497216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858375870630789190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tongwuttttt 挺讽刺的，一开始我确实打算按家里铺设好的路，回家进编制，然后平平淡淡地过。\n后来发现预设的道路并不合适，看了更多之后就不想回去了，因为我觉得我还会有更多可能。\n但是我家里却很后悔让我去上那个学校，因为它导致我对人生的忧思加重了……\n虽然有时会想回到什么都不懂的日子，但终究回不去了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1858363973286125844",
+        "created_at": "2024-11-18T05:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T06:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858378074271912014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636798393711497216",
+              "start": 0,
+              "username": "tongwuttttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858378074271912014",
+        "in_reply_to_user_id": "1636798393711497216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858375870630789190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tongwuttttt 挺讽刺的，一开始我确实打算按家里铺设好的路，回家进编制，然后平平淡淡地过。\n后来发现预设的道路并不合适，看了更多之后就不想回去了，因为我觉得我还会有更多可能。\n但是我家里却很后悔让我去上那个学校，因为它导致我对人生的忧思加重了……\n虽然有时会想回到什么都不懂的日子，但终究回不去了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636798393711497216",
+        "conversation_id": "1858363973286125844",
+        "created_at": "2024-11-18T05:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T06:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858375870630789190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858375870630789190",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858375748358488528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 永远不可能再回去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826244328551047168/6pX2QBky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 520,
+          "like_count": 1469,
+          "listed_count": 0,
+          "tweet_count": 1053
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T18:35:34.000Z",
+        "description": "而仍有余热",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/silent_snow__",
+                "end": 23,
+                "expanded_url": "https://ngl.link/silent_snow__",
+                "start": 0,
+                "url": "https://t.co/4UcUQDynwW"
+              }
+            ]
+          }
+        },
+        "id": "1636798393711497216",
+        "location": "Heathrow, FL",
+        "name": "Silent-snow1",
+        "pinned_tweet_id": "1848686310871208174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799900341808603136/hFAYYi1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 252,
+          "like_count": 9000,
+          "listed_count": 5,
+          "tweet_count": 4637
+        },
+        "url": "https://t.co/4UcUQDynwW",
+        "username": "tongwuttttt",
+        "verified": false
+      }
+    ]
+  }
+}

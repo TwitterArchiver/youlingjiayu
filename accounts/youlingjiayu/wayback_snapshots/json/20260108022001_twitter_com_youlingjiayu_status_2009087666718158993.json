@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2008904147974906160",
+    "created_at": "2026-01-08T02:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T03:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009087666718158993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "852198642987528196",
+          "start": 0,
+          "username": "EXReroasashio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009087666718158993",
+    "in_reply_to_user_id": "852198642987528196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008974489342840970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EXReroasashio 我就是在特指香草。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2008904147974906160",
+        "created_at": "2026-01-08T02:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009087666718158993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "852198642987528196",
+              "start": 0,
+              "username": "EXReroasashio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009087666718158993",
+        "in_reply_to_user_id": "852198642987528196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008974489342840970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EXReroasashio 我就是在特指香草。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "852198642987528196",
+        "conversation_id": "2008904147974906160",
+        "created_at": "2026-01-07T18:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T19:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008974489342840970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008974489342840970",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008904147974906160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 请问您是否在寻找 芭尼拉苏打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004368357987082240/AxDwqPw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 517,
+          "like_count": 16328,
+          "listed_count": 1,
+          "media_count": 778,
+          "tweet_count": 7069
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-12T16:36:04.000Z",
+        "description": "磁器コレクション活動中🏴‍☠️",
+        "id": "852198642987528196",
+        "name": "雷洛",
+        "pinned_tweet_id": "1959981284752785725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959515165499719680/wPwNn4Ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 98,
+          "like_count": 10302,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 1794
+        },
+        "username": "EXReroasashio",
+        "verified": false
+      }
+    ]
+  }
+}

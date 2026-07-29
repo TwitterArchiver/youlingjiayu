@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1875861438407037348",
+    "created_at": "2025-01-05T14:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T15:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875906802766016620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816105634179534848",
+          "start": 0,
+          "username": "sevensand7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875906802766016620",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875861438407037348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevensand7 与沙地老师聊得格外投机😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1875861438407037348",
+        "created_at": "2025-01-05T14:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T15:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875906802766016620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816105634179534848",
+              "start": 0,
+              "username": "sevensand7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875906802766016620",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875861438407037348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevensand7 与沙地老师聊得格外投机😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875861431436115968"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1875861438407037348",
+        "created_at": "2025-01-05T11:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T12:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875861438407037348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816105634179534848",
+              "start": 0,
+              "username": "sevensand7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xb5LshpfZl",
+              "end": 35,
+              "expanded_url": "https://x.com/youlingjiayu/status/1875861438407037348/photo/1",
+              "media_key": "3_1875861431436115968",
+              "start": 12,
+              "url": "https://t.co/xb5LshpfZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875861438407037348",
+        "in_reply_to_user_id": "1816105634179534848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@sevensand7 https://t.co/xb5LshpfZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的赛博萨卡班甲鱼\n00后/intj/无业游民/搞同人的，把这边当日记本和垃圾桶，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n泛性恋/switch\n我爱人类\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1851183000316453102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874756637300555776/GDFsYR51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 519,
+          "like_count": 3350,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2080
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T13:38:30.000Z",
+        "description": "queer｜黑色猫咪正淌过绿色的河",
+        "id": "1816105634179534848",
+        "location": "遥远的西伯利亚",
+        "name": "七尺沙地和她孕育的孩子",
+        "pinned_tweet_id": "1872684054631612808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854338904897515520/UW2Hoqy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 248,
+          "like_count": 13052,
+          "listed_count": 6,
+          "media_count": 293,
+          "tweet_count": 3173
+        },
+        "username": "sevensand7",
+        "verified": false
+      }
+    ]
+  }
+}

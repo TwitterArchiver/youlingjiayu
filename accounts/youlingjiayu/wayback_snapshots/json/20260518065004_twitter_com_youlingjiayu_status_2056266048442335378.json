@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2056220610649625050",
+    "created_at": "2026-05-18T06:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056266048442335378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "909189799",
+          "start": 0,
+          "username": "BBBBBlabu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056266048442335378",
+    "in_reply_to_user_id": "909189799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056220610649625050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBBBBlabu 谨慎使用吧，我爸的手指就是因为电动切割断的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2043,
+        "media_key": "3_2056220599727570944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkpvbqaQAALjek.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2056220610649625050",
+        "created_at": "2026-05-18T06:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056266048442335378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "909189799",
+              "start": 0,
+              "username": "BBBBBlabu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056266048442335378",
+        "in_reply_to_user_id": "909189799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056220610649625050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBBBBlabu 谨慎使用吧，我爸的手指就是因为电动切割断的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056220599727570944"
+          ]
+        },
+        "author_id": "909189799",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056220610649625050",
+        "created_at": "2026-05-18T03:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056220610649625050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sIpjtiFLj",
+              "end": 42,
+              "expanded_url": "https://x.com/BBBBBlabu/status/2056220610649625050/photo/1",
+              "media_key": "3_2056220599727570944",
+              "start": 19,
+              "url": "https://t.co/0sIpjtiFLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056220610649625050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手工里唯一不敢用的东西就是电动切割😇 https://t.co/0sIpjtiFLj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 526,
+          "like_count": 18567,
+          "listed_count": 1,
+          "media_count": 966,
+          "tweet_count": 8101
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "和我在一起，你便不必羡慕旁人的幸福会不会降临在你身上。",
+        "id": "909189799",
+        "name": "BB喇布",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044407686717153280/5qWvOYBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 734,
+          "like_count": 28731,
+          "listed_count": 2,
+          "media_count": 828,
+          "tweet_count": 10936
+        },
+        "username": "BBBBBlabu",
+        "verified": false
+      }
+    ]
+  }
+}

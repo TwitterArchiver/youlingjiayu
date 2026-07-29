@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1927153351013048368",
+    "created_at": "2025-05-27T01:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T02:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927175088681480426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753470997422878720",
+          "start": 0,
+          "username": "404nocoriander"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927175088681480426",
+    "in_reply_to_user_id": "1753470997422878720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927153351013048368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404nocoriander 看了半天以为是物化的女孩和男孩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1927153351013048368",
+        "created_at": "2025-05-27T01:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T02:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927175088681480426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753470997422878720",
+              "start": 0,
+              "username": "404nocoriander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927175088681480426",
+        "in_reply_to_user_id": "1753470997422878720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927153351013048368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404nocoriander 看了半天以为是物化的女孩和男孩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753470997422878720",
+        "conversation_id": "1927153351013048368",
+        "created_at": "2025-05-27T00:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T01:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927153351013048368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927153351013048368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "物化女孩我会生气，物化男孩我会兴奋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 522,
+          "like_count": 10444,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 4523
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T17:30:39.000Z",
+        "description": "老公孩子热炕头",
+        "id": "1753470997422878720",
+        "location": "宛平南路600号",
+        "name": "Aaa.精神卫生中心菜医生",
+        "pinned_tweet_id": "1833349563069173894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801577511824068613/Doi4tSWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 232,
+          "like_count": 7191,
+          "listed_count": 6,
+          "media_count": 221,
+          "tweet_count": 5079
+        },
+        "username": "404nocoriander",
+        "verified": false
+      }
+    ]
+  }
+}

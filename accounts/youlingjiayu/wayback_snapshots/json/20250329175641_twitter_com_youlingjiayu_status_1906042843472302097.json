@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "1906035073742434601",
+    "created_at": "2025-03-29T17:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T18:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906042843472302097"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906042843472302097",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906041323288920246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "注定是一场无尽的苦旅，得不到正反馈的实验，没有明确方向的探索，最后像迷宫里的小白鼠一样反复碰壁再碰壁，可能侥幸离开迷宫，也可能在试误中放弃或者死去；因为一切是未知的，不知道迷宫有多大，也不知道迷宫外面是什么，不知道解开迷宫之后带来的是什么后果，一切未知都显得不可控而危险得美丽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1906035073742434601",
+        "created_at": "2025-03-29T17:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T18:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906042843472302097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906042843472302097",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906041323288920246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "注定是一场无尽的苦旅，得不到正反馈的实验，没有明确方向的探索，最后像迷宫里的小白鼠一样反复碰壁再碰壁，可能侥幸离开迷宫，也可能在试误中放弃或者死去；因为一切是未知的，不知道迷宫有多大，也不知道迷宫外面是什么，不知道解开迷宫之后带来的是什么后果，一切未知都显得不可控而危险得美丽。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1906035073742434601",
+        "created_at": "2025-03-29T17:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T18:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906041323288920246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906041323288920246",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906039636159549563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很能理解奥本海默，可能因为他似乎是intj？或者也可能是诺兰设计到位。所以在想如果我身处在当时的情况，我会做得更好吗？答案大概是否定的，历史有严丝合缝的巧合，但这是作为后来人来看；我钦佩所有科研人员飞蛾扑火的勇气，有时攀上山时发现早就有人在山顶，而山顶上的人伸手去抓遥不可及的星星。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt74m0H\n无性别的重力系赛博萨卡班甲鱼\n00后/intj/无业游民/同人/泛性恋/switch，把这边当日记本和垃圾桶，把网友当垃圾回收员，关注和转发不代表个人立场和观点\n不加lxfs，除非合眼缘，害怕性器官\n会查主页礼貌互fo，取关请双取",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "Sacabambaspis",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 493,
+          "like_count": 7539,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 3404
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

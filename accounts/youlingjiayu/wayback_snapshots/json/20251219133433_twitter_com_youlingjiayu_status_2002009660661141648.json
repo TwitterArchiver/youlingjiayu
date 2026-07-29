@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2002009660661141648",
+    "created_at": "2025-12-19T13:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T14:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002009660661141648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youlingjiayu/s…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/youlingjiayu/status/1955299674157453704",
+          "start": 83,
+          "url": "https://t.co/4ojNWgshl4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002009660661141648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955299674157453704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能找到的工作的工资还没有我家里每个月花在我身上的钱多；甚至没有除开房租之外的生活费多；就算按照原来的路径走下去，能拿到的最高的工资也只和我外公外婆的养老金差不多。 https://t.co/4ojNWgshl4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2002009660661141648",
+        "created_at": "2025-12-19T13:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002009660661141648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youlingjiayu/s…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/youlingjiayu/status/1955299674157453704",
+              "start": 83,
+              "url": "https://t.co/4ojNWgshl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002009660661141648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955299674157453704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能找到的工作的工资还没有我家里每个月花在我身上的钱多；甚至没有除开房租之外的生活费多；就算按照原来的路径走下去，能拿到的最高的工资也只和我外公外婆的养老金差不多。 https://t.co/4ojNWgshl4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955185506637189563",
+        "created_at": "2025-08-12T16:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955299674157453704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955299674157453704",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955185506637189563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我没有什么特别要操心的事情，家人朋友都很好，不需要我帮忙；长辈们看病不花钱，家里也没有负债；除非我在上海买房，不然我父母的养老钱肯定够了；之前家里透露过就算我一辈子不工作都饿不死。\n朋友们条件也都不错，家境大部分都挺好，偶尔找我帮忙都是因为人际或者情绪上的问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt73Ob9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041314135584768/OqK6yJR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 512,
+          "like_count": 15677,
+          "listed_count": 1,
+          "media_count": 744,
+          "tweet_count": 6833
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}

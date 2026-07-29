@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1955139726421495808"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "1955139769156976831",
+    "created_at": "2025-08-12T05:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T06:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955139769156976831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KAeAi2RNbk",
+          "end": 34,
+          "expanded_url": "https://x.com/youlingjiayu/status/1955139769156976831/video/1",
+          "media_key": "7_1955139726421495808",
+          "start": 11,
+          "url": "https://t.co/KAeAi2RNbk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955139769156976831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉迟早加入观鸟区。 https://t.co/KAeAi2RNbk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9775,
+        "height": 960,
+        "media_key": "7_1955139726421495808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1955139726421495808/pu/img/NrtQ7J0l4wujA1O5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955139726421495808/pu/vid/avc1/320x426/yP65nO7syNcQX-HT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955139726421495808/pu/vid/avc1/480x640/22Upd1hNTMB6pCNv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955139726421495808/pu/vid/avc1/720x960/zDxJP_TGl4QF2mL3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1955139726421495808/pu/pl/MW6dm4KdjxhupVQM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1955139726421495808"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "1955139769156976831",
+        "created_at": "2025-08-12T05:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T06:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955139769156976831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAeAi2RNbk",
+              "end": 34,
+              "expanded_url": "https://x.com/youlingjiayu/status/1955139769156976831/video/1",
+              "media_key": "7_1955139726421495808",
+              "start": 11,
+              "url": "https://t.co/KAeAi2RNbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955139769156976831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉迟早加入观鸟区。 https://t.co/KAeAi2RNbk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "提问箱：https://t.co/torEt73Ob9\n无性别赛博萨卡班甲鱼｜“我只能生活在这个世界的开端或结局”。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 27,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 4,
+                "url": "https://t.co/torEt73Ob9"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "location": "奥陶纪",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1894558569837858966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893496646312566785/xHKEhhja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 540,
+          "like_count": 13301,
+          "listed_count": 1,
+          "media_count": 596,
+          "tweet_count": 5499
+        },
+        "username": "youlingjiayu",
+        "verified": false
+      }
+    ]
+  }
+}
