@@ -1,0 +1,580 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Acompanhe abaixo os principais Tweets sobre o programa:",
+          "id": "10028564156",
+          "name": "Big Brother Brasil"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281297135971913728",
+          "name": "Competition shows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283479403482112000",
+          "name": "Other competition"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1338927560911024128",
+          "name": "Big Brother Brasil"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1338927560911024128",
+          "name": "Big Brother Brasil"
+        }
+      }
+    ],
+    "conversation_id": "2092931593258299458",
+    "created_at": "2026-08-27T11:05:51.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092931593258299458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Comtecamontlaf…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Comtecamontlafe/status/2092567052288770271",
+          "start": 13,
+          "url": "https://t.co/q1sZOIr5fq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092931593258299458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092567052288770271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "助力这个香草找回朋友喵。 https://t.co/q1sZOIr5fq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092567034379071489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpKoYDbcAEvp7U.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092567034366443520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpKoYAawAAqL_t.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Acompanhe abaixo os principais Tweets sobre o programa:",
+              "id": "10028564156",
+              "name": "Big Brother Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281297135971913728",
+              "name": "Competition shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283479403482112000",
+              "name": "Other competition"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338927560911024128",
+              "name": "Big Brother Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1338927560911024128",
+              "name": "Big Brother Brasil"
+            }
+          }
+        ],
+        "conversation_id": "2092931593258299458",
+        "created_at": "2026-08-27T11:05:51.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092931593258299458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Comtecamontlaf…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Comtecamontlafe/status/2092567052288770271",
+              "start": 13,
+              "url": "https://t.co/q1sZOIr5fq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092931593258299458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092567052288770271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "助力这个香草找回朋友喵。 https://t.co/q1sZOIr5fq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092567034379071489",
+            "3_2092567034366443520"
+          ]
+        },
+        "author_id": "2083883817287503872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Acompanhe abaixo os principais Tweets sobre o programa:",
+              "id": "10028564156",
+              "name": "Big Brother Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281297135971913728",
+              "name": "Competition shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283479403482112000",
+              "name": "Other competition"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338927560911024128",
+              "name": "Big Brother Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1338927560911024128",
+              "name": "Big Brother Brasil"
+            }
+          }
+        ],
+        "conversation_id": "2092567052288770271",
+        "created_at": "2026-08-26T10:57:17.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092567052288770271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxflpnE5CO",
+              "end": 38,
+              "expanded_url": "https://x.com/Comtecamontlafe/status/2092567052288770271/photo/1",
+              "media_key": "3_2092567034379071489",
+              "start": 15,
+              "url": "https://t.co/uxflpnE5CO"
+            },
+            {
+              "display_url": "pic.x.com/uxflpnE5CO",
+              "end": 38,
+              "expanded_url": "https://x.com/Comtecamontlafe/status/2092567052288770271/photo/1",
+              "media_key": "3_2092567034366443520",
+              "start": 15,
+              "url": "https://t.co/uxflpnE5CO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092567052288770271",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092567034379071489"
+          },
+          {
+            "media_key": "3_2092567034366443520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 712,
+          "like_count": 7,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "号被封了，找bbb投诉申诉中 https://t.co/uxflpnE5CO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "is_identity_verified": false,
+        "location": "奥陶纪",
+        "most_recent_tweet_id": "2092931593258299458",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751158019516465152/1764326389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 527,
+          "like_count": 20042,
+          "listed_count": 1,
+          "media_count": 1037,
+          "tweet_count": 8626
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T11:57:32.000Z",
+        "description": "4th香草 | Chevalier | Capitaine de cavalerie | Fusiliers marins | Bataille de Leipzig",
+        "id": "2083883817287503872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092924937686405126",
+        "name": "Comte Caumont De Lafere",
+        "pinned_tweet_id": "2092888294417932528",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083885900522803200/vUmEMEYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 55,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "Comtecamontlafe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

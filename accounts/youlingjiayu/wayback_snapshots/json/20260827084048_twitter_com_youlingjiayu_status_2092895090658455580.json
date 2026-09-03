@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2092762549620183400",
+    "created_at": "2026-08-27T08:40:48.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092895090658455580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756352731701452800",
+          "start": 0,
+          "username": "yvban070711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092895090658455580",
+    "in_reply_to_user_id": "1756352731701452800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092862698346426426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvban070711 谢谢捏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2092762549620183400",
+        "created_at": "2026-08-27T08:40:48.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092895090658455580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756352731701452800",
+              "start": 0,
+              "username": "yvban070711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092895090658455580",
+        "in_reply_to_user_id": "1756352731701452800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092862698346426426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvban070711 谢谢捏。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756352731701452800",
+        "conversation_id": "2092762549620183400",
+        "created_at": "2026-08-27T06:32:05.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092862698346426426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751158019516465152",
+              "start": 0,
+              "username": "youlingjiayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092862698346426426",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092762549620183400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingjiayu 算的哦！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "is_identity_verified": false,
+        "location": "奥陶纪",
+        "most_recent_tweet_id": "2092895090658455580",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751158019516465152/1764326389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 528,
+          "like_count": 20038,
+          "listed_count": 1,
+          "media_count": 1037,
+          "tweet_count": 8625
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-10T16:21:47.000Z",
+        "description": "我的每一页都是你的名字\n你的每一页都没有我的名字",
+        "id": "1756352731701452800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092877209409302600",
+        "name": "御坂Tyna",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756352731701452800/1758814827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971237876575895557/0EOmFpAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 42,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "yvban070711",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
