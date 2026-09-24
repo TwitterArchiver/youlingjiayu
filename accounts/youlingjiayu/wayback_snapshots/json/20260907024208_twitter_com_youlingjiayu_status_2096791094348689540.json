@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2096791094348689540",
+    "created_at": "2026-09-07T02:42:08.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096791094348689540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "52408030",
+          "start": 0,
+          "username": "shatter_glass_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sevensand7/sta…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/sevensand7/status/2096665152888385750",
+          "start": 97,
+          "url": "https://t.co/fsZKzajSda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096791094348689540",
+    "in_reply_to_user_id": "52408030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096665152888385750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shatter_glass_ 出于不想进一步扩大我的私事被传播的原因，我不会在公共平台发布原文。我认为其中提及的有些事件的内容和以及对这些事件评价存在极大的扭曲，对我的声誉会造成潜在的影响。 https://t.co/fsZKzajSda"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 380,
+        "media_key": "3_2096665144831127552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjZ1zKaMAA6M4b.jpg",
+        "width": 631
+      },
+      {
+        "height": 533,
+        "media_key": "3_2096665144843710464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjZ1zNaMAAz-Ki.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2096791094348689540",
+        "created_at": "2026-09-07T02:42:08.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096791094348689540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "52408030",
+              "start": 0,
+              "username": "shatter_glass_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sevensand7/sta…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/sevensand7/status/2096665152888385750",
+              "start": 97,
+              "url": "https://t.co/fsZKzajSda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096791094348689540",
+        "in_reply_to_user_id": "52408030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096665152888385750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shatter_glass_ 出于不想进一步扩大我的私事被传播的原因，我不会在公共平台发布原文。我认为其中提及的有些事件的内容和以及对这些事件评价存在极大的扭曲，对我的声誉会造成潜在的影响。 https://t.co/fsZKzajSda"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096665144831127552",
+            "3_2096665144843710464"
+          ]
+        },
+        "author_id": "1816105634179534848",
+        "conversation_id": "2096665152888385750",
+        "created_at": "2026-09-06T18:21:41.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096665152888385750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "52408030",
+              "start": 0,
+              "username": "shatter_glass_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Up7aXpBXWQ",
+              "end": 168,
+              "expanded_url": "https://x.com/sevensand7/status/2096665152888385750/photo/1",
+              "media_key": "3_2096665144831127552",
+              "start": 145,
+              "url": "https://t.co/Up7aXpBXWQ"
+            },
+            {
+              "display_url": "pic.x.com/Up7aXpBXWQ",
+              "end": 168,
+              "expanded_url": "https://x.com/sevensand7/status/2096665152888385750/photo/1",
+              "media_key": "3_2096665144843710464",
+              "start": 145,
+              "url": "https://t.co/Up7aXpBXWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096665152888385750",
+        "in_reply_to_user_id": "52408030",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096665144831127552"
+          },
+          {
+            "media_key": "3_2096665144843710464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2040,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@shatter_glass_  针对这份PDF里对我的评价，我在这里统一回复一下：首先我是一个bipolar患者，我确实无法控制自己的购买欲望，为此也背过好几次网贷（虽然没有任何人知道而且我独自还清了），但是，针对你说到的我让你和香草买单的事情，我认为是莫须有的指控，因为我的确a钱了。 https://t.co/Up7aXpBXWQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "is_identity_verified": false,
+        "location": "奥陶纪",
+        "most_recent_tweet_id": "2096791094348689540",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751158019516465152/1788482438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095673779448119296/-MdlHkvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 527,
+          "like_count": 20280,
+          "listed_count": 1,
+          "media_count": 1046,
+          "tweet_count": 8740
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-30T14:27:06.000Z",
+        "description": "",
+        "id": "52408030",
+        "is_identity_verified": false,
+        "location": "家",
+        "most_recent_tweet_id": "2096781201692659884",
+        "name": "盏落碎琉璃",
+        "pinned_tweet_id": "2093641382498078971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52408030/1778660997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075487683699421184/VFt_pygy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 703,
+          "like_count": 12909,
+          "listed_count": 4,
+          "media_count": 296,
+          "tweet_count": 6227
+        },
+        "url": "",
+        "username": "shatter_glass_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-24T13:38:30.000Z",
+        "description": "无论你以怎样的姿态沉入水中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sevensand1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sevensand1",
+                "start": 0,
+                "url": "https://t.co/4oUn7o9hSk"
+              }
+            ]
+          }
+        },
+        "id": "1816105634179534848",
+        "is_identity_verified": false,
+        "location": "提问箱 ——",
+        "most_recent_tweet_id": "2096689073369071763",
+        "name": "七尺沙地和她孕育的孩子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816105634179534848/1751530271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096259316588404736/p6mcpyzO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 322,
+          "like_count": 28350,
+          "listed_count": 8,
+          "media_count": 1061,
+          "tweet_count": 9408
+        },
+        "url": "https://t.co/4oUn7o9hSk",
+        "username": "sevensand7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

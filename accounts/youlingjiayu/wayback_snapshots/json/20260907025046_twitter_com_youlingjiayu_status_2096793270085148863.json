@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1751158019516465152",
+    "conversation_id": "2096791094348689540",
+    "created_at": "2026-09-07T02:50:46.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096793270085148863"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096793270085148863",
+    "in_reply_to_user_id": "1751158019516465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096791094348689540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "相比于声誉这一点更重要的是，我觉得在友情中某一方提出不继续维持友谊是很正常的事情，但不应当在这之后到处传播另一方的私事，尤其是传播给共同认识的人或者可能认识的人。我认为这是一种辜负别人曾经的信任的行为，对曾经的朋友的背刺。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2096791094348689540",
+        "created_at": "2026-09-07T02:50:46.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096793270085148863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096793270085148863",
+        "in_reply_to_user_id": "1751158019516465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096791094348689540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相比于声誉这一点更重要的是，我觉得在友情中某一方提出不继续维持友谊是很正常的事情，但不应当在这之后到处传播另一方的私事，尤其是传播给共同认识的人或者可能认识的人。我认为这是一种辜负别人曾经的信任的行为，对曾经的朋友的背刺。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751158019516465152",
+        "conversation_id": "2096791094348689540",
+        "created_at": "2026-09-07T02:42:08.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096791094348689540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "52408030",
+              "start": 0,
+              "username": "shatter_glass_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sevensand7/sta…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/sevensand7/status/2096665152888385750",
+              "start": 97,
+              "url": "https://t.co/fsZKzajSda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096791094348689540",
+        "in_reply_to_user_id": "52408030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096665152888385750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shatter_glass_ 出于不想进一步扩大我的私事被传播的原因，我不会在公共平台发布原文。我认为其中提及的有些事件的内容和以及对这些事件评价存在极大的扭曲，对我的声誉会造成潜在的影响。 https://t.co/fsZKzajSda"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "is_identity_verified": false,
+        "location": "奥陶纪",
+        "most_recent_tweet_id": "2096793270085148863",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751158019516465152/1788482438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095673779448119296/-MdlHkvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 527,
+          "like_count": 20280,
+          "listed_count": 1,
+          "media_count": 1046,
+          "tweet_count": 8741
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-30T14:27:06.000Z",
+        "description": "",
+        "id": "52408030",
+        "is_identity_verified": false,
+        "location": "家",
+        "most_recent_tweet_id": "2096781201692659884",
+        "name": "盏落碎琉璃",
+        "pinned_tweet_id": "2093641382498078971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52408030/1778660997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075487683699421184/VFt_pygy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 703,
+          "like_count": 12909,
+          "listed_count": 4,
+          "media_count": 296,
+          "tweet_count": 6227
+        },
+        "url": "",
+        "username": "shatter_glass_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

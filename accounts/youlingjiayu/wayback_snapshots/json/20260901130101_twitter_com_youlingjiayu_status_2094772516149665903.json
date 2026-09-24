@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094772508767686657"
+      ]
+    },
+    "author_id": "1751158019516465152",
+    "conversation_id": "2094772516149665903",
+    "created_at": "2026-09-01T13:01:01.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T14:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094772516149665903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fAROAiSqyL",
+          "end": 41,
+          "expanded_url": "https://x.com/youlingjiayu/status/2094772516149665903/photo/1",
+          "media_key": "3_2094772508767686657",
+          "start": 18,
+          "url": "https://t.co/fAROAiSqyL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094772516149665903",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094772508767686657"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友的话语中有一股淡淡的绝望气息。 https://t.co/fAROAiSqyL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 228,
+        "media_key": "3_2094772508767686657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIgf4ZaEAESmmJ.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094772508767686657"
+          ]
+        },
+        "author_id": "1751158019516465152",
+        "conversation_id": "2094772516149665903",
+        "created_at": "2026-09-01T13:01:01.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094772516149665903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAROAiSqyL",
+              "end": 41,
+              "expanded_url": "https://x.com/youlingjiayu/status/2094772516149665903/photo/1",
+              "media_key": "3_2094772508767686657",
+              "start": 18,
+              "url": "https://t.co/fAROAiSqyL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094772516149665903",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094772508767686657"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友的话语中有一股淡淡的绝望气息。 https://t.co/fAROAiSqyL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T08:19:58.000Z",
+        "description": "赛博萨卡班甲鱼｜我只能生活在这个世界的开端或结局。\n提问箱：https://t.co/torEt74m0H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youlingjiayu",
+                "end": 53,
+                "expanded_url": "https://ngl.link/youlingjiayu",
+                "start": 30,
+                "url": "https://t.co/torEt74m0H"
+              }
+            ]
+          }
+        },
+        "id": "1751158019516465152",
+        "is_identity_verified": false,
+        "location": "奥陶纪",
+        "most_recent_tweet_id": "2094772516149665903",
+        "name": "𝐒𝐚𝐜𝐚𝐛𝐚𝐦𝐛𝐚𝐬𝐩𝐢𝐬",
+        "pinned_tweet_id": "1977279254397435996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751158019516465152/1764326389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517134766739456/oUXFUr8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 528,
+          "like_count": 20137,
+          "listed_count": 1,
+          "media_count": 1043,
+          "tweet_count": 8659
+        },
+        "url": "",
+        "username": "youlingjiayu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
